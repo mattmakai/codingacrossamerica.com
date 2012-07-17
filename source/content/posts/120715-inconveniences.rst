@@ -3,7 +3,7 @@ Inconveniences
 
 :slug: inconveniences
 :date: 2012-07-15
-:category: post
+:category: potential-post
 
 There are several (admittedly first-world) inconveniences I foresee while
 living off what is in my car and staying in ad hoc places around the
