@@ -1,0 +1,25 @@
+<div class="page-unit">
+  <h1>{{ article.title }}</h1>
+  <div>
+    Posted on {{ article.date.strftime('%m.%d.%Y') }} by Matthew Makai
+  </div>
+  <div class="row">
+    <div class="span8">
+      <hr/>
+      {{ article.content }}
+    </div>
+    <div class="span3">
+      <hr/>
+      <h3>Posts By Date</h3>
+      <ul class="post-list">
+        {% for article in dates|reverse %}
+          {% if article.category == 'post' %}
+            <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <hr/>
+  </div>
+  <a href="/blog.html" class="btn btn-primary" style="text-decoration: none;">Return to the blog</a>
+</div>

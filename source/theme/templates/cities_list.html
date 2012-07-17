@@ -1,0 +1,19 @@
+<div class="page-unit">
+  <h1>{{ article.title }}</h1>
+  <div class="row">
+    <div class="span8">
+      <p>
+        {{ article.content }}
+      </p>
+      {% for article in dates %}
+        {% if article.category == 'city' %}
+          <div>
+            <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
+            (est. {{ article.date.strftime('%m.%d.%Y') }})
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+

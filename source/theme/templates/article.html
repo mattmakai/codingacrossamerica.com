@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  {% if article.category == 'cities' %}
+    {% include 'cities_list.html' %}
+  {% elif article.category == 'contributors' %}
+    {% include 'contributors.html' %}
+  {% elif article.category == 'about' %}
+    {% include 'about.html' %}
+  {% elif article.category == 'blog' %}
+    {% include 'blog.html' %}
+  {% elif article.category == 'post' %}
+    {% include 'blog-post.html' %}
+  {% elif article %}
+    {% include 'other.html' %}
+  {% endif %}
+{% endblock %}

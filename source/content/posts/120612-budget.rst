@@ -1,0 +1,115 @@
+Estimating A Budget
+===================
+
+:category: post
+:date: 2012-06-11
+:slug: estimating-budget
+
+Until I plan my exact trip route, book places to stay, and figure out what
+(if any) tech conferences I'm going to, it will be hard to determine an
+exact budget for my trip. However, I can create a ballpark figure based
+on averaging an aggressive budget and a conservative budget. "Conservative"
+in this case means I try to spend as little money as possible while
+in the aggressive estimation I do not worry about most of what I'm 
+paying throughout my trip.
+
+General expenses to estimate include (in rough order of magnitude):
+
+1. Accomodations
+
+2. Gas & Car Maintenance
+
+3. Food & Beverages
+
+4. Misc (parking, tolls, cell phone w/ data plan costs)
+
+Conservative
+------------
+Again, this is the most conservative estimate if I plan to spend as little
+money as possible.
+
+1. Accomodations
+
+Let's average about $75 a night for rooms. Some cities will obviously be
+much more expensive than others. I'll also have to stay outside the main
+areas of most cities to get a decent rate or watch for particularly good
+deals on Airbnb. Couch surfing is also an option.
+
+120 nights * 75 = $9000
+
+$9000 actually isn't too bad considering I would pay about $7000 for my
+rent & utilities from mid-March through the end of July anyway.
+
+2. Gas & Car Maintenance
+
+Assuming I go about 9000 miles, I get 20 MPG (I get worse gas mileage with
+the top down), and gas hovers around $5 a gallon (I need premium fuel for
+the S2000), I'll spend about $2250. Add another $250 for oil changes and
+other random things adds up to $2500.
+
+3. Food & Beverages
+
+This one seems the most difficult to estimate because it really depends on
+how much I eat out while traveling. Obviously I won't have access to a 
+kitchen most of the time. But I usually eat a lot of raw fruit and nuts
+anyway, so I don't see this as much of an issue.
+
+I will still have to eat out when I want a regular meal, but for the most
+part I'll shop at grocery stores I find along the way. Let's say I eat out
+half the time (~60 nights), spend $40 on average throughout breakfast, lunch,
+and dinner (sometimes way higher, other times way lower), that comes out 
+to 60*40 = $2400. Round up to $2500 just to make it even with gas & car
+maintenance.
+
+4. Misc.
+
+Yikes, this is the most difficult one to estimate. My cell phone plan with
+a data connection (including wifi hotspot) costs $120 a month. parking
+depends on where I stay and what places I visit. Tolls depend on what roads
+I take. I'll punt and say $500 a month, so about $2000 additional throughout
+my trip.
+
+Conservative total: $9000 + 2500 + 2500 + 2000 = $16000.
+
+This seems low to me but perhaps I'm just really used to Washington, DC
+prices.
+
+
+Aggressive
+----------
+This is a reasonably aggressive estimate. I'm not looking to stay at the Ritz
+every night but in some cities it's worth staying in a nice hotel if it 
+has a great location.
+
+1. Accomodations.
+
+Bump from $75 average per night to $125 average per night and we're at
+120 * 125 = $15000.
+
+2. Gas & Car Maintenance
+
+I think this estimate has the least variability in it unless something 
+really bad happens to my car. Let's add $3000 in case I have a bad
+breakdown plus I spend more money on gas than I estimated in the conservative
+case. $2500 plus $3000 for aggressive estimate is $5500 total.
+
+3. Food & Beverages
+
+I'll double this to $5000 from $2500.
+
+4. Misc.
+
+Increase by 150% to $5000.
+
+Aggressive total: $16000 + 5500 + 5000 + 5000 = $31500. This seems high to
+me but not out of the realm of possibility if I'm not careful about what I
+spend while on the road.
+
+Summary
+-------
+
+So those are some spitball figures I threw out. I'm estimating about $16k 
+to $32k cost total for the trip including accomodations, food & drinks, 
+car-related expenses, and other miscellaneous charges. I'll refine the
+estimates as my plans become more concrete.
+

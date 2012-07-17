@@ -1,0 +1,44 @@
+Quiet
+=====
+
+:date: 2012-07-07
+:category: post
+:slug: quiet
+
+I'm writing this post from Kansas City, Missouri. One of the
+things I find so striking here is how quiet it is downtown during the day
+on weekends. Part of the lack of people may be due to the 100+ degree
+weather, but my friend PJ who lives here says this is normal. 
+
+Compare the quiet here in Kansas City to the constant crowds that are 
+out at all times of the day in Washington, DC or New York City. I often
+have trouble hearing phone conversations while on the main roads when
+I walk around Arlington or DC. Here there is a sort of calm settled over
+the downtown area until night hits and the bar scene picks up.
+
+----
+
+.. image:: ../img/kansas-city-downtown.jpg
+  :width: 640px
+  :height: 480px
+  :alt: Downtown Kansas City, MO
+
+*Downtown Kansas City. Pretty quiet until the sun sets.*
+
+----
+
+One of the explanations for why it is so quiet on the streets is that
+there is a very car-centric culture in the Midwest. Actually, most of
+America is car-centric with the exception of certain large cities that
+have public transportation that works well. Most people just drive
+directly to their destinations instead of walking and biking around.
+
+Another explanation might be that Kansas City is behind the curve with the
+trend in reverse urban flight. Perhaps it will take several more years of
+revitalization in the downtown area before there are more crowds during
+the day.
+
+Anyway, this is just a quick observation of something I've noticed while
+out here that is different from my expectations based on living in East
+Coast cities. It'll be interesting to see how the 25-ish cities I'm
+visiting next year fit in this pattern.
