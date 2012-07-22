@@ -35,6 +35,7 @@ Coffee Shops
 * `Amelie's French Bakery <http://www.ameliesfrenchbakery.com/>`_. 
   Two locations in Charlotte, but the one at 2424 N Davidson St. is the
   one to go to. Open 24/7.
+* `Smelly Cat Coffeehouse <http://smellycatcoffee.com/>`_
 
 References
 ----------
