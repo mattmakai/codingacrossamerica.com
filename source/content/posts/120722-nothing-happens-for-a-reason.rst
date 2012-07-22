@@ -5,7 +5,7 @@ Nothing Happens For A Reason
 :slug: nothing-happens-for-reason
 :date: 2012-07-22
 
-One of my least favorite quotes is "everything happens for a reason" The
+One of my least favorite quotes is "everything happens for a reason." The
 connotation is clearer if you append "but I didn't plan it out that
 way" onto it. I find the expression grating in seriously negative way.
 
