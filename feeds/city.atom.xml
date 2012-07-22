@@ -236,6 +236,13 @@ marys.&lt;/li&gt;
 </summary></entry><entry><title>San Francisco, CA</title><link href="http://www.codingacrossamerica.com/san-francisco-ca.html" rel="alternate"></link><updated>2013-04-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/san-francisco-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown San Francisco, CA" src="../img/san-francisco-ca.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-ups"&gt;
+&lt;h2&gt;Start Ups&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pinterest.com/"&gt;Pinterest&lt;/a&gt;. Quickly cecoming one of the largest
+sites to use Python &amp;amp; Django on the web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
