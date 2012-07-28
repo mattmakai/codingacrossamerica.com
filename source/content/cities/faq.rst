@@ -74,4 +74,7 @@ Well, that would be awesome. There shouldn't be a problem since this site is
 static HTML & JavaScript generated with
 `Pelican <http://pelican.readthedocs.org/en/latest/>`_. I use Markdown
 and the jinja2 templating system to create the pages. The site is hosted 
-on Github Pages, so it *should* scale well.
+on `Github Pages <http://pages.github.com/>`_, so it *should* scale well.
+
+PS Thanks Github! Can I visit you guys when I'm in San Francisco?
+
