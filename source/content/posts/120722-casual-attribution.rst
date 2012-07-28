@@ -7,7 +7,7 @@ Causal Attribution
 
 One of my least favorite quotes is "everything happens for a reason." The
 connotation is clearer if you append "but I didn't plan it out that
-way" onto it. I find the expression grating in seriously negative way.
+way" onto it. It's a cop out expression that.
 
 Events happen (or "shit happens" if you prefer that expression). It's 
 easy to ascribe attributes and reasons to those events afterwards. 
