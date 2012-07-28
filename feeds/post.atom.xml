@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-07-22T00:00:00-04:00</updated><entry><title>Causal Attribution</title><link href="http://www.codingacrossamerica.com/causal-attribution.html" rel="alternate"></link><updated>2012-07-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/causal-attribution.html</id><summary type="html">&lt;p&gt;One of my least favorite quotes is &amp;quot;everything happens for a reason.&amp;quot; The
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-07-28T00:00:00-04:00</updated><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
+months on the road. Some types of days are more conducive than others
+for coding.&lt;/p&gt;
+&lt;p&gt;I need large blocks of time since it's difficult to context switch
+while deep diving into difficult problems while programming. Focused
+time just won't happen if I only have an hour here, 15 minutes there,
+to work. See Paul Graham's essay
+&lt;a class="reference external" href="http://www.paulgraham.com/makersschedule.html"&gt;Maker's Schedule, Manager's Schedule&lt;/a&gt; for the clearest explanation of why large blocks of uninterrupted
+time are so critical in software development. Some days that won't
+be possible, so I'll just keep that in mind as I'm planning what to do.&lt;/p&gt;
+&lt;p&gt;Below is a list of archetypical days will look like over the course of
+my trip.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;Travel days&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;8am to 10am.&lt;/em&gt;
+Run or workout. Shower, get dressed, have something to eat.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;10am to anywhere from 3pm to 8pm.&lt;/em&gt;
+Hit the open road. I've spaced out the driving time between cities to
+five to ten hours at most. Ten hours of driving by myself won't be much
+fun but it's still manageable within a single day.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Late afternoon to evening.&lt;/em&gt;
+Arrive at destination. Check in or meet up with a friend. Explore
+surroundings to get my bearings. Get to bed early after a long day of
+travel.&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;&lt;strong&gt;Coding days&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;7am to 830-9am.&lt;/em&gt;
+Run or workout. Shower, get dressed, have something to eat.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9am through the evening.&lt;/em&gt;
+Find a coffee shop, library, cool restaurant, bar (or several of them
+to move throughout the day). Code! Eat when hungry. Walk when I need a break or to stretch out.&lt;/p&gt;
+&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;&lt;strong&gt;Meeting days&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Meeting days I plan to break into two chunks - one in the morning, one in
+the late afternoon. That way I have two large blocks of time. I can use
+one or both chunks to meet with people, code, or explore the city.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Morning&lt;/em&gt;
+Meet up with a start up team, software developer, or someone involved in
+a city's local entrepreneurship scene and find out what they're working on
+and what makes their city unique.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Evening&lt;/em&gt;
+Same as the morning or use the time for writing blog posts on what I learned
+that morning or to do programming.&lt;/p&gt;
+&lt;ol class="arabic simple" start="4"&gt;
+&lt;li&gt;&lt;strong&gt;Tourist days&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;830am to 11am.&lt;/em&gt;
+Run or workout. Shower, get dressed, have something to eat.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;11am through the evening.&lt;/em&gt;
+Explore the city, take pictures, and write blog posts.&lt;/p&gt;
+</summary></entry><entry><title>Causal Attribution</title><link href="http://www.codingacrossamerica.com/causal-attribution.html" rel="alternate"></link><updated>2012-07-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/causal-attribution.html</id><summary type="html">&lt;p&gt;One of my least favorite quotes is &amp;quot;everything happens for a reason.&amp;quot; The
 connotation is clearer if you append &amp;quot;but I didn't plan it out that
 way&amp;quot; onto it. I find the expression grating in seriously negative way.&lt;/p&gt;
 &lt;p&gt;Events happen (or &amp;quot;shit happens&amp;quot; if you prefer that expression). It's
