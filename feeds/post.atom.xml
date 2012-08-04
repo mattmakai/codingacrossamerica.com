@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-07-28T00:00:00-04:00</updated><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-08-04T00:00:00-04:00</updated><entry><title>A Few Route Modifications</title><link href="http://www.codingacrossamerica.com/few-route-modifications.html" rel="alternate"></link><updated>2012-08-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/few-route-modifications.html</id><summary type="html">&lt;p&gt;I'm making a few changes to my planned route (which is now reflected in
+the embedded Google Map on the about page). These modifications are due to
+conversations I've recently had with several people familiar with these
+cities. I decided that based on their recommendations I would be missing out
+if I did not visit these destinations.&lt;/p&gt;
+&lt;p&gt;Since I am in the researching and planning phase, it's still easy to make
+changes without completely throwing off my entire schedule.&lt;/p&gt;
+&lt;div class="section" id="additions"&gt;
+&lt;h2&gt;Additions&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;New Orleans, LA&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://excella.com/people/burton-white.aspx"&gt;Burton White&lt;/a&gt;, one of the
+founding partners at the firm Excella Consulting where I work is originally
+from New Orleans. He said that there have been some interesting
+developments in the state around small businesses and tech start ups. Plus,
+I'm excited to get a chance to have a beer and code in the French
+Quarter during a nice day again.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Bad attempt at visualizing what I'm writing in this post" src="../img/french-quarter-2011.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;p&gt;&lt;em&gt;Above image: Programming on my old Macbook Air in the French Quarter
+back in February 2011.&lt;/em&gt;&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;&lt;strong&gt;San Diego, CA&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My brother Luke was in San Diego in July and said I definitely need to go
+here and at least visit for a couple of days.&lt;/p&gt;
+&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;&lt;strong&gt;Madison, WI&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Several people recommended Madison as a stop that would go well with what
+I am looking to do on my trip. I've never been here before but it seems like
+an interesting college town that I'd enjoy visiting.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="subtractions"&gt;
+&lt;h2&gt;Subtractions&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;strong&gt;Dallas, TX&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The addition of New Orleans took me further South than I originally thought
+I would go. Dallas was previously a good stop between Nashville and Austin,
+but now it would be out of the way between New Orleans and Austin. Besides,
+by removing Dallas I get to spend more time in Austin.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
 months on the road. Some types of days are more conducive than others
 for coding.&lt;/p&gt;
 &lt;p&gt;I need large blocks of time since it's difficult to context switch
