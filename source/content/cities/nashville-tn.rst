@@ -3,7 +3,7 @@ Nashville, TN
 
 :category: city
 :slug: nashville-tn
-:date: 2013-03-16
+:date: 2013-03-17
 
 ----
 

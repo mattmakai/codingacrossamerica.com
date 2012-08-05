@@ -3,6 +3,8 @@
 {% block content %}
   {% if article.category == 'cities' %}
     {% include 'cities_list.html' %}
+  {% elif article.category == 'city' %}
+    {% include 'city.html' %}
   {% elif article.category == 'contributors' %}
     {% include 'contributors.html' %}
   {% elif article.category == 'about' %}

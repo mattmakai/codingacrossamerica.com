@@ -2,7 +2,7 @@ Boulder, CO
 ===========
 
 :category: city
-:date: 2013-06-14
+:date: 2013-06-10
 :slug: boulder-co
 
 ----

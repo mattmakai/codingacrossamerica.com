@@ -2,7 +2,7 @@ Lubbock, TX
 ===========
 
 :category: city
-:date: 2013-04-15
+:date: 2013-04-07
 :slug: lubbock-tx
 
 ----

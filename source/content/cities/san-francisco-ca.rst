@@ -2,7 +2,7 @@ San Francisco, CA
 =================
 
 :category: city
-:date: 2013-04-30
+:date: 2013-04-27
 :slug: san-francisco-ca
 
 ----
@@ -16,7 +16,7 @@ San Francisco, CA
 
 Start Ups
 ---------
-* `Pinterest <http://pinterest.com/>`_. Quickly cecoming one of the largest
+* `Pinterest <http://pinterest.com/>`_. Quickly becoming one of the largest
   sites to use Python & Django on the web.
 * `Github <http://github.com/>`_.
 

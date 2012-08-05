@@ -2,7 +2,7 @@ Seattle, WA
 ===========
 
 :category: city
-:date: 2013-05-29
+:date: 2013-05-23
 :slug: seattle-wa
 
 ----

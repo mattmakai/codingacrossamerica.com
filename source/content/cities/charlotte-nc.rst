@@ -3,7 +3,7 @@ Charlotte, NC
 
 :category: city
 :slug: charlotte-nc
-:date: 2013-03-11
+:date: 2013-03-13
 
 ----
 
