@@ -14,6 +14,11 @@ Los Angeles, CA
 
 ----
 
+Restaurants
+-----------
+* `Te'Kila <http://tekilahollywood.com/>`_ was recommended by Ashley Pierno
+  for its Mexican food and happy hour.
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/feculent_fugue/6190964798/>`_
