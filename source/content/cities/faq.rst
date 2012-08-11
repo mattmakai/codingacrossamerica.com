@@ -19,6 +19,19 @@ development and I've also programmed in Java and Objective-C in the past.
 
 ----
 
+Hasn't something like this been done before?
+--------------------------------------------
+I've found a couple of similar examples with 
+`Corey Haines's paired programming trip <http://www.techhumans.com/2012/07/27/interview-with-corey-haines-august-2011/>`_ and 
+`Mario Schulzke's 48 state journey <http://www.siliconprairienews.com/2012/08/ideamensch-founder-discusses-his-company-48-state-journey-video>`_. 
+I never intended to be the first - lots of people have done cross country 
+trips. I do plan on spending a lot of time coding, talking to fellow
+developers, and going to technology meet ups in each city though, which
+many people aren't as interested in.
+
+----
+
+
 Where will you stay during your trip?
 -------------------------------------
 I plan to stay in hotel rooms, use `Airbnb <http://www.airbnb.com/>`_ 
