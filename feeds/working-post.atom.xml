@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/working-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-08-20T00:00:00-04:00</updated><entry><title>Beards</title><link href="http://www.codingacrossamerica.com/beards.html" rel="alternate"></link><updated>2012-08-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/beards.html</id><summary type="html">&lt;p&gt;Beards have a long history in programming. See famous computer scientists
+below for proof.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I'm being a bit tongue-and-cheek with this post but seriously, if I
+don't grow a beard while away from an office environment for five months,
+when else will I get the chance?&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

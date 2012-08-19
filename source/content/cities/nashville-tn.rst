@@ -27,7 +27,11 @@ First Glance Start Up Scene
 
 Interesting Start Ups/Small Businesses
 --------------------------------------
-* `Entrepreneur Center <http://entrepreneurcenter.com/>`_
+* `Stratasan <http://www.stratasan.com/>`_. Healthcare data analytics. `Stratasan is using Python & Django <http://www.stratasan.com/jobs/>`_.
+
+* `Borderjump <http://www.borderjump.com/>`_. International payments and exports API. `Borderjump is using Python & Django <http://jobnashville.net/job/16870/lead-developer-platform-architect-nashville-tn-downtownsobro-at/>`_.
+
+* `Source Your City <http://www.sourceyourcity.com/>`_. Connects reporters and bloggers with specialty matter experts from various fields. Unclear what technology platform their service is built on.
 
 Meetups
 -------
@@ -37,10 +41,15 @@ Coffee Shops
 ------------
 * `Fido <http://www.bongojava.com/fido.php>`_
 
-Interesting Initiatives
+Start Up Infrastructure
 -----------------------
 * `Startup Tennessee <http://www.startuptn.com/>`_
 * `CoLab <http://nashville.colabusa.com/>`_
+* `Entrepreneur Center <http://entrepreneurcenter.com/>`_
+
+Universities
+------------
+* `Vanderbilt University <http://www.vanderbilt.edu/>`_
 
 References
 ----------
