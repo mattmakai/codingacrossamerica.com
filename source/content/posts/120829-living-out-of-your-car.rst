@@ -5,9 +5,12 @@ Living Out of Your Car
 :date: 2012-08-29
 :slug: living-out-of-your-car
 
-I'm not planning to live out of my car while on my 4 1/2 month trip like
-`this guy did while bootstrapping his start up <http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1>`_, but in a weird way
-that is really impressive.
+I am not planning to live out of my car while on my five month road trip like
+`this guy did while bootstrapping his start up <http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1>`_. But his determination
+to spend as little money as possible to start his company is impressive 
+in a weird way. His Quora write up includes a bunch of pictures that show
+how he was able to manage such a situation. Inc Magazine even 
+`wrote an article on his experience <http://www.inc.com/magazine/201207/leigh-buchanan/the-leanest-startup-kurt-varner-dailytoaster.html>`_.
 
 The guy really thought everything through - or at least fumbled into
 a working situation. What I found most interesting is that he did it
