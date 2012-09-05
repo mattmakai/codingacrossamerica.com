@@ -36,6 +36,9 @@ Coffee Shops
   Two locations in Charlotte, but the one at 2424 N Davidson St. is the
   one to go to. Open 24/7.
 * `Smelly Cat Coffeehouse <http://smellycatcoffee.com/>`_
+* `Cluck n Cup <http://www.cluckncup.com/>`_. Chicken pot pies and coffee. 
+  Interesting combination. Recommended by my friend Alex McClain.
+
 
 References
 ----------
