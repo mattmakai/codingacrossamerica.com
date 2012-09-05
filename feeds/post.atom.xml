@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-08-29T00:00:00-04:00</updated><entry><title>Living Out of Your Car</title><link href="http://www.codingacrossamerica.com/living-out-of-your-car.html" rel="alternate"></link><updated>2012-08-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/living-out-of-your-car.html</id><summary type="html">&lt;p&gt;I am not planning to live out of my car while on my five month road trip like
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-09-05T00:00:00-04:00</updated><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
+website for Django meetups across the United States. The Chicago Users Group
+originally registered the domain name for their own purposes but then
+realized it would be of benefit to the greater Django community to have
+a centralized location for all users groups.&lt;/p&gt;
+&lt;p&gt;I found out about the website during a lightning talk during DjangoCon 2012.&lt;/p&gt;
+&lt;p&gt;I'll be using djangonauts.org to contact Django users groups in each city
+that I will be visiting in 2013. Hopefully I can meet with most of the groups
+on the list.&lt;/p&gt;
+</summary></entry><entry><title>Living Out of Your Car</title><link href="http://www.codingacrossamerica.com/living-out-of-your-car.html" rel="alternate"></link><updated>2012-08-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/living-out-of-your-car.html</id><summary type="html">&lt;p&gt;I am not planning to live out of my car while on my five month road trip like
 &lt;a class="reference external" href="http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1"&gt;this guy did while bootstrapping his start up&lt;/a&gt;. But his determination
 to spend as little money as possible to start his company is impressive
 in a weird way. His Quora write up includes a bunch of pictures that show
