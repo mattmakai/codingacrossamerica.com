@@ -26,6 +26,7 @@ Areas of Interest
 Start Ups
 ---------
 * `CopperEgg <http://copperegg.com/>`_ is a cloud monitoring company.
+* `Daily Dot <http://www.dailydot.com/>`_ is a team of writers around the country and headquartered in Austin. Write about Internet communities instead of traditional geographic communities.
 
 Bars
 ----
