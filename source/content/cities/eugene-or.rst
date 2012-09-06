@@ -14,6 +14,13 @@ Eugene, OR
 
 ----
 
+Companies
+---------
+* `Concentric Sky <http://concentricsky.com/>`_. Wiggins (@coffindragger) 
+  from this company presented a lightning talk at DjangoCon about 
+  not launching on Friday, "how hard can it be?" and it's just good enough -
+  get it done.
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/23905174@N00/2563632154/>`_
