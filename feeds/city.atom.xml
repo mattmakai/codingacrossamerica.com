@@ -60,6 +60,13 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 </summary></entry><entry><title>Chicago, IL</title><link href="http://www.codingacrossamerica.com/chicago-il.html" rel="alternate"></link><updated>2013-07-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/chicago-il.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Reflection of Chicago, Illinois in the Chicago Bean" src="../img/chicago-il.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="companies"&gt;
+&lt;h2&gt;Companies&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.chicagodjango.com/"&gt;Imaginary Landscape, LLC.&lt;/a&gt;. Consulting
+and services for Python and Django development. Sponsored DjangoCon 09-12.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="coffee-shops"&gt;
 &lt;h2&gt;Coffee Shops&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -218,6 +225,15 @@ marys.&lt;/li&gt;
 </summary></entry><entry><title>Eugene, OR</title><link href="http://www.codingacrossamerica.com/eugene-or.html" rel="alternate"></link><updated>2013-05-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/eugene-or.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Eugene Oregon Science Factory" src="../img/eugene-or.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="companies"&gt;
+&lt;h2&gt;Companies&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://concentricsky.com/"&gt;Concentric Sky&lt;/a&gt;. Wiggins (&amp;#64;coffindragger)
+from this company presented a lightning talk at DjangoCon about
+not launching on Friday, &amp;quot;how hard can it be?&amp;quot; and it's just good enough -
+get it done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;

@@ -14,12 +14,18 @@ Chicago, IL
 
 ----
 
+Companies
+---------
+* `Imaginary Landscape, LLC. <http://www.chicagodjango.com/>`_. Consulting
+  and services for Python and Django development. Sponsored DjangoCon 09-12.
+
 Coffee Shops
 ------------
 * `Intelligentsia <http://www.intelligentsiacoffee.com/>`_
 * `City Grounds <http://www.citygroundschicago.com/>`_ on Dickens 
   in Lincoln Park.
 * `Uncommon Ground <http://www.uncommonground.com/>`_ on Clark
+
 
 Photo Attribution
 -----------------
