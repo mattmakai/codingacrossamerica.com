@@ -21,6 +21,7 @@ Basic Stats
 Interesting Initiatives
 -----------------------
 * `Startup Tennessee <http://www.startuptn.com/>`_
+* `Startup Memphis <http://startupmemphis.com/>`_
 * `Emerge Memphis <http://www.emergememphis.org/>`_
 * `Launchpad Memphis <http://www.launchmemphis.com/launchpad/>`_
 
