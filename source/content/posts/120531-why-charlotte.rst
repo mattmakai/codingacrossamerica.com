@@ -45,4 +45,4 @@ March 12, 2013.
 Research
 --------
 My further research on Charlotte will be posted on the 
-`Charlotte destinations page <http://www.codingacrossamerica.com/charlotte-nc.html>`_.
+`Charlotte destination page <../charlotte-nc.html>`_.

@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-09-05T00:00:00-04:00</updated><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-09-07T00:00:00-04:00</updated><entry><title>Why Memphis, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-memphis-tennessee.html" rel="alternate"></link><updated>2012-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-memphis-tennessee.html</id><summary type="html">&lt;p&gt;Several of my DC friends previously lived in Memphis and recommended that
+I visit the city while I am travelling through Tennessee. There's great
+BBQ, high recommendations for
+&lt;a class="reference external" href="http://www.bealestreet.com/wordpress/"&gt;Beale Street&lt;/a&gt;, and a different
+Midwestern culture that an East Coast kid like me should find interesting.
+Memphis is only three and a half hours from my previous stop in Nashville.
+Plus it takes me further Southwest towards my next destination, New Orleans.&lt;/p&gt;
+&lt;p&gt;So a combination of convenience and interest combine to make Memphis stop #4.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="They take their barbeque seriously in Memphis, TN" src="../img/memphis-tn-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;Nashville appears to have the most momentum in the state for establishing
+a start up scene. But there are some interesting pieces to technology start
+ups in Memphis as well. &lt;a class="reference external" href="http://startupmemphis.com/"&gt;Start Up Memphis&lt;/a&gt; has
+interesting, up to date articles on companies in the area.
+&lt;a class="reference external" href="http://www.launchmemphis.com/launchpad/"&gt;Launchpad Memphis&lt;/a&gt; is a coworking
+space for start ups and hosts some of the
+&lt;a class="reference external" href="http://mempy.org/"&gt;Memphis Python (MemPy)&lt;/a&gt; meet ups.&lt;/p&gt;
+&lt;p&gt;However, it's been difficult finding out exactly what start ups are in
+Memphis, particularly ones using Python. More digging is necessary in this
+area.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="venture-capital"&gt;
+&lt;h2&gt;Venture Capital&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.ssmventures.com/"&gt;SSM Ventures&lt;/a&gt;. Wide range of investments
+in software companies and healthcare.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.mbventures.com/"&gt;MD Venture Partners&lt;/a&gt;. Specific to the life
+sciences industry, particularly treatments and cures for musculoskeletal
+diseases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="further-research"&gt;
+&lt;h2&gt;Further Research&lt;/h2&gt;
+&lt;p&gt;My further research on Memphis will be posted on the
+&lt;a class="reference external" href="../memphis-tn.html"&gt;Memphis destination page&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paparutzi/52677265/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
 website for Django meetups across the United States. The Chicago Users Group
 originally registered the domain name for their own purposes but then
 realized it would be of benefit to the greater Django community to have
@@ -562,7 +607,7 @@ March 12, 2013.&lt;/p&gt;
 &lt;div class="section" id="research"&gt;
 &lt;h2&gt;Research&lt;/h2&gt;
 &lt;p&gt;My further research on Charlotte will be posted on the
-&lt;a class="reference external" href="http://www.codingacrossamerica.com/charlotte-nc.html"&gt;Charlotte destinations page&lt;/a&gt;.&lt;/p&gt;
+&lt;a class="reference external" href="../charlotte-nc.html"&gt;Charlotte destination page&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Possessions</title><link href="http://www.codingacrossamerica.com/possessions.html" rel="alternate"></link><updated>2012-05-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/possessions.html</id><summary type="html">&lt;p&gt;“Many wealthy people are little more than the janitors of their possessions.”
 - Frank Lloyd Wright&lt;/p&gt;
