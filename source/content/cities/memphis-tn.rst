@@ -14,9 +14,11 @@ Memphis, TN
 
 ----
 
-Basic Stats
------------
+About
+-----
+* `Why Memphis? <../why-memphis-tennessee.html>`_
 * City population: 662k, Metro population: 1.3m
+
 
 Interesting Initiatives
 -----------------------
@@ -24,6 +26,16 @@ Interesting Initiatives
 * `Startup Memphis <http://startupmemphis.com/>`_
 * `Emerge Memphis <http://www.emergememphis.org/>`_
 * `Launchpad Memphis <http://www.launchmemphis.com/launchpad/>`_
+
+Venture Capital
+---------------
+* `SSM Ventures <http://www.ssmventures.com/>`_. Wide range of investments
+  in software companies and healthcare.
+* `MD Venture Partners <http://www.mbventures.com/>`_. Specific to the life
+  sciences industry, particularly treatments and cures for musculoskeletal 
+  diseases.
+
+
 
 References
 ----------
