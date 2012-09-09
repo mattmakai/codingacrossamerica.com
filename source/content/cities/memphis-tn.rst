@@ -17,7 +17,10 @@ Memphis, TN
 About
 -----
 * `Why Memphis? <../why-memphis-tennessee.html>`_
+* `Google Maps <http://goo.gl/maps/JKriK>`_
 * City population: 662k, Metro population: 1.3m
+* Approximate distance from Washington, DC: 875 miles
+
 
 
 Interesting Initiatives

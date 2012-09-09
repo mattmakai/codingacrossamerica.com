@@ -17,6 +17,7 @@ Charlottesville, VA
 
 Basic stats
 -----------
+* `Why Charlottesville? <../why-charlottesville-va.html>`_
 * City population: 43k, Charlottesville + Albemarle County: 120k
 
 
