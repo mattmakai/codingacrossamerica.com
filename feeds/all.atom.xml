@@ -216,6 +216,12 @@ marys.&lt;/li&gt;
 </summary></entry><entry><title>Portland, OR</title><link href="http://www.codingacrossamerica.com/portland-or.html" rel="alternate"></link><updated>2013-05-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/portland-or.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Portland, Oregon" src="../img/portland-or.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-ups"&gt;
+&lt;h2&gt;Start Ups&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.puppetlabs.com/"&gt;Puppet Labs&lt;/a&gt;. Infrastructure automation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -662,9 +668,14 @@ Los Angeles, CA:
 San Francisco, CA:
 Redding, CA:
 Eugene, OR:
-Seattle, WA: &amp;quot;Little Talks&amp;quot; by Of Monsters and Men&lt;/p&gt;
+Portland, OR:
+Seattle, WA: &amp;quot;Losing A Whole Year&amp;quot; by Third Eye Blind
+Missoula, MT:
+Buffalo, WY: &amp;quot;Little Talks&amp;quot; by Of Monsters and Men&lt;/p&gt;
 &lt;p&gt;Boulder, CO: &amp;quot;Don't Trust Me&amp;quot; by 3OH!3&lt;/p&gt;
-&lt;p&gt;Des Moines, IA: &amp;quot;Home&amp;quot; by Edward Sharpe and the Magnetic Zeroes
+&lt;p&gt;Des Moines, IA: &amp;quot;Home&amp;quot; by Edward Sharpe and the Magnetic Zeroes&lt;/p&gt;
+&lt;p&gt;New York City, NY:
+Morristown, NJ:
 Washington, DC: &amp;quot;Amazed&amp;quot; by The Offspring&lt;/p&gt;
 </summary></entry><entry><title>Detroit, MI</title><link href="http://www.codingacrossamerica.com/detroit-mi.html" rel="alternate"></link><updated>2012-09-07T11:41:23-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/detroit-mi.html</id><summary type="html">&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://video.msnbc.msn.com/nightly-news/47934620/#47934620"&gt;Detroit Resurgence Due to Tech&lt;/a&gt;&lt;/li&gt;

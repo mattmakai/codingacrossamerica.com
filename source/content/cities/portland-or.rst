@@ -15,6 +15,10 @@ Portland, OR
 
 ----
 
+Start Ups
+---------
+* `Puppet Labs <http://www.puppetlabs.com/>`_. Infrastructure automation.
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/nostri-imago/3289494666/>`_
