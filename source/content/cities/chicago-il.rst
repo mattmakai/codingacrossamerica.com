@@ -26,6 +26,10 @@ Coffee Shops
   in Lincoln Park.
 * `Uncommon Ground <http://www.uncommonground.com/>`_ on Clark
 
+Articles
+--------
+* `How Did Groupon's Rise & Fall Affect the Chicago Start Up Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-did-groupons-rise-and-fall-change-chicagos-startup-scene-not-much/262554/>`_
+* `How Big Is Chicago's Startup Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-big-is-chicagos-startup-scene-about-soma-sized-actually/262467/>`_
 
 Photo Attribution
 -----------------

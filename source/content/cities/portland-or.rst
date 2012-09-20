@@ -30,9 +30,9 @@ Start Ups
 Breakfast
 ---------
 * `Bumblekiss Cafe <http://bumblekisscafe.com/>`_. Great bacon and cinnamon swirl bread.
-* Gravy's
-* Mother's Bistro.
-* Tin Shed
+* `Gravy <https://plus.google.com/115051975335253977653/about?gl=us&hl=en>`_
+* `Mother's Bistro <http://www.mothersbistro.com/>`_
+* `Tin Shed Garden Cafe <http://tinshedgardencafe.com/>`_. Local food, "spiritual journey", compost leftovers. Hippie heaven, although I bet it taste damn good.
 
 Coffee Shops
 ------------
