@@ -20,6 +20,10 @@ Start Ups
   sites to use Python & Django on the web.
 * `Github <http://github.com/>`_.
 
+Accomodations
+-------------
+* Hotel Des Art
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/grantloy/4592867698/>`_
