@@ -16,6 +16,7 @@ New Orleans, LA
 
 Basic Stats
 -----------
+* `Why New Orleans, Louisiana? <../why-new-orleans-la.html>`_
 * City population: 345k, Metro population: 1.2m
 
 Coffee Shops

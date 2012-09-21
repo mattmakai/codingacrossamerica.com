@@ -16,6 +16,7 @@ Charlotte, NC
 
 Basic stats
 -----------
+* `Why Charlotte, North Carolina? <../why-charlotte-nc.html>`_
 * City population: 750k, Metro population: 1.7m
 
 First Glance Start Up Scene

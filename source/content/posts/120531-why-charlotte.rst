@@ -1,5 +1,5 @@
-Why Charlotte, NC?
-==================
+Why Charlotte, North Carolina?
+==============================
 
 :category: post
 :date: 2012-05-31

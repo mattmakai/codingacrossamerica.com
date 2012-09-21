@@ -16,6 +16,7 @@ Nashville, TN
 
 Basic stats
 -----------
+* `Why Nashville, Tennessee? <../why-nashville-tn.html>`_
 * City population: 625k, Metro population: 1.6m
 
 First Glance Start Up Scene

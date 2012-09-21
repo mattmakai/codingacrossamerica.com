@@ -1,5 +1,5 @@
-Why Charlottesville, VA?
-========================
+Why Charlottesville, Virginia?
+==============================
 
 :category: post
 :date: 2012-06-30

@@ -1,5 +1,5 @@
-Why Nashville, TN?
-==================
+Why Nashville, Tennessee?
+=========================
 
 :category: post
 :slug: why-nashville-tn
