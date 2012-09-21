@@ -14,6 +14,14 @@ Austin, TX
 
 ----
 
+Basic stats
+-----------
+* Why Austin, Texas? (blog post coming soon)
+* City population: 820k, Metro population: 1.7m
+* Approximate distance from Washington, DC: 1550 miles
+* `Google Maps: Austin <http://goo.gl/maps/nHiWd>`_
+
+
 Areas of Interest
 -----------------
 * 4th Street - bars & restaurants. More geared towards professionals living

@@ -18,11 +18,25 @@ Basic Stats
 -----------
 * `Why New Orleans, Louisiana? <../why-new-orleans-la.html>`_
 * City population: 345k, Metro population: 1.2m
+* Approximate distance from Washington, DC: 1100 miles
+* `Google Maps: New Orleans <http://goo.gl/maps/zyKXy>`_
 
 Coffee Shops
 ------------
 * `Cafe Du Monde <http://www.cafedumonde.com/>`_. A classic New Orleans
   staple (tourist trap?). I was here before in March 2011.
+
+Venture Capital and Funding
+---------------------------
+* `The Louisiana Fund <http://www.louisianafund.com/>`_
+* `BVM Capital <http://www.vcecapital.com/>`_. An office in New Orleans (in addition to their New York office).
+* `FBT Investments <http://www.fbtinvestments.com/Venture-Capital.aspx>`_
+* `Biz Capital <http://www.biz-capital.com/>`_
+
+Start Up Support
+----------------
+* `New Orleans Startup Fund <http://neworleansstartupfund.org/>`_
+* `Launchpad New Orleans <http://launchpadnola.com/>`_. Shared working space in New Orleans.
 
 Interesting
 -----------

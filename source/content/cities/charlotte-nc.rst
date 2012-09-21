@@ -18,6 +18,8 @@ Basic stats
 -----------
 * `Why Charlotte, North Carolina? <../why-charlotte-nc.html>`_
 * City population: 750k, Metro population: 1.7m
+* Approximate distance from Washington, DC: 400 miles
+* `Google Maps: Charlotte <http://goo.gl/maps/pEvLp>`_
 
 First Glance Start Up Scene
 ---------------------------
