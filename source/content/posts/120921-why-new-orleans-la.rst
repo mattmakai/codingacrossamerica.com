@@ -1,5 +1,5 @@
-Why New Orleans, Louisana?
-==========================
+Why New Orleans, Louisiana?
+===========================
 
 :category: post
 :slug: why-new-orleans-la
