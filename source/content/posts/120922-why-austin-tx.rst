@@ -33,6 +33,31 @@ question it would be part of my trip.
 
 ----
 
+Start Up Culture
+----------------
+Austin has a great tech scene. It's the home of the 
+`South by Southwest <http://sxsw.com/>`_ conference in March every year. 
+Austin is often ranked highly on 
+`lists of best places to launch a tech start up <http://www.usatoday.com/tech/columnist/talkingtech/story/2012-08-22/top-tech-startup-cities/57220670/1>`_ 
+along with San Francisco, Seattle, Boulder, New York, and Boston. The 
+growth of Dell Computers in the late 80s and 90s helped the city to 
+establish its silicon credentials. 
+
+Current growing technology companies with an office in Austin include 
+Facebook, Google, NVidia, Indeed.com, Rackspace, and Zynga. University 
+of Texas is located in the heart of Austin and is at the forefront of many 
+areas in computer science and related disciplines. Smaller start ups 
+include The Daily Dot, Evernote, RightScale.
+
+There's a lot of technology work in Austin. It's the first destination that
+people who comment on my trip say "oh, that makes sense if you want to learn
+more about technology across the country."
+
+More Research
+-------------
+I'll `post further notes <../austin-tx.html>`_ as I continue to gather 
+more information about Austin.
+
 
 Photo Attribution
 -----------------

@@ -21,6 +21,12 @@ Basic stats
 * Approximate distance from Washington, DC: 1700 miles
 * `Google Maps: Lubbock <http://goo.gl/maps/XVot3>`_
 
+Interesting Facts
+-----------------
+* CNN Money `ranked Lubbock #12 <http://lubbockonline.com/stories/103109/edi_510988833.shtml>`_ in a list of best places to start a small business.
+
+
+
 
 Photo Attribution
 -----------------
