@@ -1,9 +1,9 @@
-Why Austin, TX?
-===============
+Why Austin, Texas?
+==================
 
-:category: future-post
+:category: post
 :slug: why-austin-tx
-:date: 2012-09-25
+:date: 2012-09-22
 
 Austin was the first city I put on the map during my road trip planning.
 I knew there was no way I was going to skip it or just spend a couple of days
