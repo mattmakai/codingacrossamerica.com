@@ -19,6 +19,8 @@ Start Ups
 * `Pinterest <http://pinterest.com/>`_. Quickly becoming one of the largest
   sites to use Python & Django on the web.
 * `Github <http://github.com/>`_.
+* `99 Designs <http://99designs.com/>`_. Currently there is a design contest 
+  open for the logo to this site.
 
 Accomodations
 -------------
