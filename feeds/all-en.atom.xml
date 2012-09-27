@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2013-07-25T00:00:00-04:00</updated><entry><title>Washington, DC</title><link href="http://www.codingacrossamerica.com/washington-dc.html" rel="alternate"></link><updated>2013-07-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/washington-dc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2013-07-29T00:00:00-04:00</updated><entry><title>Washington, DC</title><link href="http://www.codingacrossamerica.com/washington-dc.html" rel="alternate"></link><updated>2013-07-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/washington-dc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Washington, DC" src="../img/washington-dc.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="coffee-shops"&gt;
@@ -15,7 +15,7 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/aon/3017817334/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Morristown, NJ</title><link href="http://www.codingacrossamerica.com/morristown-nj.html" rel="alternate"></link><updated>2013-07-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/morristown-nj.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Morristown, NJ</title><link href="http://www.codingacrossamerica.com/morristown-nj.html" rel="alternate"></link><updated>2013-07-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/morristown-nj.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="The Green in Morristown, NJ" src="../img/morristown-nj.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -24,7 +24,7 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/9491225&amp;#64;N05/3495305379/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>New York, NY</title><link href="http://www.codingacrossamerica.com/new-york-ny.html" rel="alternate"></link><updated>2013-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/new-york-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>New York, NY</title><link href="http://www.codingacrossamerica.com/new-york-ny.html" rel="alternate"></link><updated>2013-07-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/new-york-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="New York City, New York" src="../img/new-york-ny.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -33,7 +33,7 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/endymion120/5471920747/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Pittsburgh, PA</title><link href="http://www.codingacrossamerica.com/pittsburgh-pa.html" rel="alternate"></link><updated>2013-07-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/pittsburgh-pa.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Pittsburgh, PA</title><link href="http://www.codingacrossamerica.com/pittsburgh-pa.html" rel="alternate"></link><updated>2013-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/pittsburgh-pa.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Pittsburgh, PA" src="../img/pittsburgh-pa.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -42,7 +42,7 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/sakeeb/4139400286/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Indianapolis, IN</title><link href="http://www.codingacrossamerica.com/indianapolis-in.html" rel="alternate"></link><updated>2013-07-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/indianapolis-in.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Indianapolis, IN</title><link href="http://www.codingacrossamerica.com/indianapolis-in.html" rel="alternate"></link><updated>2013-07-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/indianapolis-in.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Fisheye and exposure effect at night in Indianapolis, IN" src="../img/indianapolis-in.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="locations"&gt;
@@ -57,7 +57,7 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/sergemelki/3057494448/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Chicago, IL</title><link href="http://www.codingacrossamerica.com/chicago-il.html" rel="alternate"></link><updated>2013-07-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/chicago-il.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Chicago, IL</title><link href="http://www.codingacrossamerica.com/chicago-il.html" rel="alternate"></link><updated>2013-07-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/chicago-il.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Reflection of Chicago, Illinois in the Chicago Bean" src="../img/chicago-il.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="companies"&gt;
@@ -87,6 +87,15 @@ in Lincoln Park.&lt;/li&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/moaksey/98309086/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Madison, WI</title><link href="http://www.codingacrossamerica.com/madison-wi.html" rel="alternate"></link><updated>2013-07-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/madison-wi.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="Bascom Hall in Madison, Wisconsin" src="../img/madison-wi.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/rahimageworks/7244818350/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Des Moines, IA</title><link href="http://www.codingacrossamerica.com/des-moines-ia.html" rel="alternate"></link><updated>2013-06-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/des-moines-ia.html</id><summary type="html">&lt;hr class="docutils" /&gt;
@@ -389,13 +398,31 @@ for its Mexican food and happy hour.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dave-friedel/4021911638/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>Moab, UT</title><link href="http://www.codingacrossamerica.com/moab-ut.html" rel="alternate"></link><updated>2013-04-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/moab-ut.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="Moab, Utah (HDR enhanced)" src="../img/moab-ut.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why Moab, Utah? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 5k&lt;/li&gt;
+&lt;li&gt;Approximate distance from Washington, DC: 2050 miles&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/f7tj2"&gt;Google Maps: Moab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/zachd1_618/6607825369/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Lubbock, TX</title><link href="http://www.codingacrossamerica.com/lubbock-tx.html" rel="alternate"></link><updated>2013-04-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/lubbock-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Wind farms on the way to Lubbock, Texas" src="../img/lubbock-tx.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
 &lt;h2&gt;Basic stats&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Why Lubbock, Texas? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../why-lubbock-tx.html"&gt;Why Lubbock, Texas?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;City population: 230k, Metro population: 275k&lt;/li&gt;
 &lt;li&gt;Approximate distance from Washington, DC: 1700 miles&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/XVot3"&gt;Google Maps: Lubbock&lt;/a&gt;&lt;/li&gt;
@@ -410,7 +437,7 @@ for its Mexican food and happy hour.&lt;/li&gt;
 &lt;div class="section" id="universities"&gt;
 &lt;h2&gt;Universities&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.ttu.edu/"&gt;Texas Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.ttu.edu/"&gt;Texas Tech University&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -779,13 +806,7 @@ entrepreneurship from an academic standpoint.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paytonc/6317092753/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="University of Viriginia"></category></entry><entry><title>Madison, WI</title><link href="http://www.codingacrossamerica.com/madison-wi.html" rel="alternate"></link><updated>2013-01-07T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/madison-wi.html</id><summary type="html">&lt;div class="section" id="references"&gt;
-&lt;h2&gt;References&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;This page is a stub.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-10-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;Charlottesville, VA: &amp;quot;Run&amp;quot; by Snow Patrol
+</summary><category term="University of Viriginia"></category></entry><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-10-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;Charlottesville, VA: &amp;quot;Run&amp;quot; by Snow Patrol
 Charlotte, NC: &amp;quot;I Can Do Anything&amp;quot; by 3OH!3
 Nashville, TN: &amp;quot;Citizen&amp;quot; by Broken Bells
 Memphis, TN:
@@ -808,6 +829,37 @@ Buffalo, WY: &amp;quot;Little Talks&amp;quot; by Of Monsters and Men&lt;/p&gt;
 &lt;p&gt;New York City, NY:
 Morristown, NJ:
 Washington, DC: &amp;quot;Amazed&amp;quot; by The Offspring&lt;/p&gt;
+</summary></entry><entry><title>Why Lubbock, Texas?</title><link href="http://www.codingacrossamerica.com/why-lubbock-tx.html" rel="alternate"></link><updated>2012-09-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-lubbock-tx.html</id><summary type="html">&lt;p&gt;Lubbock is home to the Red Raiders of Texas Tech University and is about
+seven hours Northwest of Austin, Texas. Lubbock will be the seventh city
+I visit during Coding Across America. This stop begins the leg of my trip
+that will take me to some remote place in the Southwest United States,
+including Los Alamos, Moab, and Flagstaff.&lt;/p&gt;
+&lt;p&gt;It will be difficult to find technology-related ventures in Lubbock outside of
+Texas Tech University. An Indeed.com search for Django and Ruby on Rails
+turned up... nothing. Ditto for tech meetups. But in lieu of other software
+developers to talk to, I'm looking forward to spending some time here in
+an area of the United States I would otherwise be unlikely to visit. It's
+also a great excuse to get plenty of time for heads-down coding.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Just South of Lubbock, TX" src="../img/lubbock-tx-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;Not much here from what I can find. I'll have to do further digging to see
+if Texas Tech University sponsors any type of incubator or entrepreurship
+classes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../lubbock-tx.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Lubbock.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/imagesbywestfall/3423388821/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Diminishing Marginal Utility of &amp;quot;Stuff&amp;quot;</title><link href="http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html" rel="alternate"></link><updated>2012-09-23T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html</id><summary type="html">&lt;p&gt;I found this post on the &lt;a class="reference external" href="http://www.antipope.org/charlie/blog-static/2012/09/on-the-diminishing-marginal-ut.html"&gt;diminishing marginal utility of stuff&lt;/a&gt;
 climbing Hacker News yesterday morning and it resonated with me both in
 general and for my trip.&lt;/p&gt;

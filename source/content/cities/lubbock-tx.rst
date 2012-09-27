@@ -16,7 +16,7 @@ Lubbock, TX
 
 Basic stats
 -----------
-* Why Lubbock, Texas? (blog post coming soon)
+* `Why Lubbock, Texas? <../why-lubbock-tx.html>`_
 * City population: 230k, Metro population: 275k
 * Approximate distance from Washington, DC: 1700 miles
 * `Google Maps: Lubbock <http://goo.gl/maps/XVot3>`_
@@ -27,7 +27,7 @@ Interesting Facts
 
 Universities
 ------------
-* `Texas Tech <http://www.ttu.edu/>`_
+* `Texas Tech University <http://www.ttu.edu/>`_
 
 
 Photo Attribution
