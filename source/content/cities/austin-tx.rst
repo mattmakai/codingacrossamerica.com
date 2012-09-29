@@ -35,6 +35,8 @@ Start Ups
 ---------
 * `CopperEgg <http://copperegg.com/>`_ is a cloud monitoring company.
 * `Daily Dot <http://www.dailydot.com/>`_ is a team of writers around the country and headquartered in Austin. Write about Internet communities instead of traditional geographic communities.
+* `Contiuum Analytics <http://www.continuum.io/>`_. Data analysis and 
+  visualization based on Python. Definitely need to talk to these guys.
 
 Bars
 ----
