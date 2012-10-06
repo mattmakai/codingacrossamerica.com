@@ -14,6 +14,13 @@ Des Moines, IA
 
 ----
 
+Basic stats
+-----------
+* Why Des Moines, Iowa? (blog post coming soon)
+* City population: 200k, Metro population: 570k
+* Approximate distance driven on trip: `7200 miles <http://bit.ly/Vxq9FD>`_
+* `Google Maps: Des Moines <http://goo.gl/maps/roI8N>`_
+
 
 General
 -------

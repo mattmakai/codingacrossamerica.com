@@ -14,6 +14,13 @@ Buffalo, WY
 
 ----
 
+Basic stats
+-----------
+* Why Buffalo, Wyoming? (blog post coming soon)
+* City population: 4.5k
+* Approximate distance driven on trip: `6150 miles <http://goo.gl/maps/blKQI>`_
+* `Google Maps: Buffalo <http://goo.gl/maps/kksE2>`_
+
 Accomodations
 -------------
 * `The Occidental Hotel <http://www.occidentalwyoming.com/index.php>`_

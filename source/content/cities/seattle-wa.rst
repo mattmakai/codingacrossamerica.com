@@ -10,9 +10,16 @@ Seattle, WA
 .. image:: ../img/seattle-wa.jpg
   :width: 640px
   :height: 480px
-  :alt: Seattle's Downtown Skyline
+  :alt: Seattle's Downtown skyline
 
 ----
+
+Basic stats
+-----------
+* Why Seattle, Washington? (blog post coming soon)
+* City population: 620k, Metro population: 3.5m
+* Approximate distance driven on trip: `5200 miles <http://goo.gl/maps/9Ju67>`_
+* `Google Maps: Seattle <http://goo.gl/maps/GOlzU>`_
 
 References
 ----------

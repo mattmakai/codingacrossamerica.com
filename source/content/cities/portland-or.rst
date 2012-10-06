@@ -15,6 +15,13 @@ Portland, OR
 
 ----
 
+Basic stats
+-----------
+* Why Portland, Oregon? (blog post coming soon)
+* City population: 600k, Metro population: 2.3m
+* Approximate distance driven on trip: `5000 miles <http://goo.gl/maps/Nx8Sz>`_
+* `Google Maps: Portland <http://goo.gl/maps/GOlzU>`_
+
 Accomodations
 -------------
 * `McMenamins Kennedy School <http://www.mcmenamins.com/KennedySchool>`_. Converted elementary school with bars. A bus ride to Downtown.

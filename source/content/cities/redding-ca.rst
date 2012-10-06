@@ -14,6 +14,13 @@ Redding, CA
 
 ----
 
+Basic stats
+-----------
+* Why Redding, California? (blog post coming soon)
+* City population: 92k
+* Approximate distance driven on trip: `4550 miles <http://goo.gl/maps/QXtqr>`_
+* `Google Maps: Redding <http://goo.gl/maps/KWQpC>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/85822043@N00/204263959/>`_

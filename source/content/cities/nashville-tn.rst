@@ -18,7 +18,7 @@ Basic stats
 -----------
 * `Why Nashville, Tennessee? <../why-nashville-tn.html>`_
 * City population: 625k, Metro population: 1.6m
-* Approximate distance from Washington, DC: 665 miles
+* Approximate distance driven on trip: `800 miles <http://goo.gl/maps/WA4qI>`_
 * `Google Maps: Nashville <http://goo.gl/maps/k4bwH>`_
 
 First Glance Start Up Scene

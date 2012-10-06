@@ -14,6 +14,13 @@ Eugene, OR
 
 ----
 
+Basic stats
+-----------
+* Why Eugene, Oregon? (blog post coming soon)
+* City population: 155k, Metro population: 350k
+* Approximate distance driven on trip: `4900 miles <http://goo.gl/maps/Prcwe>`_
+* `Google Maps: Eugene <http://goo.gl/maps/an7ej>`_
+
 Companies
 ---------
 * `Concentric Sky <http://concentricsky.com/>`_. Wiggins (@coffindragger) 

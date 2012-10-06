@@ -14,11 +14,13 @@ Lubbock, TX
 
 ----
 
+Wind farms on the way to Lubbock, Texas.
+
 Basic stats
 -----------
 * `Why Lubbock, Texas? <../why-lubbock-tx.html>`_
 * City population: 230k, Metro population: 275k
-* Approximate distance from Washington, DC: 1700 miles
+* Approximate distance driven on trip: `2300 miles <http://goo.gl/maps/qwmMR>`_
 * `Google Maps: Lubbock <http://goo.gl/maps/XVot3>`_
 
 Interesting Facts

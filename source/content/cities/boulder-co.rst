@@ -14,6 +14,12 @@ Boulder, CO
 
 ----
 
+Basic stats
+-----------
+* Why Boulder, Colorado? (blog post coming soon)
+* City population: 97k, Metro population: 293k
+* Approximate distance driven on trip: `6500 miles <http://goo.gl/maps/blKQI>`_
+* `Google Maps: Boulder <http://goo.gl/maps/fC09Y>`_
 
 
 References

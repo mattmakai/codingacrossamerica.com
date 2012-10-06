@@ -18,7 +18,7 @@ Basic Stats
 -----------
 * `Why New Orleans, Louisiana? <../why-new-orleans-la.html>`_
 * City population: 345k, Metro population: 1.2m
-* Approximate distance from Washington, DC: 1100 miles
+* Approximate distance driven on trip: `1400 miles <http://goo.gl/maps/eVcfo>`_
 * `Google Maps: New Orleans <http://goo.gl/maps/zyKXy>`_
 
 Coffee Shops

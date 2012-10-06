@@ -14,6 +14,15 @@ San Diego, CA
 
 ----
 
+San Diego harbor at night.
+
+Basic stats
+-----------
+* Why San Diego, California? (blog post coming soon)
+* City population: 1.3m, Metro population: 3m
+* Approximate distance driven on trip: `3850 miles <http://goo.gl/maps/jkU0a>`_
+* `Google Maps: San Diego <http://goo.gl/maps/s6W3j>`_
+
 Start Ups
 ---------
 * `Slacker Radio <http://www.slacker.com/>`_
@@ -21,3 +30,4 @@ Start Ups
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/robsettantasei/3031503519/>`_
+

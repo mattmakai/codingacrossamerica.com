@@ -18,7 +18,7 @@ Basic stats
 -----------
 * `Why Los Alamos, NM? <../why-los-alamos-nm.html>`_
 * City population: 12k
-* Approximate distance from Washington, DC: 1925 miles
+* Approximate distance driven on trip: `2650 miles <http://goo.gl/maps/nf0WE>`_
 * `Google Maps: Los Alamos <http://goo.gl/maps/snj6A>`_
 
 Photo Attribution
