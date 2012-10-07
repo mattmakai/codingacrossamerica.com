@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-10-01T00:00:00-04:00</updated><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-10-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;Charlottesville, VA: &amp;quot;Run&amp;quot; by Snow Patrol
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-10-08T00:00:00-04:00</updated><entry><title>Why Flagstaff, AZ?</title><link href="http://www.codingacrossamerica.com/why-flagstaff-az.html" rel="alternate"></link><updated>2012-10-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-flagstaff-az.html</id><summary type="html">&lt;p&gt;Flagstaff is the last stop in the leg of my trip that is primarily composed
+of small towns and beautiful outside scenery. This is destination number ten
+on my trip.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Lake Mary in Flagstaff, Arizona" src="../img/flagstaff-az-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Lake Mary in Flagstaff, Arizona.&lt;/p&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;The University of Northern Arizona has its
+&lt;a class="reference external" href="http://www.nacet.org/"&gt;Center for Entrepreneurship and Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../moab-ut.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Flagstaff.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/91393778&amp;#64;N00/3038533783/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-10-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;Charlottesville, VA: &amp;quot;Run&amp;quot; by Snow Patrol
 Charlotte, NC: &amp;quot;I Can Do Anything&amp;quot; by 3OH!3
 Nashville, TN: &amp;quot;Citizen&amp;quot; by Broken Bells
 Memphis, TN:
@@ -26,29 +49,4 @@ Des Moines, IA: &amp;quot;Home&amp;quot; by Edward Sharpe and the Magnetic Zeroe
 New York City, NY:
 Morristown, NJ: &amp;quot;Change the Game&amp;quot; by Jay-Z
 Washington, DC: &amp;quot;Amazed&amp;quot; by The Offspring&lt;/p&gt;
-</summary></entry><entry><title>Why Moab, Utah?</title><link href="http://www.codingacrossamerica.com/why-moab-ut.html" rel="alternate"></link><updated>2012-09-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-moab-ut.html</id><summary type="html">&lt;p&gt;I recently added Moab to my list of destinations after a couple of
-recommendations from people I randomly met. Moab looks amazing from photos
-but apparently none of them do it justice. &amp;quot;You have to see it in person&amp;quot;
-I'm told. So Moab will be destination number nine.&lt;/p&gt;
-&lt;p&gt;I expect that this will be the third stop in the leg of my trip that takes
-me out of the tech scene and lets me focus primarily on developing my own
-software.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Canyon Lands National Park - Moab, Utah" src="../img/moab-ut-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="start-up-culture"&gt;
-&lt;h2&gt;Start Up Culture&lt;/h2&gt;
-&lt;p&gt;...&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../moab-ut.html"&gt;post further notes&lt;/a&gt; as I continue to gather
-more information about Moab.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dfb_photos/6193076965/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 </summary></entry></feed>

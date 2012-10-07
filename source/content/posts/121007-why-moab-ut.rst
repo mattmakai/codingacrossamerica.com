@@ -1,9 +1,9 @@
 Why Moab, Utah?
 ===============
 
-:category: future-post
+:category: post
 :slug: why-moab-ut
-:date: 2012-09-30
+:date: 2012-10-07
 
 I recently added Moab to my list of destinations after a couple of 
 recommendations from people I randomly met. Moab looks amazing from photos
@@ -25,7 +25,8 @@ software.
 
 Start Up Culture
 ----------------
-...
+Unlikely there's anything. I'm mainly here to take in the sights and hike.
+
 
 More Research
 -------------

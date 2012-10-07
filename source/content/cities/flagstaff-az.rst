@@ -23,6 +23,15 @@ Basic stats
 * Approximate distance driven on trip: `3350 miles <http://goo.gl/maps/nvE5o>`_
 * `Google Maps: Flagstaff <http://goo.gl/maps/MVU1I>`_
 
+Entrepreneurship
+----------------
+* `Northern Arizona Center for Entrepreneurship and Technology <http://www.nacet.org/>`_
+
+References
+----------
+* `Start Up Scene in Phoenix <http://www.quora.com/Mircea-Goia/Posts/Startup-scene-in-Phoenix-Arizona-what-I-have-found-since-living-here>`_. Touches on the
+  scene in Flagstaff.
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/97964364@N00/2584016019/>`_

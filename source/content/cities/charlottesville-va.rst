@@ -3,7 +3,7 @@ Charlottesville, VA
 
 :category: city
 :slug: charlottesville-va
-:date: 2013-03-10
+:date: 2013-03-09
 :tags: University of Viriginia
 
 ----
