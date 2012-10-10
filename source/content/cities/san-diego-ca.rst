@@ -2,7 +2,7 @@ San Diego, CA
 =============
 
 :category: city
-:date: 2013-04-17
+:date: 2013-04-22
 :slug: san-diego-ca
 
 ----
@@ -26,6 +26,10 @@ Basic stats
 Start Ups
 ---------
 * `Slacker Radio <http://www.slacker.com/>`_
+
+User Groups
+-----------
+* `San Diego Python Users Group <http://www.meetup.com/pythonsd/>`_
 
 Photo Attribution
 -----------------

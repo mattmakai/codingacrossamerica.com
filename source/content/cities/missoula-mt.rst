@@ -2,7 +2,7 @@ Missoula, MT
 ============
 
 :category: city
-:date: 2013-05-30
+:date: 2013-06-01
 :slug: missoula-mt
 
 ----

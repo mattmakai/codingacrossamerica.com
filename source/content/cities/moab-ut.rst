@@ -2,7 +2,7 @@ Moab, UT
 ========
 
 :category: city
-:date: 2013-04-12
+:date: 2013-04-14
 :slug: moab-ut
 
 ----
@@ -16,7 +16,7 @@ Moab, UT
 
 Basic stats
 -----------
-* Why Moab, Utah? (blog post coming soon)
+* `Why Moab, Utah? <../why-moab-ut.html>`_
 * City population: 5k
 * Approximate distance driven on trip: `3000 miles <http://goo.gl/maps/GcNO4>`_
 * `Google Maps: Moab <http://goo.gl/maps/f7tj2>`_

@@ -2,7 +2,7 @@ Washington, DC
 ==============
 
 :category: city
-:date: 2013-08-05
+:date: 2013-08-14
 :slug: washington-dc
 
 ----

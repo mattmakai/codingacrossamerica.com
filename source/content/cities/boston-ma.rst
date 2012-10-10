@@ -2,7 +2,7 @@ Boston, MA
 ==========
 
 :category: city
-:date: 2013-07-19
+:date: 2013-07-26
 :slug: boston-ma
 
 ----

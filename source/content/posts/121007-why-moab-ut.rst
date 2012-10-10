@@ -8,7 +8,7 @@ Why Moab, Utah?
 I recently added Moab to my list of destinations after a couple of 
 recommendations from people I randomly met. Moab looks amazing from photos
 but apparently none of them do it justice. "You have to see it in person"
-I'm told. So Moab will be destination number nine.
+I'm told. So with that Moab will be destination number nine.
 
 I expect that this will be the third stop in the leg of my trip that takes
 me out of the tech scene and lets me focus primarily on developing my own

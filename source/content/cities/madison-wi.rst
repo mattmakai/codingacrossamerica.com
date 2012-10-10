@@ -1,8 +1,8 @@
 Madison, WI
 ===========
 
-:date: 01-07-2013
 :category: city
+:date: 2013-07-05
 :slug: madison-wi
 
 ----

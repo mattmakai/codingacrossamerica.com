@@ -2,7 +2,7 @@ Des Moines, IA
 ==============
 
 :category: city
-:date: 2013-06-20
+:date: 2013-06-21
 :slug: des-moines-ia
 
 ----

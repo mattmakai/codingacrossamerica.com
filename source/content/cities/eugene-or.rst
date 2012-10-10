@@ -2,7 +2,7 @@ Eugene, OR
 ==========
 
 :category: city
-:date: 2013-05-13
+:date: 2013-05-14
 :slug: eugene-or
 
 ----

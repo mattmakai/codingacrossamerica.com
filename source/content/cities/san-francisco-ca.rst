@@ -2,7 +2,7 @@ San Francisco, CA
 =================
 
 :category: city
-:date: 2013-04-27
+:date: 2013-04-28
 :slug: san-francisco-ca
 
 ----

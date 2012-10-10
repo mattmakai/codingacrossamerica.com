@@ -2,7 +2,7 @@ Detroit, MI
 ===========
 
 :category: city
-:date: 2013-07-09
+:date: 2013-07-17
 :slug: detroit-mi
 
 ----
