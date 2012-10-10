@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2013-07-29T00:00:00-04:00</updated><entry><title>Washington, DC</title><link href="http://www.codingacrossamerica.com/washington-dc.html" rel="alternate"></link><updated>2013-07-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/washington-dc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2013-08-05T00:00:00-04:00</updated><entry><title>Washington, DC</title><link href="http://www.codingacrossamerica.com/washington-dc.html" rel="alternate"></link><updated>2013-08-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/washington-dc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Washington, DC" src="../img/washington-dc.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;City population: 620k, Metro population: 5.6m&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/WRgRT5"&gt;9200 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/xwM3F"&gt;Google Maps: Washington, D.C.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="coffee-shops"&gt;
 &lt;h2&gt;Coffee Shops&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://northsidesocialarlington.com/"&gt;Northside Social&lt;/a&gt;. So far my
-favorite coffee shop and hang out spot in the country.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://northsidesocialarlington.com/"&gt;Northside Social&lt;/a&gt;. My
+favorite coffee shop and hang out spot in the country (so far!).&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://plus.google.com/110572259937268960247/about?gl=us&amp;amp;hl=en"&gt;Bourbon Coffee&lt;/a&gt; in
+Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -15,51 +25,108 @@ favorite coffee shop and hang out spot in the country.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/aon/3017817334/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Morristown, NJ</title><link href="http://www.codingacrossamerica.com/morristown-nj.html" rel="alternate"></link><updated>2013-07-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/morristown-nj.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Morristown, NJ</title><link href="http://www.codingacrossamerica.com/morristown-nj.html" rel="alternate"></link><updated>2013-07-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/morristown-nj.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="The Green in Morristown, NJ" src="../img/morristown-nj.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why Morristown, New Jersey? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 18k&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/QVk4yk"&gt;9000 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/xCY2F"&gt;Google Maps: Morristown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/9491225&amp;#64;N05/3495305379/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>New York, NY</title><link href="http://www.codingacrossamerica.com/new-york-ny.html" rel="alternate"></link><updated>2013-07-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/new-york-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>New York, NY</title><link href="http://www.codingacrossamerica.com/new-york-ny.html" rel="alternate"></link><updated>2013-07-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/new-york-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="New York City, New York" src="../img/new-york-ny.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why New York, New York? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 8.2m, Metro population: 18.9m&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/SRCjmd"&gt;8950 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/qA83z"&gt;Google Maps: New York&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/endymion120/5471920747/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Pittsburgh, PA</title><link href="http://www.codingacrossamerica.com/pittsburgh-pa.html" rel="alternate"></link><updated>2013-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/pittsburgh-pa.html</id><summary type="html">&lt;hr class="docutils" /&gt;
-&lt;img alt="Downtown Pittsburgh, PA" src="../img/pittsburgh-pa.jpg" style="width: 640px; height: 480px;" /&gt;
+</summary></entry><entry><title>Boston, MA</title><link href="http://www.codingacrossamerica.com/boston-ma.html" rel="alternate"></link><updated>2013-07-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/boston-ma.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="Dusk view of Boston, Massachusetts" src="../img/boston-ma.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/sakeeb/4139400286/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Indianapolis, IN</title><link href="http://www.codingacrossamerica.com/indianapolis-in.html" rel="alternate"></link><updated>2013-07-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/indianapolis-in.html</id><summary type="html">&lt;hr class="docutils" /&gt;
-&lt;img alt="Fisheye and exposure effect at night in Indianapolis, IN" src="../img/indianapolis-in.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="locations"&gt;
-&lt;h2&gt;Locations&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;The Central Library looks really interesting with unique architecture&lt;/li&gt;
+&lt;li&gt;Why Boston, Massachusetts? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 4m, Metro population: 4.5m&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/URaaxq"&gt;8700 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/x2XIi"&gt;Google Maps: Boston&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/sergemelki/3057494448/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/ensh/4769294947/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Buffalo, NY</title><link href="http://www.codingacrossamerica.com/buffalo-ny.html" rel="alternate"></link><updated>2013-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/buffalo-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="M&amp;amp;T Bank is one of the only banks still operating in Downtown Buffalo" src="../img/buffalo-ny.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why Buffalo, New York? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 260k, Metro population: 1.3m&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/SRv1yH"&gt;8250 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/VTkPr"&gt;Google Maps: Buffalo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/jasonparis/3580797684/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Detroit, MI</title><link href="http://www.codingacrossamerica.com/detroit-mi.html" rel="alternate"></link><updated>2013-07-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/detroit-mi.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="View of Detroit, Michigan from the water" src="../img/detroit-mi.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why Detroit, Michigan? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 705k, Metro population: 4.3m&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/R3O35R"&gt;7900 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/lQBjG"&gt;Google Maps: Detroit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/patriciadrury/3381026294/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Chicago, IL</title><link href="http://www.codingacrossamerica.com/chicago-il.html" rel="alternate"></link><updated>2013-07-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/chicago-il.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Reflection of Chicago, Illinois in the Chicago Bean" src="../img/chicago-il.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="basic-stats"&gt;
+&lt;h2&gt;Basic stats&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why Chicago, Illinois? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;City population: 2.7m, Metro population: 9.5m&lt;/li&gt;
+&lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/TqO8Wl"&gt;7600 miles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://bit.ly/RaMvdF"&gt;Google Maps: Chicago&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="companies"&gt;
 &lt;h2&gt;Companies&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -658,6 +725,12 @@ Street.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://berryaustin.com/"&gt;Berry Austin&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="conferences"&gt;
+&lt;h2&gt;Conferences&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://summit.bazaarvoice.com/"&gt;Bazaar Voice&lt;/a&gt; will just miss my trip on April 11-13, but I could stick around for a few more days if it's something I want to go to.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="restaurants"&gt;
 &lt;h2&gt;Restaurants&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -703,6 +776,12 @@ staple (tourist trap?). I was here before in March 2011.&lt;/li&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://neworleansstartupfund.org/"&gt;New Orleans Startup Fund&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://launchpadnola.com/"&gt;Launchpad New Orleans&lt;/a&gt;. Shared working space in New Orleans.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conferences"&gt;
+&lt;h2&gt;Conferences&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://site.aace.org/"&gt;Society for Information Technology and Teacher Education Conference&lt;/a&gt; is taking place during the time I will be in New Orleans. Submissions are due by Oct 25, 2012.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="interesting"&gt;
@@ -973,7 +1052,7 @@ on my trip.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="more-research"&gt;
 &lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../moab-ut.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+&lt;p&gt;I'll &lt;a class="reference external" href="../flagstaff-az.html"&gt;post further notes&lt;/a&gt; as I continue to gather
 more information about Flagstaff.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -1036,27 +1115,30 @@ more information about Los Alamos.&lt;/p&gt;
 </summary></entry><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-10-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;Charlottesville, VA: &amp;quot;Run&amp;quot; by Snow Patrol
 Charlotte, NC: &amp;quot;I Can Do Anything&amp;quot; by 3OH!3
 Nashville, TN: &amp;quot;Citizen&amp;quot; by Broken Bells
-Memphis, TN:
+Memphis, TN: &amp;quot;I've Been Everywhere&amp;quot; by Johnny Cash
 New Orleans, LA: &amp;quot;Wide Awake&amp;quot; by Chris Cornell
 Austin, TX: &amp;quot;Midnight City&amp;quot; by M83
 Lubbock, TX: &amp;quot;Pickup Truck&amp;quot; by Kings of Leon
 Los Alamos, NM: &amp;quot;Shadow on the Sun&amp;quot; by Audioslave
 Moab, UT: &amp;quot;The Stones are not too busy&amp;quot; by Solar Fields
 Flagstaff, AZ: &amp;quot;Arizona&amp;quot; by Kings of Leon
-San Diego, CA:
-Los Angeles, CA:
+San Diego, CA: &amp;quot;What's My Age Again?&amp;quot; by Blink-182
+Los Angeles, CA: &amp;quot;Something to Believe In&amp;quot; by The Offspring
 San Francisco, CA:
 Redding, CA:
 Eugene, OR:
 Portland, OR: &amp;quot;Me and You&amp;quot; by Nero
-Seattle, WA: &amp;quot;Scentless Apprentice&amp;quot; by Nirvana
+Seattle, WA: &amp;quot;Mad Love&amp;quot; by Neon Trees
 Missoula, MT:
 Buffalo, WY: &amp;quot;Little Talks&amp;quot; by Of Monsters and Men
 Boulder, CO: &amp;quot;Don't Trust Me&amp;quot; by 3OH!3
 Omaha, NE:
-Des Moines, IA: &amp;quot;Home&amp;quot; by Edward Sharpe and the Magnetic Zeroes&lt;/p&gt;
-&lt;p&gt;Chicago, IL:&lt;/p&gt;
-&lt;p&gt;Boston, MA:
+Des Moines, IA: &amp;quot;Home&amp;quot; by Edward Sharpe and the Magnetic Zeroes
+Madison, WI:
+Chicago, IL:
+Detroit, MI:
+Buffalo, NY:
+Boston, MA:
 New York City, NY:
 Morristown, NJ: &amp;quot;Change the Game&amp;quot; by Jay-Z
 Washington, DC: &amp;quot;Amazed&amp;quot; by The Offspring&lt;/p&gt;
@@ -1251,9 +1333,6 @@ previously here in February and the weather was great (high 70s).&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/84263554&amp;#64;N00/400064521/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Detroit, MI</title><link href="http://www.codingacrossamerica.com/detroit-mi.html" rel="alternate"></link><updated>2012-09-07T11:41:23-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/detroit-mi.html</id><summary type="html">&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://video.msnbc.msn.com/nightly-news/47934620/#47934620"&gt;Detroit Resurgence Due to Tech&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </summary></entry><entry><title>Why Memphis, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-memphis-tennessee.html" rel="alternate"></link><updated>2012-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-memphis-tennessee.html</id><summary type="html">&lt;p&gt;Several of my DC friends previously lived in Memphis and recommended that
 I visit the city while I am travelling through Tennessee. There's great
 BBQ, high recommendations for

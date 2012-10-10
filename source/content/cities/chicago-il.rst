@@ -14,10 +14,19 @@ Chicago, IL
 
 ----
 
+Basic stats
+-----------
+* Why Chicago, Illinois? (blog post coming soon)
+* City population: 2.7m, Metro population: 9.5m
+* Approximate distance driven on trip: `7600 miles <http://bit.ly/TqO8Wl>`_
+* `Google Maps: Chicago <http://bit.ly/RaMvdF>`_
+
+
 Companies
 ---------
 * `Imaginary Landscape, LLC. <http://www.chicagodjango.com/>`_. Consulting
   and services for Python and Django development. Sponsored DjangoCon 09-12.
+
 
 Coffee Shops
 ------------

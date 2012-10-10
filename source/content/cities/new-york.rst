@@ -2,7 +2,7 @@ New York, NY
 ============
 
 :category: city
-:date: 2013-07-19
+:date: 2013-07-25
 :slug: new-york-ny
 
 ----
@@ -13,6 +13,13 @@ New York, NY
   :alt: New York City, New York
 
 ----
+
+Basic stats
+-----------
+* Why New York, New York? (blog post coming soon)
+* City population: 8.2m, Metro population: 18.9m
+* Approximate distance driven on trip: `8950 miles <http://bit.ly/SRCjmd>`_
+* `Google Maps: New York <http://goo.gl/maps/qA83z>`_
 
 Photo Attribution
 -----------------

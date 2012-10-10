@@ -38,6 +38,10 @@ Start Up Support
 * `New Orleans Startup Fund <http://neworleansstartupfund.org/>`_
 * `Launchpad New Orleans <http://launchpadnola.com/>`_. Shared working space in New Orleans.
 
+Conferences
+-----------
+* `Society for Information Technology and Teacher Education Conference <http://site.aace.org/>`_ is taking place during the time I will be in New Orleans. Submissions are due by Oct 25, 2012.
+
 Interesting
 -----------
 * Digital Media tax credit, technology development projects in Louisiana,

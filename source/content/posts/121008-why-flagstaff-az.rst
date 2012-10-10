@@ -28,7 +28,7 @@ The University of Northern Arizona has its
 
 More Research
 -------------
-I'll `post further notes <../moab-ut.html>`_ as I continue to gather 
+I'll `post further notes <../flagstaff-az.html>`_ as I continue to gather 
 more information about Flagstaff.
 
 

@@ -24,3 +24,4 @@ Basic stats
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/rahimageworks/7244818350/>`_
+

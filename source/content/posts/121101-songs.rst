@@ -1,0 +1,39 @@
+Songs
+=====
+
+:category: future-post
+:date: 2012-10-01
+:slug: songs
+
+Charlottesville, VA: "Run" by Snow Patrol
+Charlotte, NC: "I Can Do Anything" by 3OH!3
+Nashville, TN: "Citizen" by Broken Bells
+Memphis, TN: "I've Been Everywhere" by Johnny Cash
+New Orleans, LA: "Wide Awake" by Chris Cornell
+Austin, TX: "Midnight City" by M83
+Lubbock, TX: "Pickup Truck" by Kings of Leon
+Los Alamos, NM: "Shadow on the Sun" by Audioslave
+Moab, UT: "The Stones are not too busy" by Solar Fields
+Flagstaff, AZ: "Arizona" by Kings of Leon
+San Diego, CA: "What's My Age Again?" by Blink-182
+Los Angeles, CA: "Something to Believe In" by The Offspring
+San Francisco, CA: 
+Redding, CA:
+Eugene, OR: 
+Portland, OR: "Me and You" by Nero
+Seattle, WA: "Mad Love" by Neon Trees
+Missoula, MT: 
+Buffalo, WY: "Little Talks" by Of Monsters and Men
+Boulder, CO: "Don't Trust Me" by 3OH!3
+Omaha, NE: 
+Des Moines, IA: "Home" by Edward Sharpe and the Magnetic Zeroes
+Madison, WI:
+Chicago, IL: 
+Detroit, MI:
+Buffalo, NY:
+Boston, MA: 
+New York City, NY: 
+Morristown, NJ: "Change the Game" by Jay-Z
+Washington, DC: "Amazed" by The Offspring
+
+

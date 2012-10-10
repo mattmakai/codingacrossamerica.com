@@ -1,6 +1,27 @@
 Detroit, MI
 ===========
 
-References
-----------
-* `Detroit Resurgence Due to Tech <http://video.msnbc.msn.com/nightly-news/47934620/#47934620>`_
+:category: city
+:date: 2013-07-09
+:slug: detroit-mi
+
+----
+
+.. image:: ../img/detroit-mi.jpg
+  :width: 640px
+  :height: 480px
+  :alt: View of Detroit, Michigan from the water
+
+----
+
+Basic stats
+-----------
+* Why Detroit, Michigan? (blog post coming soon)
+* City population: 705k, Metro population: 4.3m
+* Approximate distance driven on trip: `7900 miles <http://bit.ly/R3O35R>`_
+* `Google Maps: Detroit <http://goo.gl/maps/lQBjG>`_
+
+
+Photo Attribution
+-----------------
+* `Flickr Creative Commons License <http://www.flickr.com/photos/patriciadrury/3381026294/>`_
