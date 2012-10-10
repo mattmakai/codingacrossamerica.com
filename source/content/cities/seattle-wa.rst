@@ -21,6 +21,11 @@ Basic stats
 * Approximate distance driven on trip: `5200 miles <http://goo.gl/maps/9Ju67>`_
 * `Google Maps: Seattle <http://goo.gl/maps/GOlzU>`_
 
+Coffee Shops
+------------
+* `Caffee D'Arte <http://www.caffedarte.com/>`_. On 1st Avenue, recommended by a coworker as
+  her favorite coffee shop in Seattle.
+
 References
 ----------
 * `Northwest Pipeline: U of Washington Computer Science <http://www.nytimes.com/2012/07/08/technology/u-of-washington-a-northwest-pipeline-to-silicon-valley.html>`_
