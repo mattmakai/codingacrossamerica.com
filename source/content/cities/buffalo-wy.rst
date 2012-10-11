@@ -2,7 +2,7 @@ Buffalo, WY
 ===========
 
 :category: city
-:date: 2013-06-06
+:date: 2013-06-09
 :slug: buffalo-wy
 
 ----

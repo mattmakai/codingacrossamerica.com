@@ -2,7 +2,7 @@ Omaha, NE
 =========
 
 :category: city
-:date: 2013-06-17
+:date: 2013-06-20
 :slug: omaha-ne
 
 ----

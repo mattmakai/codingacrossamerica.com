@@ -2,7 +2,7 @@ Redding, CA
 ===========
 
 :category: city
-:date: 2013-05-09
+:date: 2013-05-12
 :slug: redding-ca
 
 ----

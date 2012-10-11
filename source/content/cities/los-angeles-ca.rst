@@ -2,7 +2,7 @@ Los Angeles, CA
 ===============
 
 :category: city
-:date: 2013-04-22
+:date: 2013-04-28
 :slug: los-angeles-ca
 
 ----
