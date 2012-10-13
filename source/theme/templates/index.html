@@ -8,7 +8,7 @@
       <hr/>
       <h2>Recent Blog Posts</h2>
       {% set post_count = 0 %}
-      {% for article in dates|reverse %}
+      {% for article in dates %}
         {% if article.category == 'post' and post_count < 6 %}
           <div class="blog-post">
             <h3><a href="{{ article.slug }}.html">{{ article.title }}</a></h3>

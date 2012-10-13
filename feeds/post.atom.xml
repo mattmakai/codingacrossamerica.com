@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-10-10T00:00:00-04:00</updated><entry><title>Why Flagstaff, AZ?</title><link href="http://www.codingacrossamerica.com/why-flagstaff-az.html" rel="alternate"></link><updated>2012-10-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-flagstaff-az.html</id><summary type="html">&lt;p&gt;Flagstaff is the last stop in the leg of my trip that is primarily composed
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2012-10-13T00:00:00-04:00</updated><entry><title>Why San Diego, CA?</title><link href="http://www.codingacrossamerica.com/why-san-diego-ca.html" rel="alternate"></link><updated>2012-10-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-13:why-san-diego-ca.html</id><summary type="html">&lt;p&gt;San Diego was a late addition to my slate of destinations. I added San Diego
+for a couple of reasons. First, I ran into an old friend in DC who was
+back in town visiting from San Diego. She loves living in San Diego,
+asked me &amp;quot;why not visit?&amp;quot; and I didn't have a good answer for why I
+wasn't going. So that got me started thinking about it. Second, my
+brother hung out in San Diego for a few days when he drove across the
+country and he said it was amazing.&lt;/p&gt;
+&lt;p&gt;Plus no trip up the West Coast would seem complete unless I went the almost
+full length from San Diego to Seattle. So San Diego is destination number
+eleven during Coding Across America.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Port of San Diego with the city in the background" src="../img/san-diego-ca-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;This is where my Coding Across America trip puts the focus back on technology,
+meet ups, and start ups. San Diego has a pretty good tech scene. There's quite
+a &lt;a class="reference external" href="http://www.xconomy.com/san-diego/2012/07/20/san-diego-startups-raise-over-300m-from-vcs-in-second-quarter/"&gt;bit of venture funding here&lt;/a&gt;
+and more start ups than I have time to talk with. This should be an exciting
+location to visit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../san-diego-ca.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about San Diego.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/portofsandiego/5495014146/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Flagstaff, AZ?</title><link href="http://www.codingacrossamerica.com/why-flagstaff-az.html" rel="alternate"></link><updated>2012-10-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-10:why-flagstaff-az.html</id><summary type="html">&lt;p&gt;Flagstaff is the last stop in the leg of my trip that is primarily composed
 of small towns and beautiful outside scenery. This is destination number ten during
 Coding Across America.&lt;/p&gt;
 &lt;p&gt;Why Flagstaff instead of Phoenix, which is only a couple hours further South? No particular
@@ -28,7 +60,7 @@ more information about Flagstaff.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/91393778&amp;#64;N00/3038533783/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Why Moab, Utah?</title><link href="http://www.codingacrossamerica.com/why-moab-ut.html" rel="alternate"></link><updated>2012-10-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-moab-ut.html</id><summary type="html">&lt;p&gt;I recently added Moab to my list of destinations after a couple of
+</summary></entry><entry><title>Why Moab, Utah?</title><link href="http://www.codingacrossamerica.com/why-moab-ut.html" rel="alternate"></link><updated>2012-10-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-07:why-moab-ut.html</id><summary type="html">&lt;p&gt;I recently added Moab to my list of destinations after a couple of
 recommendations from people I randomly met. Moab looks amazing from photos
 but apparently none of them do it justice. &amp;quot;You have to see it in person&amp;quot;
 I'm told. So with that Moab will be destination number nine.&lt;/p&gt;
@@ -53,7 +85,7 @@ more information about Moab.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dfb_photos/6193076965/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Why Los Alamos, New Mexico?</title><link href="http://www.codingacrossamerica.com/why-los-alamos-nm.html" rel="alternate"></link><updated>2012-10-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-los-alamos-nm.html</id><summary type="html">&lt;p&gt;Los Alamos, New Mexico is another one of those destinations that leaves
+</summary></entry><entry><title>Why Los Alamos, New Mexico?</title><link href="http://www.codingacrossamerica.com/why-los-alamos-nm.html" rel="alternate"></link><updated>2012-10-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-06:why-los-alamos-nm.html</id><summary type="html">&lt;p&gt;Los Alamos, New Mexico is another one of those destinations that leaves
 people wondering &amp;quot;what does that have to do with tech&amp;quot;? It is definitely
 not a town that people associate with startups like Palo Alto, Seattle,
 Boulder, or Austin. Still there is a lot of advanced research going on here
@@ -79,7 +111,7 @@ more information about Los Alamos.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/ethanfrogget/5968569467/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Why Lubbock, Texas?</title><link href="http://www.codingacrossamerica.com/why-lubbock-tx.html" rel="alternate"></link><updated>2012-09-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-lubbock-tx.html</id><summary type="html">&lt;p&gt;Lubbock is home to the Red Raiders of Texas Tech University and is about
+</summary></entry><entry><title>Why Lubbock, Texas?</title><link href="http://www.codingacrossamerica.com/why-lubbock-tx.html" rel="alternate"></link><updated>2012-09-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-27:why-lubbock-tx.html</id><summary type="html">&lt;p&gt;Lubbock is home to the Red Raiders of Texas Tech University and is about
 seven hours Northwest of Austin, Texas. Lubbock will be the seventh city
 I visit during Coding Across America. This stop begins the leg of my trip
 that will take me to some remote place in the Southwest United States,
@@ -110,7 +142,7 @@ more information about Lubbock.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/imagesbywestfall/3423388821/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Diminishing Marginal Utility of &amp;quot;Stuff&amp;quot;</title><link href="http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html" rel="alternate"></link><updated>2012-09-23T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html</id><summary type="html">&lt;p&gt;I found this post on the &lt;a class="reference external" href="http://www.antipope.org/charlie/blog-static/2012/09/on-the-diminishing-marginal-ut.html"&gt;diminishing marginal utility of stuff&lt;/a&gt;
+</summary></entry><entry><title>Diminishing Marginal Utility of "Stuff"</title><link href="http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html" rel="alternate"></link><updated>2012-09-23T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-23:diminishing-marginal-utility-stuff.html</id><summary type="html">&lt;p&gt;I found this post on the &lt;a class="reference external" href="http://www.antipope.org/charlie/blog-static/2012/09/on-the-diminishing-marginal-ut.html"&gt;diminishing marginal utility of stuff&lt;/a&gt;
 climbing Hacker News yesterday morning and it resonated with me both in
 general and for my trip.&lt;/p&gt;
 &lt;p&gt;Particular lifestyles more easily lend themselves to having less things.
@@ -137,7 +169,7 @@ cure today.&lt;/p&gt;
 eventually lead to worthwhile purchases that allow people to fix or even
 &amp;quot;upgrade&amp;quot; themselves. Wealth would certainly flow from people with means
 to the companies that could provide those solutions.&lt;/p&gt;
-</summary></entry><entry><title>Why Austin, Texas?</title><link href="http://www.codingacrossamerica.com/why-austin-tx.html" rel="alternate"></link><updated>2012-09-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-austin-tx.html</id><summary type="html">&lt;p&gt;Austin was the first city I put on the map during my road trip planning.
+</summary></entry><entry><title>Why Austin, Texas?</title><link href="http://www.codingacrossamerica.com/why-austin-tx.html" rel="alternate"></link><updated>2012-09-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-22:why-austin-tx.html</id><summary type="html">&lt;p&gt;Austin was the first city I put on the map during my road trip planning.
 I knew there was no way I was going to skip it or just spend a couple of days
 there. Nothing less than a full week will suffice. In fact, much of my early
 planning and building of this website was done while visiting Austin for a
@@ -185,7 +217,7 @@ more information about Austin.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/stuseeger/4895843907/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Staying In Shape On The Road</title><link href="http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html</id><summary type="html">&lt;p&gt;I work out almost every day and access to my gym in Arlington is convenient
+</summary></entry><entry><title>Staying In Shape On The Road</title><link href="http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-18:staying-in-shape-on-the-road.html</id><summary type="html">&lt;p&gt;I work out almost every day and access to my gym in Arlington is convenient
 (a walk across the street). So figuring out how to stay in shape on the road
 has been a particular challenge. I don't think I'll have it completely
 figured out by the time I leave. It'll probably be something that evolves as
@@ -214,7 +246,7 @@ have heavy weight to work with most of the time. Doing these types of
 workouts once or twice a day (the second time would be plain running or a
 completely different muscle group) should help me to keep in shape while on
 the road.&lt;/p&gt;
-</summary></entry><entry><title>Why New Orleans, Louisiana?</title><link href="http://www.codingacrossamerica.com/why-new-orleans-la.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-new-orleans-la.html</id><summary type="html">&lt;p&gt;New Orleans has a strong, unique city culture. I previously traveled to
+</summary></entry><entry><title>Why New Orleans, Louisiana?</title><link href="http://www.codingacrossamerica.com/why-new-orleans-la.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-18:why-new-orleans-la.html</id><summary type="html">&lt;p&gt;New Orleans has a strong, unique city culture. I previously traveled to
 New Orleans in 2010 although I was there for only a few short days. I have
 a couple of reasons for returning and making New Orleans the fifth destination
 on my trip.&lt;/p&gt;
@@ -270,7 +302,7 @@ previously here in February and the weather was great (high 70s).&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/84263554&amp;#64;N00/400064521/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Why Memphis, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-memphis-tennessee.html" rel="alternate"></link><updated>2012-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-memphis-tennessee.html</id><summary type="html">&lt;p&gt;Several of my DC friends previously lived in Memphis and recommended that
+</summary></entry><entry><title>Why Memphis, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-memphis-tennessee.html" rel="alternate"></link><updated>2012-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-07:why-memphis-tennessee.html</id><summary type="html">&lt;p&gt;Several of my DC friends previously lived in Memphis and recommended that
 I visit the city while I am travelling through Tennessee. There's great
 BBQ, high recommendations for
 &lt;a class="reference external" href="http://www.bealestreet.com/wordpress/"&gt;Beale Street&lt;/a&gt;, and a different
@@ -315,7 +347,7 @@ diseases.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paparutzi/52677265/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
+</summary></entry><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-05:djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
 website for Django meetups across the United States. The Chicago Users Group
 originally registered the domain name for their own purposes but then
 realized it would be of benefit to the greater Django community to have
@@ -324,7 +356,7 @@ a centralized location for all users groups.&lt;/p&gt;
 &lt;p&gt;I'll be using djangonauts.org to contact Django users groups in each city
 that I will be visiting in 2013. Hopefully I can meet with most of the groups
 on the list.&lt;/p&gt;
-</summary></entry><entry><title>Living Out of Your Car</title><link href="http://www.codingacrossamerica.com/living-out-of-your-car.html" rel="alternate"></link><updated>2012-08-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/living-out-of-your-car.html</id><summary type="html">&lt;p&gt;I am not planning to live out of my car while on my five month road trip like
+</summary></entry><entry><title>Living Out of Your Car</title><link href="http://www.codingacrossamerica.com/living-out-of-your-car.html" rel="alternate"></link><updated>2012-08-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-29:living-out-of-your-car.html</id><summary type="html">&lt;p&gt;I am not planning to live out of my car while on my five month road trip like
 &lt;a class="reference external" href="http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1"&gt;this guy did while bootstrapping his start up&lt;/a&gt;. But his determination
 to spend as little money as possible to start his company is impressive
 in a weird way. His Quora write up includes a bunch of pictures that show
@@ -335,7 +367,7 @@ a working situation. What I found most interesting is that he did it
 out of a Honda Civic and not a minivan like &lt;a class="reference external" href="http://boards.adultswim.com/t5/Babbling/i-am-seriously-considering-living-out-of-a-minivan/td-p/60020874"&gt;some people consider doing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hotels, Airbnb rentals, and friend's residences are the way for me to go.
 Particularly since the old S2000's seats don't recline.&lt;/p&gt;
-</summary></entry><entry><title>Why Nashville, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-nashville-tn.html" rel="alternate"></link><updated>2012-08-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-nashville-tn.html</id><summary type="html">&lt;p&gt;I have never been to Nashville before, so image I have in my head of what it's
+</summary></entry><entry><title>Why Nashville, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-nashville-tn.html" rel="alternate"></link><updated>2012-08-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-19:why-nashville-tn.html</id><summary type="html">&lt;p&gt;I have never been to Nashville before, so image I have in my head of what it's
 like is a gross generalization of what I am sure it actually is. I mainly
 envision country music, a South/Midwestern sort of pride by the people that
 reside there, and very little focus on new technology. I am probably wrong
@@ -377,7 +409,7 @@ to low 60s. Borderline nice but not warm enough for shorts and flip flops.&lt;/p
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/22711505&amp;#64;N05/6011743607/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>A Few Route Modifications</title><link href="http://www.codingacrossamerica.com/few-route-modifications.html" rel="alternate"></link><updated>2012-08-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/few-route-modifications.html</id><summary type="html">&lt;p&gt;I'm making a few changes to my planned route (which is now reflected in
+</summary></entry><entry><title>A Few Route Modifications</title><link href="http://www.codingacrossamerica.com/few-route-modifications.html" rel="alternate"></link><updated>2012-08-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-04:few-route-modifications.html</id><summary type="html">&lt;p&gt;I'm making a few changes to my planned route (which is now reflected in
 the embedded Google Map on the about page). These modifications are due to
 conversations I've recently had with several people familiar with these
 cities. I decided that based on their recommendations I would be missing out
@@ -422,7 +454,7 @@ I would go. Dallas was previously a good stop between Nashville and Austin,
 but now it would be out of the way between New Orleans and Austin. Besides,
 by removing Dallas I get to spend more time in Austin.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
+</summary></entry><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-28:archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
 months on the road. Some types of days are more conducive than others
 for coding.&lt;/p&gt;
 &lt;p&gt;I need large blocks of time since it's difficult to context switch
@@ -475,7 +507,7 @@ that morning or to do programming.&lt;/p&gt;
 Run or workout. Shower, get dressed, have something to eat.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;11am through the evening.&lt;/em&gt;
 Explore the city, take pictures, and write blog posts.&lt;/p&gt;
-</summary></entry><entry><title>Causal Attribution</title><link href="http://www.codingacrossamerica.com/causal-attribution.html" rel="alternate"></link><updated>2012-07-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/causal-attribution.html</id><summary type="html">&lt;p&gt;One of my least favorite quotes is &amp;quot;everything happens for a reason.&amp;quot; The
+</summary></entry><entry><title>Causal Attribution</title><link href="http://www.codingacrossamerica.com/causal-attribution.html" rel="alternate"></link><updated>2012-07-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-22:causal-attribution.html</id><summary type="html">&lt;p&gt;One of my least favorite quotes is &amp;quot;everything happens for a reason.&amp;quot; The
 connotation is clearer if you append &amp;quot;but I didn't plan it out that
 way&amp;quot; onto it.&lt;/p&gt;
 &lt;p&gt;Events happen (or &amp;quot;shit happens&amp;quot; if you prefer that expression). It's
@@ -503,7 +535,7 @@ things work out. The laissez faire attitude of &amp;quot;good things will happen
 just because&amp;quot; simply isn't for me.&lt;/p&gt;
 &lt;p&gt;That's why I'm going to make this trip happen. It's not just going to happen
 because it's what is supposed to occur.&lt;/p&gt;
-</summary></entry><entry><title>Quiet</title><link href="http://www.codingacrossamerica.com/quiet.html" rel="alternate"></link><updated>2012-07-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/quiet.html</id><summary type="html">&lt;p&gt;I'm writing this post from Kansas City, Missouri. One of the
+</summary></entry><entry><title>Quiet</title><link href="http://www.codingacrossamerica.com/quiet.html" rel="alternate"></link><updated>2012-07-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-07:quiet.html</id><summary type="html">&lt;p&gt;I'm writing this post from Kansas City, Missouri. One of the
 things I find so striking here is how quiet it is downtown during the day
 on weekends. Part of the lack of people may be due to the 100+ degree
 weather, but my friend PJ who lives here says this is normal.&lt;/p&gt;
@@ -529,7 +561,7 @@ the day.&lt;/p&gt;
 out here that is different from my expectations based on living in East
 Coast cities. It'll be interesting to see how the 25-ish cities I'm
 visiting next year fit in this pattern.&lt;/p&gt;
-</summary></entry><entry><title>Breadth Versus Depth</title><link href="http://www.codingacrossamerica.com/breadth-versus-depth.html" rel="alternate"></link><updated>2012-07-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/breadth-versus-depth.html</id><summary type="html">&lt;p&gt;One of the things I constantly struggle with in my software development
+</summary></entry><entry><title>Breadth Versus Depth</title><link href="http://www.codingacrossamerica.com/breadth-versus-depth.html" rel="alternate"></link><updated>2012-07-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-04:breadth-versus-depth.html</id><summary type="html">&lt;p&gt;One of the things I constantly struggle with in my software development
 consulting career is balancing breadth versus depth.&lt;/p&gt;
 &lt;p&gt;When I graduated from &lt;a class="reference external" href="http://www.jmu.edu/"&gt;JMU&lt;/a&gt; in 2005, I was
 not deep in anything related to my career. I had a very broad knowledge
@@ -575,7 +607,7 @@ as a whole. Better to have more destinations with shorter stints in cities
 both large and small rather than a few longer stays in cities that may
 skew the results towards a vision that isn't accurate (say, Palo Alto,
 Seattle, Austin, and Boulder for instance).&lt;/p&gt;
-</summary></entry><entry><title>Why Charlottesville, Virginia?</title><link href="http://www.codingacrossamerica.com/why-charlottesville-va.html" rel="alternate"></link><updated>2012-06-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-charlottesville-va.html</id><summary type="html">&lt;p&gt;Originally my first stop was Charlotte, NC. Now it's stop #2. I used to live
+</summary></entry><entry><title>Why Charlottesville, Virginia?</title><link href="http://www.codingacrossamerica.com/why-charlottesville-va.html" rel="alternate"></link><updated>2012-06-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-30:why-charlottesville-va.html</id><summary type="html">&lt;p&gt;Originally my first stop was Charlotte, NC. Now it's stop #2. I used to live
 in Charlottesville, VA from 2007-09. Charlottesville's distance between DC
 and Charlotte makes it a good spot to spend a couple of days before
 heading out to new destinations. Charlottesville is one of those small
@@ -645,7 +677,7 @@ snow hits.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/small_realm/6370977289/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Camera</title><link href="http://www.codingacrossamerica.com/camera.html" rel="alternate"></link><updated>2012-06-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/camera.html</id><summary type="html">&lt;p&gt;I knew I needed a better camera than the one in my Droid 3 for this trip.
+</summary></entry><entry><title>Camera</title><link href="http://www.codingacrossamerica.com/camera.html" rel="alternate"></link><updated>2012-06-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-24:camera.html</id><summary type="html">&lt;p&gt;I knew I needed a better camera than the one in my Droid 3 for this trip.
 At first I thought about digital SLRs, but the additional size, weight,
 and complexity turned me off to them. I am not currently interested
 enough in learning the intricate details of tuning a camera or changing a
@@ -657,7 +689,7 @@ any benefit from an SLR over a quality point-and-shoot camera.&lt;/p&gt;
 memory card should have plenty of space for all the pictures I take. I'm
 looking forward to using a real camera to post pictures of the people and
 places in every city I stay in.&lt;/p&gt;
-</summary></entry><entry><title>Projects</title><link href="http://www.codingacrossamerica.com/projects.html" rel="alternate"></link><updated>2012-06-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/projects.html</id><summary type="html">&lt;p&gt;Since coding is in the title of this site and my trip across the country,
+</summary></entry><entry><title>Projects</title><link href="http://www.codingacrossamerica.com/projects.html" rel="alternate"></link><updated>2012-06-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-18:projects.html</id><summary type="html">&lt;p&gt;Since coding is in the title of this site and my trip across the country,
 what will I be programming? Part of my excitement with the trip is having
 focused, dedicated blocks of time to sit in coffee shops or restaurants
 and work on projects I'm passionate about launching. While my development
@@ -705,7 +737,7 @@ app, I'd consider spending up to 20 hours a week working on it.&lt;/p&gt;
 &lt;p&gt;As I mentioned above, it's likely these projects will change and new ones
 will get added, but right now that's what I think of with the &amp;quot;Coding&amp;quot; part
 of Coding Across America.&lt;/p&gt;
-</summary></entry><entry><title>The Conversations</title><link href="http://www.codingacrossamerica.com/the-conversations.html" rel="alternate"></link><updated>2012-06-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/the-conversations.html</id><summary type="html">&lt;p&gt;By far my favorite part of planning and undertaking this trip is talking
+</summary></entry><entry><title>The Conversations</title><link href="http://www.codingacrossamerica.com/the-conversations.html" rel="alternate"></link><updated>2012-06-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-17:the-conversations.html</id><summary type="html">&lt;p&gt;By far my favorite part of planning and undertaking this trip is talking
 to people I've just met about where they've lived and where I should go.
 When you ask people where they are from and where they've visited
 the responses are often surprising. Asking detailed questions
@@ -724,7 +756,7 @@ during this trip, I know there's going to be many random tangents and
 paths that I'll go down. I can't foresee those paths now, but
 keeping an open mind about new ideas and activities is a big part of the
 journey.&lt;/p&gt;
-</summary></entry><entry><title>Estimating A Budget</title><link href="http://www.codingacrossamerica.com/estimating-budget.html" rel="alternate"></link><updated>2012-06-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/estimating-budget.html</id><summary type="html">&lt;p&gt;Until I plan my exact trip route, book places to stay, and figure out what
+</summary></entry><entry><title>Estimating A Budget</title><link href="http://www.codingacrossamerica.com/estimating-budget.html" rel="alternate"></link><updated>2012-06-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-11:estimating-budget.html</id><summary type="html">&lt;p&gt;Until I plan my exact trip route, book places to stay, and figure out what
 (if any) tech conferences I'm going to, it will be hard to determine an
 exact budget for my trip. However, I can create a ballpark figure based
 on averaging an aggressive budget and a conservative budget. &amp;quot;Conservative&amp;quot;
@@ -820,7 +852,7 @@ to $32k cost total for the trip including accomodations, food &amp;amp; drinks,
 car-related expenses, and other miscellaneous charges. I'll refine the
 estimates as my plans become more concrete.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Jump Forward One Year</title><link href="http://www.codingacrossamerica.com/jump-forward-one-year.html" rel="alternate"></link><updated>2012-06-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/jump-forward-one-year.html</id><summary type="html">&lt;p&gt;I recently remarked to someone I was talking to about my trip that it is
+</summary></entry><entry><title>Jump Forward One Year</title><link href="http://www.codingacrossamerica.com/jump-forward-one-year.html" rel="alternate"></link><updated>2012-06-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-05:jump-forward-one-year.html</id><summary type="html">&lt;p&gt;I recently remarked to someone I was talking to about my trip that it is
 odd knowing I will not be in Washington, DC at this same time next year.
 I've lived in Virginia for the past eleven years (4 &amp;#64; JMU, 2 in Arlington,
 2 1/2 in Charlottesville, 2 1/2 back in Arlington). It's easy to fall into
@@ -839,7 +871,7 @@ life takes me once I'm traveling across the country. Better to use
 limited time I have here and truly enjoy DC rather than continue to
 in some ways waste the great parts of this city by not taking advantage of
 its unique aspects that I won't get anywhere else in the US.&lt;/p&gt;
-</summary></entry><entry><title>Why Charlotte, North Carolina?</title><link href="http://www.codingacrossamerica.com/why-charlotte-nc.html" rel="alternate"></link><updated>2012-05-31T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-charlotte-nc.html</id><summary type="html">&lt;p&gt;Charlotte, North Carolina is the first destination on my trip outside of
+</summary></entry><entry><title>Why Charlotte, North Carolina?</title><link href="http://www.codingacrossamerica.com/why-charlotte-nc.html" rel="alternate"></link><updated>2012-05-31T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-31:why-charlotte-nc.html</id><summary type="html">&lt;p&gt;Charlotte, North Carolina is the first destination on my trip outside of
 Washington, DC. Charlotte is approximately 400 miles from DC (about 7 hours)
 and several people I know have moved to Charlotte to escape the
 government-centric DC area for careers focused on commercial business.
@@ -880,7 +912,7 @@ March 12, 2013.&lt;/p&gt;
 &lt;p&gt;My further research on Charlotte will be posted on the
 &lt;a class="reference external" href="../charlotte-nc.html"&gt;Charlotte destination page&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Possessions</title><link href="http://www.codingacrossamerica.com/possessions.html" rel="alternate"></link><updated>2012-05-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/possessions.html</id><summary type="html">&lt;p&gt;“Many wealthy people are little more than the janitors of their possessions.”
+</summary></entry><entry><title>Possessions</title><link href="http://www.codingacrossamerica.com/possessions.html" rel="alternate"></link><updated>2012-05-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-28:possessions.html</id><summary type="html">&lt;p&gt;“Many wealthy people are little more than the janitors of their possessions.”
 - Frank Lloyd Wright&lt;/p&gt;
 &lt;p&gt;Several years ago I decided see if I could eventually
 fit all my possessions in &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Honda_S2000"&gt;my car&lt;/a&gt;.
@@ -904,7 +936,7 @@ share together. This perspective shift may not be for everyone - materialism
 is still a big part of the American lifestyle. But reducing possessions and
 thinking more about those around you is worth a thought while we are in the
 shadow of the &amp;quot;Great Recession&amp;quot; and most people are already forced to cut back.&lt;/p&gt;
-</summary></entry><entry><title>Contributions</title><link href="http://www.codingacrossamerica.com/contributions.html" rel="alternate"></link><updated>2012-05-26T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/contributions.html</id><summary type="html">&lt;p&gt;The Coding Across America
+</summary></entry><entry><title>Contributions</title><link href="http://www.codingacrossamerica.com/contributions.html" rel="alternate"></link><updated>2012-05-26T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-26:contributions.html</id><summary type="html">&lt;p&gt;The Coding Across America
 &lt;a class="reference external" href="http://www.codingacrossamerica.com/contributors.html"&gt;contributors page&lt;/a&gt;
 is a list of everyone that has in some way given me advice, recommendations,
 or in some way shaped my trip.&lt;/p&gt;
@@ -919,7 +951,7 @@ that became the cover of Science magazine in December 2010. That's an amazing
 accomplishment. I hope that going through the list of contributors is a
 fascinating look into the lives of people who helped make Coding Across America
 possible.&lt;/p&gt;
-</summary></entry><entry><title>What To Do In Each City</title><link href="http://www.codingacrossamerica.com/what-to-do-in-each-city.html" rel="alternate"></link><updated>2012-05-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/what-to-do-in-each-city.html</id><summary type="html">&lt;p&gt;Here are the main places and events I intend to visit while on the road.&lt;/p&gt;
+</summary></entry><entry><title>What To Do In Each City</title><link href="http://www.codingacrossamerica.com/what-to-do-in-each-city.html" rel="alternate"></link><updated>2012-05-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-24:what-to-do-in-each-city.html</id><summary type="html">&lt;p&gt;Here are the main places and events I intend to visit while on the road.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Meet ups&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I have been to a bunch of great meet ups in the Washington, DC area. I am
 sure many of the destinations on the list also have great meet ups. I'll
@@ -948,7 +980,7 @@ out the best spots in every city both large and small.&lt;/p&gt;
 interesting landmarks and &amp;quot;touristy&amp;quot; spots along the way.&lt;/p&gt;
 &lt;p&gt;There are more spots I intend to check out in various cities, but that
 covers the majority of what I'm generically looking for in each destination.&lt;/p&gt;
-</summary></entry><entry><title>Goals</title><link href="http://www.codingacrossamerica.com/goals.html" rel="alternate"></link><updated>2012-05-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/goals.html</id><summary type="html">&lt;p&gt;It is important to focus on specific goals when undertaking any large
+</summary></entry><entry><title>Goals</title><link href="http://www.codingacrossamerica.com/goals.html" rel="alternate"></link><updated>2012-05-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-22:goals.html</id><summary type="html">&lt;p&gt;It is important to focus on specific goals when undertaking any large
 project. I consider four months away from work to travel a major project,
 so here are my initial thoughts on what my goals are for Coding Across
 America.&lt;/p&gt;
@@ -991,7 +1023,7 @@ put ideas into code. Gaining a greater understanding of tech culture
 across the US and spending time talking to people in cities both large and
 small will help to shape my ideas around the subject so I can hopefully
 spread those positive ideas when I return to our nation's capital.&lt;/p&gt;
-</summary></entry><entry><title>Why?</title><link href="http://www.codingacrossamerica.com/why-coding-across-america.html" rel="alternate"></link><updated>2012-05-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-coding-across-america.html</id><summary type="html">&lt;p&gt;Why travel across the United States for four months? There's a few ways to
+</summary></entry><entry><title>Why?</title><link href="http://www.codingacrossamerica.com/why-coding-across-america.html" rel="alternate"></link><updated>2012-05-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-21:why-coding-across-america.html</id><summary type="html">&lt;p&gt;Why travel across the United States for four months? There's a few ways to
 approach this question, so I'll answer three variations separately then
 bring it back together at the end.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Why travel at all?&lt;/strong&gt;&lt;/p&gt;

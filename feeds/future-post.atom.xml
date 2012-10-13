@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2012-11-01T00:00:00-04:00</updated><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-11-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;I came up with a list of 30 songs, one each for each of the 30 cities I will
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2012-11-01T00:00:00-04:00</updated><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-11-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-11-01:songs.html</id><summary type="html">&lt;p&gt;I came up with a list of 30 songs, one each for each of the 30 cities I will
 be traveling to. Each of the songs has a different meaning - whether with
 the city itself, such as Johnny Cash from Memphis, TN, a song about the
 city, such as &amp;quot;Wide Awake&amp;quot; by Chris Cornell, or something personal to me.
@@ -21,8 +21,8 @@ got their start in that city.&lt;/p&gt;
 &lt;li&gt;San Francisco, CA -&lt;/li&gt;
 &lt;li&gt;Redding, CA -&lt;/li&gt;
 &lt;li&gt;Eugene, OR -&lt;/li&gt;
-&lt;li&gt;Portland, OR - &amp;quot;Me and You&amp;quot; by Nero&lt;/li&gt;
-&lt;li&gt;Seattle, WA - &amp;quot;Mad Love&amp;quot; by Neon Trees&lt;/li&gt;
+&lt;li&gt;Portland, OR -&lt;/li&gt;
+&lt;li&gt;Seattle, WA - &amp;quot;You Know You're Right&amp;quot; by Nirvana&lt;/li&gt;
 &lt;li&gt;Missoula, MT -&lt;/li&gt;
 &lt;li&gt;Buffalo, WY - &amp;quot;Little Talks&amp;quot; by Of Monsters and Men&lt;/li&gt;
 &lt;li&gt;Boulder, CO - &amp;quot;Don't Trust Me&amp;quot; by 3OH!3&lt;/li&gt;

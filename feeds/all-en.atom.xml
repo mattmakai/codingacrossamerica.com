@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com</id><updated>2013-08-14T00:00:00-04:00</updated><entry><title>Washington, DC</title><link href="http://www.codingacrossamerica.com/washington-dc.html" rel="alternate"></link><updated>2013-08-14T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/washington-dc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-08-14T00:00:00-04:00</updated><entry><title>Washington, DC</title><link href="http://www.codingacrossamerica.com/washington-dc.html" rel="alternate"></link><updated>2013-08-14T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-14:washington-dc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Washington, DC" src="../img/washington-dc.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -25,7 +25,7 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/aon/3017817334/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Morristown, NJ</title><link href="http://www.codingacrossamerica.com/morristown-nj.html" rel="alternate"></link><updated>2013-08-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/morristown-nj.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Morristown, NJ</title><link href="http://www.codingacrossamerica.com/morristown-nj.html" rel="alternate"></link><updated>2013-08-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-09:morristown-nj.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="The Green in Morristown, NJ" src="../img/morristown-nj.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -43,7 +43,7 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/9491225&amp;#64;N05/3495305379/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>New York, NY</title><link href="http://www.codingacrossamerica.com/new-york-ny.html" rel="alternate"></link><updated>2013-08-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/new-york-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>New York, NY</title><link href="http://www.codingacrossamerica.com/new-york-ny.html" rel="alternate"></link><updated>2013-08-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-02:new-york-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="New York City, New York" src="../img/new-york-ny.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -61,7 +61,7 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/endymion120/5471920747/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Boston, MA</title><link href="http://www.codingacrossamerica.com/boston-ma.html" rel="alternate"></link><updated>2013-07-26T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/boston-ma.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Boston, MA</title><link href="http://www.codingacrossamerica.com/boston-ma.html" rel="alternate"></link><updated>2013-07-26T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-26:boston-ma.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Dusk view of Boston, Massachusetts" src="../img/boston-ma.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -79,7 +79,7 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/ensh/4769294947/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Buffalo, NY</title><link href="http://www.codingacrossamerica.com/buffalo-ny.html" rel="alternate"></link><updated>2013-07-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/buffalo-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Buffalo, NY</title><link href="http://www.codingacrossamerica.com/buffalo-ny.html" rel="alternate"></link><updated>2013-07-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-21:buffalo-ny.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="M&amp;amp;T Bank is one of the only banks still operating in Downtown Buffalo" src="../img/buffalo-ny.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -97,7 +97,7 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/jasonparis/3580797684/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Detroit, MI</title><link href="http://www.codingacrossamerica.com/detroit-mi.html" rel="alternate"></link><updated>2013-07-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/detroit-mi.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Detroit, MI</title><link href="http://www.codingacrossamerica.com/detroit-mi.html" rel="alternate"></link><updated>2013-07-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-20:detroit-mi.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="View of Detroit, Michigan from the water" src="../img/detroit-mi.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -115,7 +115,16 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/patriciadrury/3381026294/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Chicago, IL</title><link href="http://www.codingacrossamerica.com/chicago-il.html" rel="alternate"></link><updated>2013-07-12T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/chicago-il.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Pittsburgh, PA</title><link href="http://www.codingacrossamerica.com/pittsburgh-pa.html" rel="alternate"></link><updated>2013-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-15:pittsburgh-pa.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="Downtown Pittsburgh, PA" src="../img/pittsburgh-pa.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/sakeeb/4139400286/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Chicago, IL</title><link href="http://www.codingacrossamerica.com/chicago-il.html" rel="alternate"></link><updated>2013-07-12T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-12:chicago-il.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Reflection of Chicago, Illinois in the Chicago Bean" src="../img/chicago-il.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -156,7 +165,22 @@ in Lincoln Park.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/moaksey/98309086/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Madison, WI</title><link href="http://www.codingacrossamerica.com/madison-wi.html" rel="alternate"></link><updated>2013-07-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/madison-wi.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Indianapolis, IN</title><link href="http://www.codingacrossamerica.com/indianapolis-in.html" rel="alternate"></link><updated>2013-07-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-09:indianapolis-in.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="Fisheye and exposure effect at night in Indianapolis, IN" src="../img/indianapolis-in.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="locations"&gt;
+&lt;h2&gt;Locations&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;The Central Library looks really interesting with unique architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/sergemelki/3057494448/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Madison, WI</title><link href="http://www.codingacrossamerica.com/madison-wi.html" rel="alternate"></link><updated>2013-07-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-08:madison-wi.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Bascom Hall in Madison, Wisconsin" src="../img/madison-wi.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -174,7 +198,7 @@ in Lincoln Park.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/rahimageworks/7244818350/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Des Moines, IA</title><link href="http://www.codingacrossamerica.com/des-moines-ia.html" rel="alternate"></link><updated>2013-06-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/des-moines-ia.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Des Moines, IA</title><link href="http://www.codingacrossamerica.com/des-moines-ia.html" rel="alternate"></link><updated>2013-06-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-24:des-moines-ia.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Des Moines, IA aerial view" src="../img/des-moines-ia.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -232,7 +256,7 @@ marys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/84263554&amp;#64;N00/3670146992/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Omaha, NE</title><link href="http://www.codingacrossamerica.com/omaha-ne.html" rel="alternate"></link><updated>2013-06-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/omaha-ne.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Omaha, NE</title><link href="http://www.codingacrossamerica.com/omaha-ne.html" rel="alternate"></link><updated>2013-06-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-20:omaha-ne.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Aerial view Omaha, NE from 36,000 feet" src="../img/omaha-ne.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -257,7 +281,7 @@ marys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/docsearls/5186842271/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Boulder, CO</title><link href="http://www.codingacrossamerica.com/boulder-co.html" rel="alternate"></link><updated>2013-06-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/boulder-co.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Boulder, CO</title><link href="http://www.codingacrossamerica.com/boulder-co.html" rel="alternate"></link><updated>2013-06-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-13:boulder-co.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Aerial view of Boulder, Colorado downtown and the university" src="../img/boulder-co.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -281,7 +305,7 @@ marys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/docsearls/5186842271/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Buffalo, WY</title><link href="http://www.codingacrossamerica.com/buffalo-wy.html" rel="alternate"></link><updated>2013-06-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/buffalo-wy.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Buffalo, WY</title><link href="http://www.codingacrossamerica.com/buffalo-wy.html" rel="alternate"></link><updated>2013-06-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-09:buffalo-wy.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Buffalo, Wyoming" src="../img/buffalo-wy.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -317,7 +341,7 @@ marys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/9217224&amp;#64;N06/4802644675/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Missoula, MT</title><link href="http://www.codingacrossamerica.com/missoula-mt.html" rel="alternate"></link><updated>2013-06-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/missoula-mt.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Missoula, MT</title><link href="http://www.codingacrossamerica.com/missoula-mt.html" rel="alternate"></link><updated>2013-06-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-04:missoula-mt.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Missoula, Montana" src="../img/missoula-mt.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -335,7 +359,7 @@ marys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/30709234&amp;#64;N02/5406402005/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Seattle, WA</title><link href="http://www.codingacrossamerica.com/seattle-wa.html" rel="alternate"></link><updated>2013-05-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/seattle-wa.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Seattle, WA</title><link href="http://www.codingacrossamerica.com/seattle-wa.html" rel="alternate"></link><updated>2013-05-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-27:seattle-wa.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Seattle's Downtown skyline" src="../img/seattle-wa.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -366,7 +390,7 @@ her favorite coffee shop in Seattle.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/patrickmcnally/7037116743/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Portland, OR</title><link href="http://www.codingacrossamerica.com/portland-or.html" rel="alternate"></link><updated>2013-05-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/portland-or.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Portland, OR</title><link href="http://www.codingacrossamerica.com/portland-or.html" rel="alternate"></link><updated>2013-05-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-21:portland-or.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Portland, Oregon" src="../img/portland-or.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -443,7 +467,7 @@ her favorite coffee shop in Seattle.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/nostri-imago/3289494666/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Eugene, OR</title><link href="http://www.codingacrossamerica.com/eugene-or.html" rel="alternate"></link><updated>2013-05-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/eugene-or.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Eugene, OR</title><link href="http://www.codingacrossamerica.com/eugene-or.html" rel="alternate"></link><updated>2013-05-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-17:eugene-or.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Eugene Oregon Science Factory" src="../img/eugene-or.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -470,7 +494,7 @@ get it done.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/23905174&amp;#64;N00/2563632154/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Redding, CA</title><link href="http://www.codingacrossamerica.com/redding-ca.html" rel="alternate"></link><updated>2013-05-12T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/redding-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Redding, CA</title><link href="http://www.codingacrossamerica.com/redding-ca.html" rel="alternate"></link><updated>2013-05-12T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-12:redding-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Sunset in Redding, CA" src="../img/redding-ca.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -488,7 +512,7 @@ get it done.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/85822043&amp;#64;N00/204263959/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>San Francisco, CA</title><link href="http://www.codingacrossamerica.com/san-francisco-ca.html" rel="alternate"></link><updated>2013-05-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/san-francisco-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>San Francisco, CA</title><link href="http://www.codingacrossamerica.com/san-francisco-ca.html" rel="alternate"></link><updated>2013-05-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-01:san-francisco-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown San Francisco, CA" src="../img/san-francisco-ca.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -522,7 +546,7 @@ Coding Across America logo (site redesign coming soon).&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/grantloy/4592867698/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Los Angeles, CA</title><link href="http://www.codingacrossamerica.com/los-angeles-ca.html" rel="alternate"></link><updated>2013-04-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/los-angeles-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Los Angeles, CA</title><link href="http://www.codingacrossamerica.com/los-angeles-ca.html" rel="alternate"></link><updated>2013-04-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-28:los-angeles-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Los Angeles, CA" src="../img/los-angeles-ca.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -547,7 +571,7 @@ for its Mexican food and happy hour.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/feculent_fugue/6190964798/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>San Diego, CA</title><link href="http://www.codingacrossamerica.com/san-diego-ca.html" rel="alternate"></link><updated>2013-04-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/san-diego-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>San Diego, CA</title><link href="http://www.codingacrossamerica.com/san-diego-ca.html" rel="alternate"></link><updated>2013-04-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-22:san-diego-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="San Diego harbor at night" src="../img/san-diego-ca.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;San Diego harbor at night.&lt;/p&gt;
@@ -578,7 +602,7 @@ for its Mexican food and happy hour.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/robsettantasei/3031503519/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Flagstaff, AZ</title><link href="http://www.codingacrossamerica.com/flagstaff-az.html" rel="alternate"></link><updated>2013-04-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/flagstaff-az.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Flagstaff, AZ</title><link href="http://www.codingacrossamerica.com/flagstaff-az.html" rel="alternate"></link><updated>2013-04-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-18:flagstaff-az.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="San Francisco Peaks from Flagstaff, AZ" src="../img/flagstaff-az.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;San Francisco Peaks from Flagstaff, AZ.&lt;/p&gt;
@@ -610,7 +634,7 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/97964364&amp;#64;N00/2584016019/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Moab, UT</title><link href="http://www.codingacrossamerica.com/moab-ut.html" rel="alternate"></link><updated>2013-04-14T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/moab-ut.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Moab, UT</title><link href="http://www.codingacrossamerica.com/moab-ut.html" rel="alternate"></link><updated>2013-04-14T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-14:moab-ut.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Moab, Utah (HDR enhanced)" src="../img/moab-ut.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -628,7 +652,7 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/zachd1_618/6607825369/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Los Alamos, NM</title><link href="http://www.codingacrossamerica.com/los-alamos-nm.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/los-alamos-nm.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Los Alamos, NM</title><link href="http://www.codingacrossamerica.com/los-alamos-nm.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:los-alamos-nm.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Los Alamos, New Mexico" src="../img/los-alamos-nm.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -646,7 +670,7 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dave-friedel/4021911638/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Lubbock, TX</title><link href="http://www.codingacrossamerica.com/lubbock-tx.html" rel="alternate"></link><updated>2013-04-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/lubbock-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Lubbock, TX</title><link href="http://www.codingacrossamerica.com/lubbock-tx.html" rel="alternate"></link><updated>2013-04-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-07:lubbock-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Wind farms on the way to Lubbock, Texas" src="../img/lubbock-tx.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;Wind farms on the way to Lubbock, Texas.&lt;/p&gt;
@@ -677,7 +701,7 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/yolagringo/6712411907/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Austin, TX</title><link href="http://www.codingacrossamerica.com/austin-tx.html" rel="alternate"></link><updated>2013-03-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/austin-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Austin, TX</title><link href="http://www.codingacrossamerica.com/austin-tx.html" rel="alternate"></link><updated>2013-03-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-29:austin-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Austin, TX at night" src="../img/austin-tx.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -756,7 +780,7 @@ Street.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/rutlo/3645658303/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>New Orleans, LA</title><link href="http://www.codingacrossamerica.com/new-orleans-la.html" rel="alternate"></link><updated>2013-03-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/new-orleans-la.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>New Orleans, LA</title><link href="http://www.codingacrossamerica.com/new-orleans-la.html" rel="alternate"></link><updated>2013-03-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-25:new-orleans-la.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="New Orleans, Louisiana" src="../img/new-orleans-la.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -816,7 +840,7 @@ you get up to 35% labor tax credit, non-Louisiana is 25% labor tax credit&lt;/li
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/beadmobile/4012436427/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Memphis, TN</title><link href="http://www.codingacrossamerica.com/memphis-tn.html" rel="alternate"></link><updated>2013-03-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/memphis-tn.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Memphis, TN</title><link href="http://www.codingacrossamerica.com/memphis-tn.html" rel="alternate"></link><updated>2013-03-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-22:memphis-tn.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Memphis, TN" src="../img/memphis-tn.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="about"&gt;
@@ -859,7 +883,7 @@ diseases.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/wolfriver/454797575/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Nashville, TN</title><link href="http://www.codingacrossamerica.com/nashville-tn.html" rel="alternate"></link><updated>2013-03-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/nashville-tn.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Nashville, TN</title><link href="http://www.codingacrossamerica.com/nashville-tn.html" rel="alternate"></link><updated>2013-03-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-18:nashville-tn.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Nashville, TN" src="../img/nashville-tn.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -930,7 +954,7 @@ Entrepreneur Center initiatives.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/brent_nashville/115765451/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Charlotte, NC</title><link href="http://www.codingacrossamerica.com/charlotte-nc.html" rel="alternate"></link><updated>2013-03-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/charlotte-nc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Charlotte, NC</title><link href="http://www.codingacrossamerica.com/charlotte-nc.html" rel="alternate"></link><updated>2013-03-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-13:charlotte-nc.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Charlotte, NC" src="../img/charlotte-nc.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -986,7 +1010,7 @@ Interesting combination. Recommended by my friend Alex McClain.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/45436662&amp;#64;N00/349180758/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Charlottesville, VA</title><link href="http://www.codingacrossamerica.com/charlottesville-va.html" rel="alternate"></link><updated>2013-03-09T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/charlottesville-va.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+</summary></entry><entry><title>Charlottesville, VA</title><link href="http://www.codingacrossamerica.com/charlottesville-va.html" rel="alternate"></link><updated>2013-03-09T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-09:charlottesville-va.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Charlottesville's Downtown Outdoor Mall" src="../img/charlottesville-va.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
@@ -1051,7 +1075,7 @@ entrepreneurship from an academic standpoint.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paytonc/6317092753/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="University of Viriginia"></category></entry><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-11-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/songs.html</id><summary type="html">&lt;p&gt;I came up with a list of 30 songs, one each for each of the 30 cities I will
+</summary><category term="University of Viriginia"></category></entry><entry><title>Songs</title><link href="http://www.codingacrossamerica.com/songs.html" rel="alternate"></link><updated>2012-11-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-11-01:songs.html</id><summary type="html">&lt;p&gt;I came up with a list of 30 songs, one each for each of the 30 cities I will
 be traveling to. Each of the songs has a different meaning - whether with
 the city itself, such as Johnny Cash from Memphis, TN, a song about the
 city, such as &amp;quot;Wide Awake&amp;quot; by Chris Cornell, or something personal to me.
@@ -1073,8 +1097,8 @@ got their start in that city.&lt;/p&gt;
 &lt;li&gt;San Francisco, CA -&lt;/li&gt;
 &lt;li&gt;Redding, CA -&lt;/li&gt;
 &lt;li&gt;Eugene, OR -&lt;/li&gt;
-&lt;li&gt;Portland, OR - &amp;quot;Me and You&amp;quot; by Nero&lt;/li&gt;
-&lt;li&gt;Seattle, WA - &amp;quot;Mad Love&amp;quot; by Neon Trees&lt;/li&gt;
+&lt;li&gt;Portland, OR -&lt;/li&gt;
+&lt;li&gt;Seattle, WA - &amp;quot;You Know You're Right&amp;quot; by Nirvana&lt;/li&gt;
 &lt;li&gt;Missoula, MT -&lt;/li&gt;
 &lt;li&gt;Buffalo, WY - &amp;quot;Little Talks&amp;quot; by Of Monsters and Men&lt;/li&gt;
 &lt;li&gt;Boulder, CO - &amp;quot;Don't Trust Me&amp;quot; by 3OH!3&lt;/li&gt;
@@ -1089,392 +1113,90 @@ got their start in that city.&lt;/p&gt;
 &lt;li&gt;Morristown, NJ - &amp;quot;Do My&amp;quot; by Memphis Bleek&lt;/li&gt;
 &lt;li&gt;Washington, DC - &amp;quot;Amazed&amp;quot; by The Offspring&lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry><entry><title>Why Flagstaff, AZ?</title><link href="http://www.codingacrossamerica.com/why-flagstaff-az.html" rel="alternate"></link><updated>2012-10-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-flagstaff-az.html</id><summary type="html">&lt;p&gt;Flagstaff is the last stop in the leg of my trip that is primarily composed
-of small towns and beautiful outside scenery. This is destination number ten during
+</summary></entry><entry><title>Why San Diego, CA?</title><link href="http://www.codingacrossamerica.com/why-san-diego-ca.html" rel="alternate"></link><updated>2012-10-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-13:why-san-diego-ca.html</id><summary type="html">&lt;p&gt;San Diego was a late addition to my slate of destinations. I added San Diego
+for a couple of reasons. First, I ran into an old friend in DC who was
+back in town visiting from San Diego. She loves living in San Diego,
+asked me &amp;quot;why not visit?&amp;quot; and I didn't have a good answer for why I
+wasn't going. So that got me started thinking about it. Second, my
+brother hung out in San Diego for a few days when he drove across the
+country and he said it was amazing.&lt;/p&gt;
+&lt;p&gt;Plus no trip up the West Coast would seem complete unless I went the almost
+full length from San Diego to Seattle. So San Diego is destination number
+eleven during Coding Across America.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Port of San Diego with the city in the background" src="../img/san-diego-ca-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;This is where my Coding Across America trip puts the focus back on technology,
+meet ups, and start ups. San Diego has a pretty good tech scene. There's quite
+a &lt;a class="reference external" href="http://www.xconomy.com/san-diego/2012/07/20/san-diego-startups-raise-over-300m-from-vcs-in-second-quarter/"&gt;bit of venture funding here&lt;/a&gt;
+and more start ups than I have time to talk with. This should be an exciting
+location to visit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../san-diego-ca.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about San Diego.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/portofsandiego/5495014146/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>About Coding Across America</title><link href="http://www.codingacrossamerica.com/about.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:about.html</id><summary type="html"></summary></entry><entry><title>The Coding Across America Blog</title><link href="http://www.codingacrossamerica.com/blog.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:blog.html</id><summary type="html"></summary></entry><entry><title>Cincinnati, OH</title><link href="http://www.codingacrossamerica.com/cincinnati-oh.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:cincinnati-oh.html</id><summary type="html">&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://gigaom.com/2012/05/30/from-cincinnati-to-silicon-valley-dotloop-ceo-explains-his-move/"&gt;http://gigaom.com/2012/05/30/from-cincinnati-to-silicon-valley-dotloop-ceo-explains-his-move/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Destinations</title><link href="http://www.codingacrossamerica.com/cities.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:cities.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;This is a tentative list of the cities I intend to visit during my Coding
+Across America trip. All arrival dates are estimates until I confirm
+tech meet ups, conferences, and company visits.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This list of cities and dates is subject to change.&lt;/em&gt;&lt;/p&gt;
+</summary></entry><entry><title>Contributors</title><link href="http://www.codingacrossamerica.com/contributors.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:contributors.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;The following people have been influential in helping me
+develop ideas and figure out what to do on my trip. A huge &amp;quot;thank you&amp;quot; from
+me to everyone listed here.&lt;/p&gt;
+</summary></entry><entry><title>Luke Makai</title><link href="http://www.codingacrossamerica.com/contributors-luke-makai.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:contributors-luke-makai.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=A70IlZ3Uyv8"&gt;Luke Makai&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Luke helped me to develop ideas about traveling for a significant period
+of time, which is one of a million ways he's contributed to my ability to do
 Coding Across America.&lt;/p&gt;
-&lt;p&gt;Why Flagstaff instead of Phoenix, which is only a couple hours further South? No particular
-reason. Having four stops in a row that will be pretty small towns before hitting the
-San Diego-Los Angeles-San Francisco West Coast corridor will be an interesting contrast
-though.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Lake Mary in Flagstaff, Arizona" src="../img/flagstaff-az-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;p&gt;Lake Mary in Flagstaff, Arizona.&lt;/p&gt;
-&lt;div class="section" id="start-up-culture"&gt;
-&lt;h2&gt;Start Up Culture&lt;/h2&gt;
-&lt;p&gt;The University of Northern Arizona has its
-&lt;a class="reference external" href="http://www.nacet.org/"&gt;Center for Entrepreneurship and Technology&lt;/a&gt;. So there's some
-signs of life here. I'll be on the look out over the next couple of months for small
-start ups and companies that are located around here.&lt;/p&gt;
+&lt;p&gt;Luke created the
+&lt;a class="reference external" href="http://www.youtube.com/watch?v=A70IlZ3Uyv8"&gt;linked YouTube video&lt;/a&gt;
+after traveling around Mexico for two weeks.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../flagstaff-az.html"&gt;post further notes&lt;/a&gt; as I continue to gather
-more information about Flagstaff.&lt;/p&gt;
+</summary></entry><entry><title>Peter Jacobson</title><link href="http://www.codingacrossamerica.com/contributors-peter-jacobson.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:contributors-peter-jacobson.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://instagr.am/p/LDa8U1C7Au/"&gt;Peter Jacobson&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;PJ recommended I keep some days on my schedule completely clear of plans
+so I could use those days to rest, relax, and do things spur-of-the-moment.&lt;/p&gt;
+&lt;p&gt;PJ is currently
+&lt;a class="reference external" href="http://instagr.am/p/LDa8U1C7Au/"&gt;kayaking down the Hudson River&lt;/a&gt; and taking
+some time off this summer before starting the MBA program at Dartmouth in
+August 2012.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/91393778&amp;#64;N00/3038533783/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+</summary></entry><entry><title>Ryan Anderson</title><link href="http://www.codingacrossamerica.com/contributors-ryan-anderson.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:contributors-ryan-anderson.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://www.sciencemag.org/content/330/6010.cover-expansion"&gt;Dr. Ryan Anderson&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Ryan suggested that I fly back to the East Coast halfway through
+the trip to recharge and visit family and friends.&lt;/p&gt;
+&lt;p&gt;Ryan took the
+&lt;a class="reference external" href="http://www.sciencemag.org/content/330/6010.cover-expansion"&gt;linked photo&lt;/a&gt;
+while working towards his doctorate at Virginia Tech and the picture
+was published on the front cover of Science magazine in December 2010.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Why Moab, Utah?</title><link href="http://www.codingacrossamerica.com/why-moab-ut.html" rel="alternate"></link><updated>2012-10-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-moab-ut.html</id><summary type="html">&lt;p&gt;I recently added Moab to my list of destinations after a couple of
-recommendations from people I randomly met. Moab looks amazing from photos
-but apparently none of them do it justice. &amp;quot;You have to see it in person&amp;quot;
-I'm told. So with that Moab will be destination number nine.&lt;/p&gt;
-&lt;p&gt;I expect that this will be the third stop in the leg of my trip that takes
-me out of the tech scene and lets me focus primarily on developing my own
-software.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Canyon Lands National Park - Moab, Utah" src="../img/moab-ut-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="start-up-culture"&gt;
-&lt;h2&gt;Start Up Culture&lt;/h2&gt;
-&lt;p&gt;Unlikely there's anything. I'm mainly here to take in the sights and hike.&lt;/p&gt;
+</summary></entry><entry><title>Erin Callahan</title><link href="http://www.codingacrossamerica.com/erin-callahan.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:erin-callahan.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://ecallahan.tumblr.com/"&gt;Erin Callahan&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Erin recommended I visit her
+&lt;a class="reference external" href="http://www.ocallaghanspub.com/"&gt;Uncle's bar O'Callaghan's&lt;/a&gt;.
+She also suggested a bunch of great things to do while in Chicago.&lt;/p&gt;
+&lt;p&gt;Erin spent thirteen weeks in Ghana teaching children and helping the
+local community. She
+&lt;a class="reference external" href="http://ecallahan.tumblr.com/"&gt;blogged about her experience&lt;/a&gt; while over
+there.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../moab-ut.html"&gt;post further notes&lt;/a&gt; as I continue to gather
-more information about Moab.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dfb_photos/6193076965/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Why Los Alamos, New Mexico?</title><link href="http://www.codingacrossamerica.com/why-los-alamos-nm.html" rel="alternate"></link><updated>2012-10-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-los-alamos-nm.html</id><summary type="html">&lt;p&gt;Los Alamos, New Mexico is another one of those destinations that leaves
-people wondering &amp;quot;what does that have to do with tech&amp;quot;? It is definitely
-not a town that people associate with startups like Palo Alto, Seattle,
-Boulder, or Austin. Still there is a lot of advanced research going on here
-although it's not well publicized outside of academic circles. Some of the
-work is classified as well. Despite my Top Secret security clearance,
-I'm unfortunately not going to get to see the cool classified work going
-on in
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory"&gt;Los Alamos National Laboratory&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;It's likely most of my time here will be spent outdoors or in small town
-getting some solid coding time in.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Sky Crane burns behind Los Alamos, New Mexico" src="../img/los-alamos-nm-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;p&gt;Sky Crane burns behind Los Alamos, New Mexico's airport.&lt;/p&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../los-alamos-nm.html"&gt;post further notes&lt;/a&gt; as I continue to gather
-more information about Los Alamos.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/ethanfrogget/5968569467/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Why Lubbock, Texas?</title><link href="http://www.codingacrossamerica.com/why-lubbock-tx.html" rel="alternate"></link><updated>2012-09-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-lubbock-tx.html</id><summary type="html">&lt;p&gt;Lubbock is home to the Red Raiders of Texas Tech University and is about
-seven hours Northwest of Austin, Texas. Lubbock will be the seventh city
-I visit during Coding Across America. This stop begins the leg of my trip
-that will take me to some remote place in the Southwest United States,
-including Los Alamos, Moab, and Flagstaff.&lt;/p&gt;
-&lt;p&gt;It will be difficult to find technology-related ventures in Lubbock outside of
-Texas Tech University. An Indeed.com search for Django and Ruby on Rails
-turned up... nothing. Ditto for tech meetups. But in lieu of other software
-developers to talk to, I'm looking forward to spending some time here in
-an area of the United States I would otherwise be unlikely to visit. It's
-also a great excuse to get plenty of time for heads-down coding.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Just South of Lubbock, TX" src="../img/lubbock-tx-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="start-up-culture"&gt;
-&lt;h2&gt;Start Up Culture&lt;/h2&gt;
-&lt;p&gt;Not much here from what I can find. I'll have to do further digging to see
-if Texas Tech University sponsors any type of incubator or entrepreurship
-classes.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../lubbock-tx.html"&gt;post further notes&lt;/a&gt; as I continue to gather
-more information about Lubbock.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/imagesbywestfall/3423388821/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Diminishing Marginal Utility of &amp;quot;Stuff&amp;quot;</title><link href="http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html" rel="alternate"></link><updated>2012-09-23T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html</id><summary type="html">&lt;p&gt;I found this post on the &lt;a class="reference external" href="http://www.antipope.org/charlie/blog-static/2012/09/on-the-diminishing-marginal-ut.html"&gt;diminishing marginal utility of stuff&lt;/a&gt;
-climbing Hacker News yesterday morning and it resonated with me both in
-general and for my trip.&lt;/p&gt;
-&lt;p&gt;Particular lifestyles more easily lend themselves to having less things.
-For example, computer programmers without families can live in a cheap
-apartment with not much more than a laptop computer, some t-shirts and
-jeans. Other professions are not as easy to do with less stuff, such as
-working in the financial industry because you tend to need suits, dress
-shirts, and ties for both work and social events.&lt;/p&gt;
-&lt;p&gt;Yet certainly it's much easier today with the digitization of many products
-to do with less stuff. I use a Kindle and iPad for reading instead of keeping
-mounds of paper books around. I watch movies on-demand instead of storing
-a library of DVDs. My pictures are in digital albums instead of physical photo
-albums.&lt;/p&gt;
-&lt;p&gt;However, that's not really the point of the post. Really what the author is
-getting at is that after a certain point of comfort with food, water,
-shelter, and entertainment options, there are less useful things available to
-purchase if you are not interested in big-ticket luxury items such as
-expensive cars or big houses stocked with furniture. What would really be
-worth purchasing is enhancements to ourselves, such as cures for ailments.
-The author brings up a vision deficiency he has. Certainly he'd be willing
-to pay thousands of dollars to fix that issue but there is no available
-cure today.&lt;/p&gt;
-&lt;p&gt;It will be interesting to see if advances in biology and bioinformatics
-eventually lead to worthwhile purchases that allow people to fix or even
-&amp;quot;upgrade&amp;quot; themselves. Wealth would certainly flow from people with means
-to the companies that could provide those solutions.&lt;/p&gt;
-</summary></entry><entry><title>Why Austin, Texas?</title><link href="http://www.codingacrossamerica.com/why-austin-tx.html" rel="alternate"></link><updated>2012-09-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-austin-tx.html</id><summary type="html">&lt;p&gt;Austin was the first city I put on the map during my road trip planning.
-I knew there was no way I was going to skip it or just spend a couple of days
-there. Nothing less than a full week will suffice. In fact, much of my early
-planning and building of this website was done while visiting Austin for a
-week in June 2012.&lt;/p&gt;
-&lt;p&gt;I've been to Austin three times previously. Every time has been amazing and
-in different ways. There's something about the friendly culture, somewhat
-liberal attitude mixed with hipster weirdness and technology start ups that
-I find tremendously appealing. Plus Austin has some of the best bars anywhere
-with 4th &amp;amp; 6th Streets. Weather is perfect since I prefer hot summer days
-to cold dark winter nights.&lt;/p&gt;
-&lt;p&gt;I considered moving to Austin a few years ago but I nixed the idea since
-it is so far from my East Coast roots. I decided instead to visit as often
-as possible, but ultimately that just may not be enough for me once I finish
-up my fourth trip there. Regardless, it's a great city and there was no
-question it would be part of my trip.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="View of Austin, TX" src="../img/austin-tx-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="start-up-culture"&gt;
-&lt;h2&gt;Start Up Culture&lt;/h2&gt;
-&lt;p&gt;Austin has a great tech scene. It's the home of the
-&lt;a class="reference external" href="http://sxsw.com/"&gt;South by Southwest&lt;/a&gt; conference in March every year.
-Austin is often ranked highly on
-&lt;a class="reference external" href="http://www.usatoday.com/tech/columnist/talkingtech/story/2012-08-22/top-tech-startup-cities/57220670/1"&gt;lists of best places to launch a tech start up&lt;/a&gt;
-along with San Francisco, Seattle, Boulder, New York, and Boston. The
-growth of Dell Computers in the late 80s and 90s helped the city to
-establish its silicon credentials.&lt;/p&gt;
-&lt;p&gt;Current growing technology companies with an office in Austin include
-Facebook, Google, NVidia, Indeed.com, Rackspace, and Zynga. University
-of Texas is located in the heart of Austin and is at the forefront of many
-areas in computer science and related disciplines. Smaller start ups
-include The Daily Dot, Evernote, RightScale.&lt;/p&gt;
-&lt;p&gt;There's a lot of technology work in Austin. It's the first destination that
-people who comment on my trip say &amp;quot;oh, that makes sense if you want to learn
-more about technology across the country.&amp;quot;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../austin-tx.html"&gt;post further notes&lt;/a&gt; as I continue to gather
-more information about Austin.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/stuseeger/4895843907/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Staying In Shape On The Road</title><link href="http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html</id><summary type="html">&lt;p&gt;I work out almost every day and access to my gym in Arlington is convenient
-(a walk across the street). So figuring out how to stay in shape on the road
-has been a particular challenge. I don't think I'll have it completely
-figured out by the time I leave. It'll probably be something that evolves as
-I travel from one city to another.&lt;/p&gt;
-&lt;p&gt;Here are some of my thoughts outlining the approach I'll take when I start
-my trip.&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Create a daily routine that can be done anywhere I'm staying, even if I do not have access to a gym&lt;/li&gt;
-&lt;li&gt;Rely primarily on bodyweight exercises such as push-ups, sit-ups, body-weight squats&lt;/li&gt;
-&lt;li&gt;Bring two 30-pound dumbbells, a resistant band, and a jumprope with me&lt;/li&gt;
-&lt;li&gt;If I see a gym nearby where I'm staying, take advantage of it if they have a short-term membership&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;An example of a daily routine that could be performed anywhere might be
-the following:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Light 15 minute jog to warm up&lt;/li&gt;
-&lt;li&gt;3x supersets of push ups, sit ups, and body weight squats to failure&lt;/li&gt;
-&lt;li&gt;3x supersets of 100x jumproping, calf raises holding 2x30 lbs dumbbells, and dumbbell curls&lt;/li&gt;
-&lt;li&gt;4x dumbbell lunges&lt;/li&gt;
-&lt;li&gt;3x dumbbell deadlifts to failure&lt;/li&gt;
-&lt;li&gt;Stretching to cool down&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The main point would be to keep the intensity very high and eliminate resting
-periods, similar to a crossfit workout. Intensity is key since I won't
-have heavy weight to work with most of the time. Doing these types of
-workouts once or twice a day (the second time would be plain running or a
-completely different muscle group) should help me to keep in shape while on
-the road.&lt;/p&gt;
-</summary></entry><entry><title>Why New Orleans, Louisiana?</title><link href="http://www.codingacrossamerica.com/why-new-orleans-la.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-new-orleans-la.html</id><summary type="html">&lt;p&gt;New Orleans has a strong, unique city culture. I previously traveled to
-New Orleans in 2010 although I was there for only a few short days. I have
-a couple of reasons for returning and making New Orleans the fifth destination
-on my trip.&lt;/p&gt;
-&lt;p&gt;First, one of the &lt;a class="reference external" href="http://www.excella.com/"&gt;Excella Consulting&lt;/a&gt; founding
-partners, Burton White, is from
-New Orleans. He told me about some of the most recent efforts by the state
-to create tax breaks for innovative companies to start and come to the area.
-I'm interested to see if that type of local government involved has positively
-impacted the area.&lt;/p&gt;
-&lt;p&gt;Second, I only had a few days to explore the French Quarter during the day
-and at night. My experience in the city is really limited. I want to expand
-my view of the city into other parts such as St. Charles Ave. The combination
-of gaining further insight into the technology of the city plus the
-interesting destinations in the area are an appealing mix.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Aerial view of New Orleans" src="../img/new-orleans-la-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="venture-capital-and-funding"&gt;
-&lt;h2&gt;Venture Capital and Funding&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.louisianafund.com/"&gt;The Louisiana Fund&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.vcecapital.com/"&gt;BVM Capital&lt;/a&gt;. An office in New Orleans (in addition to their New York office).&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.fbtinvestments.com/Venture-Capital.aspx"&gt;FBT Investments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.biz-capital.com/"&gt;Biz Capital&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="start-up-support"&gt;
-&lt;h2&gt;Start Up Support&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://neworleansstartupfund.org/"&gt;New Orleans Startup Fund&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://launchpadnola.com/"&gt;Launchpad New Orleans&lt;/a&gt;. Shared working space in New Orleans.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.startupneworleans.com/"&gt;Start Up New Orleans&lt;/a&gt;. Seems more like a website to spread the word about New Orleans businesses than tangible support.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="articles"&gt;
-&lt;h2&gt;Articles&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.inc.com/articles/201104/why-new-orleans-is-the-coolest-start-up-city-in-america.html"&gt;Why New Orleans Is the Coolest Start Up City in America&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="late-march-weather"&gt;
-&lt;h2&gt;Late March Weather&lt;/h2&gt;
-&lt;p&gt;I'm planning to arrive on March 25, so the weather should be fine. I was
-previously here in February and the weather was great (high 70s).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I'll &lt;a class="reference external" href="../new-orleans-la.html"&gt;post further notes&lt;/a&gt; as I continue to gather more information about New Orleans.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/84263554&amp;#64;N00/400064521/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Why Memphis, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-memphis-tennessee.html" rel="alternate"></link><updated>2012-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-memphis-tennessee.html</id><summary type="html">&lt;p&gt;Several of my DC friends previously lived in Memphis and recommended that
-I visit the city while I am travelling through Tennessee. There's great
-BBQ, high recommendations for
-&lt;a class="reference external" href="http://www.bealestreet.com/wordpress/"&gt;Beale Street&lt;/a&gt;, and a different
-Midwestern culture that an East Coast kid like me should find interesting.
-Memphis is only three and a half hours from my previous stop in Nashville.
-Plus it takes me further Southwest towards my next destination, New Orleans.&lt;/p&gt;
-&lt;p&gt;So a combination of convenience and interest combine to make Memphis stop #4.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="They take their barbeque seriously in Memphis, TN" src="../img/memphis-tn-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="start-up-culture"&gt;
-&lt;h2&gt;Start Up Culture&lt;/h2&gt;
-&lt;p&gt;Nashville appears to have the most momentum in the state for establishing
-a start up scene. But there are some interesting pieces to technology start
-ups in Memphis as well. &lt;a class="reference external" href="http://startupmemphis.com/"&gt;Start Up Memphis&lt;/a&gt; has
-interesting, up to date articles on companies in the area.
-&lt;a class="reference external" href="http://www.launchmemphis.com/launchpad/"&gt;Launchpad Memphis&lt;/a&gt; is a coworking
-space for start ups and hosts some of the
-&lt;a class="reference external" href="http://mempy.org/"&gt;Memphis Python (MemPy)&lt;/a&gt; meet ups.&lt;/p&gt;
-&lt;p&gt;However, it's been difficult finding out exactly what start ups are in
-Memphis, particularly ones using Python. More digging is necessary in this
-area.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="venture-capital"&gt;
-&lt;h2&gt;Venture Capital&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.ssmventures.com/"&gt;SSM Ventures&lt;/a&gt;. Wide range of investments
-in software companies and healthcare.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.mbventures.com/"&gt;MD Venture Partners&lt;/a&gt;. Specific to the life
-sciences industry, particularly treatments and cures for musculoskeletal
-diseases.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="further-research"&gt;
-&lt;h2&gt;Further Research&lt;/h2&gt;
-&lt;p&gt;My further research on Memphis will be posted on the
-&lt;a class="reference external" href="../memphis-tn.html"&gt;Memphis destination page&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paparutzi/52677265/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
-website for Django meetups across the United States. The Chicago Users Group
-originally registered the domain name for their own purposes but then
-realized it would be of benefit to the greater Django community to have
-a centralized location for all users groups.&lt;/p&gt;
-&lt;p&gt;I found out about the website during a lightning talk during DjangoCon 2012.&lt;/p&gt;
-&lt;p&gt;I'll be using djangonauts.org to contact Django users groups in each city
-that I will be visiting in 2013. Hopefully I can meet with most of the groups
-on the list.&lt;/p&gt;
-</summary></entry><entry><title>Living Out of Your Car</title><link href="http://www.codingacrossamerica.com/living-out-of-your-car.html" rel="alternate"></link><updated>2012-08-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/living-out-of-your-car.html</id><summary type="html">&lt;p&gt;I am not planning to live out of my car while on my five month road trip like
-&lt;a class="reference external" href="http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1"&gt;this guy did while bootstrapping his start up&lt;/a&gt;. But his determination
-to spend as little money as possible to start his company is impressive
-in a weird way. His Quora write up includes a bunch of pictures that show
-how he was able to manage such a situation. Inc Magazine even
-&lt;a class="reference external" href="http://www.inc.com/magazine/201207/leigh-buchanan/the-leanest-startup-kurt-varner-dailytoaster.html"&gt;wrote an article on his experience&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The guy really thought everything through - or at least fumbled into
-a working situation. What I found most interesting is that he did it
-out of a Honda Civic and not a minivan like &lt;a class="reference external" href="http://boards.adultswim.com/t5/Babbling/i-am-seriously-considering-living-out-of-a-minivan/td-p/60020874"&gt;some people consider doing&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Hotels, Airbnb rentals, and friend's residences are the way for me to go.
-Particularly since the old S2000's seats don't recline.&lt;/p&gt;
-</summary></entry><entry><title>Beards</title><link href="http://www.codingacrossamerica.com/beards.html" rel="alternate"></link><updated>2012-08-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/beards.html</id><summary type="html">&lt;p&gt;Beards have a long history in programming. See famous computer scientists
-below for proof.&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;I'm being a bit tongue-and-cheek with this post but seriously, if I
-don't grow a beard while away from an office environment for five months,
-when else will I get the chance?&lt;/li&gt;
-&lt;/ul&gt;
-</summary></entry><entry><title>Why Nashville, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-nashville-tn.html" rel="alternate"></link><updated>2012-08-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-nashville-tn.html</id><summary type="html">&lt;p&gt;I have never been to Nashville before, so image I have in my head of what it's
-like is a gross generalization of what I am sure it actually is. I mainly
-envision country music, a South/Midwestern sort of pride by the people that
-reside there, and very little focus on new technology. I am probably wrong
-about those three generalizations.&lt;/p&gt;
-&lt;p&gt;I was pleasantly surprised once I began looking into Nashville's venture
-capital and start up scene. Nashville intrigues me because no one thinks
-about interesting tech and start ups coming out of there, but there seems
-to be a lot of momentum behind organizations such as
-&lt;a class="reference external" href="http://www.startuptn.com/"&gt;Startup Tennessee&lt;/a&gt;,
-&lt;a class="reference external" href="http://entrepreneurcenter.com/"&gt;Entrepreneur Center&lt;/a&gt;, and
-&lt;a class="reference external" href="http://nashville.colabusa.com/"&gt;Colab&lt;/a&gt;.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;img alt="Belle Meade Planation in Nashville, TN" src="../img/nashville-tn-2.jpg" style="width: 640px; height: 480px;" /&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="first-glance-start-up-scene"&gt;
-&lt;h2&gt;First Glance Start Up Scene&lt;/h2&gt;
-&lt;p&gt;There's a bunch of interesting startups in various industries. Several
-examples:&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.stratasan.com/"&gt;Stratasan&lt;/a&gt;. Healthcare data analytics. &lt;a class="reference external" href="http://www.stratasan.com/jobs/"&gt;Stratasan is using Python &amp;amp; Django&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.borderjump.com/"&gt;Borderjump&lt;/a&gt;. International payments and exports API. &lt;a class="reference external" href="http://jobnashville.net/job/16870/lead-developer-platform-architect-nashville-tn-downtownsobro-at/"&gt;Borderjump is using Python &amp;amp; Django&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.sourceyourcity.com/"&gt;Source Your City&lt;/a&gt;. Connects reporters and bloggers with specialty matter experts from various fields. Unclear what technology platform their service is built on.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;There seem to be a cluster of companies in the health care technology space.
-I need to do further research to find out why that is.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="late-march-weather"&gt;
-&lt;h2&gt;Late March Weather&lt;/h2&gt;
-&lt;p&gt;I'm planning to arrive on March 17, so the weather will probably be high 50s
-to low 60s. Borderline nice but not warm enough for shorts and flip flops.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="more-research"&gt;
-&lt;h2&gt;More Research&lt;/h2&gt;
-&lt;p&gt;I will be &lt;a class="reference external" href="../nashville-tn.html"&gt;posting my research notes&lt;/a&gt; as I continue to gather more information about Nashville, TN.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="photo-attribution"&gt;
-&lt;h2&gt;Photo Attribution&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/22711505&amp;#64;N05/6011743607/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2012-08-10T09:02:04-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, please tweet
+</summary></entry><entry><title>Everyone</title><link href="http://www.codingacrossamerica.com/everyone.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:everyone.html</id><summary type="html">&lt;p&gt;It seems incredibly dangerous to me to go along with what everone else
+is either doing or saing what you should be doing.&lt;/p&gt;
+</summary></entry><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, please tweet
 &lt;a class="reference external" href="http://twitter.com/makaimc"&gt;&amp;#64;makaimc&lt;/a&gt; on Twitter with the question and
 #camfaq. Thanks!&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -1548,7 +1270,406 @@ and the jinja2 templating system to create the pages. The site is hosted
 on &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, so it &lt;em&gt;should&lt;/em&gt; scale well.&lt;/p&gt;
 &lt;p&gt;PS Thanks Github! Can I visit you guys when I'm in San Francisco?&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>A Few Route Modifications</title><link href="http://www.codingacrossamerica.com/few-route-modifications.html" rel="alternate"></link><updated>2012-08-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/few-route-modifications.html</id><summary type="html">&lt;p&gt;I'm making a few changes to my planned route (which is now reflected in
+</summary></entry><entry><title>Matt Pincombe</title><link href="http://www.codingacrossamerica.com/matt-pincombe.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:matt-pincombe.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;Matt Pincombe&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Matt recommended I visit Madison, WI as it fit the profile of
+interesting cities across the country that I should visit.&lt;/p&gt;
+&lt;p&gt;Matt is a
+&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;partner at Excella Consulting&lt;/a&gt;
+where I currently work.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Stephanie Vineyard</title><link href="http://www.codingacrossamerica.com/stephanie-vineyard.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:stephanie-vineyard.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Stephanie Vineyard&lt;/h2&gt;
+&lt;p&gt;Stephanie recommended I buy a
+&lt;a class="reference external" href="http://www.amazon.com/gp/product/B00538KI24/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=minimneeds-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00538KI24"&gt;silk sleep sack&lt;/a&gt;
+so I always had fresh sheets.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Flagstaff, AZ?</title><link href="http://www.codingacrossamerica.com/why-flagstaff-az.html" rel="alternate"></link><updated>2012-10-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-10:why-flagstaff-az.html</id><summary type="html">&lt;p&gt;Flagstaff is the last stop in the leg of my trip that is primarily composed
+of small towns and beautiful outside scenery. This is destination number ten during
+Coding Across America.&lt;/p&gt;
+&lt;p&gt;Why Flagstaff instead of Phoenix, which is only a couple hours further South? No particular
+reason. Having four stops in a row that will be pretty small towns before hitting the
+San Diego-Los Angeles-San Francisco West Coast corridor will be an interesting contrast
+though.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Lake Mary in Flagstaff, Arizona" src="../img/flagstaff-az-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Lake Mary in Flagstaff, Arizona.&lt;/p&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;The University of Northern Arizona has its
+&lt;a class="reference external" href="http://www.nacet.org/"&gt;Center for Entrepreneurship and Technology&lt;/a&gt;. So there's some
+signs of life here. I'll be on the look out over the next couple of months for small
+start ups and companies that are located around here.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../flagstaff-az.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Flagstaff.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/91393778&amp;#64;N00/3038533783/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Moab, Utah?</title><link href="http://www.codingacrossamerica.com/why-moab-ut.html" rel="alternate"></link><updated>2012-10-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-07:why-moab-ut.html</id><summary type="html">&lt;p&gt;I recently added Moab to my list of destinations after a couple of
+recommendations from people I randomly met. Moab looks amazing from photos
+but apparently none of them do it justice. &amp;quot;You have to see it in person&amp;quot;
+I'm told. So with that Moab will be destination number nine.&lt;/p&gt;
+&lt;p&gt;I expect that this will be the third stop in the leg of my trip that takes
+me out of the tech scene and lets me focus primarily on developing my own
+software.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Canyon Lands National Park - Moab, Utah" src="../img/moab-ut-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;Unlikely there's anything. I'm mainly here to take in the sights and hike.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../moab-ut.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Moab.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dfb_photos/6193076965/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Los Alamos, New Mexico?</title><link href="http://www.codingacrossamerica.com/why-los-alamos-nm.html" rel="alternate"></link><updated>2012-10-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-06:why-los-alamos-nm.html</id><summary type="html">&lt;p&gt;Los Alamos, New Mexico is another one of those destinations that leaves
+people wondering &amp;quot;what does that have to do with tech&amp;quot;? It is definitely
+not a town that people associate with startups like Palo Alto, Seattle,
+Boulder, or Austin. Still there is a lot of advanced research going on here
+although it's not well publicized outside of academic circles. Some of the
+work is classified as well. Despite my Top Secret security clearance,
+I'm unfortunately not going to get to see the cool classified work going
+on in
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory"&gt;Los Alamos National Laboratory&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It's likely most of my time here will be spent outdoors or in small town
+getting some solid coding time in.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Sky Crane burns behind Los Alamos, New Mexico" src="../img/los-alamos-nm-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Sky Crane burns behind Los Alamos, New Mexico's airport.&lt;/p&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../los-alamos-nm.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Los Alamos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/ethanfrogget/5968569467/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Lubbock, Texas?</title><link href="http://www.codingacrossamerica.com/why-lubbock-tx.html" rel="alternate"></link><updated>2012-09-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-27:why-lubbock-tx.html</id><summary type="html">&lt;p&gt;Lubbock is home to the Red Raiders of Texas Tech University and is about
+seven hours Northwest of Austin, Texas. Lubbock will be the seventh city
+I visit during Coding Across America. This stop begins the leg of my trip
+that will take me to some remote place in the Southwest United States,
+including Los Alamos, Moab, and Flagstaff.&lt;/p&gt;
+&lt;p&gt;It will be difficult to find technology-related ventures in Lubbock outside of
+Texas Tech University. An Indeed.com search for Django and Ruby on Rails
+turned up... nothing. Ditto for tech meetups. But in lieu of other software
+developers to talk to, I'm looking forward to spending some time here in
+an area of the United States I would otherwise be unlikely to visit. It's
+also a great excuse to get plenty of time for heads-down coding.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Just South of Lubbock, TX" src="../img/lubbock-tx-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;Not much here from what I can find. I'll have to do further digging to see
+if Texas Tech University sponsors any type of incubator or entrepreurship
+classes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../lubbock-tx.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Lubbock.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/imagesbywestfall/3423388821/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Diminishing Marginal Utility of "Stuff"</title><link href="http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html" rel="alternate"></link><updated>2012-09-23T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-23:diminishing-marginal-utility-stuff.html</id><summary type="html">&lt;p&gt;I found this post on the &lt;a class="reference external" href="http://www.antipope.org/charlie/blog-static/2012/09/on-the-diminishing-marginal-ut.html"&gt;diminishing marginal utility of stuff&lt;/a&gt;
+climbing Hacker News yesterday morning and it resonated with me both in
+general and for my trip.&lt;/p&gt;
+&lt;p&gt;Particular lifestyles more easily lend themselves to having less things.
+For example, computer programmers without families can live in a cheap
+apartment with not much more than a laptop computer, some t-shirts and
+jeans. Other professions are not as easy to do with less stuff, such as
+working in the financial industry because you tend to need suits, dress
+shirts, and ties for both work and social events.&lt;/p&gt;
+&lt;p&gt;Yet certainly it's much easier today with the digitization of many products
+to do with less stuff. I use a Kindle and iPad for reading instead of keeping
+mounds of paper books around. I watch movies on-demand instead of storing
+a library of DVDs. My pictures are in digital albums instead of physical photo
+albums.&lt;/p&gt;
+&lt;p&gt;However, that's not really the point of the post. Really what the author is
+getting at is that after a certain point of comfort with food, water,
+shelter, and entertainment options, there are less useful things available to
+purchase if you are not interested in big-ticket luxury items such as
+expensive cars or big houses stocked with furniture. What would really be
+worth purchasing is enhancements to ourselves, such as cures for ailments.
+The author brings up a vision deficiency he has. Certainly he'd be willing
+to pay thousands of dollars to fix that issue but there is no available
+cure today.&lt;/p&gt;
+&lt;p&gt;It will be interesting to see if advances in biology and bioinformatics
+eventually lead to worthwhile purchases that allow people to fix or even
+&amp;quot;upgrade&amp;quot; themselves. Wealth would certainly flow from people with means
+to the companies that could provide those solutions.&lt;/p&gt;
+</summary></entry><entry><title>Why Austin, Texas?</title><link href="http://www.codingacrossamerica.com/why-austin-tx.html" rel="alternate"></link><updated>2012-09-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-22:why-austin-tx.html</id><summary type="html">&lt;p&gt;Austin was the first city I put on the map during my road trip planning.
+I knew there was no way I was going to skip it or just spend a couple of days
+there. Nothing less than a full week will suffice. In fact, much of my early
+planning and building of this website was done while visiting Austin for a
+week in June 2012.&lt;/p&gt;
+&lt;p&gt;I've been to Austin three times previously. Every time has been amazing and
+in different ways. There's something about the friendly culture, somewhat
+liberal attitude mixed with hipster weirdness and technology start ups that
+I find tremendously appealing. Plus Austin has some of the best bars anywhere
+with 4th &amp;amp; 6th Streets. Weather is perfect since I prefer hot summer days
+to cold dark winter nights.&lt;/p&gt;
+&lt;p&gt;I considered moving to Austin a few years ago but I nixed the idea since
+it is so far from my East Coast roots. I decided instead to visit as often
+as possible, but ultimately that just may not be enough for me once I finish
+up my fourth trip there. Regardless, it's a great city and there was no
+question it would be part of my trip.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="View of Austin, TX" src="../img/austin-tx-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;Austin has a great tech scene. It's the home of the
+&lt;a class="reference external" href="http://sxsw.com/"&gt;South by Southwest&lt;/a&gt; conference in March every year.
+Austin is often ranked highly on
+&lt;a class="reference external" href="http://www.usatoday.com/tech/columnist/talkingtech/story/2012-08-22/top-tech-startup-cities/57220670/1"&gt;lists of best places to launch a tech start up&lt;/a&gt;
+along with San Francisco, Seattle, Boulder, New York, and Boston. The
+growth of Dell Computers in the late 80s and 90s helped the city to
+establish its silicon credentials.&lt;/p&gt;
+&lt;p&gt;Current growing technology companies with an office in Austin include
+Facebook, Google, NVidia, Indeed.com, Rackspace, and Zynga. University
+of Texas is located in the heart of Austin and is at the forefront of many
+areas in computer science and related disciplines. Smaller start ups
+include The Daily Dot, Evernote, RightScale.&lt;/p&gt;
+&lt;p&gt;There's a lot of technology work in Austin. It's the first destination that
+people who comment on my trip say &amp;quot;oh, that makes sense if you want to learn
+more about technology across the country.&amp;quot;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../austin-tx.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Austin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/stuseeger/4895843907/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Staying In Shape On The Road</title><link href="http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-18:staying-in-shape-on-the-road.html</id><summary type="html">&lt;p&gt;I work out almost every day and access to my gym in Arlington is convenient
+(a walk across the street). So figuring out how to stay in shape on the road
+has been a particular challenge. I don't think I'll have it completely
+figured out by the time I leave. It'll probably be something that evolves as
+I travel from one city to another.&lt;/p&gt;
+&lt;p&gt;Here are some of my thoughts outlining the approach I'll take when I start
+my trip.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Create a daily routine that can be done anywhere I'm staying, even if I do not have access to a gym&lt;/li&gt;
+&lt;li&gt;Rely primarily on bodyweight exercises such as push-ups, sit-ups, body-weight squats&lt;/li&gt;
+&lt;li&gt;Bring two 30-pound dumbbells, a resistant band, and a jumprope with me&lt;/li&gt;
+&lt;li&gt;If I see a gym nearby where I'm staying, take advantage of it if they have a short-term membership&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;An example of a daily routine that could be performed anywhere might be
+the following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Light 15 minute jog to warm up&lt;/li&gt;
+&lt;li&gt;3x supersets of push ups, sit ups, and body weight squats to failure&lt;/li&gt;
+&lt;li&gt;3x supersets of 100x jumproping, calf raises holding 2x30 lbs dumbbells, and dumbbell curls&lt;/li&gt;
+&lt;li&gt;4x dumbbell lunges&lt;/li&gt;
+&lt;li&gt;3x dumbbell deadlifts to failure&lt;/li&gt;
+&lt;li&gt;Stretching to cool down&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The main point would be to keep the intensity very high and eliminate resting
+periods, similar to a crossfit workout. Intensity is key since I won't
+have heavy weight to work with most of the time. Doing these types of
+workouts once or twice a day (the second time would be plain running or a
+completely different muscle group) should help me to keep in shape while on
+the road.&lt;/p&gt;
+</summary></entry><entry><title>Why New Orleans, Louisiana?</title><link href="http://www.codingacrossamerica.com/why-new-orleans-la.html" rel="alternate"></link><updated>2012-09-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-18:why-new-orleans-la.html</id><summary type="html">&lt;p&gt;New Orleans has a strong, unique city culture. I previously traveled to
+New Orleans in 2010 although I was there for only a few short days. I have
+a couple of reasons for returning and making New Orleans the fifth destination
+on my trip.&lt;/p&gt;
+&lt;p&gt;First, one of the &lt;a class="reference external" href="http://www.excella.com/"&gt;Excella Consulting&lt;/a&gt; founding
+partners, Burton White, is from
+New Orleans. He told me about some of the most recent efforts by the state
+to create tax breaks for innovative companies to start and come to the area.
+I'm interested to see if that type of local government involved has positively
+impacted the area.&lt;/p&gt;
+&lt;p&gt;Second, I only had a few days to explore the French Quarter during the day
+and at night. My experience in the city is really limited. I want to expand
+my view of the city into other parts such as St. Charles Ave. The combination
+of gaining further insight into the technology of the city plus the
+interesting destinations in the area are an appealing mix.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Aerial view of New Orleans" src="../img/new-orleans-la-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="venture-capital-and-funding"&gt;
+&lt;h2&gt;Venture Capital and Funding&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.louisianafund.com/"&gt;The Louisiana Fund&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.vcecapital.com/"&gt;BVM Capital&lt;/a&gt;. An office in New Orleans (in addition to their New York office).&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.fbtinvestments.com/Venture-Capital.aspx"&gt;FBT Investments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.biz-capital.com/"&gt;Biz Capital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="start-up-support"&gt;
+&lt;h2&gt;Start Up Support&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://neworleansstartupfund.org/"&gt;New Orleans Startup Fund&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://launchpadnola.com/"&gt;Launchpad New Orleans&lt;/a&gt;. Shared working space in New Orleans.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.startupneworleans.com/"&gt;Start Up New Orleans&lt;/a&gt;. Seems more like a website to spread the word about New Orleans businesses than tangible support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="articles"&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.inc.com/articles/201104/why-new-orleans-is-the-coolest-start-up-city-in-america.html"&gt;Why New Orleans Is the Coolest Start Up City in America&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="late-march-weather"&gt;
+&lt;h2&gt;Late March Weather&lt;/h2&gt;
+&lt;p&gt;I'm planning to arrive on March 25, so the weather should be fine. I was
+previously here in February and the weather was great (high 70s).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../new-orleans-la.html"&gt;post further notes&lt;/a&gt; as I continue to gather more information about New Orleans.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/84263554&amp;#64;N00/400064521/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Memphis, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-memphis-tennessee.html" rel="alternate"></link><updated>2012-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-07:why-memphis-tennessee.html</id><summary type="html">&lt;p&gt;Several of my DC friends previously lived in Memphis and recommended that
+I visit the city while I am travelling through Tennessee. There's great
+BBQ, high recommendations for
+&lt;a class="reference external" href="http://www.bealestreet.com/wordpress/"&gt;Beale Street&lt;/a&gt;, and a different
+Midwestern culture that an East Coast kid like me should find interesting.
+Memphis is only three and a half hours from my previous stop in Nashville.
+Plus it takes me further Southwest towards my next destination, New Orleans.&lt;/p&gt;
+&lt;p&gt;So a combination of convenience and interest combine to make Memphis stop #4.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="They take their barbeque seriously in Memphis, TN" src="../img/memphis-tn-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;Nashville appears to have the most momentum in the state for establishing
+a start up scene. But there are some interesting pieces to technology start
+ups in Memphis as well. &lt;a class="reference external" href="http://startupmemphis.com/"&gt;Start Up Memphis&lt;/a&gt; has
+interesting, up to date articles on companies in the area.
+&lt;a class="reference external" href="http://www.launchmemphis.com/launchpad/"&gt;Launchpad Memphis&lt;/a&gt; is a coworking
+space for start ups and hosts some of the
+&lt;a class="reference external" href="http://mempy.org/"&gt;Memphis Python (MemPy)&lt;/a&gt; meet ups.&lt;/p&gt;
+&lt;p&gt;However, it's been difficult finding out exactly what start ups are in
+Memphis, particularly ones using Python. More digging is necessary in this
+area.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="venture-capital"&gt;
+&lt;h2&gt;Venture Capital&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.ssmventures.com/"&gt;SSM Ventures&lt;/a&gt;. Wide range of investments
+in software companies and healthcare.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.mbventures.com/"&gt;MD Venture Partners&lt;/a&gt;. Specific to the life
+sciences industry, particularly treatments and cures for musculoskeletal
+diseases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="further-research"&gt;
+&lt;h2&gt;Further Research&lt;/h2&gt;
+&lt;p&gt;My further research on Memphis will be posted on the
+&lt;a class="reference external" href="../memphis-tn.html"&gt;Memphis destination page&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paparutzi/52677265/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Djangonauts.org</title><link href="http://www.codingacrossamerica.com/djangonauts-org.html" rel="alternate"></link><updated>2012-09-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-09-05:djangonauts-org.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://djangonauts.org/"&gt;djangonauts.org&lt;/a&gt; is a well done centralized
+website for Django meetups across the United States. The Chicago Users Group
+originally registered the domain name for their own purposes but then
+realized it would be of benefit to the greater Django community to have
+a centralized location for all users groups.&lt;/p&gt;
+&lt;p&gt;I found out about the website during a lightning talk during DjangoCon 2012.&lt;/p&gt;
+&lt;p&gt;I'll be using djangonauts.org to contact Django users groups in each city
+that I will be visiting in 2013. Hopefully I can meet with most of the groups
+on the list.&lt;/p&gt;
+</summary></entry><entry><title>Living Out of Your Car</title><link href="http://www.codingacrossamerica.com/living-out-of-your-car.html" rel="alternate"></link><updated>2012-08-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-29:living-out-of-your-car.html</id><summary type="html">&lt;p&gt;I am not planning to live out of my car while on my five month road trip like
+&lt;a class="reference external" href="http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1"&gt;this guy did while bootstrapping his start up&lt;/a&gt;. But his determination
+to spend as little money as possible to start his company is impressive
+in a weird way. His Quora write up includes a bunch of pictures that show
+how he was able to manage such a situation. Inc Magazine even
+&lt;a class="reference external" href="http://www.inc.com/magazine/201207/leigh-buchanan/the-leanest-startup-kurt-varner-dailytoaster.html"&gt;wrote an article on his experience&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The guy really thought everything through - or at least fumbled into
+a working situation. What I found most interesting is that he did it
+out of a Honda Civic and not a minivan like &lt;a class="reference external" href="http://boards.adultswim.com/t5/Babbling/i-am-seriously-considering-living-out-of-a-minivan/td-p/60020874"&gt;some people consider doing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hotels, Airbnb rentals, and friend's residences are the way for me to go.
+Particularly since the old S2000's seats don't recline.&lt;/p&gt;
+</summary></entry><entry><title>Beards</title><link href="http://www.codingacrossamerica.com/beards.html" rel="alternate"></link><updated>2012-08-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-20:beards.html</id><summary type="html">&lt;p&gt;Beards have a long history in programming. See famous computer scientists
+below for proof.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I'm being a bit tongue-and-cheek with this post but seriously, if I
+don't grow a beard while away from an office environment for five months,
+when else will I get the chance?&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Why Nashville, Tennessee?</title><link href="http://www.codingacrossamerica.com/why-nashville-tn.html" rel="alternate"></link><updated>2012-08-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-19:why-nashville-tn.html</id><summary type="html">&lt;p&gt;I have never been to Nashville before, so image I have in my head of what it's
+like is a gross generalization of what I am sure it actually is. I mainly
+envision country music, a South/Midwestern sort of pride by the people that
+reside there, and very little focus on new technology. I am probably wrong
+about those three generalizations.&lt;/p&gt;
+&lt;p&gt;I was pleasantly surprised once I began looking into Nashville's venture
+capital and start up scene. Nashville intrigues me because no one thinks
+about interesting tech and start ups coming out of there, but there seems
+to be a lot of momentum behind organizations such as
+&lt;a class="reference external" href="http://www.startuptn.com/"&gt;Startup Tennessee&lt;/a&gt;,
+&lt;a class="reference external" href="http://entrepreneurcenter.com/"&gt;Entrepreneur Center&lt;/a&gt;, and
+&lt;a class="reference external" href="http://nashville.colabusa.com/"&gt;Colab&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Belle Meade Planation in Nashville, TN" src="../img/nashville-tn-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="first-glance-start-up-scene"&gt;
+&lt;h2&gt;First Glance Start Up Scene&lt;/h2&gt;
+&lt;p&gt;There's a bunch of interesting startups in various industries. Several
+examples:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.stratasan.com/"&gt;Stratasan&lt;/a&gt;. Healthcare data analytics. &lt;a class="reference external" href="http://www.stratasan.com/jobs/"&gt;Stratasan is using Python &amp;amp; Django&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.borderjump.com/"&gt;Borderjump&lt;/a&gt;. International payments and exports API. &lt;a class="reference external" href="http://jobnashville.net/job/16870/lead-developer-platform-architect-nashville-tn-downtownsobro-at/"&gt;Borderjump is using Python &amp;amp; Django&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.sourceyourcity.com/"&gt;Source Your City&lt;/a&gt;. Connects reporters and bloggers with specialty matter experts from various fields. Unclear what technology platform their service is built on.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There seem to be a cluster of companies in the health care technology space.
+I need to do further research to find out why that is.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="late-march-weather"&gt;
+&lt;h2&gt;Late March Weather&lt;/h2&gt;
+&lt;p&gt;I'm planning to arrive on March 17, so the weather will probably be high 50s
+to low 60s. Borderline nice but not warm enough for shorts and flip flops.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I will be &lt;a class="reference external" href="../nashville-tn.html"&gt;posting my research notes&lt;/a&gt; as I continue to gather more information about Nashville, TN.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/22711505&amp;#64;N05/6011743607/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>A Few Route Modifications</title><link href="http://www.codingacrossamerica.com/few-route-modifications.html" rel="alternate"></link><updated>2012-08-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-08-04:few-route-modifications.html</id><summary type="html">&lt;p&gt;I'm making a few changes to my planned route (which is now reflected in
 the embedded Google Map on the about page). These modifications are due to
 conversations I've recently had with several people familiar with these
 cities. I decided that based on their recommendations I would be missing out
@@ -1593,72 +1714,7 @@ I would go. Dallas was previously a good stop between Nashville and Austin,
 but now it would be out of the way between New Orleans and Austin. Besides,
 by removing Dallas I get to spend more time in Austin.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>About Coding Across America</title><link href="http://www.codingacrossamerica.com/about.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/about.html</id><summary type="html"></summary></entry><entry><title>The Coding Across America Blog</title><link href="http://www.codingacrossamerica.com/blog.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/blog.html</id><summary type="html"></summary></entry><entry><title>Everyone</title><link href="http://www.codingacrossamerica.com/everyone.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/everyone.html</id><summary type="html">&lt;p&gt;It seems incredibly dangerous to me to go along with what everone else
-is either doing or saing what you should be doing.&lt;/p&gt;
-</summary></entry><entry><title>Cincinnati, OH</title><link href="http://www.codingacrossamerica.com/cincinnati-oh.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/cincinnati-oh.html</id><summary type="html">&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://gigaom.com/2012/05/30/from-cincinnati-to-silicon-valley-dotloop-ceo-explains-his-move/"&gt;http://gigaom.com/2012/05/30/from-cincinnati-to-silicon-valley-dotloop-ceo-explains-his-move/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</summary></entry><entry><title>Destinations</title><link href="http://www.codingacrossamerica.com/cities.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/cities.html</id><summary type="html">&lt;hr class="docutils" /&gt;
-&lt;p&gt;This is a tentative list of the cities I intend to visit during my Coding
-Across America trip. All arrival dates are estimates until I confirm
-tech meet ups, conferences, and company visits.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This list of cities and dates is subject to change.&lt;/em&gt;&lt;/p&gt;
-</summary></entry><entry><title>Contributors</title><link href="http://www.codingacrossamerica.com/contributors.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/contributors.html</id><summary type="html">&lt;hr class="docutils" /&gt;
-&lt;p&gt;The following people have been influential in helping me
-develop ideas and figure out what to do on my trip. A huge &amp;quot;thank you&amp;quot; from
-me to everyone listed here.&lt;/p&gt;
-</summary></entry><entry><title>Luke Makai</title><link href="http://www.codingacrossamerica.com/contributors-luke-makai.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/contributors-luke-makai.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=A70IlZ3Uyv8"&gt;Luke Makai&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Luke helped me to develop ideas about traveling for a significant period
-of time, which is one of a million ways he's contributed to my ability to do
-Coding Across America.&lt;/p&gt;
-&lt;p&gt;Luke created the
-&lt;a class="reference external" href="http://www.youtube.com/watch?v=A70IlZ3Uyv8"&gt;linked YouTube video&lt;/a&gt;
-after traveling around Mexico for two weeks.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Peter Jacobson</title><link href="http://www.codingacrossamerica.com/contributors-peter-jacobson.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/contributors-peter-jacobson.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://instagr.am/p/LDa8U1C7Au/"&gt;Peter Jacobson&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;PJ recommended I keep some days on my schedule completely clear of plans
-so I could use those days to rest, relax, and do things spur-of-the-moment.&lt;/p&gt;
-&lt;p&gt;PJ is currently
-&lt;a class="reference external" href="http://instagr.am/p/LDa8U1C7Au/"&gt;kayaking down the Hudson River&lt;/a&gt; and taking
-some time off this summer before starting the MBA program at Dartmouth in
-August 2012.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Ryan Anderson</title><link href="http://www.codingacrossamerica.com/contributors-ryan-anderson.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/contributors-ryan-anderson.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://www.sciencemag.org/content/330/6010.cover-expansion"&gt;Dr. Ryan Anderson&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Ryan suggested that I fly back to the East Coast halfway through
-the trip to recharge and visit family and friends.&lt;/p&gt;
-&lt;p&gt;Ryan took the
-&lt;a class="reference external" href="http://www.sciencemag.org/content/330/6010.cover-expansion"&gt;linked photo&lt;/a&gt;
-while working towards his doctorate at Virginia Tech and the picture
-was published on the front cover of Science magazine in December 2010.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Erin Callahan</title><link href="http://www.codingacrossamerica.com/erin-callahan.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/erin-callahan.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://ecallahan.tumblr.com/"&gt;Erin Callahan&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Erin recommended I visit her
-&lt;a class="reference external" href="http://www.ocallaghanspub.com/"&gt;Uncle's bar O'Callaghan's&lt;/a&gt;.
-She also suggested a bunch of great things to do while in Chicago.&lt;/p&gt;
-&lt;p&gt;Erin spent thirteen weeks in Ghana teaching children and helping the
-local community. She
-&lt;a class="reference external" href="http://ecallahan.tumblr.com/"&gt;blogged about her experience&lt;/a&gt; while over
-there.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Matt Pincombe</title><link href="http://www.codingacrossamerica.com/matt-pincombe.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/matt-pincombe.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;Matt Pincombe&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Matt recommended I visit Madison, WI as it fit the profile of
-interesting cities across the country that I should visit.&lt;/p&gt;
-&lt;p&gt;Matt is a
-&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;partner at Excella Consulting&lt;/a&gt;
-where I currently work.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Stephanie Vineyard</title><link href="http://www.codingacrossamerica.com/stephanie-vineyard.html" rel="alternate"></link><updated>2012-07-28T11:30:11-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/stephanie-vineyard.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
-&lt;h2&gt;Stephanie Vineyard&lt;/h2&gt;
-&lt;p&gt;Stephanie recommended I buy a
-&lt;a class="reference external" href="http://www.amazon.com/gp/product/B00538KI24/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=minimneeds-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00538KI24"&gt;silk sleep sack&lt;/a&gt;
-so I always had fresh sheets.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
+</summary></entry><entry><title>Archetypal Days</title><link href="http://www.codingacrossamerica.com/archetypal-days.html" rel="alternate"></link><updated>2012-07-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-28:archetypal-days.html</id><summary type="html">&lt;p&gt;There are several archetypal days I'll have over the course of four
 months on the road. Some types of days are more conducive than others
 for coding.&lt;/p&gt;
 &lt;p&gt;I need large blocks of time since it's difficult to context switch
@@ -1711,7 +1767,7 @@ that morning or to do programming.&lt;/p&gt;
 Run or workout. Shower, get dressed, have something to eat.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;11am through the evening.&lt;/em&gt;
 Explore the city, take pictures, and write blog posts.&lt;/p&gt;
-</summary></entry><entry><title>Causal Attribution</title><link href="http://www.codingacrossamerica.com/causal-attribution.html" rel="alternate"></link><updated>2012-07-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/causal-attribution.html</id><summary type="html">&lt;p&gt;One of my least favorite quotes is &amp;quot;everything happens for a reason.&amp;quot; The
+</summary></entry><entry><title>Causal Attribution</title><link href="http://www.codingacrossamerica.com/causal-attribution.html" rel="alternate"></link><updated>2012-07-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-22:causal-attribution.html</id><summary type="html">&lt;p&gt;One of my least favorite quotes is &amp;quot;everything happens for a reason.&amp;quot; The
 connotation is clearer if you append &amp;quot;but I didn't plan it out that
 way&amp;quot; onto it.&lt;/p&gt;
 &lt;p&gt;Events happen (or &amp;quot;shit happens&amp;quot; if you prefer that expression). It's
@@ -1739,7 +1795,7 @@ things work out. The laissez faire attitude of &amp;quot;good things will happen
 just because&amp;quot; simply isn't for me.&lt;/p&gt;
 &lt;p&gt;That's why I'm going to make this trip happen. It's not just going to happen
 because it's what is supposed to occur.&lt;/p&gt;
-</summary></entry><entry><title>Inconveniences</title><link href="http://www.codingacrossamerica.com/inconveniences.html" rel="alternate"></link><updated>2012-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/inconveniences.html</id><summary type="html">&lt;p&gt;There are several (admittedly first-world) inconveniences I foresee while
+</summary></entry><entry><title>Inconveniences</title><link href="http://www.codingacrossamerica.com/inconveniences.html" rel="alternate"></link><updated>2012-07-15T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-15:inconveniences.html</id><summary type="html">&lt;p&gt;There are several (admittedly first-world) inconveniences I foresee while
 living off what is in my car and staying in ad hoc places around the
 country.&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
@@ -1748,7 +1804,7 @@ country.&lt;/p&gt;
 &lt;li&gt;Lack of a set schedule&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</summary></entry><entry><title>Quiet</title><link href="http://www.codingacrossamerica.com/quiet.html" rel="alternate"></link><updated>2012-07-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/quiet.html</id><summary type="html">&lt;p&gt;I'm writing this post from Kansas City, Missouri. One of the
+</summary></entry><entry><title>Quiet</title><link href="http://www.codingacrossamerica.com/quiet.html" rel="alternate"></link><updated>2012-07-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-07:quiet.html</id><summary type="html">&lt;p&gt;I'm writing this post from Kansas City, Missouri. One of the
 things I find so striking here is how quiet it is downtown during the day
 on weekends. Part of the lack of people may be due to the 100+ degree
 weather, but my friend PJ who lives here says this is normal.&lt;/p&gt;
@@ -1774,7 +1830,7 @@ the day.&lt;/p&gt;
 out here that is different from my expectations based on living in East
 Coast cities. It'll be interesting to see how the 25-ish cities I'm
 visiting next year fit in this pattern.&lt;/p&gt;
-</summary></entry><entry><title>Breadth Versus Depth</title><link href="http://www.codingacrossamerica.com/breadth-versus-depth.html" rel="alternate"></link><updated>2012-07-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/breadth-versus-depth.html</id><summary type="html">&lt;p&gt;One of the things I constantly struggle with in my software development
+</summary></entry><entry><title>Breadth Versus Depth</title><link href="http://www.codingacrossamerica.com/breadth-versus-depth.html" rel="alternate"></link><updated>2012-07-04T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-07-04:breadth-versus-depth.html</id><summary type="html">&lt;p&gt;One of the things I constantly struggle with in my software development
 consulting career is balancing breadth versus depth.&lt;/p&gt;
 &lt;p&gt;When I graduated from &lt;a class="reference external" href="http://www.jmu.edu/"&gt;JMU&lt;/a&gt; in 2005, I was
 not deep in anything related to my career. I had a very broad knowledge
@@ -1820,7 +1876,7 @@ as a whole. Better to have more destinations with shorter stints in cities
 both large and small rather than a few longer stays in cities that may
 skew the results towards a vision that isn't accurate (say, Palo Alto,
 Seattle, Austin, and Boulder for instance).&lt;/p&gt;
-</summary></entry><entry><title>Why Charlottesville, Virginia?</title><link href="http://www.codingacrossamerica.com/why-charlottesville-va.html" rel="alternate"></link><updated>2012-06-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-charlottesville-va.html</id><summary type="html">&lt;p&gt;Originally my first stop was Charlotte, NC. Now it's stop #2. I used to live
+</summary></entry><entry><title>Why Charlottesville, Virginia?</title><link href="http://www.codingacrossamerica.com/why-charlottesville-va.html" rel="alternate"></link><updated>2012-06-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-30:why-charlottesville-va.html</id><summary type="html">&lt;p&gt;Originally my first stop was Charlotte, NC. Now it's stop #2. I used to live
 in Charlottesville, VA from 2007-09. Charlottesville's distance between DC
 and Charlotte makes it a good spot to spend a couple of days before
 heading out to new destinations. Charlottesville is one of those small
@@ -1890,7 +1946,7 @@ snow hits.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/small_realm/6370977289/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Camera</title><link href="http://www.codingacrossamerica.com/camera.html" rel="alternate"></link><updated>2012-06-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/camera.html</id><summary type="html">&lt;p&gt;I knew I needed a better camera than the one in my Droid 3 for this trip.
+</summary></entry><entry><title>Camera</title><link href="http://www.codingacrossamerica.com/camera.html" rel="alternate"></link><updated>2012-06-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-24:camera.html</id><summary type="html">&lt;p&gt;I knew I needed a better camera than the one in my Droid 3 for this trip.
 At first I thought about digital SLRs, but the additional size, weight,
 and complexity turned me off to them. I am not currently interested
 enough in learning the intricate details of tuning a camera or changing a
@@ -1902,7 +1958,7 @@ any benefit from an SLR over a quality point-and-shoot camera.&lt;/p&gt;
 memory card should have plenty of space for all the pictures I take. I'm
 looking forward to using a real camera to post pictures of the people and
 places in every city I stay in.&lt;/p&gt;
-</summary></entry><entry><title>Projects</title><link href="http://www.codingacrossamerica.com/projects.html" rel="alternate"></link><updated>2012-06-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/projects.html</id><summary type="html">&lt;p&gt;Since coding is in the title of this site and my trip across the country,
+</summary></entry><entry><title>Projects</title><link href="http://www.codingacrossamerica.com/projects.html" rel="alternate"></link><updated>2012-06-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-18:projects.html</id><summary type="html">&lt;p&gt;Since coding is in the title of this site and my trip across the country,
 what will I be programming? Part of my excitement with the trip is having
 focused, dedicated blocks of time to sit in coffee shops or restaurants
 and work on projects I'm passionate about launching. While my development
@@ -1950,7 +2006,7 @@ app, I'd consider spending up to 20 hours a week working on it.&lt;/p&gt;
 &lt;p&gt;As I mentioned above, it's likely these projects will change and new ones
 will get added, but right now that's what I think of with the &amp;quot;Coding&amp;quot; part
 of Coding Across America.&lt;/p&gt;
-</summary></entry><entry><title>The Conversations</title><link href="http://www.codingacrossamerica.com/the-conversations.html" rel="alternate"></link><updated>2012-06-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/the-conversations.html</id><summary type="html">&lt;p&gt;By far my favorite part of planning and undertaking this trip is talking
+</summary></entry><entry><title>The Conversations</title><link href="http://www.codingacrossamerica.com/the-conversations.html" rel="alternate"></link><updated>2012-06-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-17:the-conversations.html</id><summary type="html">&lt;p&gt;By far my favorite part of planning and undertaking this trip is talking
 to people I've just met about where they've lived and where I should go.
 When you ask people where they are from and where they've visited
 the responses are often surprising. Asking detailed questions
@@ -1969,7 +2025,7 @@ during this trip, I know there's going to be many random tangents and
 paths that I'll go down. I can't foresee those paths now, but
 keeping an open mind about new ideas and activities is a big part of the
 journey.&lt;/p&gt;
-</summary></entry><entry><title>Estimating A Budget</title><link href="http://www.codingacrossamerica.com/estimating-budget.html" rel="alternate"></link><updated>2012-06-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/estimating-budget.html</id><summary type="html">&lt;p&gt;Until I plan my exact trip route, book places to stay, and figure out what
+</summary></entry><entry><title>Estimating A Budget</title><link href="http://www.codingacrossamerica.com/estimating-budget.html" rel="alternate"></link><updated>2012-06-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-11:estimating-budget.html</id><summary type="html">&lt;p&gt;Until I plan my exact trip route, book places to stay, and figure out what
 (if any) tech conferences I'm going to, it will be hard to determine an
 exact budget for my trip. However, I can create a ballpark figure based
 on averaging an aggressive budget and a conservative budget. &amp;quot;Conservative&amp;quot;
@@ -2065,7 +2121,7 @@ to $32k cost total for the trip including accomodations, food &amp;amp; drinks,
 car-related expenses, and other miscellaneous charges. I'll refine the
 estimates as my plans become more concrete.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Jump Forward One Year</title><link href="http://www.codingacrossamerica.com/jump-forward-one-year.html" rel="alternate"></link><updated>2012-06-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/jump-forward-one-year.html</id><summary type="html">&lt;p&gt;I recently remarked to someone I was talking to about my trip that it is
+</summary></entry><entry><title>Jump Forward One Year</title><link href="http://www.codingacrossamerica.com/jump-forward-one-year.html" rel="alternate"></link><updated>2012-06-05T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-05:jump-forward-one-year.html</id><summary type="html">&lt;p&gt;I recently remarked to someone I was talking to about my trip that it is
 odd knowing I will not be in Washington, DC at this same time next year.
 I've lived in Virginia for the past eleven years (4 &amp;#64; JMU, 2 in Arlington,
 2 1/2 in Charlottesville, 2 1/2 back in Arlington). It's easy to fall into
@@ -2084,7 +2140,7 @@ life takes me once I'm traveling across the country. Better to use
 limited time I have here and truly enjoy DC rather than continue to
 in some ways waste the great parts of this city by not taking advantage of
 its unique aspects that I won't get anywhere else in the US.&lt;/p&gt;
-</summary></entry><entry><title>Why Charlotte, North Carolina?</title><link href="http://www.codingacrossamerica.com/why-charlotte-nc.html" rel="alternate"></link><updated>2012-05-31T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-charlotte-nc.html</id><summary type="html">&lt;p&gt;Charlotte, North Carolina is the first destination on my trip outside of
+</summary></entry><entry><title>Why Charlotte, North Carolina?</title><link href="http://www.codingacrossamerica.com/why-charlotte-nc.html" rel="alternate"></link><updated>2012-05-31T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-31:why-charlotte-nc.html</id><summary type="html">&lt;p&gt;Charlotte, North Carolina is the first destination on my trip outside of
 Washington, DC. Charlotte is approximately 400 miles from DC (about 7 hours)
 and several people I know have moved to Charlotte to escape the
 government-centric DC area for careers focused on commercial business.
@@ -2125,7 +2181,7 @@ March 12, 2013.&lt;/p&gt;
 &lt;p&gt;My further research on Charlotte will be posted on the
 &lt;a class="reference external" href="../charlotte-nc.html"&gt;Charlotte destination page&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Possessions</title><link href="http://www.codingacrossamerica.com/possessions.html" rel="alternate"></link><updated>2012-05-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/possessions.html</id><summary type="html">&lt;p&gt;“Many wealthy people are little more than the janitors of their possessions.”
+</summary></entry><entry><title>Possessions</title><link href="http://www.codingacrossamerica.com/possessions.html" rel="alternate"></link><updated>2012-05-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-28:possessions.html</id><summary type="html">&lt;p&gt;“Many wealthy people are little more than the janitors of their possessions.”
 - Frank Lloyd Wright&lt;/p&gt;
 &lt;p&gt;Several years ago I decided see if I could eventually
 fit all my possessions in &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Honda_S2000"&gt;my car&lt;/a&gt;.
@@ -2149,7 +2205,7 @@ share together. This perspective shift may not be for everyone - materialism
 is still a big part of the American lifestyle. But reducing possessions and
 thinking more about those around you is worth a thought while we are in the
 shadow of the &amp;quot;Great Recession&amp;quot; and most people are already forced to cut back.&lt;/p&gt;
-</summary></entry><entry><title>Contributions</title><link href="http://www.codingacrossamerica.com/contributions.html" rel="alternate"></link><updated>2012-05-26T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/contributions.html</id><summary type="html">&lt;p&gt;The Coding Across America
+</summary></entry><entry><title>Contributions</title><link href="http://www.codingacrossamerica.com/contributions.html" rel="alternate"></link><updated>2012-05-26T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-26:contributions.html</id><summary type="html">&lt;p&gt;The Coding Across America
 &lt;a class="reference external" href="http://www.codingacrossamerica.com/contributors.html"&gt;contributors page&lt;/a&gt;
 is a list of everyone that has in some way given me advice, recommendations,
 or in some way shaped my trip.&lt;/p&gt;
@@ -2164,7 +2220,7 @@ that became the cover of Science magazine in December 2010. That's an amazing
 accomplishment. I hope that going through the list of contributors is a
 fascinating look into the lives of people who helped make Coding Across America
 possible.&lt;/p&gt;
-</summary></entry><entry><title>What To Do In Each City</title><link href="http://www.codingacrossamerica.com/what-to-do-in-each-city.html" rel="alternate"></link><updated>2012-05-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/what-to-do-in-each-city.html</id><summary type="html">&lt;p&gt;Here are the main places and events I intend to visit while on the road.&lt;/p&gt;
+</summary></entry><entry><title>What To Do In Each City</title><link href="http://www.codingacrossamerica.com/what-to-do-in-each-city.html" rel="alternate"></link><updated>2012-05-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-24:what-to-do-in-each-city.html</id><summary type="html">&lt;p&gt;Here are the main places and events I intend to visit while on the road.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Meet ups&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I have been to a bunch of great meet ups in the Washington, DC area. I am
 sure many of the destinations on the list also have great meet ups. I'll
@@ -2193,7 +2249,7 @@ out the best spots in every city both large and small.&lt;/p&gt;
 interesting landmarks and &amp;quot;touristy&amp;quot; spots along the way.&lt;/p&gt;
 &lt;p&gt;There are more spots I intend to check out in various cities, but that
 covers the majority of what I'm generically looking for in each destination.&lt;/p&gt;
-</summary></entry><entry><title>Goals</title><link href="http://www.codingacrossamerica.com/goals.html" rel="alternate"></link><updated>2012-05-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/goals.html</id><summary type="html">&lt;p&gt;It is important to focus on specific goals when undertaking any large
+</summary></entry><entry><title>Goals</title><link href="http://www.codingacrossamerica.com/goals.html" rel="alternate"></link><updated>2012-05-22T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-22:goals.html</id><summary type="html">&lt;p&gt;It is important to focus on specific goals when undertaking any large
 project. I consider four months away from work to travel a major project,
 so here are my initial thoughts on what my goals are for Coding Across
 America.&lt;/p&gt;
@@ -2236,7 +2292,7 @@ put ideas into code. Gaining a greater understanding of tech culture
 across the US and spending time talking to people in cities both large and
 small will help to shape my ideas around the subject so I can hopefully
 spread those positive ideas when I return to our nation's capital.&lt;/p&gt;
-</summary></entry><entry><title>Why?</title><link href="http://www.codingacrossamerica.com/why-coding-across-america.html" rel="alternate"></link><updated>2012-05-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>http://www.codingacrossamerica.com/why-coding-across-america.html</id><summary type="html">&lt;p&gt;Why travel across the United States for four months? There's a few ways to
+</summary></entry><entry><title>Why?</title><link href="http://www.codingacrossamerica.com/why-coding-across-america.html" rel="alternate"></link><updated>2012-05-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-05-21:why-coding-across-america.html</id><summary type="html">&lt;p&gt;Why travel across the United States for four months? There's a few ways to
 approach this question, so I'll answer three variations separately then
 bring it back together at the end.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Why travel at all?&lt;/strong&gt;&lt;/p&gt;

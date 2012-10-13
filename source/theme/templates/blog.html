@@ -3,7 +3,7 @@
   <div class="row">
     <div class="span8">
       <hr/>
-      {% for article in dates|reverse %}
+      {% for article in dates %}
         {% if article.category == 'post' %}
           <div class="blog-post">
             <h2><a href="{{ article.slug }}.html">{{ article.title }}</a></h2>
@@ -23,7 +23,7 @@
       <hr/>
       <h3>Posts By Date</h3>
       <ul class="post-list">
-        {% for article in dates|reverse %}
+        {% for article in dates %}
           {% if article.category == 'post' %}
             <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
           {% endif %}
