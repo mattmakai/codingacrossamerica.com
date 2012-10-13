@@ -2,7 +2,7 @@ New York, NY
 ============
 
 :category: city
-:date: 2013-08-02
+:date: 2013-08-03
 :slug: new-york-ny
 
 ----

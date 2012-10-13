@@ -5,7 +5,7 @@
       <p>
         {{ article.content }}
       </p>
-      {% for article in dates %}
+      {% for article in dates|reverse %}
         {% if article.category == 'city' %}
           <div>
             <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
