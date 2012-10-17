@@ -770,7 +770,7 @@ body{background:#ffffff;}
 .navbar .nav>li{display:block;float:left;margin-left:25px;}
 .navbar .nav>li>a{float:none;padding:9px 10px 11px;line-height:19px;color:#406bb4;text-decoration:none;font-size:22px;font-weight:bold;}
 .right-nav li{padding-top:5px;}
-.page-unit{padding:30px 40px 40px 40px;margin-bottom:30px;margin-top:15px;background-color:#ffffff;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:2px 2px 6px #406bb4;-moz-box-shadow:2px 2px 6px #406bb4;box-shadow:2px 2px 6px #406bb4;}.page-unit h1{margin-bottom:10px;font-size:52px;line-height:1;color:#406bb4;letter-spacing:-1px;font-family:"calluna-sans";}
+.page-unit{padding:30px 40px 40px 40px;margin-bottom:30px;margin-top:15px;background-color:#ffffff;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-webkit-box-shadow:2px 2px 6px rgba(64, 107, 180, 0.5);-moz-box-shadow:2px 2px 6px rgba(64, 107, 180, 0.5);box-shadow:2px 2px 6px rgba(64, 107, 180, 0.5);}.page-unit h1{margin-bottom:10px;font-size:52px;line-height:1;color:#406bb4;letter-spacing:-1px;font-family:"calluna-sans";}
 .page-unit p{font-size:18px;font-weight:200;line-height:25px;color:inherit;font-family:"calluna";}
 .page-unit a,.page-unit a:hover{text-decoration:underline;}
 .page-unit ul.post-list li{font-size:.8em;}
