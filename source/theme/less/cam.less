@@ -1,8 +1,8 @@
 @import "bootstrap.less";
 
 // ----- Custom replacement for Bootstrap styles -----
-@primaryColor:              #B22234;
-@complementaryColor:        #3C3B6E;
+@primaryColor:              #406BB4;
+@complementaryColor:        #F9A31A;
 @complementaryColorLighter: darken(@complementaryColor, -15%);
 @baseFontSize:              14px;
 @baseLineHeight:            20px;
@@ -10,31 +10,29 @@
 @serifFont:                 "calluna";
 
 
-body {background: @white url('/img/bg4.png') repeat left top;}
-@navbarBackground: @complementaryColorLighter;
-@navbarBackgroundHighlight: @complementaryColor;
+body {background: @white;}
+@navbarBackground: @white;
+@navbarBackgroundHighlight: @white;
 .navbar-inner {
   padding: 10px 20px 10px 20px;
-  #gradient > .vertical(@navbarBackgroundHighlight, @navbarBackground);
-  @shadow: 0 1px 3px rgba(0,0,0,.25), inset 0 -1px 0 rgba(0,0,0,.1);
+  @shadow: 0;
   .border-radius(0px);
   .box-shadow(@shadow);
 }
-.navbar .container {
-  width: 930px;
+.container {
+  width: 90%;
 }
+
 
 .navbar .nav .active > a,
 .navbar .nav .active > a:hover {
-  color: @white;
+  color: @complementaryColor;
   text-decoration: none;
-  background-color: @navbarBackground;
-  .border-radius(10px);
+  background-color: @primaryColor;
+  .border-radius(8px);
 }
 
-a.logo, a:hover.logo {font-family: @sansSerifFont; float: left;
-                      font-size: 1.75em; color: @red;}
-ul.nav li a.logo {color: @white;}
+.navbar-inner {padding-bottom: 0px;}
 
 .navbar .nav > li {
   display: block;
@@ -48,24 +46,27 @@ ul.nav li a.logo {color: @white;}
   @elementHeight: 20px;
   padding: ((@navbarHeight - @elementHeight) / 2 - 1) 10px ((@navbarHeight - @elementHeight) / 2 + 1);
   line-height: 19px;
-  color: @white;
+  color: @primaryColor;
   text-decoration: none;
-  text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+  font-size: 22px;
+  font-weight: bold;
 }
+
+.right-nav li {padding-top: 5px;}
 
 
 .page-unit {
-  padding: 40px;
+  padding: 30px 40px 40px 40px;
   margin-bottom: 30px;
-  margin-top: 25px;
+  margin-top: 15px;
   background-color: @white;
   .border-radius(3px);
-  .box-shadow(2px 2px 8px rgba(178,34,52,.75));
+  .box-shadow(2px 2px 6px @primaryColor);
   h1 {
     margin-bottom: 10px;
     font-size: 52px;
     line-height: 1;
-    color: @complementaryColor;
+    color: @primaryColor;
     letter-spacing: -1px;
     font-family: @sansSerifFont;
   }
@@ -85,4 +86,19 @@ ul.nav li a.logo {color: @white;}
 
 .footer {text-align: right; margin-bottom: 20px;}
 .underline {text-decoration: underline;}
-img {border: 2px solid @complementaryColor; border-radius: 4px;}
+img {border: 2px solid @primaryColor; border-radius: 4px;}
+
+
+.navbar-inner {
+  min-height: @navbarHeight;
+  padding-top: 15px;
+  padding-left:  20px;
+  padding-right: 20px;
+  #gradient > .vertical(@navbarBackgroundHighlight, @navbarBackground);
+  border: none;
+  .border-radius(0px);
+  .box-shadow(0px);
+
+  // Prevent floats from breaking the navbar
+  .clearfix();
+}

@@ -3,7 +3,7 @@
     <div class="container">
       <ul class="nav">
         <li>
-          <a href="/" class="logo">Coding Across America</a>
+          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-7.png" width="210" style="border: none; padding-bottom: 0px;"/></a>
         </li>
       </ul>
       <ul class="nav right-nav" style="float: right;">
@@ -11,7 +11,7 @@
           <a href="/blog.html">Blog</a>
         </li>
         <li {% if article and (article.category == 'cities' or article.category == 'city') %}class="active"{% endif %}>
-          <a href="/cities.html">Destinations</a>
+          <a href="/cities.html">Cities</a>
         </li>
         <li {% if article and article.category == 'faq' %}class="active"{% endif %}>
           <a href="/faq.html">FAQ</a>

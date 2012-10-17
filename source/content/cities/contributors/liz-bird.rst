@@ -4,9 +4,10 @@ Liz Bird
 :category: contributor
 :slug: contributors-liz-bird
 
-Liz Bird
---------
+`Liz Bird <http://travelingliz.com/>`_
+--------------------------------------
 
 Liz blazed the trail for taking a leave of absence at Excella when she took
-3 months off to travel Asia. Thanks Liz, you better come back!
+several months off at the end of 2012 to travel Asia. Thanks Liz! You 
+better come back!
 
