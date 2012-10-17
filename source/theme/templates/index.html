@@ -48,7 +48,7 @@
       <hr/>
       <div>
         <h2>Destinations</h2>
-        {% for article in dates %}
+        {% for article in dates|reverse %}
           {% if article.category == 'city' %}
             <div>
               <a href="{{ article.slug }}.html">{{ article.title }}</a>
