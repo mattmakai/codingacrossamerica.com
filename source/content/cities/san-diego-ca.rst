@@ -18,7 +18,7 @@ San Diego harbor at night.
 
 Basic stats
 -----------
-* Why San Diego, California? (blog post coming soon)
+* `Why San Diego, California? <../why-san-diego-ca.html>`_
 * City population: 1.3m, Metro population: 3m
 * Approximate distance driven on trip: `3850 miles <http://goo.gl/maps/jkU0a>`_
 * `Google Maps: San Diego <http://goo.gl/maps/s6W3j>`_

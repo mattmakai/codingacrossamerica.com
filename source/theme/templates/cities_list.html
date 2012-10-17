@@ -9,7 +9,7 @@
         {% if article.category == 'city' %}
           <div>
             <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
-            (est. {{ article.date.strftime('%m.%d.%Y') }})
+            (arrive {{ article.date.strftime('%m.%d.%Y') }})
           </div>
         {% endif %}
       {% endfor %}
