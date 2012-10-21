@@ -14,7 +14,7 @@ brother hung out in San Diego for a few days when he drove across the
 country and he said it was amazing.
 
 Plus no trip up the West Coast would seem complete unless I went the almost
-full length from San Diego to Seattle. So San Diego is destination number
+full length from San Diego to Seattle. San Diego is destination number
 eleven during Coding Across America.
 
 

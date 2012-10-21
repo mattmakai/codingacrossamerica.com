@@ -16,7 +16,7 @@ Los Angeles, CA
 
 Basic stats
 -----------
-* Why Los Angeles, California? (blog post coming soon)
+* `Why Los Angeles, California? <../why-los-angeles-ca.html>`_
 * City population: 3.8m, Metro population: 12.8m
 * Approximate distance driven on trip: `4000 miles <http://goo.gl/maps/tMajn>`_
 * `Google Maps: Los Angeles <http://goo.gl/maps/8VDL1>`_

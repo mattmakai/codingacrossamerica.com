@@ -21,6 +21,10 @@ Basic stats
 * Approximate distance driven on trip: `7900 miles <http://bit.ly/R3O35R>`_
 * `Google Maps: Detroit <http://goo.gl/maps/lQBjG>`_
 
+Technology
+----------
+* `TechShop Detroit <http://techshop.ws/contact.html>`_
+
 
 Photo Attribution
 -----------------

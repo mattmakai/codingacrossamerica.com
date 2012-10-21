@@ -109,6 +109,12 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/lQBjG"&gt;Google Maps: Detroit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="technology"&gt;
+&lt;h2&gt;Technology&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://techshop.ws/contact.html"&gt;TechShop Detroit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -534,6 +540,12 @@ sites to use Python &amp;amp; Django on the web.&lt;/li&gt;
 Coding Across America logo (site redesign coming soon).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="coding"&gt;
+&lt;h2&gt;Coding&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.hackerdojo.com/"&gt;Hacker Dojo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="accomodations"&gt;
 &lt;h2&gt;Accomodations&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -552,7 +564,7 @@ Coding Across America logo (site redesign coming soon).&lt;/li&gt;
 &lt;div class="section" id="basic-stats"&gt;
 &lt;h2&gt;Basic stats&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Why Los Angeles, California? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../why-los-angeles-ca.html"&gt;Why Los Angeles, California?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;City population: 3.8m, Metro population: 12.8m&lt;/li&gt;
 &lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://goo.gl/maps/tMajn"&gt;4000 miles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/8VDL1"&gt;Google Maps: Los Angeles&lt;/a&gt;&lt;/li&gt;
@@ -1113,6 +1125,41 @@ got their start in that city.&lt;/p&gt;
 &lt;li&gt;Morristown, NJ - &amp;quot;Do My&amp;quot; by Memphis Bleek&lt;/li&gt;
 &lt;li&gt;Washington, DC - &amp;quot;Amazed&amp;quot; by The Offspring&lt;/li&gt;
 &lt;/ul&gt;
+</summary></entry><entry><title>Why Los Angeles, CA?</title><link href="http://www.codingacrossamerica.com/why-los-angeles-ca.html" rel="alternate"></link><updated>2012-10-21T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-21:why-los-angeles-ca.html</id><summary type="html">&lt;p&gt;I have never been to Los Angeles before. The stories I hear about LA's
+massive traffic jams and major suburban sprawl remind me of Northern
+Virginia - only worse. A trip up the West Coast just wouldn't seem complete
+though without a stop in LA. And it'll a comparison point for what I see
+in San Diego, San Francisco, and Seattle's start up scenes.&lt;/p&gt;
+&lt;p&gt;Los Angeles is stop number twelve out of the thirty cities I am visiting.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Los Angeles at night from Griffith Observatory" src="../img/los-angeles-ca-2.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="start-up-culture"&gt;
+&lt;h2&gt;Start Up Culture&lt;/h2&gt;
+&lt;p&gt;I found the &lt;a class="reference external" href="https://twitter.com/LA_Startups"&gt;Los Angeles Startups twitter account&lt;/a&gt; really useful for learning about companies in the city. There are
+many small companies here which is expected for a city with almost 13 million
+people in the metro area.&lt;/p&gt;
+&lt;p&gt;What I'll find interesting is whether being close to San Francisco helps
+or hurts entrepreneurship. On one hand, I'm sure
+some people move back and forth between California cities which helps
+spread ideas about technology and innovation. On the other hand, if you're
+serious about starting a company, maybe people just up and move to San
+Francisco / Palo Alto. Perhaps a third variable, such as the major
+prescence of the movie industry, impacts the startup landscape in a
+more dramatic way than proximity to other California cities. This situation
+needs more research before I take off on the road.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="more-research"&gt;
+&lt;h2&gt;More Research&lt;/h2&gt;
+&lt;p&gt;I'll &lt;a class="reference external" href="../los-angeles-ca.html"&gt;post further notes&lt;/a&gt; as I continue to gather
+more information about Los Angeles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="photo-attribution"&gt;
+&lt;h2&gt;Photo Attribution&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/39214918&amp;#64;N03/4451675186/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Destinations</title><link href="http://www.codingacrossamerica.com/cities.html" rel="alternate"></link><updated>2012-10-17T08:57:04-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-17:cities.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;This is a list of the cities I intend to visit during my Coding
 Across America trip. All arrival dates are near final although I need to
@@ -1131,7 +1178,7 @@ wasn't going. So that got me started thinking about it. Second, my
 brother hung out in San Diego for a few days when he drove across the
 country and he said it was amazing.&lt;/p&gt;
 &lt;p&gt;Plus no trip up the West Coast would seem complete unless I went the almost
-full length from San Diego to Seattle. So San Diego is destination number
+full length from San Diego to Seattle. San Diego is destination number
 eleven during Coding Across America.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;img alt="Port of San Diego with the city in the background" src="../img/san-diego-ca-2.jpg" style="width: 640px; height: 480px;" /&gt;

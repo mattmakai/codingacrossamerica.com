@@ -29,6 +29,10 @@ Start Ups
 * `99 Designs <http://99designs.com/>`_. I used these guys to design my
   Coding Across America logo (site redesign coming soon).
 
+Coding
+------
+* `Hacker Dojo <http://www.hackerdojo.com/>`_.
+
 Accomodations
 -------------
 * Hotel Des Art
