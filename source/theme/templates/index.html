@@ -1,13 +1,12 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<div class="page-unit">
   <div class="row">
     <div class="span8">
       <h2>Recent Blog Posts</h2>
       {% set post_count = 0 %}
       {% for article in dates %}
-        {% if article.category == 'post' and post_count < 6 %}
+        {% if article.category == 'post' and post_count < 7 %}
           <div class="blog-post">
             <h3><a href="{{ article.slug }}.html">{{ article.title }}</a></h3>
             {% set post_count = post_count + 1 %}
@@ -20,7 +19,7 @@
         <a href="/blog.html">View more posts &raquo;</a>
       </div>
     </div>
-    <div class="span3">
+    <div class="offset1 span3">
       <h2>About</h2>
       <h3>What?</h3>
       <p>
@@ -63,5 +62,4 @@
       </div>
     </div>
   </div>
-</div>
 {% endblock %}

@@ -21,6 +21,11 @@ Basic stats
 * Approximate distance driven on trip: `5200 miles <http://goo.gl/maps/9Ju67>`_
 * `Google Maps: Seattle <http://goo.gl/maps/GOlzU>`_
 
+Startups
+--------
+* `SEOmoz <http://www.seomoz.org/>`_. These guys are awesome.
+* 
+
 Coffee Shops
 ------------
 * `Caffee D'Arte <http://www.caffedarte.com/>`_. On 1st Avenue, recommended by a coworker as

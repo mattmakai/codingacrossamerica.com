@@ -1,19 +1,30 @@
-<div class="page-unit">
-  <h1>{{ article.title }}</h1>
-  <div class="row">
+<h1>{{ article.title }}</h1>
+<div class="row">
     <div class="span8">
-      <p>
-        {{ article.content }}
-      </p>
+        <p>
+            {{ article.content }}
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="span1">
+      <h3>Arrival</h3>
       {% for article in dates|reverse %}
         {% if article.category == 'city' %}
           <div>
-            <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
-            (arrive {{ article.date.strftime('%m.%d.%Y') }})
+            {{ article.date.strftime('%m.%d.%Y') }}
           </div>
         {% endif %}
       {% endfor %}
     </div>
-  </div>
+    <div class="span2">
+      <h3>City</h3>
+      {% for article in dates|reverse %}
+        {% if article.category == 'city' %}
+          <div>
+            <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
 </div>
-

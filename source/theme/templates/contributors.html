@@ -1,5 +1,4 @@
-<div class="page-unit">
-  <h1>{{ article.title }}</h1>
+  <h2>{{ article.title }}</h2>
   <div class="row">
     <div class="span8">
       <p>
@@ -12,8 +11,7 @@
         {% endif %}
       {% endfor %}
     </div>
-    <div class="span2">
-      <hr/>
+    <div class="offset1 span3">
       <h2>Contributors</h3>
       <ul class="contributors">
         {% for article in articles %}
@@ -26,4 +24,3 @@
       </ul>
     </div>
   </div>
-</div>

@@ -28,6 +28,7 @@ Start Ups
 * `Github <http://github.com/>`_.
 * `99 Designs <http://99designs.com/>`_. I used these guys to design my
   Coding Across America logo (site redesign coming soon).
+* `Mixpanel <https://www.mixpanel.com/>`_. Python and Vim guys.
 
 Coding
 ------
