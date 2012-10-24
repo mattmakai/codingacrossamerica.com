@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/faq.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2012-10-12T11:33:52-04:00</updated><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2012-10-12T11:33:52-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-12:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, please tweet
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/faq.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2012-10-24T16:00:06-04:00</updated><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2012-10-24T16:00:06-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-10-24:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, please tweet
 &lt;a class="reference external" href="http://twitter.com/makaimc"&gt;&amp;#64;makaimc&lt;/a&gt; on Twitter with the question and
 #camfaq. Thanks!&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="who-are-you"&gt;
 &lt;h2&gt;Who are you?&lt;/h2&gt;
-&lt;p&gt;I'm &lt;a class="reference external" href="http://www.mattmakai.com/about.html"&gt;Matt Makai&lt;/a&gt;, a software
+&lt;p&gt;I'm &lt;a class="reference external" href="http://www.mattmakai.com/pages/about.html"&gt;Matt Makai&lt;/a&gt;, a software
 developer living in Washington, DC. I currently focus on Python/Django
 development and I've also programmed in Java and Objective-C in the past.&lt;/p&gt;
 &lt;/div&gt;

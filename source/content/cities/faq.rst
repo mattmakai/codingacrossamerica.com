@@ -13,7 +13,7 @@ If you have a question that's not answered here, please tweet
 
 Who are you?
 ------------
-I'm `Matt Makai <http://www.mattmakai.com/about.html>`_, a software 
+I'm `Matt Makai <http://www.mattmakai.com/pages/about.html>`_, a software 
 developer living in Washington, DC. I currently focus on Python/Django 
 development and I've also programmed in Java and Objective-C in the past.
 
