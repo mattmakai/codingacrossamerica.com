@@ -41,7 +41,24 @@ Coffee Shops
 * `Smelly Cat Coffeehouse <http://smellycatcoffee.com/>`_
 * `Cluck n Cup <http://www.cluckncup.com/>`_. Chicken pot pies and coffee. 
   Interesting combination. Recommended by my friend Alex McClain.
+* `Dilworth Coffee <http://www.dilworthcoffee.com/>`_.
+* `The Coffee Shop Economy <http://www.charlottemagazine.com/Charlotte-Magazine/November-2012/Start-Me-Up/The-Coffeeshop-Economy/>`_. Relevant article.
 
+Start Up Ecosystem
+------------------
+* `Hackerspace Charlotte <http://www.hackerspacecharlotte.org/>`_. Thursday, 
+  March 14 there will be a meetup for "Green Hacking" - renewable energy.
+  Also it's open build night (Contact Mark at inventor42@hotmail.com or 
+  inventor42 on the irc with any questions). 
+  `Another article on Hackerspace <http://www.charlottemagazine.com/Charlotte-Magazine/January-2012/Hackerspace-Charlotte-A-Tinkerers-Paradise-and-Haven-for-Intellectual-Curiosity/>`_.
+* `Queen City Forward <http://queencityforward.org/>`_.
+* `Packard Place <http://www.meetup.com/packardplace/>`_. Meetups around
+  entrepreneurship.
+* `RevTech Labs <http://revtechlabs.com/>`_. Start up incubator.
+
+Relevant Articles
+-----------------
+* `Start Me Up <http://www.charlottemagazine.com/Charlotte-Magazine/November-2012/Start-Me-Up/>`_ article in Charlotte Magazine.
 
 References
 ----------

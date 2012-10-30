@@ -19,7 +19,7 @@ Basic stats
 -----------
 * `Why Charlottesville? <../why-charlottesville-va.html>`_
 * City population: 43k, Charlottesville + Albemarle County: 120k
-* Approximate distance driven on trip: `385 miles <http://goo.gl/maps/QV2Jj>`_
+* Approximate distance driven on trip: `115 miles <http://goo.gl/maps/QV2Jj>`_
 * `Google Maps: Charlottesville <http://goo.gl/maps/U71YP>`_
 
 
