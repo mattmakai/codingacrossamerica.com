@@ -58,6 +58,19 @@ Venture Capital
 * `Tall Oaks Capital <http://www.talloakscapital.com/>`_ 
 * `Harren Equity Partners <http://www.harrenequity.com/>`_
 
+Restaurants
+-----------
+* `Zinc <http://comptoirzinc.com/>`_. Awesome restaurant in Midtown 
+  Charlottesville.
+* `Boylen Heights <http://boylan-heights.com/>`_. High end burger spot on
+  The Corner.
+* `Littlejohn's New York Deli <http://www.littlejohnsdeli.com/>`_. Turkey
+  sandwich please.
+* `Fellini's #9 <http://fellinis9.com/>`_. Amazing Italian food. Classic
+  Downtown Mall location.
+* `X Lounge <https://plus.google.com/111081050665763458339/about?gl=us&hl=en>`_. Solid for going out or grabbing some food.
+* `Blue Light Grill <http://www.bluelightgrill.com/>`_. Great food and spot
+  right on the Downtown Mall.
 
 References
 ----------
