@@ -59,6 +59,11 @@ Start Up Ecosystem
 Relevant Articles
 -----------------
 * `Start Me Up <http://www.charlottemagazine.com/Charlotte-Magazine/November-2012/Start-Me-Up/>`_ article in Charlotte Magazine.
+* `Starting a Business Resources <http://www.charlottebusinessresources.com/starting-a-business/entrepreneurship/>`_.
+
+Meetups
+-------
+* `Python & Django <http://www.meetup.com/python-django-charlotte/>`_.
 
 References
 ----------
