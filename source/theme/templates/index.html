@@ -55,8 +55,8 @@
         {% for article in dates|reverse %}
           {% if article.category == 'city' %}
             <div>
+              {{ article.date.strftime('%m.%d.%Y') }} 
               <a href="{{ article.slug }}.html">{{ article.title }}</a>
-              ({{ article.date.strftime('%m.%d.%Y') }})
             </div>
           {% endif %}
         {% endfor %}
