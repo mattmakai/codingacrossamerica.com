@@ -21,6 +21,11 @@ Basic stats
 * Approximate distance driven on trip: `8700 miles <http://bit.ly/URaaxq>`_
 * `Google Maps: Boston <http://goo.gl/maps/x2XIi>`_
 
+Users Groups
+------------
+* `Boston Python <http://meetup.bostonpython.com/>`_.
+* `Boston d3.js <http://www.meetup.com/Boston-d3-js-User-Group/>`_.
+* `Boston jQuery <http://www.meetup.com/BostonjQuery/>`_.
 
 Photo Attribution
 -----------------
