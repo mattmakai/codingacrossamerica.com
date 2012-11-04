@@ -27,6 +27,14 @@ Coffee Shops
 * `Bourbon Coffee <https://plus.google.com/110572259937268960247/about?gl=us&hl=en>`_ in
   Foggy Bottom near George Washington University.
 
+Start ups
+---------
+* `Feastly <http://www.eatfeastly.com/intro/>`_. Python / Django according to `this job posting <http://careers.stackoverflow.com/jobs/25280/cto-feastly?a=tROLNYI&searchTerm=django>`_.
+
+Python/Django
+-------------
+* `Threespot <http://www.threespot.com/>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/aon/3017817334/>`_

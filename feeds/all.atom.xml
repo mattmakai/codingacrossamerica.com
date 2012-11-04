@@ -19,6 +19,18 @@ favorite coffee shop and hang out spot in the country (so far!).&lt;/li&gt;
 Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="start-ups"&gt;
+&lt;h2&gt;Start ups&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.eatfeastly.com/intro/"&gt;Feastly&lt;/a&gt;. Python / Django according to &lt;a class="reference external" href="http://careers.stackoverflow.com/jobs/25280/cto-feastly?a=tROLNYI&amp;amp;searchTerm=django"&gt;this job posting&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-django"&gt;
+&lt;h2&gt;Python/Django&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.threespot.com/"&gt;Threespot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -554,6 +566,10 @@ Coding Across America logo (site redesign coming soon).&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://www.mixpanel.com/"&gt;Mixpanel&lt;/a&gt;. Python and Vim guys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.eventbrite.com/jobs/"&gt;Eventbrite&lt;/a&gt;. Uses Python for data
 analysis according to &lt;a class="reference external" href="http://www.eventbrite.com/jobs/"&gt;this post&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://disqus.com/"&gt;DISQUS&lt;/a&gt;. Quite possibly the largest site on the
+web running Django.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.zerocater.com/"&gt;ZeroCater&lt;/a&gt;. Python / Django users according
+to &lt;a class="reference external" href="http://careers.stackoverflow.com/jobs/21934/engineer-at-fast-growing-startup-zerocater?a=pUIqAoM&amp;amp;searchTerm=django"&gt;this job posting&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="coding"&gt;
@@ -777,6 +793,7 @@ shopping spots and restaurants&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.dailydot.com/"&gt;Daily Dot&lt;/a&gt; is a team of writers around the country and headquartered in Austin. Write about Internet communities instead of traditional geographic communities.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.continuum.io/"&gt;Contiuum Analytics&lt;/a&gt;. Data analysis and
 visualization based on Python. Definitely need to talk to these guys.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.webcubecms.com/"&gt;Web Cube&lt;/a&gt;. CMS built on Python.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bars"&gt;

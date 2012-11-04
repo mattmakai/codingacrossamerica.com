@@ -31,6 +31,10 @@ Start Ups
 * `Mixpanel <https://www.mixpanel.com/>`_. Python and Vim guys.
 * `Eventbrite <http://www.eventbrite.com/jobs/>`_. Uses Python for data
   analysis according to `this post <http://www.eventbrite.com/jobs/>`_.
+* `DISQUS <http://disqus.com/>`_. Quite possibly the largest site on the
+  web running Django.
+* `ZeroCater <http://www.zerocater.com/>`_. Python / Django users according
+  to `this job posting <http://careers.stackoverflow.com/jobs/21934/engineer-at-fast-growing-startup-zerocater?a=pUIqAoM&searchTerm=django>`_.
 
 Coding
 ------
