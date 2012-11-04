@@ -29,10 +29,13 @@ Start Ups
 * `99 Designs <http://99designs.com/>`_. I used these guys to design my
   Coding Across America logo (site redesign coming soon).
 * `Mixpanel <https://www.mixpanel.com/>`_. Python and Vim guys.
+* `Eventbrite <http://www.eventbrite.com/jobs/>`_. Uses Python for data
+  analysis according to `this post <http://www.eventbrite.com/jobs/>`_.
 
 Coding
 ------
-* `Hacker Dojo <http://www.hackerdojo.com/>`_.
+* `Hacker Dojo <http://www.hackerdojo.com/>`_
+* `Silicon Valley Django Meetup <http://www.meetup.com/svdjango/>`_
 
 Accomodations
 -------------

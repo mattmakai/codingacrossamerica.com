@@ -63,11 +63,13 @@ Froyo
 
 Conferences
 -----------
-* `Bazaar Voice <http://summit.bazaarvoice.com/>`_ will just miss my trip on April 11-13, but I could stick around for a few more days if it's something I want to go to.
+* `Bazaar Voice <http://summit.bazaarvoice.com/>`_ will just miss my trip on 
+  April 11-13, but I could stick around for a few more days if it's 
+  something I want to go to.
 
 Restaurants
 -----------
-*
+* `Franklin Barbeque <http://franklinbarbecue.com/>`_. Worth the wait in line.
 
 Photo Attribution
 -----------------

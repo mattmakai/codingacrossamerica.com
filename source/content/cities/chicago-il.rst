@@ -40,6 +40,10 @@ Articles
 * `How Did Groupon's Rise & Fall Affect the Chicago Start Up Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-did-groupons-rise-and-fall-change-chicagos-startup-scene-not-much/262554/>`_
 * `How Big Is Chicago's Startup Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-big-is-chicagos-startup-scene-about-soma-sized-actually/262467/>`_
 
+Meet ups
+--------
+* `Chicago Djangonauts <http://djangonauts.org/chicago/>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/moaksey/98309086/>`_

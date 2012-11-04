@@ -24,12 +24,18 @@ Basic stats
 Startups
 --------
 * `SEOmoz <http://www.seomoz.org/>`_. These guys are awesome.
-* 
+* `Socrata <http://www.socrata.com/>`_. Platform that data.gov and some of
+  CFPB's data APIs are built on.
+* `SurveyMonkey <http://www.surveymonkey.com/>`_. Uses Python according
+  to `this job posting <http://careers.stackoverflow.com/jobs/23877/write-python-used-by-millions-people-surveymonkey?a=sd2Qk6s&searchTerm=django>`_.
+* `Seattle Area Start ups <http://seattle.areastartups.com/top-100>`_
 
 Coffee Shops
 ------------
 * `Caffee D'Arte <http://www.caffedarte.com/>`_. On 1st Avenue, recommended by a coworker as
   her favorite coffee shop in Seattle.
+
+
 
 References
 ----------

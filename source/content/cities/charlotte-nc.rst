@@ -31,7 +31,15 @@ Interesting Start Ups/Small Businesses
 --------------------------------------
 * `Red Ventures <http://www.redventures.com/>`_
 * `Adaptivity <http://www.adaptivity.com/>`_
-* `SubHub (US office) <http://www.subhub.com/>`_
+* `SubHub <http://www.subhub.com/>`_. US office.
+* `iFuturistics <http://www.ifuturistics.com/>`_. Technology consulting
+  firm.
+
+Venture Capital
+---------------
+* `List of VCs in and near Charlotte, NC <http://charlottechamber.com/clientuploads/Economic_pdfs/Venture_Capital.pdf>`_
+* `Top of the List NC VCs <http://www.bizjournals.com/charlotte/blog/top_25_list/2011/06/top-of-the-list-nc-venture-capital.html>`_. Article on VC firms
+  in NC. Damn paywall.
 
 Coffee Shops
 ------------

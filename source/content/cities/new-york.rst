@@ -21,6 +21,10 @@ Basic stats
 * Approximate distance driven on trip: `8950 miles <http://bit.ly/SRCjmd>`_
 * `Google Maps: New York <http://goo.gl/maps/qA83z>`_
 
+Meet ups
+--------
+* `Django NYC <http://www.djangonyc.org/>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/endymion120/5471920747/>`_

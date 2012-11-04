@@ -22,6 +22,10 @@ Basic stats
 * `Google Maps: Morristown <http://goo.gl/maps/xCY2F>`_
 
 
+Meet ups
+--------
+* `North Jersey Django Developers <http://www.meetup.com/North-Jersey-Python-Django-Developers-Group/>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/9491225@N05/3495305379/>`_
