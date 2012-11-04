@@ -30,6 +30,7 @@ First Glance Start Up Scene
 Interesting Start Ups/Small Businesses
 --------------------------------------
 * `eval.me <http://eval.me/>`_. Site runs on Python / Django.
+* `iMedicare <http://imedicareapp.com/>`_. Created by Flaviu Simihaian.
 * `Red Ventures <http://www.redventures.com/>`_
 * `Adaptivity <http://www.adaptivity.com/>`_
 * `SubHub <http://www.subhub.com/>`_. US office.
