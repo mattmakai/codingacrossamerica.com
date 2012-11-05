@@ -45,6 +45,7 @@ Coffee Shops
 ------------
 * `Urban Grind Coffeehouse and Roaster <http://urbangrindcoffee.com/>`_
 * `Tiny's <http://www.tinyscoffee.com>`_
+* `Backspace <http://www.backspace.bz/>`_
 
 Beer
 ----
