@@ -25,6 +25,10 @@ Technology
 ----------
 * `TechShop Detroit <http://techshop.ws/contact.html>`_
 
+Companies
+---------
+* `Atomic Object <http://detroit.atomicobject.com/>`_. Detroit office. A
+  company with "give a shit" as a core value sounds awesome.
 
 Photo Attribution
 -----------------
