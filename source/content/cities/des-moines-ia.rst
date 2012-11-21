@@ -49,6 +49,9 @@ Restaurants
   marys.
 * `Dos Rios <http://www.dosriosrestaurant.com/>`_
 
+Articles
+--------
+* `Silicon Prairie <http://www.nytimes.com/2012/11/22/us/silicon-prairie-takes-root-in-the-great-plains.html>`_
 
 Misc
 ----
