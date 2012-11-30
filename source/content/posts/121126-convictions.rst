@@ -10,7 +10,7 @@ accommodate them."**
 
 I strongly hold two convictions:
 
-1. Software development is awesome - if you're stresed out and not 
+1. Software development is awesome - if you're stressed out and not 
    delivering amazing new work to end users every day, you're doing it wrong
 
 2. More young people need to be inspired to go into software development
