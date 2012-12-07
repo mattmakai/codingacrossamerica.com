@@ -16,7 +16,7 @@ San Francisco, CA
 
 Basic stats
 -----------
-* Why San Francisco, California? (blog post coming soon)
+* `Why San Francisco, California? <../why-san-francisco-ca.html>`_
 * City population: 800k, Metro population: 4.3m
 * Approximate distance driven on trip: `4350 miles <http://goo.gl/maps/XmQIR>`_
 * `Google Maps: San Francisco <http://goo.gl/maps/fFwl5>`_
@@ -36,10 +36,13 @@ Start Ups
 * `ZeroCater <http://www.zerocater.com/>`_. Python / Django users according
   to `this job posting <http://careers.stackoverflow.com/jobs/21934/engineer-at-fast-growing-startup-zerocater?a=pUIqAoM&searchTerm=django>`_.
 * `Bump <http://bu.mp/company/jobs>`_. In Mountain View.
+* `CloudScaling <http://www.cloudscaling.com/>`_. Elastic clouds and managed
+  services around extending private clouds with public cloud infrastructure.
 
 Coding
 ------
 * `Hacker Dojo <http://www.hackerdojo.com/>`_
+* `San Francisco Django Meetup <http://www.meetup.com/The-San-Francisco-Django-Meetup-Group/>`_
 * `Silicon Valley Django Meetup <http://www.meetup.com/svdjango/>`_
 * `Redis Meetup <http://www.meetup.com/San-Francisco-Redis-Meetup/>`_
 

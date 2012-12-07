@@ -569,7 +569,7 @@ get it done.&lt;/li&gt;
 &lt;div class="section" id="basic-stats"&gt;
 &lt;h2&gt;Basic stats&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Why San Francisco, California? (blog post coming soon)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../why-san-francisco-ca.html"&gt;Why San Francisco, California?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;City population: 800k, Metro population: 4.3m&lt;/li&gt;
 &lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://goo.gl/maps/XmQIR"&gt;4350 miles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/fFwl5"&gt;Google Maps: San Francisco&lt;/a&gt;&lt;/li&gt;
@@ -591,12 +591,15 @@ web running Django.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.zerocater.com/"&gt;ZeroCater&lt;/a&gt;. Python / Django users according
 to &lt;a class="reference external" href="http://careers.stackoverflow.com/jobs/21934/engineer-at-fast-growing-startup-zerocater?a=pUIqAoM&amp;amp;searchTerm=django"&gt;this job posting&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://bu.mp/company/jobs"&gt;Bump&lt;/a&gt;. In Mountain View.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.cloudscaling.com/"&gt;CloudScaling&lt;/a&gt;. Elastic clouds and managed
+services around extending private clouds with public cloud infrastructure.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="coding"&gt;
 &lt;h2&gt;Coding&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.hackerdojo.com/"&gt;Hacker Dojo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/The-San-Francisco-Django-Meetup-Group/"&gt;San Francisco Django Meetup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/svdjango/"&gt;Silicon Valley Django Meetup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/San-Francisco-Redis-Meetup/"&gt;Redis Meetup&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
