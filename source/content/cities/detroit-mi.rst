@@ -30,6 +30,10 @@ Companies
 * `Atomic Object <http://detroit.atomicobject.com/>`_. Detroit office. A
   company with "give a shit" as a core value sounds awesome.
 
+Articles
+--------
+* `Detroit Hack City <http://techcrunch.com/2012/11/11/detroit-hack-city/>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/patriciadrury/3381026294/>`_

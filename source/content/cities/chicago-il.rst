@@ -38,6 +38,10 @@ Coffee Shops
   in Lincoln Park.
 * `Uncommon Ground <http://www.uncommonground.com/>`_ on Clark
 
+Restaurants
+-----------
+* `Wiener Circle <http://www.wienercircle.net/>`_. Recommended by Maureen Rohn.
+
 Articles
 --------
 * `How Did Groupon's Rise & Fall Affect the Chicago Start Up Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-did-groupons-rise-and-fall-change-chicagos-startup-scene-not-much/262554/>`_

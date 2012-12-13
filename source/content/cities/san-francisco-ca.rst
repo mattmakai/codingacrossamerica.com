@@ -38,6 +38,8 @@ Start Ups
 * `Bump <http://bu.mp/company/jobs>`_. In Mountain View.
 * `CloudScaling <http://www.cloudscaling.com/>`_. Elastic clouds and managed
   services around extending private clouds with public cloud infrastructure.
+* `odopod <http://www.odopod.com/>`_. Looks like consulting around technology 
+  products and services. Strategy, UI, and marketing.
 
 Coding
 ------
