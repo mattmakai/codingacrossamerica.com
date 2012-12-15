@@ -68,6 +68,10 @@ Conferences
   April 11-13, but I could stick around for a few more days if it's 
   something I want to go to.
 
+Meetups
+-------
+* `Austin Lean Startup Circle <http://www.meetup.com/Austin-Lean-Startup-Circle/>`_
+
 Restaurants
 -----------
 * `Franklin Barbeque <http://franklinbarbecue.com/>`_. Worth the wait in line.

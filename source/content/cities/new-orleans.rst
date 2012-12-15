@@ -43,12 +43,14 @@ Interesting
 -----------
 * Digital Media tax credit, technology development projects in Louisiana,
   you get up to 35% labor tax credit, non-Louisiana is 25% labor tax credit
+* `Silicon Bayou News <http://siliconbayounews.com/>`_
 
 Meetups
 -------
 * `NOLA Hack Night <http://www.meetup.com/nolahacknight/>`_. Tuesday every week.
+* `gnocode <http://www.meetup.com/gnocode/>`_
 * `We Make <http://www.meetup.com/We-Make/>`_
-
+* `New Orleans Personal Computer Club <http://www.meetup.com/NOPC-Club/>`_
 
 References
 ----------
