@@ -16,7 +16,7 @@ Austin, TX
 
 Basic stats
 -----------
-* Why Austin, Texas? (blog post coming soon)
+* `Why Austin, Texas? <../why-austin-tx.html>`_ 
 * City population: 820k, Metro population: 1.7m
 * Approximate distance driven on trip: `1900 miles <http://goo.gl/maps/icsdn>`_
 * `Google Maps: Austin <http://goo.gl/maps/nHiWd>`_

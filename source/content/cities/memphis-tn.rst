@@ -38,7 +38,11 @@ Venture Capital
   sciences industry, particularly treatments and cures for musculoskeletal 
   diseases.
 
-
+Meetups
+-------
+* `MEMpy <http://mempy.org/>`_
+* `Memphis Startup Meetup <http://www.meetup.com/Memphis_startup_meetup/>`_
+* `Midsouth Tech Corner <http://www.meetup.com/MidsouthTechCorner/>`_
 
 References
 ----------

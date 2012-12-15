@@ -24,7 +24,7 @@ Basic Stats
 Coffee Shops
 ------------
 * `Cafe Du Monde <http://www.cafedumonde.com/>`_. A classic New Orleans
-  staple (tourist trap?). I was here before in March 2011.
+  staple (tourist trap?). I was here in March 2011.
 
 Venture Capital and Funding
 ---------------------------
@@ -38,14 +38,17 @@ Start Up Support
 * `New Orleans Startup Fund <http://neworleansstartupfund.org/>`_
 * `Launchpad New Orleans <http://launchpadnola.com/>`_. Shared working space in New Orleans.
 
-Conferences
------------
-* `Society for Information Technology and Teacher Education Conference <http://site.aace.org/>`_ is taking place during the time I will be in New Orleans. Submissions are due by Oct 25, 2012.
 
 Interesting
 -----------
 * Digital Media tax credit, technology development projects in Louisiana,
   you get up to 35% labor tax credit, non-Louisiana is 25% labor tax credit
+
+Meetups
+-------
+* `NOLA Hack Night <http://www.meetup.com/nolahacknight/>`_. Tuesday every week.
+* `We Make <http://www.meetup.com/We-Make/>`_
+
 
 References
 ----------

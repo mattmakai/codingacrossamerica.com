@@ -39,6 +39,10 @@ Interesting Start Ups/Small Businesses
 Meetups
 -------
 * `Grow Nashville <http://www.meetup.com/Nashville-Startups/>`_
+* `Interactive Developers of Nashville <http://www.idofnashville.com/>`_
+* `Nashville Web Design <http://www.meetup.com/webdesign-482/>`_
+* `Nashville Ruby on Rails <http://www.meetup.com/nashvillerails/>`_
+* `PyNash <http://ppl.nashvl.org/groups/pynash>`_
 
 Coffee Shops
 ------------

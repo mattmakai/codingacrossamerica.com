@@ -73,7 +73,13 @@ Relevant Articles
 
 Meetups
 -------
-* `Python & Django <http://www.meetup.com/python-django-charlotte/>`_.
+* `Python & Django <http://www.meetup.com/python-django-charlotte/>`_
+* `Charlotte Python <http://www.meetup.com/python-charlotte/>`_
+* `Charlotte Clojure Users Group <http://www.meetup.com/Charlotte-Clojure-Users-Group/>`_
+* `CharlotteJS <http://www.charlottejs.org/>`_
+* `Charlotte Geek School <http://www.meetup.com/charlotte-geek-school/>`_
+* `Skookum Digital Works Free Friday Tech Talks <http://techtalk.skookum.com/>`_. Need
+  to check schedule to see if it overlaps.
 
 References
 ----------
