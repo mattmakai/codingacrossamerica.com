@@ -3,7 +3,7 @@ Memphis, TN
 
 :category: city
 :slug: memphis-tn
-:date: 2013-03-21
+:date: 2013-03-22
 
 ----
 
@@ -20,7 +20,6 @@ About
 * City population: 662k, Metro population: 1.3m
 * Approximate distance driven on trip: `1000 miles <http://goo.gl/maps/w56my>`_
 * `Google Maps: Memphis <http://goo.gl/maps/JKriK>`_
-
 
 
 Interesting Initiatives
@@ -40,7 +39,7 @@ Venture Capital
 
 Meetups
 -------
-* `MEMpy <http://mempy.org/>`_
+* `MEMpy <http://mempy.org/>`_. I'll be speaking on March 25th.
 * `Memphis Startup Meetup <http://www.meetup.com/Memphis_startup_meetup/>`_
 * `Midsouth Tech Corner <http://www.meetup.com/MidsouthTechCorner/>`_
 

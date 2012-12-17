@@ -3,7 +3,7 @@ New Orleans, LA
 
 :category: city
 :slug: new-orleans-la
-:date: 2013-03-25
+:date: 2013-03-26
 
 ----
 
