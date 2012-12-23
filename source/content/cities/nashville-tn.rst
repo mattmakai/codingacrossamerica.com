@@ -43,6 +43,7 @@ Meetups
 * `Nashville Web Design <http://www.meetup.com/webdesign-482/>`_
 * `Nashville Ruby on Rails <http://www.meetup.com/nashvillerails/>`_
 * `PyNash <http://ppl.nashvl.org/groups/pynash>`_
+* `Nashville Java Users Group <http://www.meetup.com/nashvillejug/>`_
 
 Coffee Shops
 ------------
@@ -53,6 +54,10 @@ Start Up Infrastructure
 * `Startup Tennessee <http://www.startuptn.com/>`_
 * `CoLab <http://nashville.colabusa.com/>`_
 * `Entrepreneur Center <http://entrepreneurcenter.com/>`_
+
+Venture Capital
+---------------
+* `Baker Donelson <http://www.bakerdonelson.com/>`_
 
 Universities
 ------------
