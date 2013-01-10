@@ -53,6 +53,13 @@ Accomodations
 -------------
 * Hotel Des Art
 
+
+Interesting Links
+-----------------
+* `Hacker News - visit SF discussion <http://news.ycombinator.com/item?id=4985242>`_ 
+* `How much tech can one city take? <http://www.modernluxury.com/san-francisco/story/how-much-tech-can-one-city-take>`_
+
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/grantloy/4592867698/>`_

@@ -32,6 +32,7 @@ Interesting Initiatives
 Companies
 ---------
 * `Work for Pie <https://workforpie.com/>`_
+* `Deluge Studioes <http://www.delugestudios.com/>`_
 
 Venture Capital
 ---------------

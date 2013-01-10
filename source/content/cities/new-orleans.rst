@@ -38,6 +38,9 @@ Start Up Support
 * `New Orleans Startup Fund <http://neworleansstartupfund.org/>`_
 * `Launchpad New Orleans <http://launchpadnola.com/>`_. Shared working space in New Orleans.
 
+Accomodations
+-------------
+* `Le Pavillon <http://www.lepavillon.com/>`_
 
 Interesting
 -----------

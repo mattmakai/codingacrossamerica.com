@@ -27,6 +27,10 @@ Start Ups
 * `Business Insider on LA startup scene <http://www.businessinsider.com/los-angeles-tech-startups-2012-9>`_. Taken with a grain of salt but might have useful
   bit of information.
 
+Conferences
+-----------
+* `Adobe MAX <http://max.adobe.com/>`_. May 4-8. Registering for this.
+
 Python/Django
 -------------
 * `LA Django <http://www.meetup.com/ladjango/>`_. Tech meetup group gets

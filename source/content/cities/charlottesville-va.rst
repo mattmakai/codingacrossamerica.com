@@ -50,7 +50,12 @@ Entrepreneurship
 * `Batten Institute for Entrepreneurship (Darden School of Business) <http://www.darden.virginia.edu/web/batten-institute/>`_ studies innovation and
   entrepreneurship from an academic standpoint.
 
-* `Charlottesville Technology Incubator <http://www.cvilletechincubator.org/>`_.
+* `Charlottesville Technology Incubator <http://www.cvilletechincubator.org/>`_
+
+Startups
+--------
+* `Relay Foods <http://www.relayfoods.com/>`_
+* `WillowTree Apps <http://www.willowtreeapps.com/>`_
 
 Venture Capital
 ---------------

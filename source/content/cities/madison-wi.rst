@@ -21,6 +21,12 @@ Basic stats
 * Approximate distance driven on trip: `7500 miles <http://bit.ly/OdKFYV>`_
 * `Google Maps: Madison <http://goo.gl/maps/USV7V>`_
 
+
+Interesting Articles
+--------------------
+* `Madison's Future <http://maxlynch.com/blog/madison/>`_
+
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/rahimageworks/7244818350/>`_

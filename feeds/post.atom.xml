@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2012-12-22T00:00:00-05:00</updated><entry><title>Why Redding, CA?</title><link href="http://www.codingacrossamerica.com/why-redding-ca.html" rel="alternate"></link><updated>2012-12-22T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-22:why-redding-ca.html</id><summary type="html">&lt;p&gt;Redding is a small town of about 90k residents in Northern California,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-01-09T00:00:00-05:00</updated><entry><title>Two Months To Go</title><link href="http://www.codingacrossamerica.com/two-months-to-go.html" rel="alternate"></link><updated>2013-01-09T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-09:two-months-to-go.html</id><summary type="html">&lt;p&gt;With exactly two months until I hit the road my focus has now shifted to
+finishing my research on the &lt;a class="reference external" href="../cities.html"&gt;cities I'll be visiting&lt;/a&gt; and
+communicating with tech groups and companies and I'll be meeting on the road.&lt;/p&gt;
+&lt;p&gt;I'm in the process of booking the hotels for the first ten cities I'll
+be in - that should take me through sometime in April. I'll book later
+destinations once I'm on the road so I can have more flexibility to
+move dates around based on interesting events. For example, the
+&lt;a class="reference external" href="http://max.adobe.com/"&gt;Adobe MAX&lt;/a&gt; looks great even though it was a
+few days off from when I was planning to be in LA.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;On a side note, this article in &lt;a class="reference external" href="http://www.wired.com/wiredenterprise/2013/01/hack-the-government/"&gt;Wired on 'How to Hack the Government&lt;/a&gt;
+is pretty interesting. I currently develop software for CFPB (one of
+my clients) and it's great to see Github and open source getting good
+press. Hopefully other areas of the government follow suit.&lt;/p&gt;
+&lt;p&gt;The often antiquated software development practices other agencies use need a
+serious upgrade so the government can stop spending so much damn money on
+technology and getting so little for it. There's a whole host of other
+government problems that would need to be addressed outside what this
+article discusses but it's an interesting start nonetheless.&lt;/p&gt;
+</summary></entry><entry><title>Why Redding, CA?</title><link href="http://www.codingacrossamerica.com/why-redding-ca.html" rel="alternate"></link><updated>2012-12-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-26:why-redding-ca.html</id><summary type="html">&lt;p&gt;Redding is a small town of about 90k residents in Northern California,
 about three and a half hours from San Francisco. From my initial research
 there doesn't seem to be much of a technology start up scene here. That's
 fine - this is another destination where I can spend some time programming
