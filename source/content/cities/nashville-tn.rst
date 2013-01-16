@@ -70,6 +70,7 @@ References
 * `Why There Aren't 20 Nashville Startups You Need To Know About <http://thenextweb.com/us/2011/06/25/why-there-arent-20-nashville-startups-you-need-to-know-about/>`_
 * `7 Nashville Start Ups That Seem to Be Doing Everything Right <http://williamgriggs.com/news/7-nashville-startups-that-seem-to-be-doing-everything-right/>`_
 * `Built In Nashville <http://www.thestartupslingshot.com/built-in-nashville/>`_
+* `Nashville's Latest Hit Could Be the City Itself <http://www.nytimes.com/2013/01/09/us/nashville-takes-its-turn-in-the-spotlight.html?src=me&ref=general&_r=0>`_
  
 
 Photo Attribution

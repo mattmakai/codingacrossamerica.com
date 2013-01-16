@@ -31,6 +31,17 @@ User Groups
 -----------
 * `San Diego Python Users Group <http://www.meetup.com/pythonsd/>`_
 
+
+Accomodations
+-------------
+* `Coronado, Hotel del Coronado <http://www.hoteldel.com/>`_
+
+
+Interesting Recommendations
+---------------------------
+* `La Jolla Children's Pool and La Jolla Seals <http://www.a-zsandiegobeaches.com/lajollachildrenspool.htm>`_
+* 
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/robsettantasei/3031503519/>`_
