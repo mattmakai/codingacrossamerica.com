@@ -38,6 +38,7 @@ Start Ups
 * `Contiuum Analytics <http://www.continuum.io/>`_. Data analysis and 
   visualization based on Python. Definitely need to talk to these guys.
 * `Web Cube <http://www.webcubecms.com/>`_. CMS built on Python.
+* `Q2ebanking <http://q2ebanking.com/>`_
 
 Bars
 ----

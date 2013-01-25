@@ -21,9 +21,13 @@ Basic stats
 * Approximate distance driven on trip: `8950 miles <http://bit.ly/SRCjmd>`_
 * `Google Maps: New York <http://goo.gl/maps/qA83z>`_
 
+
 Companies
 ---------
 * `Lab49 <http://www.lab49.com/>`_
+* `Backbase <http://www.backbase.com/>`_
+* `Datadog <http://www.datadoghq.com/>`_
+
 
 Meet ups
 --------

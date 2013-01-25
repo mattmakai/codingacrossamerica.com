@@ -30,6 +30,8 @@ First Glance Start Up Scene
 Interesting Start Ups/Small Businesses
 --------------------------------------
 * `eval.me <http://eval.me/>`_. Site runs on Python / Django.
+* `MailVU <http://mailvu.com/>`_. Also hosts the RevTech Labs incubator 
+  companies.
 * `iMedicare <http://imedicareapp.com/>`_. Created by Flaviu Simihaian.
 * `Red Ventures <http://www.redventures.com/>`_
 * `Adaptivity <http://www.adaptivity.com/>`_
@@ -70,6 +72,7 @@ Relevant Articles
 -----------------
 * `Start Me Up <http://www.charlottemagazine.com/Charlotte-Magazine/November-2012/Start-Me-Up/>`_ article in Charlotte Magazine.
 * `Starting a Business Resources <http://www.charlottebusinessresources.com/starting-a-business/entrepreneurship/>`_.
+* `Building a Startup Ecosystem <http://www.charlottemagazine.com/Charlotte-Magazine/November-2012/Start-Me-Up/Building-a-Startup-Ecosystem/>`_
 
 Meetups
 -------
