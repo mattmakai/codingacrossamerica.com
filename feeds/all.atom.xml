@@ -1337,7 +1337,45 @@ right on the Downtown Mall.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paytonc/6317092753/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="University of Viriginia"></category></entry><entry><title>Wikivoyage and a Bonus City</title><link href="http://www.codingacrossamerica.com/wikivoyage-and-bonus-city.html" rel="alternate"></link><updated>2013-01-16T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-16:wikivoyage-and-bonus-city.html</id><summary type="html">&lt;p&gt;I just found out about &lt;a class="reference external" href="http://en.wikivoyage.org/wiki/Main_Page"&gt;Wikivoyage&lt;/a&gt; today. I can't believe I did not know about it earlier. Wikivoyage is
+</summary><category term="University of Viriginia"></category></entry><entry><title>DC Python Group Coding</title><link href="http://www.codingacrossamerica.com/dc-python-group-coding.html" rel="alternate"></link><updated>2013-01-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-26:dc-python-group-coding.html</id><summary type="html">&lt;p&gt;Washington, DC is most commonly associated with politics but it has
+quite a technology scene as well. I'm taking advantage of as many of the
+events I can attend before hitting the road in March. Today is DC Python's
+group coding session at &lt;a class="reference external" href="http://www.socialcode.com/"&gt;SocialCode&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Developers are working on projects such as scientific and numeric analysis
+with NumPy and SciPy, geographic information systems, a Jenkins-based
+software-as-a-service platform that runs off Amazon Web Services, new
+Python commandline tools, and some
+&lt;a class="reference external" href="http://www.pygame.org/news.html"&gt;PyGame&lt;/a&gt; projects.&lt;/p&gt;
+&lt;p&gt;I did writing on the web frameworks section of
+&lt;a class="reference external" href="http://www.fullstackpython.com/"&gt;Full Stack Python&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some pictures from the event.&lt;/p&gt;
+&lt;img alt="Group hacking on Jenkins project" src="../img/130126-dc-python-coding/group_hacking.jpg" /&gt;
+&lt;p&gt;Group hacking on a Jenkins software-as-a-service project.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Whiteboarding the Jenkins project" src="../img/130126-dc-python-coding/whiteboard.jpg" /&gt;
+&lt;p&gt;Whiteboarding the Jenkins project user interface.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Working with NumPy and SciPy" src="../img/130126-dc-python-coding/group_hacking2.jpg" /&gt;
+&lt;p&gt;Groups discussing their projects.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Working with NumPy and SciPy" src="../img/130126-dc-python-coding/documentation_onscreen.jpg" /&gt;
+&lt;p&gt;Displaying and discussing documentation for scientific and data analysis.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Josh and Ryan in the kitchen area of SocialCode's office" src="../img/130126-dc-python-coding/josh_and_ryan.jpg" /&gt;
+&lt;p&gt;Josh and Ryan.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Thanks to &lt;a class="reference external" href="http://www.ryanday.net/"&gt;Ryan Day&lt;/a&gt;, &lt;a class="reference external" href="https://twitter.com/j00bar"&gt;Josh Ginsberg&lt;/a&gt; and SocialCode for organizaing the event and providing us
+with an awesome space for the day.&lt;/p&gt;
+</summary></entry><entry><title>Comments</title><link href="http://www.codingacrossamerica.com/comments.html" rel="alternate"></link><updated>2013-01-25T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-25:comments.html</id><summary type="html">&lt;p&gt;I &lt;em&gt;finally&lt;/em&gt; got around to adding a &lt;a class="reference external" href="http://disqus.com/"&gt;Disqus&lt;/a&gt;-based
+comments system to this site. Currently all blog posts and the city
+research pages have an area for comments at the bottom.&lt;/p&gt;
+&lt;p&gt;The comment system needs to be tweaked. I'll probably modify it to
+allow anonymous posts. There are probably other settings I can change
+that will be beneficial.&lt;/p&gt;
+&lt;p&gt;Head over to the &lt;a class="reference external" href="../cities.html"&gt;cities&lt;/a&gt; page, pick a city, and write
+up recommendations for what I should do and see while I'm there on my
+trip.&lt;/p&gt;
+</summary></entry><entry><title>Wikivoyage and a Bonus City</title><link href="http://www.codingacrossamerica.com/wikivoyage-and-bonus-city.html" rel="alternate"></link><updated>2013-01-16T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-16:wikivoyage-and-bonus-city.html</id><summary type="html">&lt;p&gt;I just found out about &lt;a class="reference external" href="http://en.wikivoyage.org/wiki/Main_Page"&gt;Wikivoyage&lt;/a&gt; today. I can't believe I did not know about it earlier. Wikivoyage is
 Wikipedia for destinations. I will use Wikivoyage extensively for this trip
 as it complements my &lt;a class="reference external" href="../cities.html"&gt;cities&lt;/a&gt; pages.&lt;/p&gt;
 &lt;p&gt;I have a bonus city for this trip in April: Las Vegas. I am going to
