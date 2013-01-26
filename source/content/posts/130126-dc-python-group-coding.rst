@@ -56,6 +56,6 @@ Josh and Ryan.
 
 ----
 
-Thanks to `Ryan Day <http://www.ryanday.net/>`_, `Josh Ginsberg <https://twitter.com/j00bar>`_ and SocialCode for organizaing the event and providing us 
+Thanks to `Ryan Day <http://www.ryanday.net/>`_, `Josh Ginsberg <https://twitter.com/j00bar>`_ and SocialCode for organizing the event and providing us 
 with an awesome space for the day.
 
