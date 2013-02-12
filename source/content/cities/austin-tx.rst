@@ -8,8 +8,6 @@ Austin, TX
 ----
 
 .. image:: ../img/austin-tx.jpg
-  :width: 640px
-  :height: 480px
   :alt: Downtown Austin, TX at night
 
 ----

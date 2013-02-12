@@ -94,7 +94,7 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Boston, MA</title><link href="http://www.codingacrossamerica.com/boston-ma.html" rel="alternate"></link><updated>2013-07-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-27:boston-ma.html</id><summary type="html">&lt;hr class="docutils" /&gt;
-&lt;img alt="Dusk view of Boston, Massachusetts" src="../img/boston-ma.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;img alt="Dusk view of Boston, Massachusetts" src="../img/boston-ma.jpg" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
 &lt;h2&gt;Basic stats&lt;/h2&gt;
@@ -129,6 +129,12 @@ Foggy Bottom near George Washington University.&lt;/li&gt;
 &lt;li&gt;City population: 260k, Metro population: 1.3m&lt;/li&gt;
 &lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://bit.ly/SRv1yH"&gt;8250 miles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/VTkPr"&gt;Google Maps: Buffalo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bars"&gt;
+&lt;h2&gt;Bars&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mickeyrats.com/Mickey_Rats_Beach_Club.html"&gt;Mickey Rat's Beach Club&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
@@ -844,7 +850,7 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Austin, TX</title><link href="http://www.codingacrossamerica.com/austin-tx.html" rel="alternate"></link><updated>2013-03-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-30:austin-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
-&lt;img alt="Downtown Austin, TX at night" src="../img/austin-tx.jpg" style="width: 640px; height: 480px;" /&gt;
+&lt;img alt="Downtown Austin, TX at night" src="../img/austin-tx.jpg" /&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="basic-stats"&gt;
 &lt;h2&gt;Basic stats&lt;/h2&gt;
@@ -1337,7 +1343,8 @@ right on the Downtown Mall.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/paytonc/6317092753/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="University of Viriginia"></category></entry><entry><title>DC Python Group Coding</title><link href="http://www.codingacrossamerica.com/dc-python-group-coding.html" rel="alternate"></link><updated>2013-01-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-26:dc-python-group-coding.html</id><summary type="html">&lt;p&gt;Washington, DC is most commonly associated with politics but it has
+</summary><category term="University of Viriginia"></category></entry><entry><title>Curveball</title><link href="http://www.codingacrossamerica.com/curveball.html" rel="alternate"></link><updated>2013-01-27T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-27:curveball.html</id><summary type="html">&lt;p&gt;I have an opportunity to participate in an event in New Orleans&lt;/p&gt;
+</summary></entry><entry><title>DC Python Group Coding</title><link href="http://www.codingacrossamerica.com/dc-python-group-coding.html" rel="alternate"></link><updated>2013-01-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-26:dc-python-group-coding.html</id><summary type="html">&lt;p&gt;Washington, DC is most commonly associated with politics but it has
 quite a technology scene as well. I'm taking advantage of as many of the
 events I can attend before hitting the road in March. Today is DC Python's
 group coding session at &lt;a class="reference external" href="http://www.socialcode.com/"&gt;SocialCode&lt;/a&gt;.&lt;/p&gt;

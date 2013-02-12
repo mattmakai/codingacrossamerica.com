@@ -21,7 +21,9 @@ Basic stats
 * Approximate distance driven on trip: `8250 miles <http://bit.ly/SRv1yH>`_
 * `Google Maps: Buffalo <http://goo.gl/maps/VTkPr>`_
 
-
+Bars
+----
+* `Mickey Rat's Beach Club <http://mickeyrats.com/Mickey_Rats_Beach_Club.html>`_
 
 Photo Attribution
 -----------------

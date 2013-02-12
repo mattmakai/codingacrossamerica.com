@@ -8,8 +8,6 @@ Boston, MA
 ----
 
 .. image:: ../img/boston-ma.jpg
-  :width: 640px
-  :height: 480px
   :alt: Dusk view of Boston, Massachusetts
 
 ----
