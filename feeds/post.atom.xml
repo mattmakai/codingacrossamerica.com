@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-01-26T00:00:00-05:00</updated><entry><title>DC Python Group Coding</title><link href="http://www.codingacrossamerica.com/dc-python-group-coding.html" rel="alternate"></link><updated>2013-01-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-26:dc-python-group-coding.html</id><summary type="html">&lt;p&gt;Washington, DC is most commonly associated with politics but it has
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-02-15T00:00:00-05:00</updated><entry><title>(Less Than) One Month to Go</title><link href="http://www.codingacrossamerica.com/less-than-one-month-to-go.html" rel="alternate"></link><updated>2013-02-15T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-02-15:less-than-one-month-to-go.html</id><summary type="html">&lt;p&gt;Now things get interesting. There are only twenty two days remaining until
+I hit the road on March 9th. Later today I'll publish a post about
+Tim O'Reilly's fascinating talk about open government yesterday at one
+of my clients - the Consumer Financial Protection Bureau (CFPB). Tim
+discussed a range of topics, including how CFPB can continue to set an
+example for transparency and openness in government.&lt;/p&gt;
+&lt;p&gt;At 430 I meet with &lt;a class="reference external" href="http://www.thehumangeo.com/company.php"&gt;HumanGeo&lt;/a&gt;
+at their office in Arlington, Virginia. HumanGeo's consultants specialize
+in creating geospatial visualizations and develop software with Python.
+Really sharp guys doing interesting software development.&lt;/p&gt;
+&lt;p&gt;Next week is &lt;a class="reference external" href="http://www.wisertogether.com/"&gt;WiserTogether&lt;/a&gt; in Georgetown.
+Stay tuned.&lt;/p&gt;
+</summary></entry><entry><title>DC Python Group Coding</title><link href="http://www.codingacrossamerica.com/dc-python-group-coding.html" rel="alternate"></link><updated>2013-01-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-26:dc-python-group-coding.html</id><summary type="html">&lt;p&gt;Washington, DC is most commonly associated with politics but it has
 quite a technology scene as well. I'm taking advantage of as many of the
 events I can attend before hitting the road in March. Today is DC Python's
 group coding session at &lt;a class="reference external" href="http://www.socialcode.com/"&gt;SocialCode&lt;/a&gt;.&lt;/p&gt;
