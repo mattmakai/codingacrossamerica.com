@@ -1,12 +1,12 @@
 (Less Than) One Month to Go
 ===========================
 
-:date: 2013-02-15
+:date: 2013-02-14
 :slug: less-than-one-month-to-go
 :category: post
 
 Now things get interesting. There are only twenty two days remaining until 
-I hit the road on March 9th. Later today I'll publish a post about 
+I hit the road on March 9th. In the next few days I will publish a post about 
 Tim O'Reilly's fascinating talk about open government yesterday at one 
 of my clients - the Consumer Financial Protection Bureau (CFPB). Tim
 discussed a range of topics, including how CFPB can continue to set an
