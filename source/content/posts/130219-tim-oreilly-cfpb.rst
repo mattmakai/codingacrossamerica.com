@@ -5,6 +5,7 @@ Tim O'Reilly on Open Government
 :slug: tim-oreilly-open-government
 :category: post
 
+
 `Tim O'Reilly <https://twitter.com/timoreilly>`_ came to the
 `Consumer Financial Protection Bureau <http://www.consumerfinance.gov/>`_
 (CFPB) on Thursday, February 14th. Tim discussed a range
@@ -17,6 +18,14 @@ I've grouped the topics together in this post around the ideas - the
 ordering here is not necessarily how the discussion was structured. There 
 were a lot of questions that directed the conversation. Any errors and 
 omissions are mine.
+
+
+----
+
+.. image:: ../img/130219-tim-oreilly-cfpb/cfpb_logo.jpg
+  :alt: CFPB logo outside the building
+
+----
 
 Government as a Platform
 ------------------------
@@ -38,6 +47,13 @@ sourced I'll be sure to write posts about the best ways to build on top
 of them (they are written in `Python <http://www.python.org/>`_ and 
 `Django <http://www.djangoproject.com/>`_). 
 
+
+----
+
+.. image:: ../img/130219-tim-oreilly-cfpb/tim_oreilly.jpg
+  :alt: Tim O'Reilly speaking in the auditorium in Washington, DC
+
+----
 
 Serve and Create Heroes
 -----------------------
