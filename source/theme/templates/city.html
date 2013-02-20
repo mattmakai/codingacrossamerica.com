@@ -17,4 +17,16 @@
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
+    <div class="span4" style="text-align: right;">
+        <div>
+          <strong>All Cities</strong>
+        </div>
+       {% for article in dates|reverse %}
+          {% if article.category == 'city' %}
+            <div>
+              <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
+            </div>
+          {% endif %}
+        {% endfor %}
+    </div>
   </div>
