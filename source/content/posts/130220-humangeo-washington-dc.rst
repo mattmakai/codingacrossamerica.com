@@ -1,7 +1,7 @@
 HumanGeo
 ========
 
-:category: future-post
+:category: post
 :slug: human-geo-washington-dc
 :date: 2013-02-20
 
@@ -45,8 +45,8 @@ Developers are granted freedom to use powerful technologies such as:
   `visualization <http://bl.ocks.org/mbostock/4063570>`_ 
   `creation <http://mbostock.github.com/d3/talk/20111116/force-collapsible.html>`_
 
-* `Leaflet <http://leafletjs.com/>`_ for cross-platform, meaning both dekstop 
-  and mobile, interactive maps
+* `Leaflet <http://leafletjs.com/>`_ for cross-platform (both dekstop 
+  and mobile), interactive maps
 
 * `HBase <http://hbase.apache.org/>`_ for storing and accessing massive
   amounts of data that can be feed into algorithms to create actionable
@@ -73,17 +73,26 @@ Change the Approach
 HumanGeo's approach to solving problems in the intelligence space breaks
 down barriers between real system users and software developers. Feedback
 is immediate and clear. Relationships and trust are built between the experts
-who understand their field and developers who understand a wide swath of
+who understand their fields and developers who understand a wide swath of
 technologies. Once a product solves a problem, HumanGeo's well-respected 
-intelligence analysts help influence others in their community to take 
-notice. HumanGeo sells their products and consulting services around 
-effective solutions to real problems faced by users. 
+intelligence analysts influence others in their community who are facing
+that problem. HumanGeo sells their products and consulting services 
+around effective solutions to real issues faced by users. 
 
 HumanGeo's approach is not perfect, but it is a marked departure from 
 how many large firms in the Washington, DC region operate. Traditionally,
 large DC government consulting firms sell a "butts in seats" model. Get
-contractors in the door and let them essentially become staff augmentation.
+contractors in the door and let them augment staff positions.
 Developers have limited freedom and influence to change the status quo.
+They are contracted to do as they are told even if that direction is a clear
+path to failure.
+
+Many of HumanGeo's developers came from other DC consulting firms that
+follow the butts-in-seats model. Some are my former coworkers. We saw 
+first hand how we were shipped off to a government site and put in a seat. 
+We railed against the inefficiencies from the inside without 
+understanding the dynamic that it was in the best interest of our 
+employer to maintain the failing status quo.
 
 ----
 
@@ -93,12 +102,6 @@ Developers have limited freedom and influence to change the status quo.
   Clint and Mike, two developers at HumanGeo
 
 ----
-
-Many of HumanGeo's developers came from other DC consulting firms that
-follow that model. Some are my former coworkers. We saw first hand how
-we were shipped off to a government site and put in a seat. We railed
-against the inefficiencies from the inside without understanding the dynamic
-that it was in the best interest of our employer to maintain the status quo.
 
 Developers at HumanGeo are constantly experimenting with new technologies
 and sharing that knowledge among members of the team. They also reach out
@@ -111,27 +114,33 @@ Government as a Platform
 I asked HumanGeo's developers about 
 `Tim O'Reilly's ideas on government as a platform <../tim-oreilly-open-government.html>`_. They agreed that having more raw data available through
 APIs would help private industry create new applications for citizens.
-There would need to be limits on access but there are principles of 
-public data sharing that also apply in the 
-`security cleared <http://en.wikipedia.org/wiki/Security_clearance>`_ sector.
+In the military intelligence space there would need to be limits on 
+access. Yet many principles of data sharing from citizen-facing agencies can 
+make the
+`security cleared <http://en.wikipedia.org/wiki/Security_clearance>`_ 
+sector more effective as well.
 
 Finally, an interesting idea emerged from our discussion. How do you get
 large public datasets from the government onto platforms where innovative
 applications can be created? Downloading large data sets can take hours or
-days and then it often needs to be uploaded into another environment.
-Perhaps the government could partner with cloud services such as 
+days and then it often needs to be uploaded into another environment. Large
+data transfers incur a bandwidth cost that is often prohibitively expensive.
+
+One idea is that the government could partner with cloud services such as 
 `Amazon Web Services <http://aws.amazon.com/>`_, 
 `Red Hat OpenShift <https://openshift.redhat.com/app/>`_, and
 `Rackspace Cloud <http://www.rackspace.com/cloud/>`_ to offer lower cost 
 access to public data on platforms that developers can immediately use to
-do heavy data processing. It's an idea worth further exploration.
+do heavy data processing. With the data already on the platform data would
+not require immediate transfer to become useful. It's an idea worth further 
+exploration.
 
 What's Next?
 ------------
 On Tuesday I interviewed a development team from a Washington, DC company 
 with a platform for making informed decisions about many aspects of personal
-healthcare. My interview with 
-`WiserTogether <http://www.wisertogether.com/>`_ comes up next.
+healthcare. My story about
+`WiserTogether <http://www.wisertogether.com/>`_ comes next.
 
 \*References
 ------------

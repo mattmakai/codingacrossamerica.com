@@ -1368,8 +1368,8 @@ developers. Together they create elegant solutions to hard problems.&lt;/p&gt;
 &lt;a class="reference external" href="http://mbostock.github.com/d3/talk/20111018/collision.html"&gt;dynamic&lt;/a&gt;
 &lt;a class="reference external" href="http://bl.ocks.org/mbostock/4063570"&gt;visualization&lt;/a&gt;
 &lt;a class="reference external" href="http://mbostock.github.com/d3/talk/20111116/force-collapsible.html"&gt;creation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://leafletjs.com/"&gt;Leaflet&lt;/a&gt; for cross-platform, meaning both dekstop
-and mobile, interactive maps&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://leafletjs.com/"&gt;Leaflet&lt;/a&gt; for cross-platform (both dekstop
+and mobile), interactive maps&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://hbase.apache.org/"&gt;HBase&lt;/a&gt; for storing and accessing massive
 amounts of data that can be feed into algorithms to create actionable
 information&lt;/li&gt;
@@ -1392,27 +1392,30 @@ succeeding with a flexible approach to software development.&lt;/p&gt;
 &lt;p&gt;HumanGeo's approach to solving problems in the intelligence space breaks
 down barriers between real system users and software developers. Feedback
 is immediate and clear. Relationships and trust are built between the experts
-who understand their field and developers who understand a wide swath of
+who understand their fields and developers who understand a wide swath of
 technologies. Once a product solves a problem, HumanGeo's well-respected
-intelligence analysts help influence others in their community to take
-notice. HumanGeo sells their products and consulting services around
-effective solutions to real problems faced by users.&lt;/p&gt;
+intelligence analysts influence others in their community who are facing
+that problem. HumanGeo sells their products and consulting services
+around effective solutions to real issues faced by users.&lt;/p&gt;
 &lt;p&gt;HumanGeo's approach is not perfect, but it is a marked departure from
 how many large firms in the Washington, DC region operate. Traditionally,
 large DC government consulting firms sell a &amp;quot;butts in seats&amp;quot; model. Get
-contractors in the door and let them essentially become staff augmentation.
-Developers have limited freedom and influence to change the status quo.&lt;/p&gt;
+contractors in the door and let them augment staff positions.
+Developers have limited freedom and influence to change the status quo.
+They are contracted to do as they are told even if that direction is a clear
+path to failure.&lt;/p&gt;
+&lt;p&gt;Many of HumanGeo's developers came from other DC consulting firms that
+follow the butts-in-seats model. Some are my former coworkers. We saw
+first hand how we were shipped off to a government site and put in a seat.
+We railed against the inefficiencies from the inside without
+understanding the dynamic that it was in the best interest of our
+employer to maintain the failing status quo.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="Clint and Mike from HumanGeo" src="../img/130220-human-geo/clint-and-mike.png" /&gt;
 &lt;p class="caption"&gt;Clint and Mike, two developers at HumanGeo&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;Many of HumanGeo's developers came from other DC consulting firms that
-follow that model. Some are my former coworkers. We saw first hand how
-we were shipped off to a government site and put in a seat. We railed
-against the inefficiencies from the inside without understanding the dynamic
-that it was in the best interest of our employer to maintain the status quo.&lt;/p&gt;
 &lt;p&gt;Developers at HumanGeo are constantly experimenting with new technologies
 and sharing that knowledge among members of the team. They also reach out
 to the greater community through technology meetups such as
@@ -1423,26 +1426,31 @@ to the greater community through technology meetups such as
 &lt;p&gt;I asked HumanGeo's developers about
 &lt;a class="reference external" href="../tim-oreilly-open-government.html"&gt;Tim O'Reilly's ideas on government as a platform&lt;/a&gt;. They agreed that having more raw data available through
 APIs would help private industry create new applications for citizens.
-There would need to be limits on access but there are principles of
-public data sharing that also apply in the
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Security_clearance"&gt;security cleared&lt;/a&gt; sector.&lt;/p&gt;
+In the military intelligence space there would need to be limits on
+access. Yet many principles of data sharing from citizen-facing agencies can
+make the
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Security_clearance"&gt;security cleared&lt;/a&gt;
+sector more effective as well.&lt;/p&gt;
 &lt;p&gt;Finally, an interesting idea emerged from our discussion. How do you get
 large public datasets from the government onto platforms where innovative
 applications can be created? Downloading large data sets can take hours or
-days and then it often needs to be uploaded into another environment.
-Perhaps the government could partner with cloud services such as
+days and then it often needs to be uploaded into another environment. Large
+data transfers incur a bandwidth cost that is often prohibitively expensive.&lt;/p&gt;
+&lt;p&gt;One idea is that the government could partner with cloud services such as
 &lt;a class="reference external" href="http://aws.amazon.com/"&gt;Amazon Web Services&lt;/a&gt;,
 &lt;a class="reference external" href="https://openshift.redhat.com/app/"&gt;Red Hat OpenShift&lt;/a&gt;, and
 &lt;a class="reference external" href="http://www.rackspace.com/cloud/"&gt;Rackspace Cloud&lt;/a&gt; to offer lower cost
 access to public data on platforms that developers can immediately use to
-do heavy data processing. It's an idea worth further exploration.&lt;/p&gt;
+do heavy data processing. With the data already on the platform data would
+not require immediate transfer to become useful. It's an idea worth further
+exploration.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="what-s-next"&gt;
 &lt;h2&gt;What's Next?&lt;/h2&gt;
 &lt;p&gt;On Tuesday I interviewed a development team from a Washington, DC company
 with a platform for making informed decisions about many aspects of personal
-healthcare. My interview with
-&lt;a class="reference external" href="http://www.wisertogether.com/"&gt;WiserTogether&lt;/a&gt; comes up next.&lt;/p&gt;
+healthcare. My story about
+&lt;a class="reference external" href="http://www.wisertogether.com/"&gt;WiserTogether&lt;/a&gt; comes next.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="references"&gt;
 &lt;h2&gt;*References&lt;/h2&gt;
