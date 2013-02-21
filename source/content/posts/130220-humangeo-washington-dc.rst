@@ -18,7 +18,7 @@ to the real users.
 
 ----
 
-.. image:: ../img/130220-human-geo/human-geo-logo.png
+.. image:: ../img/130220-human-geo/human-geo-logo.jpg
   :alt: HumanGeo's logo as seen from their office
 
 ----
@@ -31,7 +31,7 @@ developers. Together they create elegant solutions to hard problems.
 
 ----
 
-.. image:: ../img/130220-human-geo/human-geo-arlington-office-location.png
+.. image:: ../img/130220-human-geo/human-geo-arlington-office-location.jpg
   :alt: HumanGeo's Arlington office location
   :target: http://goo.gl/maps/skkC2
 
@@ -96,7 +96,7 @@ employer to maintain the failing status quo.
 
 ----
 
-.. figure:: ../img/130220-human-geo/clint-and-mike.png
+.. figure:: ../img/130220-human-geo/clint-and-mike.jpg
   :alt: Clint and Mike from HumanGeo
 
   Clint and Mike, two developers at HumanGeo
