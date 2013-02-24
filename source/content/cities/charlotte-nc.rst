@@ -44,6 +44,7 @@ Venture Capital
 * `List of VCs in and near Charlotte, NC <http://charlottechamber.com/clientuploads/Economic_pdfs/Venture_Capital.pdf>`_
 * `Top of the List NC VCs <http://www.bizjournals.com/charlotte/blog/top_25_list/2011/06/top-of-the-list-nc-venture-capital.html>`_. Article on VC firms
   in NC. Damn paywall.
+* `Direct Response Concepts <http://www.directresponseconcepts.com/>`_
 
 Coffee Shops
 ------------

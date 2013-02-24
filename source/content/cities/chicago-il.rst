@@ -26,6 +26,7 @@ Companies
 ---------
 * `Imaginary Landscape, LLC. <http://www.chicagodjango.com/>`_. Consulting
   and services for Python and Django development. Sponsored DjangoCon 09-12.
+* `Backstop Solutions <http://backstopsolutions.com/>`_. Saw in Coder Weekly.
 
 Coding
 ------

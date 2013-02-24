@@ -24,7 +24,7 @@ to the real users.
 ----
 
 `HumanGeo <http://www.thehumangeo.com/>`_ 
-(`@humangeo <https://twitter.com/thehumangeo>`_), 
+(`@thehumangeo <https://twitter.com/thehumangeo>`_), 
 based in Arlington, Virginia across the Potomac River from Washington, 
 DC, appears to have a better model. Experts in military intelligence at 
 HumanGeo work directly with their top notch software developers. Together 
