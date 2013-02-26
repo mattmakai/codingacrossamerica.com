@@ -2,14 +2,12 @@ Los Angeles, CA
 ===============
 
 :category: city
-:date: 2013-04-28
+:date: 2013-05-01
 :slug: los-angeles-ca
 
 ----
 
 .. image:: ../img/los-angeles-ca.jpg
-  :width: 640px
-  :height: 480px
   :alt: Downtown Los Angeles, CA
 
 ----

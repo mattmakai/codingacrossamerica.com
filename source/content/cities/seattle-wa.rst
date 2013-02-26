@@ -2,14 +2,12 @@ Seattle, WA
 ===========
 
 :category: city
-:date: 2013-05-27
+:date: 2013-05-29
 :slug: seattle-wa
 
 ----
 
 .. image:: ../img/seattle-wa.jpg
-  :width: 640px
-  :height: 480px
   :alt: Seattle's Downtown skyline
 
 ----
