@@ -3,7 +3,7 @@ Memphis, TN
 
 :category: city
 :slug: memphis-tn
-:date: 2013-03-22
+:date: 2013-03-24
 
 ----
 

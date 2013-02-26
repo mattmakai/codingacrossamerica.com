@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-02-20T00:00:00-05:00</updated><entry><title>HumanGeo</title><link href="http://www.codingacrossamerica.com/human-geo-washington-dc.html" rel="alternate"></link><updated>2013-02-20T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-02-20:human-geo-washington-dc.html</id><summary type="html">&lt;p&gt;Is there a better model for building certain types of software products
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-02-26T00:00:00-05:00</updated><entry><title>Schedule Curveball</title><link href="http://www.codingacrossamerica.com/schedule-curveball.html" rel="alternate"></link><updated>2013-02-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-02-26:schedule-curveball.html</id><summary type="html">&lt;p&gt;My schedule is shifting slightly before I hit the road in less than two
+weeks. I have an opportunity to observe and assist at
+&lt;a class="reference external" href="http://ideavillage.org/"&gt;IdeaVillage&lt;/a&gt;'s
+&lt;a class="reference external" href="http://ideavillage.org/how_it_works/noew/"&gt;New Orleans Entrepreneurship Week&lt;/a&gt; (NOEW)
+from March 16th through the 22nd. That is a week earlier than I planned to
+be in New Orleans. I do not want to pass up this great opportunity to
+showcase what's going on in New Orleans.&lt;/p&gt;
+&lt;p&gt;To attend NOEW I am forced to drop Nashville. I will drive directly from
+Charlotte to New Orleans. After New Orleans I will backtrack north to
+Memphis for a few days. Then I will head through Dallas to Austin where
+the remainder of my schedule is the same. The dates on my
+&lt;a class="reference external" href="../cities.html"&gt;cities&lt;/a&gt; page have been updated with this schedule change.&lt;/p&gt;
+&lt;p&gt;So far I have booked my accomodations in
+&lt;a class="reference external" href="../charlottesville-va.html"&gt;Charlottesville&lt;/a&gt;,
+&lt;a class="reference external" href="../charlotte-nc.html"&gt;Charlotte&lt;/a&gt;,
+&lt;a class="reference external" href="../new-orleans-la.html"&gt;New Orleans&lt;/a&gt;, &lt;a class="reference external" href="../memphis-tn.html"&gt;Memphis&lt;/a&gt;,
+&lt;a class="reference external" href="../las-vegas-nv.html"&gt;Las Vegas&lt;/a&gt;,
+&lt;a class="reference external" href="../los-angeles-ca.html"&gt;Los Angeles&lt;/a&gt;, and
+&lt;a class="reference external" href="../san-francisco-ca.html"&gt;San Francisco&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Within the next few days I will book &lt;a class="reference external" href="../dallas-tx.html"&gt;Dallas&lt;/a&gt;,
+&lt;a class="reference external" href="../austin-tx.html"&gt;Austin&lt;/a&gt;, &lt;a class="reference external" href="../lubbock-tx.html"&gt;Lubbock&lt;/a&gt;,
+&lt;a class="reference external" href="../los-alamos-nm.html"&gt;Los Alamos&lt;/a&gt;, &lt;a class="reference external" href="../moab-ut.html"&gt;Moab&lt;/a&gt;,
+&lt;a class="reference external" href="../flagstaff-az.html"&gt;Flagstaff&lt;/a&gt;, and &lt;a class="reference external" href="../san-diego-ca.html"&gt;San Diego&lt;/a&gt;.
+I want to keep my schedule somewhat flexible after that period of time so I
+will hold off on booking anything after San Francisco for at least a couple
+of weeks.&lt;/p&gt;
+&lt;p&gt;My story on &lt;a class="reference external" href="http://www.wisertogether.com/"&gt;WiserTogether&lt;/a&gt; is up next.&lt;/p&gt;
+</summary></entry><entry><title>HumanGeo</title><link href="http://www.codingacrossamerica.com/human-geo-washington-dc.html" rel="alternate"></link><updated>2013-02-20T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-02-20:human-geo-washington-dc.html</id><summary type="html">&lt;p&gt;Is there a better model for building certain types of software products
 used by the federal government? With billions of dollars* in
 failed information technology projects over the last decade, there certainly
 seems to be room for improvement.&lt;/p&gt;

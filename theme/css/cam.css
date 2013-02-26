@@ -770,7 +770,7 @@ body{background:#ffffff;}
 .navbar .nav>li{display:block;float:left;}
 .navbar .nav>li>a{float:none;padding:9px 10px 11px;line-height:19px;color:#406bb4;text-decoration:none;font-size:22px;font-weight:bold;}
 .right-nav li{padding-top:5px;margin-left:20px;}
-h1{margin-bottom:10px;font-size:52px;line-height:1;color:#406bb4;letter-spacing:-1px;font-family:"calluna-sans";}
+h1{margin-bottom:10px;font-size:52px;line-height:1;color:#406bb4;letter-spacing:-1px;}
 a,a:hover{text-decoration:underline;}
 ul.post-list li{font-size:.8em;}
 ul.contributors{font-size:.9em;}

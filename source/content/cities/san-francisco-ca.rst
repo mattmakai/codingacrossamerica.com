@@ -21,6 +21,10 @@ Basic stats
 * Approximate distance driven on trip: `4350 miles <http://goo.gl/maps/XmQIR>`_
 * `Google Maps: San Francisco <http://goo.gl/maps/fFwl5>`_
 
+Coffee Shops
+------------
+* `Wrecking Ball Coffee <http://www.wreckingballcoffee.com/shtml/retail.shtml>`_ 
+
 Start Ups
 ---------
 * `Pinterest <http://pinterest.com/>`_. Quickly becoming one of the largest

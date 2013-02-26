@@ -2,7 +2,7 @@ Flagstaff, AZ
 =============
 
 :category: city
-:date: 2013-04-18
+:date: 2013-04-16
 :slug: flagstaff-az
 
 ----

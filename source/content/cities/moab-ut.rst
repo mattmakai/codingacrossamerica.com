@@ -2,7 +2,7 @@ Moab, UT
 ========
 
 :category: city
-:date: 2013-04-14
+:date: 2013-04-13
 :slug: moab-ut
 
 ----

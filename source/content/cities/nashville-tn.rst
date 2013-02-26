@@ -1,15 +1,13 @@
 Nashville, TN
 =============
 
-:category: city
+:category: deprecated-city
 :slug: nashville-tn
 :date: 2013-03-17
 
 ----
 
 .. image:: ../img/nashville-tn.jpg
-  :width: 640px
-  :height: 480px
   :alt: Downtown Nashville, TN
 
 ----

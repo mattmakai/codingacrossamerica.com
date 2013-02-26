@@ -3,13 +3,11 @@ New Orleans, LA
 
 :category: city
 :slug: new-orleans-la
-:date: 2013-03-26
+:date: 2013-03-17
 
 ----
 
 .. image:: ../img/new-orleans-la.jpg
-  :width: 640px
-  :height: 480px
   :alt: New Orleans, Louisiana
 
 ----

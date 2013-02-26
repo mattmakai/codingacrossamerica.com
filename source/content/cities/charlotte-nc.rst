@@ -8,8 +8,6 @@ Charlotte, NC
 ----
 
 .. image:: ../img/charlotte-nc.jpg
-  :width: 640px
-  :height: 480px
   :alt: Downtown Charlotte, NC
 
 ----
