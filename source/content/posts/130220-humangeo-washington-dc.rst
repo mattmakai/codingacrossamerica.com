@@ -137,12 +137,14 @@ do heavy data processing. With the data already on the platform data it would
 not require immediate transfer to become useful. It's an idea worth further 
 exploration.
 
+
 What's Next?
 ------------
 On Tuesday I interviewed a development team from a Washington, DC company 
 with a platform for making informed decisions about many aspects of personal
 healthcare. My story about
 `WiserTogether <http://www.wisertogether.com/>`_ comes next.
+
 
 \*References
 ------------
