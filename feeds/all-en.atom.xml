@@ -1467,13 +1467,13 @@ application programming interface&lt;/li&gt;
 &lt;p&gt;Clarifying HIPAA was a central theme during our discussion. The laws are
 so convoluted that no one except lawyers can interpret the regulations.
 Audits by the &lt;a class="reference external" href="http://www.hhs.gov/"&gt;Department of Health and Human Services&lt;/a&gt;
-(DHHS) are a nightmare. Fortunately, WiserTogether has not been been audited,
-but other organizations they work with have been. Auditors are just looking
-for a reason to &amp;quot;prove&amp;quot; their worth by finding fault with something. This
-is a broken system that both prevents innovative companies from complying
-with the law (because no one can interpret it properly) and creates a
-powerful disincentive to not start a company that has to comply with these
-regulations.&lt;/p&gt;
+(DHHS) are a nightmare. Fortunately, WiserTogether has not been been audited
+directly by DHHS, but other organizations they work with have been.
+Auditors are looking for a reason to &amp;quot;prove&amp;quot; their own worth by finding
+fault with something. This is a broken system that both prevents innovative
+companies from complying with the law (because no one can interpret it
+properly) and creates a powerful disincentive to not start a company that
+has to comply with these regulations.&lt;/p&gt;
 &lt;p&gt;Another issue is the need to clarify which platforms are
 HIPAA-compliant for audit purposes. For example, the
 &lt;a class="reference external" href="http://www.heroku.com/"&gt;Heroku&lt;/a&gt; platform-as-a-service could provide
