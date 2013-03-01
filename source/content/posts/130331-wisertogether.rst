@@ -136,13 +136,14 @@ must improve:
 
 Clarifying HIPAA was a central theme during our discussion. The laws are 
 so convoluted that no one except lawyers can interpret the regulations. 
-Even with the best efforts of WiserTogether and its lawyers, audits by the
-`Department of Health and Human Services <http://www.hhs.gov/>`_ (DHHS) 
-are a nightmare. Auditors are just looking for a reason to "prove" their
-worth by finding fault with something. This is a broken system that both 
-prevents innovative companies from complying with the law (because no one can 
-interpret it properly) and creates a powerful disincentive to not start
-a company that has to comply with these regulations.
+Audits by the `Department of Health and Human Services <http://www.hhs.gov/>`_ 
+(DHHS) are a nightmare. Fortunately, WiserTogether has not been been audited,
+but other organizations they work with have been. Auditors are just looking 
+for a reason to "prove" their worth by finding fault with something. This 
+is a broken system that both prevents innovative companies from complying 
+with the law (because no one can interpret it properly) and creates a 
+powerful disincentive to not start a company that has to comply with these 
+regulations.
 
 Another issue is the need to clarify which platforms are
 HIPAA-compliant for audit purposes. For example, the 
