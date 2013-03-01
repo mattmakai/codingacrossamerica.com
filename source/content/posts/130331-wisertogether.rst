@@ -5,25 +5,25 @@ WiserTogether
 :slug: wisertogether-washington-dc
 :date: 2013-03-01
 
-How do people facing life altering health care decisions make the right 
+How do people facing life-altering health care decisions make the right 
 choices for their treatment? People turn to family, friends, and the web 
 to obtain advice outside of the doctor's office. However, information 
 available through these channels often creates more questions than answers.
 
-In 2007, Shub Debgupta and his wife faced a difficult health decision 
-during the pregancy of their first child. There was a possibility their 
-child would be born with significant learning difficulties. Shub and his
+In 2007, Shub Debgupta and his wife faced a nightmare scenario 
+during the pregancy of their first child. They were told their child could 
+be born with significant learning difficulties. Shub and his
 wife asked themselves questions they could not find answers to, including:
 
 * How did other people handle their situation?
 
 * What would doctors, themselves faced with such a situation, choose to do?
 
-* How could they compare myriad factors important to their decision?
+* How should they weight myriad factors important to their decision?
 
 
 Shub and his wife were fortunate. Their child was born healthy, without the 
-complications they feared. Yet the difficult experience stuck with Shub. In 
+complications they feared. Yet this agnonizing experience stuck with Shub. In 
 early 2008, he founded `WiserTogether <http://www.wisertogether.com/>`_ 
 to improve health care decision making for patients.
 
@@ -34,9 +34,9 @@ to improve health care decision making for patients.
 
 ----
 
-Shub's vision created a "learn, compare, connect, then decide" process. 
-WiserTogether's process is aided by actual patient data collected continuously 
-since the company's foundeding five years ago.
+Shub's vision created a "learn, compare, connect, then decide" process
+aided by actual patient data collected continuously since the company's 
+foundeding five years ago.
 
 The process and data combine as the platform 
 `WiserHealth <https://mywiserhealth.com/>`_. WiserHealth is a suite of
@@ -91,23 +91,24 @@ Kamalesh, Johnny, Jimmy, and Tareque.
 
 ----
 
-One of the topics we discussed is how software development is impacted by 
-being located in Washington, DC. Several development team members commented on
-how vibrant the technology meetup scene is compared with some other
+One of the topics we discussed was how software development is impacted by 
+being located in Washington, DC. Several development team members commented 
+that the technology meetup scene far surpasses some other
 cities they've worked in. Washington, DC has well established
 groups such as `DC Python <http://dcpython.org/>`_ and 
 `Django District <http://www.django-district.org/>`_ that attract
 fifty-plus developers to monthly meetups.
 
 However, a major disadvantage to working in software development in the 
-District is that large sums of money are thrown around by the 
-Federal government to "solve" problems. Investments are not ramped up 
-gradually based on project success but are dumped all at 
-once within a single fiscal year. This approach is a complete mismatch 
-with how to develop quality software. Instead, a small software project using
-limited resources should prove that a real problem is being solved. 
-Only then, if the solution proves successful based on user feedback, should
-funding gradually increase to build expanded features. 
+District is the shadow of the Federal government. Government agencies and
+the military throw large sums of money around to "solve" problems. 
+Investments are not ramped up gradually based on project success but 
+are dumped all at once within a single fiscal year. This approach is 
+a complete mismatch with how to develop quality software. Instead, a 
+small software project using limited resources should prove that a 
+real problem is being solved.  Only then, if the solution proves 
+successful based on user feedback, should funding gradually increase to 
+build expanded features. 
 
 Two additional major issues arise from the amount of money that
 is invested in large software projects for federal agencies. First, these
@@ -121,7 +122,7 @@ What Can Government Do To Help?
 -------------------------------
 How can federal and state governments help companies like
 WiserTogether so they can improve the health care quality in the United
-States? Our discussion centered on several aspects where government
+States? Our discussion coalesced around three aspects where government
 must improve:
 
 * Clarify `HIPAA <http://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act>`_ laws by making regulations testable
@@ -143,7 +144,7 @@ prevents innovative companies from complying with the law (because no one can
 interpret it properly) and creates a powerful disincentive to not start
 a company that has to comply with these regulations.
 
-Another issue that needs to be improved is to clarify which platforms are
+Another issue is the need to clarify which platforms are
 HIPAA-compliant for audit purposes. For example, the 
 `Heroku <http://www.heroku.com/>`_ platform-as-a-service could provide
 a great foundation for health care applications. Unfortunately, no one knows
@@ -151,10 +152,10 @@ whether Heroku would pass an audit by Department of Health and Human Services.
 Heroku is not a niche service - it is owned by Salesforce and runs millions
 of applications for thousands of companies around the world.
 
-A specific improvement the National Institute of Health could make is to
-create an open ontology open application programming interface (API). 
-Companies in the healthcare space could use the API to organize data in their
-applications.
+Erik and his team also recommended that the National 
+Institute of Health should create an open ontology open application 
+programming interface (API). Companies in the healthcare industry could use 
+the API to organize data in their applications.
 
 I am certainly no expert in the health care industry and I could be wrong
 about the above points. If I am, please email me at 
