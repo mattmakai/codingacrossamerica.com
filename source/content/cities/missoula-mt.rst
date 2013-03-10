@@ -8,8 +8,6 @@ Missoula, MT
 ----
 
 .. image:: ../img/missoula-mt.jpg
-  :width: 640px
-  :height: 480px
   :alt: Missoula, Montana
 
 ----
@@ -21,6 +19,11 @@ Basic stats
 * Approximate distance driven on trip: `5600 miles <http://goo.gl/maps/blKQI>`_
 * `Google Maps: Missoula <http://goo.gl/maps/CkQg7>`_
 
+Articles
+--------
+* `UM, investors see big data potential, Missoula as technology hub <http://billingsgazette.com/news/state-and-regional/montana/um-investors-see-big-data-potential-missoula-as-technology-hub/article_700d0428-506e-542e-ab25-1314c2930232.html>`_
+
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License <http://www.flickr.com/photos/30709234@N02/5406402005/>`_
+

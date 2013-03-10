@@ -37,6 +37,9 @@ Start Ups
   visualization based on Python. Definitely need to talk to these guys.
 * `Web Cube <http://www.webcubecms.com/>`_. CMS built on Python.
 * `Q2ebanking <http://q2ebanking.com/>`_
+* `Exigo Energy Solutions <http://jobs.pythonweekly.com/jobs/python-django-developer-3/>`_. Using Python/Django for their platform.
+* `Paravel <http://paravelinc.com/>`_. Awesome 3 man shop in Austin that led
+  (and continues to lead) the way in responsive design.
 
 Bars
 ----

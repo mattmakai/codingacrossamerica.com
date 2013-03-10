@@ -45,6 +45,9 @@ Start Ups
   services around extending private clouds with public cloud infrastructure.
 * `odopod <http://www.odopod.com/>`_. Looks like consulting around technology 
   products and services. Strategy, UI, and marketing.
+* `Tastemaker <https://www.tastemaker.com/>`_
+* `Flite <http://www.flite.com/>`_
+
 
 Coding
 ------

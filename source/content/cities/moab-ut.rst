@@ -8,8 +8,6 @@ Moab, UT
 ----
 
 .. image:: ../img/moab-ut.jpg
-  :width: 640px
-  :height: 480px
   :alt: Moab, Utah (HDR enhanced)
 
 ----
@@ -20,6 +18,12 @@ Basic stats
 * City population: 5k
 * Approximate distance driven on trip: `3000 miles <http://goo.gl/maps/GcNO4>`_
 * `Google Maps: Moab <http://goo.gl/maps/f7tj2>`_
+
+
+Accomodations
+-------------
+* `Red Cliffs Lodge <http://www.redcliffslodge.com/>`_
+* `Sorrel River Ranch <http://www.sorrelriver.com/>`_
 
 
 Photo Attribution

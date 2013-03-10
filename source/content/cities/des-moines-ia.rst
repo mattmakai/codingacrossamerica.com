@@ -38,6 +38,10 @@ Bars
 ----
 * `Blue Moon Dueling Piano Bar <http://bluemoonduelingpianobar.com/>`_
 
+Companies
+---------
+* `Gazette <https://www.ire.org/jobs/job/191/>`_ in Cedar Rapids (2 hrs
+  away from Des Moines. Looking for data visualization analyst.
 
 Restaurants
 -----------

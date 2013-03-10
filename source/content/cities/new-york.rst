@@ -8,8 +8,6 @@ New York, NY
 ----
 
 .. image:: ../img/new-york-ny.jpg
-  :width: 640px
-  :height: 480px
   :alt: New York City, New York
 
 ----
@@ -24,9 +22,11 @@ Basic stats
 
 Companies
 ---------
+* `Tech companies in NYC list <http://nytm.org/made-in-nyc/grid>`_
 * `Lab49 <http://www.lab49.com/>`_
 * `Backbase <http://www.backbase.com/>`_
 * `Datadog <http://www.datadoghq.com/>`_
+* `Harvest <http://www.getharvest.com/>`_
 
 
 Meet ups
