@@ -1,5 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-03-01T00:00:00-05:00</updated><entry><title>WiserTogether</title><link href="http://www.codingacrossamerica.com/wisertogether-washington-dc.html" rel="alternate"></link><updated>2013-03-01T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-01:wisertogether-washington-dc.html</id><summary type="html">&lt;p&gt;How do people facing life-altering health care decisions make the right
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-03-10T00:00:00-05:00</updated><entry><title>To Prospective Organizations</title><link href="http://www.codingacrossamerica.com/to-prospective-organizations.html" rel="alternate"></link><updated>2013-03-10T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-10:to-prospective-organizations.html</id><summary type="html">&lt;p&gt;You've received an email from me asking if we can meet at your office or
+go out for lunch so that I can tell your story about solving interesting
+problems with software. This post attempts to answer some of the initial
+questions that may immediately come up on your side.&lt;/p&gt;
+&lt;p&gt;After reading through this post I am sure you will have further questions.
+When you reach that point please email me with those additional questions at
+&lt;a class="reference external" href="mailto:matthew.makai&amp;#64;gmail.com"&gt;matthew.makai&amp;#64;gmail.com&lt;/a&gt;. I will update this post throughout my trip with
+the most frequently asked questions.&lt;/p&gt;
+&lt;div class="section" id="what-is-coding-across-america"&gt;
+&lt;h2&gt;What is Coding Across America?&lt;/h2&gt;
+&lt;p&gt;Coding Across America is a five month road trip from March until August 2013
+to tell stories about people solving problems using software. I am
+traveling to thirty cities to meet with people in both large and small
+organizations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="who-have-you-already-met-with"&gt;
+&lt;h2&gt;Who Have You Already Met With?&lt;/h2&gt;
+&lt;p&gt;I began by writing posts about a few companies in Washington, DC:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="../human-geo-washington-dc.html"&gt;HumanGeo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../wisertogether-washington-dc.html"&gt;WiserTogether&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I am working on posts for &lt;a class="reference external" href="http://www.uppidy.com/"&gt;Uppidy&lt;/a&gt; and
+&lt;a class="reference external" href="http://www.agilityfeat.com/"&gt;AgilityFeat&lt;/a&gt; with many more posts within
+the coming weeks.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="why-participate"&gt;
+&lt;h2&gt;Why Participate?&lt;/h2&gt;
+&lt;p&gt;Holding up individuals doing amazing work everywhere in the United States
+can inspire others. Most of the technology press focuses on what happens
+in Silicon Valley, but there are fascinating stories in every city - yours
+included.&lt;/p&gt;
+&lt;p&gt;For about an hour of your time I can gather enough information and
+tell your story. It's good press for your organization and your city,
+especially as this blog gains momentum as I travel through the thirty
+planned destinations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-questions-are-asked"&gt;
+&lt;h2&gt;What Questions Are Asked?&lt;/h2&gt;
+&lt;p&gt;There are several questions I ask to get the discussion started:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;What are the most interesting problems you are solving with software?&lt;/li&gt;
+&lt;li&gt;What are the best and worst parts of developing software in your city?&lt;/li&gt;
+&lt;li&gt;What tech stack are you using? What technologies are you most excited
+about working with? What are you moving away from?&lt;/li&gt;
+&lt;li&gt;How does the greater tech scene in your city help or hurt your
+organizations' work?&lt;/li&gt;
+&lt;li&gt;Do the local and federal governments impact the work you are doing? What
+could the government could improve to help you better solve the problems
+you are working on, such as rewriting or removing specific regulations?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The conversation usually becomes a free discussion towards the end based
+on your interests.&lt;/p&gt;
+&lt;p&gt;We do not talk about proprietary data. Our discussions are generally on
+the detail level of a tech meetup or a conference presentation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="who-are-you"&gt;
+&lt;h2&gt;Who Are You?&lt;/h2&gt;
+&lt;p&gt;I am a developer from Washington, DC. I've been writing on software
+development for about three years on
+&lt;a class="reference external" href="http://www.mattmakai.com/"&gt;mattmakai.com&lt;/a&gt; (current) and
+&lt;a class="reference external" href="http://www.mmakai.com/"&gt;mmakai.com&lt;/a&gt; (moved to mattmakai.com).&lt;/p&gt;
+&lt;p&gt;I'm hoping my experience as a developer enables me to tell stories from
+a unique perspective that a non-technical writer would not be able to provide.&lt;/p&gt;
+&lt;p&gt;I also have additional answers on my
+&lt;a class="reference external" href="../faq.html"&gt;frequently asked questions&lt;/a&gt; page.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>WiserTogether</title><link href="http://www.codingacrossamerica.com/wisertogether-washington-dc.html" rel="alternate"></link><updated>2013-03-01T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-01:wisertogether-washington-dc.html</id><summary type="html">&lt;p&gt;How do people facing life-altering health care decisions make the right
 choices for their treatment? People turn to family, friends, and the web
 to obtain advice outside of the doctor's office. However, information
 available through these channels often creates more questions than answers.&lt;/p&gt;
