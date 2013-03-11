@@ -21,12 +21,16 @@
     </div>
     <div class="offset1 span3">
       <h3>Present Location</h3>
-      <strong>Charlottesville, Virginia</strong>
+      <strong>
+        <a href="../charlottesville-va.html">Charlottesville, Virginia</a>
+      </strong>
       <div>
-        City #1. Day 2 of 152.
+        City #1. Day 3 of 152.
       </div>
       <hr/>
-      <h2>About</h2>
+      <h3>Updates</h3>
+      {% include "feeds.html" %}
+      <hr/>
       <h3>What?</h3>
       <p>
         Coding Across America is a five month journey around the United States
@@ -46,15 +50,12 @@
         See <a href="../faq.html">frequently asked questions</a>.
       </p>
       <hr/>
-      <h2>Updates</h2>
-      {% include "feeds.html" %}
-      <hr/>
       <div>
-        <h2>Destinations</h2>
+        <h3>Destinations</h3>
         {% for article in dates|reverse %}
           {% if article.category == 'city' %}
             <div>
-              {{ article.date.strftime('%m.%d.%Y') }} 
+              {{ article.date.strftime('%m.%d') }} 
               <a href="{{ article.slug }}.html">{{ article.title }}</a>
             </div>
           {% endif %}
