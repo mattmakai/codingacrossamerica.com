@@ -21,6 +21,9 @@ Basic stats
 * Approximate distance driven on trip: `6500 miles <http://goo.gl/maps/blKQI>`_
 * `Google Maps: Boulder <http://goo.gl/maps/fC09Y>`_
 
+Meetups
+-------
+* `Boulder Big Data Meetup <http://www.meetup.com/Boulder-Denver-Big-Data/>`_
 
 References
 ----------
