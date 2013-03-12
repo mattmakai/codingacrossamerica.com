@@ -4,13 +4,11 @@ Charlottesville, VA
 :category: city
 :slug: charlottesville-va
 :date: 2013-03-09
-:tags: University of Viriginia
+:tags: uva
 
 ----
 
 .. image:: ../img/charlottesville-va.jpg
-  :width: 640px
-  :height: 480px
   :alt: Charlottesville's Downtown Outdoor Mall
 
 ----
@@ -54,7 +52,7 @@ Entrepreneurship
 
 Startups
 --------
-* `Relay Foods <http://www.relayfoods.com/>`_
+* `AgilityFeat <http://www.agilityfeat.com/>`_
 * `WillowTree Apps <http://www.willowtreeapps.com/>`_
 
 Venture Capital
@@ -81,7 +79,3 @@ References
 ----------
 * `Wikipedia Entry for Charlottesville, VA <http://en.wikipedia.org/wiki/Charlottesville,_Virginia>`_
 
-
-Photo Attribution
------------------
-* `Flickr Creative Commons License <http://www.flickr.com/photos/paytonc/6317092753/>`_
