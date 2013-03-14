@@ -65,7 +65,7 @@ There are several questions I ask to get the discussion started:
    organizations' work?
 
 5. Do the local and federal governments impact the work you are doing? What
-   could the government could improve to help you better solve the problems 
+   could government do to help you better solve the problems 
    you are working on, such as rewriting or removing specific regulations?
 
 The conversation usually becomes a free discussion towards the end based
