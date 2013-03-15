@@ -47,7 +47,7 @@ Start Ups
   products and services. Strategy, UI, and marketing.
 * `Tastemaker <https://www.tastemaker.com/>`_
 * `Flite <http://www.flite.com/>`_
-
+* `Betabrand <http://www.betabrand.com/>`_
 
 Coding
 ------
