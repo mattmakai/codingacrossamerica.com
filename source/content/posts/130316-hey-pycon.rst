@@ -1,5 +1,5 @@
-Hey PyCon
-=========
+PyCon
+=====
 
 :slug: hey-pycon
 :date: 2013-03-16
