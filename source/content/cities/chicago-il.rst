@@ -8,8 +8,6 @@ Chicago, IL
 ----
 
 .. image:: ../img/chicago-il.jpg
-  :width: 640px
-  :height: 480px
   :alt: Reflection of Chicago, Illinois in the Chicago Bean
 
 ----
@@ -47,6 +45,7 @@ Articles
 --------
 * `How Did Groupon's Rise & Fall Affect the Chicago Start Up Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-did-groupons-rise-and-fall-change-chicagos-startup-scene-not-much/262554/>`_
 * `How Big Is Chicago's Startup Scene? <http://www.theatlantic.com/technology/archive/2012/09/how-big-is-chicagos-startup-scene-about-soma-sized-actually/262467/>`_
+* `Why I am Moving Back to Chicago <http://ethansaustin.com/2013/02/25/i-am-moving-back-to-chicago/>`_
 
 Meet ups
 --------
