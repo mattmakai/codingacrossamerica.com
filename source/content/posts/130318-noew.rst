@@ -1,9 +1,9 @@
 New Orleans Entrepreneurship Week
 =================================
 
-:date: 2013-03-18
-:slug: new-orleans-entrepreneurship-week
 :category: post
+:slug: new-orleans-entrepreneurship-week
+:date: 2013-03-18 06:45
 
 
 .. image:: ../img/130318-new-orleans/morning-skyline.jpg
@@ -13,7 +13,7 @@ New Orleans' skyline at 630am in the morning the day after my arrival.
 
 ----
 
-Yesterday I arrived in `New Orleans <../new-orleans-la.html>`_, Louisana 
+Yesterday I arrived in `New Orleans <../new-orleans-la.html>`_, Louisiana 
 after a long twelve hour drive down from Charlotte, North Carolina.
 
 I am here participating in `IdeaVillage <http://ideavillage.org/>`_'s 
