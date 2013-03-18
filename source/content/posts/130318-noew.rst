@@ -1,0 +1,34 @@
+New Orleans Entrepreneurship Week
+=================================
+
+:date: 2013-03-18
+:slug: new-orleans-entrepreneurship-week
+:category: post
+
+
+.. image:: ../img/130318-new-orleans/morning-skyline.jpg
+  :alt: New Orleans' skyline on March 18, 2013
+
+New Orleans' skyline at 630am in the morning the day after my arrival.
+
+----
+
+Yesterday I arrived in `New Orleans <../new-orleans-la.html>`_, Louisana 
+after a long twelve hour drive down from Charlotte, North Carolina.
+
+I am here participating in `IdeaVillage <http://ideavillage.org/>`_'s 
+`New Orleans Entrepreneurship Week <http://ideavillage.org/how_it_works/noew/>`_ 
+(NOEW). There are teams of MBA students helping local entrepreneurs work on
+their business ideas. I will be assisting the groups, including one this
+afternoon. Keynote speakers will give their input throughout the week, 
+including
+`Walter Isaacson <http://en.wikipedia.org/wiki/Walter_Isaacson>`_, 
+a New Orleans native, who authored the Steve Jobs' biography. 
+There are also many learning sessions on both technical topics and 
+entrepreneurial subjects.
+
+My primary goal here is to help out teams from a technical perspective since
+the conference often has a dearth of that expertise. I am also talking to
+as many New Orleans natives to find out more about their experiences in
+entrepreneurship here.
+
