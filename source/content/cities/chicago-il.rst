@@ -25,6 +25,8 @@ Companies
 * `Imaginary Landscape, LLC. <http://www.chicagodjango.com/>`_. Consulting
   and services for Python and Django development. Sponsored DjangoCon 09-12.
 * `Backstop Solutions <http://backstopsolutions.com/>`_. Saw in Coder Weekly.
+* `GiveForward <http://www.giveforward.com/>`_. Also relevant: 
+  `I am moving back to Chicago <http://ethansaustin.com/2013/02/25/i-am-moving-back-to-chicago/>`_.
 
 Coding
 ------

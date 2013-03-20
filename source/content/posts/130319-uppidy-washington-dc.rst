@@ -59,14 +59,17 @@ The app then provides you a window into the stored data at your convenience.
 
 Discovering the Business Model
 ------------------------------
-The Uppidy team is working to find the right revenue model for its service.
-The app current shows advertisements, similar to how Gmail works, as one 
-form of revenue.
+The Uppidy team is working to find the right revenue model for its offering.
+One option in testing is a premium service for $1.99 to store pictures and
+video in addition to text messages. The free version of the app shows 
+advertisements, similar to how Gmail works, as another form of income.
 
 Another promising revenue source is from large enterprises that are looking
 to store employees' messages in a secure, private environment. Uppidy could
 provide value to enterprises by allowing employees view prior business 
 conversations when their devices are lost, broken, or are upgraded. 
+`Ars Technica covered Uppidy's enterprise service <http://arstechnica.com/information-technology/2012/05/business-world-gets-a-new-way-to-monitor-employee-text-messages/>`_ 
+early last year.
 
 
 What's Next?
