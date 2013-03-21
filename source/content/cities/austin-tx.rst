@@ -2,7 +2,7 @@ Austin, TX
 ==========
 
 :category: city
-:date: 2013-03-31
+:date: 2013-04-01
 :slug: austin-tx
 
 ----

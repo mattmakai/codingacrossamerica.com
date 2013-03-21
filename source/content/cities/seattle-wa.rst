@@ -33,6 +33,11 @@ Coffee Shops
 * `Caffee D'Arte <http://www.caffedarte.com/>`_. On 1st Avenue, recommended by a coworker as
   her favorite coffee shop in Seattle.
 
+Meetups
+-------
+* `Seattle Scalability <http://www.meetup.com/Seattle-Hadoop-HBase-NoSQL-Meetup/>`_
+* `Lean Startup Seattle <http://seattle.leanstartupcircle.com/>`_
+* `Hacker News Seattle <http://www.meetup.com/HackerNewsSeattleMeetup/>`_
 
 
 References

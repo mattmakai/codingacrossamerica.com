@@ -27,6 +27,8 @@ Companies
 * `Backstop Solutions <http://backstopsolutions.com/>`_. Saw in Coder Weekly.
 * `GiveForward <http://www.giveforward.com/>`_. Also relevant: 
   `I am moving back to Chicago <http://ethansaustin.com/2013/02/25/i-am-moving-back-to-chicago/>`_.
+* `Pitchfork <http://pitchfork.com/>`_. Also relevant: 
+  `UX/Django developer job description <http://jobs.pythonweekly.com/jobs/uxdjango-developer/>`_
 
 Coding
 ------

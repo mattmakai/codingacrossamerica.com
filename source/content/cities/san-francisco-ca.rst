@@ -8,8 +8,6 @@ San Francisco, CA
 ----
 
 .. image:: ../img/san-francisco-ca.jpg
-  :width: 640px
-  :height: 480px
   :alt: Downtown San Francisco, CA
 
 ----
@@ -48,6 +46,7 @@ Start Ups
 * `Tastemaker <https://www.tastemaker.com/>`_
 * `Flite <http://www.flite.com/>`_
 * `Betabrand <http://www.betabrand.com/>`_
+* `Toptal <https://www.toptal.com/>`_
 
 Coding
 ------

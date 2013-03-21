@@ -8,8 +8,6 @@ San Diego, CA
 ----
 
 .. image:: ../img/san-diego-ca.jpg
-  :width: 640px
-  :height: 480px
   :alt: San Diego harbor at night
 
 ----

@@ -8,8 +8,6 @@ Memphis, TN
 ----
 
 .. image:: ../img/memphis-tn.jpg
-  :width: 640px
-  :height: 480px
   :alt: Downtown Memphis, TN
 
 ----
@@ -32,7 +30,7 @@ Interesting Initiatives
 Companies
 ---------
 * `Work for Pie <https://workforpie.com/>`_
-* `Deluge Studioes <http://www.delugestudios.com/>`_
+* `Deluge Studios <http://www.delugestudios.com/>`_
 
 Venture Capital
 ---------------
