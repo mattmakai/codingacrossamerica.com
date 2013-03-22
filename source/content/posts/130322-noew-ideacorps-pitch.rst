@@ -254,7 +254,6 @@ The Yale University team.
 ----
 
 All the business school groups did a great job, especially considering 
-the tight time constraints. The judges proclaimed the winner of the 
-IdeaPitch competition.
-
+the tight time constraints. The judges will announce the winning team of the
+IdeaPitch competition tonight. I will update this post with the results then.
 
