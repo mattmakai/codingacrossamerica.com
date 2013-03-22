@@ -24,9 +24,9 @@ matthew.makai@gmail.com.
 
 
 
-Haystack.edu
+Haystack EDU
 ------------
-Haystack.edu is an online platform built to solve the problem of teachers not
+Haystack EDU is an online platform built to solve the problem of teachers not
 being properly matched up with schools. The problem of mismatch between the
 teacher and the school is hypothesized as the primary reason teachers leave
 the profession. The company uses partnerships with Teach for America to
@@ -34,16 +34,17 @@ draw teachers to the website. The revenue model is for schools to pay for
 teacher placements or an annual subscription fee.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/haystackedu-pitch.jpg
-  :alt: Founder of Haystack.edu 
+  :alt: Founder of Haystack EDU
 
-The founder of Haystack.edu, pitching his startup.
+The founder of Haystack EDU, pitching his startup.
 
 ----
 
 
 Overgrad
 --------
-Overgrad is a web platform built to solve the problem of students not 
+`Overgrad <https://www.overgrad.com/>`_ is a web platform built to solve the 
+problem of students not 
 applying to colleges that are the best fit for them. The platform creates 
 connections creates connections between high school students with colleges.
 The site monetizes by charging universities for student leads. The site
@@ -58,9 +59,10 @@ Ryan Hock, the founder of Overgrad pitching his startup.
 ----
 
 
-enrichED Schools
-----------------
-enrichED is an online website for schools to obtain high quality substitute 
+enrichED
+--------
+`enrichED <http://enrichedschools.com/>`_ is an online website for schools 
+to obtain high quality substitute 
 teachers. The company aims to eliminate wasted student learning days due to
 underqualified substitute teachers. The revenue model is a pay-per-use model 
 with an annual subscription fee for access to the site.
@@ -91,7 +93,8 @@ The founders of read nimble, pitching their startup.
 
 mSchool
 -------
-mSchool (micro school) helps local community centers open accredited 
+`mSchool <http://mschools.org/>`_ (micro school) helps local community 
+centers open accredited 
 classrooms with technology that combines multiple adaptive personalization 
 learning software. The software solves the problem of (mostly underprivileged)
 students being dramatically behind their peers in other communities from a
@@ -117,4 +120,8 @@ their children to use.
   :alt: Founder of imagiLabs, pitching his startup.
 
 Founder of imagiLabs, pitching his startup.  
+
+
+The winner of the event was mSchool, who received a $25,000 prize. 
+Haystack.edu was second, with a $5000 award.
 
