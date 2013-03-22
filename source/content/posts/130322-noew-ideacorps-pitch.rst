@@ -140,8 +140,8 @@ The Cornell University team.
 ----
 
 
-Dartmouth University
---------------------
+Dartmouth 
+---------
 Clothes Line has a software product for retail trade show product orders.
 Currently purchases at retail trade shows is done entirely by paper. The
 current process is error prone. The order amounts written can be incorrect.
@@ -150,9 +150,9 @@ software creates virtual purchase orders that can be processed more
 efficiently than paper-based purchase orders.
 
 .. image:: ../img/130322-ideapitch/dartmouth-clothes-line.jpg
-  :alt: Dartmouth University pitching Clothes Line.
+  :alt: Dartmouth College pitching Clothes Line.
 
-Dartmouth University pitching Clothes Line.
+Dartmouth pitching Clothes Line.
 
 ----
 
@@ -161,9 +161,9 @@ Clothes Line name. The revenue model is based on charging vendors a
 percentage fee based on each transaction conducted through the software.
 
 .. image:: ../img/130322-ideapitch/full-dartmouth-team.jpg
-  :alt: Dartmouth University team
+  :alt: Dartmouth team
 
-The Dartmouth University team.
+The Dartmouth team.
 
 ----
 
