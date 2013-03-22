@@ -29,6 +29,7 @@ Companies
   `I am moving back to Chicago <http://ethansaustin.com/2013/02/25/i-am-moving-back-to-chicago/>`_.
 * `Pitchfork <http://pitchfork.com/>`_. Also relevant: 
   `UX/Django developer job description <http://jobs.pythonweekly.com/jobs/uxdjango-developer/>`_
+* `The Onion <http://www.theonion.com/>`_. Also relevant: `job posting for Django <http://www.crunchboard.com/opening/detailjob.php?jid=15798>`_
 
 Coding
 ------

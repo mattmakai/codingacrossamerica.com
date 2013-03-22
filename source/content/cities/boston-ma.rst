@@ -19,6 +19,12 @@ Basic stats
 * Approximate distance driven on trip: `8700 miles <http://bit.ly/URaaxq>`_
 * `Google Maps: Boston <http://goo.gl/maps/x2XIi>`_
 
+Companies
+---------
+* `US Green Data <http://www.usgreendata.com/>`_. Also relevant:
+  `Job posting <http://careers.stackoverflow.com/jobs/27047/clean-tech-web-developer-django-python-to-u-s-green-data>`_
+
+
 Users Groups
 ------------
 * `Boston Python <http://meetup.bostonpython.com/>`_.
