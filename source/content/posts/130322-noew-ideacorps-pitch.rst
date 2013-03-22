@@ -1,7 +1,7 @@
 NOEW IDEAcorps Pitch Challenge
 ==============================
 
-:date: 2013-03-22
+:date: 2013-03-22 11:00
 :category: post
 :slug: noew-ideacorps-pitch-challenge
 
