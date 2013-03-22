@@ -11,9 +11,9 @@ Matt Candler provided a great introduction for why these companies matter
 to the learning community. 
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/matt-chandler-4pt0schools.jpg
-  :alt: Matt Chandler, the founder of 4.0Schools, introducing the pitch session
+  :alt: Matt Candler, the founder of 4.0Schools, introducing the pitch session
 
-Matt Chandler, founder of 4.0 Schools, introducing the pitch session.
+Matt Candler, founder of 4.0 Schools, introducing the pitch session.
 
 ----
 
