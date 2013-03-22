@@ -7,7 +7,7 @@ NOEW 4.0 Schools' Companies Pitches
 
 
 This afternoon was pitch day for companies in the 4.0 Schools' incubator.
-Matt Chandler provided a great introduction for why these companies matter
+Matt Candler provided a great introduction for why these companies matter
 to the learning community. 
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/matt-chandler-4pt0schools.jpg
