@@ -22,9 +22,8 @@ The schools and the companies they represented, in order they pitched, were:
 4. Cornell - Bissap Breeze
 5. Dartmouth - Clothes Line
 6. Loyola - Pierce Industries
-
-5. Stanford
-6. Yale
+7. Stanford - Education Everytime
+8. Yale - Your Nutrition Delivered
 
 Sara Thomas and Tim Williamson of IdeaVillage provided an introduction.
 
@@ -198,10 +197,64 @@ The Loyola University team.
 
 Stanford University
 -------------------
+Education Everytime is a musical system designed to help teachers with 
+better engage their students and control their classrooms. The product was
+used by the founder to improve his own classroom during his stint at
+Teach for America. Education Everytime is now in use in classrooms in New
+Orleans to help classroom management and prove the product creates positive
+results.
+
+.. image:: ../img/130322-ideapitch/stanford-education-everytime.jpg
+  :alt: Stanford University pitching Education Everytime.
+
+Stanford University pitching Education Everytime.
+
+----
+
+The distribution and sales strategy for Education Everytime is to 
+directly target and sell to teachers. The revenue model is to profit from
+each sale to teachers for the product. The pricing will be determined based
+on a beta program later in fall 2013.
+
+.. image:: ../img/130322-ideapitch/full-stanford-team.jpg
+  :alt: The Stanford University team.
+
+The Stanford University team.
+
+----
 
 
 Yale University
 ---------------
+Your Nutrition Delivered is a service for healthy home delivery of meals to 
+customers. The founder has a background in nutrition and uses that as a 
+differentiator over competing services that are "pseudo-healthy."
 
+The core customers for the business are busy professionals who do not have
+time to cook as well as overweight individuals do not have enough knowledge
+about what is healthy to lose weight. The core business service is provided
+through home delivery and a catering service, instead of vending machines.
+The service is positioned as a high-end differentiated service instead of
+a low cost model.
+
+.. image:: ../img/130322-ideapitch/yale-your-nutrition-delivered.jpg
+  :alt: Yale University pitching Your Nutrition Delivered
+
+Yale University pitching Your Nutrition Delivered.
+
+----
+
+The revenue model is based on selling a subscription to customers.
+
+.. image:: ../img/130322-ideapitch/full-yale-team.jpg
+  :alt: The Yale University team.
+
+The Yale University team.
+
+----
+
+All the business school groups did a great job, especially considering 
+the tight time constraints. The judges proclaimed the winner of the 
+IdeaPitch competition.
 
 
