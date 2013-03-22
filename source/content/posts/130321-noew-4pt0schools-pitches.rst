@@ -6,14 +6,14 @@ NOEW 4.0 Schools' Companies Pitches
 :slug: noew-4pt0-schools-companies-pitches
 
 
-This afternoon was pitch day for six companies in the 4.0Schools incubator.
+This afternoon was pitch day for six companies in the 4.0 Schools incubator.
 Matt Chandler provided a great introduction for why these companies matter
 to the learning community. 
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/matt-chandler-4pt0schools.jpg
   :alt: Matt Chandler, the founder of 4.0Schools, introducing the pitch session
 
-Matt Chandler, founder of 4.0Schools, introducing the pitch session.
+Matt Chandler, founder of 4.0 Schools, introducing the pitch session.
 
 ----
 
