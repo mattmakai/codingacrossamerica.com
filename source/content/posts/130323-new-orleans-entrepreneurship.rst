@@ -13,6 +13,16 @@ can't yet draw any big picture conclusions. However, it feels like
 something special going on down here in "Silicon Bayou". Here's how you
 can plug into the growing entrepreneurship and tech scene. 
 
+.. image:: ../img/130323-plug-in-to-nola-entrepreneurship/noew-judges-panel.jpg
+  :alt: Judges panel at NOEW
+
+NOEW Judges' panel, including investor 
+`Jim Coulter <http://en.wikipedia.org/wiki/James_Coulter_(financier)>`_ 
+and `Archie Manning <http://en.wikipedia.org/wiki/Archie_Manning>`_, 
+asking questions of three entrepreneurs who pitched that afternoon.
+
+----
+
 
 News and Who To Know
 --------------------
