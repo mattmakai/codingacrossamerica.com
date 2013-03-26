@@ -47,6 +47,10 @@ Coffee Shops
 ------------
 * `Fido <http://www.bongojava.com/fido.php>`_
 
+Companies
+---------
+* `Emma <http://myemma.com/>`_
+
 Start Up Infrastructure
 -----------------------
 * `Startup Tennessee <http://www.startuptn.com/>`_
