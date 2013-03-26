@@ -36,7 +36,7 @@ teacher placements or an annual subscription fee.
 .. image:: ../img/130321-noew-4pt0schools-pitches/haystackedu-pitch.jpg
   :alt: Founder of Haystack EDU
 
-The founder of Haystack EDU, pitching his startup.
+The founder of Haystack EDU, Tom Hayes, pitching his startup.
 
 ----
 
