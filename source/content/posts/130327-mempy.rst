@@ -1,0 +1,30 @@
+MemPy
+=====
+
+:category: post
+:date: 2013-03-27
+:slug: memphis-mempy-talk
+
+On Monday night I gave a talk on 
+`Git and Github workflows <http://www.mattmakai.com/static/presentations/memphis-python-github-workflows.html>`_
+to 
+`Memphis Python <http://mempy.org/march-25-2013.html>`_. 
+The venue, the Fedex Institute of Technology, at University of Memphis was
+great. The turnout was fantastic with about 35 developers. I was pretty 
+happy with how the talk went.
+
+.. image:: ../img/130327-mempy/github-individual-repos.jpg
+  :alt: A slide from my talk on Git repositories
+  :target: http://www.mattmakai.com/static/presentations/memphis-python-github-workflows.html#slide-20
+
+A slide from my talk on one possible arrangement for multiple Git repositories
+with a single canonical organization repository. 
+
+----
+
+Thank you to `Brad Montgomery <https://twitter.com/bkmontgomery>`_ for
+getting everything arranged months in advance,
+`Douglas Starnes <https://twitter.com/poweredbyaltnet>`_ for the
+introduction, and the Memphis Python community for having me in town!
+
+I will post pictures from the event as soon as I get them from Douglas.

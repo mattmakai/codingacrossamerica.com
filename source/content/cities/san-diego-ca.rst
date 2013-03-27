@@ -29,6 +29,10 @@ User Groups
 -----------
 * `San Diego Python Users Group <http://www.meetup.com/pythonsd/>`_
 
+Restaurants
+-----------
+* `Solare <http://www.solarelounge.com/>`_
+
 
 Accomodations
 -------------

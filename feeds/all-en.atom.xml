@@ -794,6 +794,12 @@ for its Mexican food and happy hour.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/pythonsd/"&gt;San Diego Python Users Group&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="restaurants"&gt;
+&lt;h2&gt;Restaurants&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.solarelounge.com/"&gt;Solare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="accomodations"&gt;
 &lt;h2&gt;Accomodations&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -1020,6 +1026,22 @@ something I want to go to.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/kenlund/66296057/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>MemPy</title><link href="http://www.codingacrossamerica.com/memphis-mempy-talk.html" rel="alternate"></link><updated>2013-03-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-27:memphis-mempy-talk.html</id><summary type="html">&lt;p&gt;On Monday night I gave a talk on
+&lt;a class="reference external" href="http://www.mattmakai.com/static/presentations/memphis-python-github-workflows.html"&gt;Git and Github workflows&lt;/a&gt;
+to
+&lt;a class="reference external" href="http://mempy.org/march-25-2013.html"&gt;Memphis Python&lt;/a&gt;.
+The venue, the Fedex Institute of Technology, at University of Memphis was
+great. The turnout was fantastic with about 35 developers. I was pretty
+happy with how the talk went.&lt;/p&gt;
+&lt;a class="reference external image-reference" href="http://www.mattmakai.com/static/presentations/memphis-python-github-workflows.html#slide-20"&gt;&lt;img alt="A slide from my talk on Git repositories" src="../img/130327-mempy/github-individual-repos.jpg" /&gt;&lt;/a&gt;
+&lt;p&gt;A slide from my talk on one possible arrangement for multiple Git repositories
+with a single canonical organization repository.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Thank you to &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;Brad Montgomery&lt;/a&gt; for
+getting everything arranged months in advance,
+&lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas Starnes&lt;/a&gt; for the
+introduction, and the Memphis Python community for having me in town!&lt;/p&gt;
+&lt;p&gt;I will post pictures from the event as soon as I get them from Douglas.&lt;/p&gt;
 </summary></entry><entry><title>Heading to Memphis</title><link href="http://www.codingacrossamerica.com/heading-to-memphis.html" rel="alternate"></link><updated>2013-03-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-24:heading-to-memphis.html</id><summary type="html">&lt;p&gt;After a fantastic week in New Orleans, I'm heading up to Memphis,
 Tennessee for a four day visit.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/60Yjo"&gt;&lt;img alt="The drive from New Orleans, LA to Memphis, TN." src="../img/130324-heading-to-memphis/nola-to-memphis.jpg" /&gt;&lt;/a&gt;
