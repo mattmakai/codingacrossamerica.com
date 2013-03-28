@@ -2,7 +2,7 @@ MemPy
 =====
 
 :category: post
-:date: 2013-03-27
+:date: 2013-03-27 12:05
 :slug: memphis-mempy-talk
 
 On Monday night I gave a talk on 

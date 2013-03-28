@@ -17,7 +17,7 @@ The drive from New Orleans, LA to Memphis, TN.
 
 ----
 
-Memphis is destination number five of thirty for Coding Across America.
+Memphis is destination number four of thirty for Coding Across America.
 
 During my time in Memphis I will be meeting with founders from 
 `Launchpad Memphis <http://www.launchmemphis.com/launchpad/>`_, 
