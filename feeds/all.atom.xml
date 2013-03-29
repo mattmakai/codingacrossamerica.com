@@ -230,6 +230,12 @@ in Lincoln Park.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.uncommonground.com/"&gt;Uncommon Ground&lt;/a&gt; on Clark&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="incubators-co-working-spaces"&gt;
+&lt;h2&gt;Incubators, Co-working Spaces&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.1871.com/"&gt;1871&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="restaurants"&gt;
 &lt;h2&gt;Restaurants&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -682,6 +688,7 @@ products and services. Strategy, UI, and marketing.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flite.com/"&gt;Flite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.betabrand.com/"&gt;Betabrand&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://www.toptal.com/"&gt;Toptal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.platfora.com/"&gt;Platfora&lt;/a&gt;. San Mateo.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="coding"&gt;
@@ -1017,38 +1024,97 @@ something I want to go to.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/rutlo/3645658303/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>WillowTree Apps</title><link href="http://www.codingacrossamerica.com/willowtree-apps-charlottesville-va.html" rel="alternate"></link><updated>2013-03-28T15:05:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-28:willowtree-apps-charlottesville-va.html</id><summary type="html">&lt;p&gt;There are over
-&lt;a class="reference external" href="http://ipod.about.com/od/iphonesoftwareterms/qt/apps-in-app-store.htm"&gt;775,000 apps in Apple's iOS store&lt;/a&gt;
-and slightly more apps than that for Android in the Google Play store.&lt;/p&gt;
+</summary></entry><entry><title>WillowTree Apps</title><link href="http://www.codingacrossamerica.com/willowtree-apps-charlottesville-va.html" rel="alternate"></link><updated>2013-03-28T19:05:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-28:willowtree-apps-charlottesville-va.html</id><summary type="html">&lt;p&gt;There are over
+&lt;a class="reference external" href="http://ipod.about.com/od/iphonesoftwareterms/qt/apps-in-app-store.htm"&gt;800,000 apps&lt;/a&gt;
+in both Apple's iOS store and Google's Play store.&lt;/p&gt;
 &lt;p&gt;If you want to build a mobile app, why would you pay a development team
 significant money to create it? Surely you can hire a smart teenager down
 the block to &amp;quot;build it for a few hundred bucks,&amp;quot; right?&lt;/p&gt;
 &lt;p&gt;Or maybe you can build the app yourself. How hard can mobile app development
 be when there are ways to create
 &lt;a class="reference external" href="http://blog.laptopmag.com/ios-android-app-without-coding-appmachine"&gt;apps without coding&lt;/a&gt;?&lt;/p&gt;
-&lt;p&gt;You get what you pay for. Even getting what you paid for can be in question
-when it involves software development. If you need a critical mobile app
-done right the first time, you get in touch with a firm that specializes in
-mobile app development.&lt;/p&gt;
+&lt;p&gt;Hold on. Software development is &lt;strong&gt;hard&lt;/strong&gt;. There is
+&lt;a class="reference external" href="http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf"&gt;no silver bullet&lt;/a&gt;
+for translating the ideas in your head into quality software that people
+want to use. The key word here is &lt;em&gt;quality&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Mobile apps are a particularly difficult type of software to
+develop because apps require many parts. Some parts run on your phone while
+others are housed in distant data centers that your phone accesses over its
+data connection.  Most of the time a user is completely unaware of the
+interactions between these myriad technologies.&lt;/p&gt;
+&lt;p&gt;It's possible to throw together a mobile app with pre-built tools or by
+hiring someone on the cheap. But the poor results can frustrate your users
+and damage your brand.&lt;/p&gt;
+&lt;p&gt;Creating a cohesive user experience requires tight interaction between
+programmers, designers, and the person or group with the ideas for the
+mobile app. Firms that specialize in mobile app development bring together
+software developers with expertise in mobile platforms, such as Android
+and iOS, designers who specialize in creating mobile app user experiences,
+and facilitators who can translate customers' abstract ideas into concrete
+details.&lt;/p&gt;
 &lt;div class="section" id="id1"&gt;
 &lt;h2&gt;WillowTree Apps&lt;/h2&gt;
-&lt;img alt="WillowTree Apps logo" src="../img/130328-willowtree-apps/willowtree-apps-logo.png" /&gt;
+&lt;img alt="WillowTree Apps logo" src="../img/130312-willowtree-apps/willowtree-apps-logo.png" /&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;During our office conversation and over lunch it became apparent to me: these
-guys are passionate about iOS and Android development like I'm passionate
-about Python development. And they have a team with design skills to boot.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.willowtreeapps.com/"&gt;WillowTree Apps&lt;/a&gt; builds mobile apps for
+organizations that know a poor mobile experience for their customers is
+unacceptable. The Charlottesville, Virginia-based company has built the
+Android and iOS mobile apps for well-known organizations such as the
+&lt;a class="reference external" href="http://www.nba.com/nets/nets-official-mobile-app"&gt;Brooklyn Nets&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.theverge.com/2012/7/17/3164899/the-verge-app-now-available-for-android-and-ios"&gt;The Verge&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.virginia.edu/mobile/"&gt;The University of Virginia&lt;/a&gt;,
+and, as much as it pains me to say this,
+the
+&lt;a class="reference external" href="http://www.philadelphiaeagles.com/fanzone/mobile.html"&gt;Philadelphia Eagles&lt;/a&gt;
+(I'm a NY Giants fan).&lt;/p&gt;
+&lt;p&gt;WillowTree Apps is also branching out into development for embedded systems,
+which is based on recent incorporations of Android into areas that have
+typically been dominated by low-level and proprietary programming languages.&lt;/p&gt;
+&lt;img alt="Developers, designers, and a recruiter from WillowTree Apps" src="../img/130312-willowtree-apps/willowtree-apps-team.jpg" /&gt;
+&lt;p&gt;Employees of WillowTree Apps and myself at lunch. From left to right,
+Eric, Jon, me, Michael, Christy, Max, and Andrew.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;During our conversation in their office and over a Thai food lunch, something
+became apparent to me as I asked questions based on my software development
+knowledge: these guys are passionate about iOS and Android
+development like I'm passionate about Python development. And they have a
+team with design skills to combine with that development expertise.&lt;/p&gt;
+&lt;p&gt;The development team is split between iOS-focused developers who program
+in Objective-C and Android-focused developers who program in Java. Designers
+work with each team interchangeably.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="software-development-in-charlottesville"&gt;
 &lt;h2&gt;Software Development in Charlottesville&lt;/h2&gt;
-&lt;img alt="WillowTree Apps' office" src="../img/130328-willowtree-apps/willowtree-apps-office.jpg" /&gt;
+&lt;a class="reference external image-reference" href="http://goo.gl/maps/MJ7bh"&gt;&lt;img alt="WillowTree Apps' office location in Charlottesville, Virginia" src="../img/130312-willowtree-apps/willowtree-apps-location.jpg" /&gt;&lt;/a&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;Recruiting software developers in Charlottesville can be difficult because
 it is not a major metropolitan area. Washington, DC is the closest major
 city and Richmond, Virginia is about an hour away.&lt;/p&gt;
+&lt;p&gt;There are some advantages to Charlottesville though. First, WillowTree Apps'
+office on the Downtown Mall is about a mile away from The University of
+Virginia. Charlottesville is an attractive city to live after graduation or
+to return to when raising a family. The Downtown Mall is a hub of great
+restaurants, outdoor concerts, and eclectic independent stores.&lt;/p&gt;
+&lt;img alt="WillowTree Apps' office" src="../img/130312-willowtree-apps/willowtree-apps-office.jpg" /&gt;
+&lt;p&gt;Inside WillowTree Apps' office on the Charlottesville Downtown Mall.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Charlottesville is a city of about 43,000 people. Yet here's a company
+building high quality mobile apps for some of the biggest organizations
+and sports franchises in the United States. That's a testament to the amount
+of interesting technology work going on everywhere in the US.&lt;/p&gt;
+&lt;p&gt;If you liked this post you'll probably also want to read about
+&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt;'s mobile app for saving text messages, pictures,
+and video from your phone.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Dallas, TX</title><link href="http://www.codingacrossamerica.com/dallas-tx.html" rel="alternate"></link><updated>2013-03-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-28:dallas-tx.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown Dallas, TX from Interstate 35 Eastbound" src="../img/dallas-tx.jpg" /&gt;
 &lt;hr class="docutils" /&gt;
+&lt;div class="section" id="coffee-shops"&gt;
+&lt;h2&gt;Coffee Shops&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.crookedtreecoffeehouse.com/"&gt;Crooked Tree&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="photo-attribution"&gt;
 &lt;h2&gt;Photo Attribution&lt;/h2&gt;
 &lt;ul class="simple"&gt;

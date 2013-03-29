@@ -47,6 +47,7 @@ Start Ups
 * `Flite <http://www.flite.com/>`_
 * `Betabrand <http://www.betabrand.com/>`_
 * `Toptal <https://www.toptal.com/>`_
+* `Platfora <http://www.platfora.com/>`_. San Mateo.
 
 Coding
 ------

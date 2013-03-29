@@ -43,6 +43,12 @@ Coffee Shops
   in Lincoln Park.
 * `Uncommon Ground <http://www.uncommonground.com/>`_ on Clark
 
+
+Incubators, Co-working Spaces
+-----------------------------
+* `1871 <http://www.1871.com/>`_
+
+
 Restaurants
 -----------
 * `Wiener Circle <http://www.wienercircle.net/>`_. Recommended by Maureen Rohn.
