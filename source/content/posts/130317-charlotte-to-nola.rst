@@ -19,6 +19,10 @@ The drive from Charlotte, NC to New Orleans, LA
 
 New Orleans is destination number three of thirty for Coding Across America.
 
+This will be the longest one-day drive of my trip at over twelve hours
+straight on the road. At least I'll get it out of the way early in my
+journey.
+
 In New Orleans I will be working with MBA teams from around the country who
 are helping local entrepreneurs on their early stage businesses. I'll also
 report on what's going on with the NOLA entrepreneurship as part of New
