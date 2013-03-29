@@ -8,9 +8,7 @@
             {{ article.content|truncate(400) }} 
             (<a href="{{ article.slug }}.html">read more</a>)
             <div>
-            By 
-            <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> 
-            on {{ article.date.strftime('%m.%d.%Y') }}.
+            From {{ article.date.strftime('%m.%d.%Y') }}.
             </div>
           </div>
         {% endif %}
