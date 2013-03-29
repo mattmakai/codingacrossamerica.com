@@ -32,11 +32,12 @@ I began by writing posts about a few companies in Washington, DC:
 1. `HumanGeo <../human-geo-washington-dc.html>`_
 2. `WiserTogether <../wisertogether-washington-dc.html>`_
 3. `Uppidy <../uppidy-washington-dc.html>`_
+4. `WillowTree Apps <../willowtree-apps-charlottesville-va.html>`_
 
 I am working on posts for 
 `AgilityFeat <http://www.agilityfeat.com/>`_,
-`WillowTree Apps <http://www.willowtreeapps.com/>`_,
-and `mSchool <http://www.mschools.org/>`_ with many more posts within 
+`mSchool <http://www.mschools.org/>`_, and
+`Work for Pie <https://workforpie.com/>`_ with many more posts within 
 the coming weeks.
 
 
