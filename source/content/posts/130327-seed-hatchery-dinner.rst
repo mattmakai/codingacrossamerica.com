@@ -1,7 +1,7 @@
 Memphis Seed Hatchery Dinner
 ============================
 
-:category: post
+:category: future-post
 :date: 2013-03-27 2:35
 :slug: memphis-seed-hatchery-dinner
 
