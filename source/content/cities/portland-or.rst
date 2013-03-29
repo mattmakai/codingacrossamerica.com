@@ -9,15 +9,12 @@ Portland, OR
 ----
 
 .. image:: ../img/portland-or.jpg
-  :width: 640px
-  :height: 480px
   :alt: Portland, Oregon
 
 ----
 
 Basic stats
 -----------
-* Why Portland, Oregon? (blog post coming soon)
 * City population: 600k, Metro population: 2.3m
 * Approximate distance driven on trip: `5000 miles <http://goo.gl/maps/Nx8Sz>`_
 * `Google Maps: Portland <http://goo.gl/maps/GOlzU>`_
@@ -33,6 +30,7 @@ Start Ups
 * `Puppet Labs <http://www.puppetlabs.com/>`_. Infrastructure automation.
 * `Urban Airship <http://www.urbanairship.com/>`_. Push notifications and mobile platform services.
 * `Jive <http://www.jivesoftware.com/>`_. Enterprise social business software.
+* `Periscopic <http://www.periscopic.com/>`_
 
 Breakfast
 ---------
