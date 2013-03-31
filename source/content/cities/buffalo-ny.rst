@@ -8,8 +8,6 @@ Buffalo, NY
 ----
 
 .. image:: ../img/buffalo-ny.jpg
-  :width: 640px
-  :height: 480px
   :alt: M&T Bank is one of the only banks still operating in Downtown Buffalo
 
 ----
@@ -24,6 +22,10 @@ Basic stats
 Bars
 ----
 * `Mickey Rat's Beach Club <http://mickeyrats.com/Mickey_Rats_Beach_Club.html>`_
+
+Articles
+--------
+* `Buffalo jumps back into top 40 in national economic rankings <http://www.bizjournals.com/buffalo/news/2013/03/29/buffalo-jumps-back-into-top-40-in.html>`_
 
 Photo Attribution
 -----------------

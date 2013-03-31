@@ -70,6 +70,10 @@ Conferences
   April 11-13, but I could stick around for a few more days if it's 
   something I want to go to.
 
+Articles
+--------
+* `Austin Number One on Economic Index <http://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2013/03/austin-holds-onto-first-place-in-on.html>`_
+
 Meetups
 -------
 * `Austin Lean Startup Circle <http://www.meetup.com/Austin-Lean-Startup-Circle/>`_

@@ -40,6 +40,10 @@ Venture Capital
   sciences industry, particularly treatments and cures for musculoskeletal 
   diseases.
 
+Articles
+--------
+* `Shifting investment balance <http://upstart.bizjournals.com/news/wire/2013/02/14/everywhere-else-as-silicon-center-trend.html?page=all>`_
+
 Meetups
 -------
 * `MEMpy <http://mempy.org/>`_. I'll be speaking on March 25th.
