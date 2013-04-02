@@ -27,17 +27,17 @@ organizations.
 
 Who Have You Already Met With?
 ------------------------------
-I began by writing posts about a few companies in Washington, DC:
+I've already written up several companies:
 
 1. `HumanGeo <../human-geo-washington-dc.html>`_
 2. `WiserTogether <../wisertogether-washington-dc.html>`_
 3. `Uppidy <../uppidy-washington-dc.html>`_
-4. `WillowTree Apps <../willowtree-apps-charlottesville-va.html>`_
+4. `AgilityFeat <../agilityfeat-charlottesville-va.html>`_
+5. `WillowTree Apps <../willowtree-apps-charlottesville-va.html>`_
 
 I am working on posts for 
-`AgilityFeat <http://www.agilityfeat.com/>`_,
-`mSchool <http://www.mschools.org/>`_, and
-`Work for Pie <https://workforpie.com/>`_ with many more posts within 
+`mSchool <http://www.mschools.org/>`_, `4.0 Schools <http://4pt0.org/>`_,
+and `Work for Pie <https://workforpie.com/>`_ with many more posts within 
 the coming weeks.
 
 

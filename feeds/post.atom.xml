@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-01T00:00:00-04:00</updated><entry><title>Dallas to Austin</title><link href="http://www.codingacrossamerica.com/dallas-to-austin.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:dallas-to-austin.html</id><summary type="html">&lt;p&gt;After a morning meeting with Tech Wildcatters I head to Austin, Texas.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-02T00:00:00-04:00</updated><entry><title>AgilityFeat</title><link href="http://www.codingacrossamerica.com/agilityfeat-charlottesville-va.html" rel="alternate"></link><updated>2013-04-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-02:agilityfeat-charlottesville-va.html</id><summary type="html">&lt;p&gt;Outsourcing was once the biggest trend in the information technology world.
+&lt;a class="reference external" href="http://www.thomaslfriedman.com/bookshelf/the-world-is-flat"&gt;The World is Flat&lt;/a&gt;
+by Tom Friedman explained that while the United States was focused on fighting
+terrorism after 9/11, the rest of the developing world was passing us by.
+Global information access through the Web meant that soon you would be
+better off born a poor but brilliant child in India than a B-student in
+Minnesota.&lt;/p&gt;
+&lt;p&gt;Information technology outsourcing was one facet of a larger trend
+that technology would break down geographic barriers. Students in the
+United States, myself included, who were interested in software development
+were advised against studying computer science since &amp;quot;those jobs will all
+be shifted to India soon anyway.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Globalization is real but outsourcing all software development was undone
+for several reasons.&lt;/p&gt;
+&lt;p&gt;First, the business landscape shifts so quickly that by the time an
+organization writes an extensive requirements document and throws it over
+the wall to developers in India, the software being built no longer matches
+the current needs of the business.&lt;/p&gt;
+&lt;p&gt;Second, small teams of 2-5 developers and designers can now achieve orders
+of magnitude greater output than decades past. The productivity differential
+comes from code reuse through leveraging open source and a reduction in
+waste from iteratively programming working software through
+&lt;a class="reference external" href="http://agilemanifesto.org/"&gt;agile software development&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, time zone differences still matter. Working in a time zone ten to
+twelve hours removed from the rest of your team causes friction. Friction
+slows down the software development and allows competitors to pass you by.&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;AgilityFeat&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://agilityfeat.com/"&gt;AgilityFeat&lt;/a&gt; began as an agile consulting firm
+with &lt;a class="reference external" href="http://agilityfeat.com/commandos"&gt;Arin Sime&lt;/a&gt;
+(&lt;a class="reference external" href="https://twitter.com/ArinSime"&gt;&amp;#64;ArinSime&lt;/a&gt;) as the sole founder. Arin
+worked with software development teams to either transition to an agile
+model or optimize their team's existing agile workflow.&lt;/p&gt;
+&lt;img alt="AgilityFeat's logo" src="../img/130310-agilityfeat/agilityfeat-logo.png" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Over a period of about six months, Arin thought through what it would take to
+incorporate overseas development into the services he offered his clients.
+But he knew that outsourcing to far away overseas countries was unlikely
+to provide enough value to his clients to make it worthwhile.&lt;/p&gt;
+&lt;img alt="Arin, AgilityFeat's founder, and myself" src="../img/130310-agilityfeat/arin-and-matt.jpg" /&gt;
+&lt;p&gt;Arin, AgilityFeat's founder, and myself at
+&lt;a class="reference external" href="http://thevirginiancville.com/"&gt;The Virginian&lt;/a&gt; in Charlottesville.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="nearshoring"&gt;
+&lt;h2&gt;Nearshoring&lt;/h2&gt;
+&lt;p&gt;There is a variation of outsourcing, known as
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Nearshoring"&gt;nearshoring&lt;/a&gt; that mitigates
+risk due to major time zone discrepencies. The software development team is
+located in the same time zone as the business' location. Cost is reduced by
+taking advantage of the lower cost of living in a different latitude.&lt;/p&gt;
+&lt;p&gt;For example, Washington, DC's cost of living is much higher than in
+Richmond, Virginia. Business owners in
+&lt;a class="reference external" href="https://www.capitalone.com/"&gt;Capital One&lt;/a&gt;'s
+headquarters in McLean, VA just outside DC works with developers located
+in Richmond to build their finacial systems.&lt;/p&gt;
+&lt;p&gt;Similarly, many of &lt;a class="reference external" href="http://www.excella.com/"&gt;Excella Consulting&lt;/a&gt;'s clients
+work with a consulting team partially staffed by staff and students at the
+Virginia Tech extension center in Blacksburg, Virginia. The mix of on-site
+consultants combined with off-site developers creates a lower blended hourly
+rate than purely on-site staff with the same results.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="business-model-pivot"&gt;
+&lt;h2&gt;Business Model Pivot&lt;/h2&gt;
+&lt;p&gt;How does nearshoring relate to AgilityFeat? Arin knew his business'
+scalability was limited when it was just him doing agile consulting.
+Over time Arin built relationships with partners in Costa Rica. Costa Rica's
+low cost of living, relatively low crime compared with other Latin American
+countries, and its proximity to the US (a three hour plane ride from Miami)
+made the country appealing for nearshoring.&lt;/p&gt;
+&lt;p&gt;AgilityFeat pivoted from a purely agile methodology consulting company to
+a nearshoring development shop that also offered agile consulting. The
+combination of consulting and development services works well because
+the development teams in Costa Rica also agile to build software.
+AgilityFeat also focuses on the &lt;a class="reference external" href="http://theleanstartup.com/"&gt;Lean Startup&lt;/a&gt;
+model when building products for businesses trying to find their appropriate
+customer base.&lt;/p&gt;
+&lt;p&gt;The combination of agile software development, nearshoring, and lean
+startup methodologies works well for bringing software to market quickly
+and validate hypotheses for how customers actually use a product.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you want to learn more about software development in Charlottesville,
+check out my post on
+&lt;a class="reference external" href="../willowtree-apps-charlottesville-va.html"&gt;WillowTree Apps&lt;/a&gt;, who do
+mobile app development from their office on the Downtown Mall.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Dallas to Austin</title><link href="http://www.codingacrossamerica.com/dallas-to-austin.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:dallas-to-austin.html</id><summary type="html">&lt;p&gt;After a morning meeting with Tech Wildcatters I head to Austin, Texas.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/Xw2FY"&gt;&lt;img alt="The drive from Dallas, TX to Austin, TX" src="../img/130401-dallas-to-austin/dallas-to-austin.jpg" /&gt;&lt;/a&gt;
 &lt;p&gt;The drive from Dallas, TX to Austin, TX.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -559,17 +645,17 @@ organizations.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="who-have-you-already-met-with"&gt;
 &lt;h2&gt;Who Have You Already Met With?&lt;/h2&gt;
-&lt;p&gt;I began by writing posts about a few companies in Washington, DC:&lt;/p&gt;
+&lt;p&gt;I've already written up several companies:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="../human-geo-washington-dc.html"&gt;HumanGeo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../wisertogether-washington-dc.html"&gt;WiserTogether&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../agilityfeat-charlottesville-va.html"&gt;AgilityFeat&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../willowtree-apps-charlottesville-va.html"&gt;WillowTree Apps&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;I am working on posts for
-&lt;a class="reference external" href="http://www.agilityfeat.com/"&gt;AgilityFeat&lt;/a&gt;,
-&lt;a class="reference external" href="http://www.mschools.org/"&gt;mSchool&lt;/a&gt;, and
-&lt;a class="reference external" href="https://workforpie.com/"&gt;Work for Pie&lt;/a&gt; with many more posts within
+&lt;a class="reference external" href="http://www.mschools.org/"&gt;mSchool&lt;/a&gt;, &lt;a class="reference external" href="http://4pt0.org/"&gt;4.0 Schools&lt;/a&gt;,
+and &lt;a class="reference external" href="https://workforpie.com/"&gt;Work for Pie&lt;/a&gt; with many more posts within
 the coming weeks.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="why-participate"&gt;

@@ -22,15 +22,17 @@ About
 
 Interesting Initiatives
 -----------------------
-* `Startup Tennessee <http://www.startuptn.com/>`_
-* `Startup Memphis <http://startupmemphis.com/>`_
+* `Seed Hatchery <http://www.seedhatchery.com/>`_
 * `Emerge Memphis <http://www.emergememphis.org/>`_
 * `Launchpad Memphis <http://www.launchmemphis.com/launchpad/>`_
+* `Startup Memphis <http://startupmemphis.com/>`_
+* `Startup Tennessee <http://www.startuptn.com/>`_
 
 Companies
 ---------
 * `Work for Pie <https://workforpie.com/>`_
 * `Deluge Studios <http://www.delugestudios.com/>`_
+* `Boosterville <http://sodbuster.com/>`_
 
 Venture Capital
 ---------------
