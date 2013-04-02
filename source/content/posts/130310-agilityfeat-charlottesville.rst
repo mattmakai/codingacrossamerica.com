@@ -31,7 +31,12 @@ through `agile software development <http://agilemanifesto.org/>`_.
 
 AgilityFeat
 -----------
-AgilityFeat started as an agile consulting firm.
+AgilityFeat began as an agile consulting firm with 
+`Arin Sime <http://agilityfeat.com/commandos>`_ as the sole founder. 
+
+Over a period of about six months, Arin thought through what it would take to
+incorporate overseas development into the services he offered his clients.
+
 
 .. image:: ../img/130310-agilityfeat/arin-and-matt.jpg
   :alt: Arin, AgilityFeat's founder, and myself
@@ -43,4 +48,11 @@ The Pivot
 
 Nearshoring
 -----------
+
+
+If you want to learn more about software development in Charlottesville, 
+check out my post on 
+`WillowTree Apps <../willowtree-apps-charlottesville-va.html>`_, who's
+office is on the Downtown Mall.
+
 

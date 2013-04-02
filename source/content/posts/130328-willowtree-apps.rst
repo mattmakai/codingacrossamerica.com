@@ -25,8 +25,8 @@ want to use. The key word here is *quality*.
 
 Mobile apps are a particularly difficult type of software to
 develop because apps require many parts. Some parts run on your phone while
-others are housed in distant data centers that your phone accesses over its
-data connection.  Most of the time a user is completely unaware of the 
+others are housed in distant computing centers that your phone accesses over 
+its data connection.  Most of the time a user is completely unaware of the 
 interactions between these myriad technologies.
 
 It's possible to throw together a mobile app with pre-built tools or by 
@@ -63,8 +63,8 @@ the
 (I'm a NY Giants fan). 
 
 WillowTree Apps is also branching out into development for embedded systems, 
-which is based on recent incorporations of Android into areas that have 
-typically been dominated by low-level and proprietary programming languages.
+which is based on the recent incorporation of Android into computing areas
+typically dominated by low-level and proprietary programming languages.
 
 .. image:: ../img/130312-willowtree-apps/willowtree-apps-team.jpg
   :alt: Developers, designers, and a recruiter from WillowTree Apps
@@ -77,8 +77,11 @@ Eric, Jon, me, Michael, Christy, Max, and Andrew.
 During our conversation in their office and over a Thai food lunch, something
 became apparent to me as I asked questions based on my software development
 knowledge: these guys are passionate about iOS and Android 
-development like I'm passionate about Python development. And they have a 
-team with design skills to combine with that development expertise.
+development like I'm passionate about Python development. Understanding the
+nuances of these platforms requires developers to have a passion for learning
+outside a 9-5 job. That passion for building on mobile platforms combined 
+with designers equally passionate about user experience is a valuable 
+combination. 
 
 The development team is split between iOS-focused developers who program
 in Objective-C and Android-focused developers who program in Java. Designers
@@ -104,6 +107,10 @@ Virginia. Charlottesville is an attractive city to live after graduation or
 to return to when raising a family. The Downtown Mall is a hub of great
 restaurants, outdoor concerts, and eclectic independent stores.
 
+WillowTree Apps also runs a local tech meetup for mobile app designers and
+developers called `ChoMobile <http://www.meetup.com/cho-mobile/>`_ to foster
+tech relationships in Charlottesville.
+
 .. image:: ../img/130312-willowtree-apps/willowtree-apps-office.jpg
   :alt: WillowTree Apps' office
 
@@ -116,7 +123,7 @@ building high quality mobile apps for some of the biggest organizations
 and sports franchises in the United States. That's a testament to the amount
 of interesting technology work going on everywhere in the US.
 
-If you liked this post you'll probably also want to read about 
-`Uppidy <../uppidy-washington-dc.html>`_'s mobile app for saving text messages, pictures,
-and video from your phone.
+If you liked this post you'll also want to read about 
+`Uppidy <../uppidy-washington-dc.html>`_'s 
+mobile app for saving text messages, pictures, and video from your phone.
 

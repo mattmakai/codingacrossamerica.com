@@ -24,8 +24,8 @@ for translating the ideas in your head into quality software that people
 want to use. The key word here is &lt;em&gt;quality&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Mobile apps are a particularly difficult type of software to
 develop because apps require many parts. Some parts run on your phone while
-others are housed in distant data centers that your phone accesses over its
-data connection.  Most of the time a user is completely unaware of the
+others are housed in distant computing centers that your phone accesses over
+its data connection.  Most of the time a user is completely unaware of the
 interactions between these myriad technologies.&lt;/p&gt;
 &lt;p&gt;It's possible to throw together a mobile app with pre-built tools or by
 hiring someone on the cheap. But the poor results can frustrate your users
@@ -53,8 +53,8 @@ the
 &lt;a class="reference external" href="http://www.philadelphiaeagles.com/fanzone/mobile.html"&gt;Philadelphia Eagles&lt;/a&gt;
 (I'm a NY Giants fan).&lt;/p&gt;
 &lt;p&gt;WillowTree Apps is also branching out into development for embedded systems,
-which is based on recent incorporations of Android into areas that have
-typically been dominated by low-level and proprietary programming languages.&lt;/p&gt;
+which is based on the recent incorporation of Android into computing areas
+typically dominated by low-level and proprietary programming languages.&lt;/p&gt;
 &lt;img alt="Developers, designers, and a recruiter from WillowTree Apps" src="../img/130312-willowtree-apps/willowtree-apps-team.jpg" /&gt;
 &lt;p&gt;Employees of WillowTree Apps and myself at lunch. From left to right,
 Eric, Jon, me, Michael, Christy, Max, and Andrew.&lt;/p&gt;
@@ -62,8 +62,11 @@ Eric, Jon, me, Michael, Christy, Max, and Andrew.&lt;/p&gt;
 &lt;p&gt;During our conversation in their office and over a Thai food lunch, something
 became apparent to me as I asked questions based on my software development
 knowledge: these guys are passionate about iOS and Android
-development like I'm passionate about Python development. And they have a
-team with design skills to combine with that development expertise.&lt;/p&gt;
+development like I'm passionate about Python development. Understanding the
+nuances of these platforms requires developers to have a passion for learning
+outside a 9-5 job. That passion for building on mobile platforms combined
+with designers equally passionate about user experience is a valuable
+combination.&lt;/p&gt;
 &lt;p&gt;The development team is split between iOS-focused developers who program
 in Objective-C and Android-focused developers who program in Java. Designers
 work with each team interchangeably.&lt;/p&gt;
@@ -80,6 +83,9 @@ office on the Downtown Mall is about a mile away from The University of
 Virginia. Charlottesville is an attractive city to live after graduation or
 to return to when raising a family. The Downtown Mall is a hub of great
 restaurants, outdoor concerts, and eclectic independent stores.&lt;/p&gt;
+&lt;p&gt;WillowTree Apps also runs a local tech meetup for mobile app designers and
+developers called &lt;a class="reference external" href="http://www.meetup.com/cho-mobile/"&gt;ChoMobile&lt;/a&gt; to foster
+tech relationships in Charlottesville.&lt;/p&gt;
 &lt;img alt="WillowTree Apps' office" src="../img/130312-willowtree-apps/willowtree-apps-office.jpg" /&gt;
 &lt;p&gt;Inside WillowTree Apps' office on the Charlottesville Downtown Mall.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -87,9 +93,9 @@ restaurants, outdoor concerts, and eclectic independent stores.&lt;/p&gt;
 building high quality mobile apps for some of the biggest organizations
 and sports franchises in the United States. That's a testament to the amount
 of interesting technology work going on everywhere in the US.&lt;/p&gt;
-&lt;p&gt;If you liked this post you'll probably also want to read about
-&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt;'s mobile app for saving text messages, pictures,
-and video from your phone.&lt;/p&gt;
+&lt;p&gt;If you liked this post you'll also want to read about
+&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt;'s
+mobile app for saving text messages, pictures, and video from your phone.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Memphis to Dallas</title><link href="http://www.codingacrossamerica.com/memphis-to-dallas.html" rel="alternate"></link><updated>2013-03-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-28:memphis-to-dallas.html</id><summary type="html">&lt;p&gt;I am on the road to Dallas early today.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/oI6A9"&gt;&lt;img alt="The drive from Memphis, TN to Dallas, TX" src="../img/130328-memphis-to-dallas/memphis-to-dallas.jpg" /&gt;&lt;/a&gt;
