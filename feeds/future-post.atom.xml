@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-03-27T02:35:00-04:00</updated><entry><title>Memphis Seed Hatchery Dinner</title><link href="http://www.codingacrossamerica.com/memphis-seed-hatchery-dinner.html" rel="alternate"></link><updated>2013-03-27T02:35:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-27:memphis-seed-hatchery-dinner.html</id><summary type="html">&lt;p&gt;Last night I had great company for dinner: the founders of the current
-Memphis Seed Hatchery class. We ate out at
-&lt;a class="reference external" href="http://www.barimemphis.com/web/"&gt;Bari&lt;/a&gt;
-after I sat in on their business development class from 5:30 to 6:30pm.&lt;/p&gt;
-</summary></entry><entry><title>AgilityFeat</title><link href="http://www.codingacrossamerica.com/agilityfeat-charlottesville-va.html" rel="alternate"></link><updated>2013-03-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-20:agilityfeat-charlottesville-va.html</id><summary type="html">&lt;img alt="Arin, AgilityFeat's founder, and myself" src="../img/130320-agilityfeat/arin-and-matt.jpg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-02T00:00:00-04:00</updated><entry><title>AgilityFeat</title><link href="http://www.codingacrossamerica.com/agilityfeat-charlottesville-va.html" rel="alternate"></link><updated>2013-04-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-02:agilityfeat-charlottesville-va.html</id><summary type="html">&lt;p&gt;Outsourcing was once the biggest trend in the information technology world.
+&lt;a class="reference external" href="http://www.thomaslfriedman.com/bookshelf/the-world-is-flat"&gt;The World is Flat&lt;/a&gt;
+by Tom Friedman explained that while the United States was focused on fighting
+terrorism after 9/11, the rest of the developing world was passing us by.
+Global information access through the Web meant that soon you would be
+better off born a poor but brilliant child in India than a B-student in
+Minnesota.&lt;/p&gt;
+&lt;p&gt;Information technology outsourcing was simply one facet of a larger trend
+that technology would break down geographic barriers. Students in the
+United States, myself included, who were interested in software development
+were advised that &amp;quot;those jobs will all be shifted to India soon anyway.&amp;quot;&lt;/p&gt;
+&lt;p&gt;Globalization is real but outsourcing was undone for several reasons. First,
+the business landscape shifts so quickly that by the time a large organization
+writes an extensive requirements document and throws it over the wall to
+developers in India, the software being built no longer matches the needs of
+the business. Second, individual developers and small teams of 2-5 developers
+can now achieve orders of magnitude greater output than decades past.
+The productivity differential comes from code reuse through leveraging open
+source and a reduction in waste from iteratively programming working software
+through &lt;a class="reference external" href="http://agilemanifesto.org/"&gt;agile software development&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;AgilityFeat&lt;/h2&gt;
+&lt;p&gt;AgilityFeat started as an agile consulting firm.&lt;/p&gt;
+&lt;img alt="Arin, AgilityFeat's founder, and myself" src="../img/130310-agilityfeat/arin-and-matt.jpg" /&gt;
+&lt;/div&gt;
 &lt;div class="section" id="the-pivot"&gt;
 &lt;h2&gt;The Pivot&lt;/h2&gt;
 &lt;/div&gt;
+&lt;div class="section" id="nearshoring"&gt;
+&lt;h2&gt;Nearshoring&lt;/h2&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-02:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>Memphis Seed Hatchery Dinner</title><link href="http://www.codingacrossamerica.com/memphis-seed-hatchery-dinner.html" rel="alternate"></link><updated>2013-03-27T02:35:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-27:memphis-seed-hatchery-dinner.html</id><summary type="html">&lt;p&gt;Last night I had great company for dinner: the founders of the current
+Memphis Seed Hatchery class. We ate out at
+&lt;a class="reference external" href="http://www.barimemphis.com/web/"&gt;Bari&lt;/a&gt;
+after I sat in on their business development class from 5:30 to 6:30pm.&lt;/p&gt;
 </summary></entry><entry><title>99designs Logo Contests</title><link href="http://www.codingacrossamerica.com/maximizing-value-99-designs-logo-contest.html" rel="alternate"></link><updated>2013-03-20T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-20:maximizing-value-99-designs-logo-contest.html</id><summary type="html">&lt;p&gt;The logo for &lt;a class="reference external" href="http://www.codingacrossamerica.com/"&gt;Coding Across America&lt;/a&gt;
 came from a
 &lt;a class="reference external" href="http://99designs.com/logo-design/contests/coding-across-america-167494"&gt;contest&lt;/a&gt;
