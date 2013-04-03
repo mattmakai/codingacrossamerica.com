@@ -24,13 +24,15 @@ Accomodations
 * `McMenamins Kennedy School <http://www.mcmenamins.com/KennedySchool>`_. Converted elementary school with bars. A bus ride to Downtown.
 
 
-Start Ups
+Companies
 ---------
 * Pearl District is the business area where many start ups are located.
 * `Puppet Labs <http://www.puppetlabs.com/>`_. Infrastructure automation.
-* `Urban Airship <http://www.urbanairship.com/>`_. Push notifications and mobile platform services.
 * `Jive <http://www.jivesoftware.com/>`_. Enterprise social business software.
 * `Periscopic <http://www.periscopic.com/>`_
+* `Playhaven <http://www.playhaven.com/>`_
+* `Urban Airship <http://www.urbanairship.com/>`_. Push notifications 
+  and mobile platform services.
 
 Breakfast
 ---------

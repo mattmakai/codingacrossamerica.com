@@ -400,6 +400,12 @@ marys.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/fC09Y"&gt;Google Maps: Boulder&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="companies"&gt;
+&lt;h2&gt;Companies&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.cablelabs.com/"&gt;Cablelabs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="meetups"&gt;
 &lt;h2&gt;Meetups&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -545,14 +551,16 @@ her favorite coffee shop in Seattle.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.mcmenamins.com/KennedySchool"&gt;McMenamins Kennedy School&lt;/a&gt;. Converted elementary school with bars. A bus ride to Downtown.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div class="section" id="start-ups"&gt;
-&lt;h2&gt;Start Ups&lt;/h2&gt;
+&lt;div class="section" id="companies"&gt;
+&lt;h2&gt;Companies&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Pearl District is the business area where many start ups are located.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.puppetlabs.com/"&gt;Puppet Labs&lt;/a&gt;. Infrastructure automation.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.urbanairship.com/"&gt;Urban Airship&lt;/a&gt;. Push notifications and mobile platform services.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.jivesoftware.com/"&gt;Jive&lt;/a&gt;. Enterprise social business software.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.periscopic.com/"&gt;Periscopic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.playhaven.com/"&gt;Playhaven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.urbanairship.com/"&gt;Urban Airship&lt;/a&gt;. Push notifications
+and mobile platform services.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="breakfast"&gt;
@@ -704,6 +712,12 @@ products and services. Strategy, UI, and marketing.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/The-San-Francisco-Django-Meetup-Group/"&gt;San Francisco Django Meetup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/svdjango/"&gt;Silicon Valley Django Meetup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/San-Francisco-Redis-Meetup/"&gt;Redis Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="incubators-accelerators"&gt;
+&lt;h2&gt;Incubators/Accelerators&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.boost.vc/"&gt;Boost&lt;/a&gt;. San Mateo. Follower on Twitter.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="accomodations"&gt;
@@ -938,6 +952,42 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/yolagringo/6712411907/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>Starting &amp; Sustaining</title><link href="http://www.codingacrossamerica.com/starting-sustaining-book.html" rel="alternate"></link><updated>2013-04-03T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-03:starting-sustaining-book.html</id><summary type="html">&lt;p&gt;I've been catching up on reading my book backlog while traveling over these
+five months on the road from March through August. During my time in Dallas
+I purchased &lt;a class="reference external" href="http://startingandsustaining.com/"&gt;Starting and Sustaining&lt;/a&gt;
+by Garrett Dimon. At $99 for the book plus spreadsheet it is quite a bit
+more expensive than the other books I have picked up recently.&lt;/p&gt;
+&lt;p&gt;But of course I fell for the social proof section titled &amp;quot;What are people
+saying?&amp;quot; where a bunch of other authors I've read mentioned how they'd
+gladly pay twice as much for this product. Plus Garrett has been in the
+trenches for the past five year building &lt;a class="reference external" href="https://sifterapp.com/"&gt;Sifter&lt;/a&gt;.
+I'd be shocked if he didn't have some really useful advice for developers
+aspiring to launch their own web application.&lt;/p&gt;
+&lt;p&gt;Anyway, one particular paragraph in chapter 3 particularly resonated with me:&lt;/p&gt;
+&lt;blockquote&gt;
+One of the most common excuses that I hear is &amp;quot;So and so was able to
+launch something because they had thousands of Twitter followers—I can’t
+do that.&amp;quot; That’s a pretty shortsighted way of looking at it. Yes, they
+have thousands of Twitter followers, but that’s usually after years of
+work. That doesn’t happen by accident. If you think there’s a chance
+that you may want to launch something two or three years from now,
+you should start blogging and sharing today. Contribute to open-source
+projects. Give away information and build an audience. The rest will
+take care of itself.&lt;/blockquote&gt;
+&lt;p&gt;I had to read that section a few times to think through what it was
+that concisely summed up what I've expressed to people in the past.&lt;/p&gt;
+&lt;p&gt;Some people always have excuses for why they can't accomplish what's
+supposedly important to them. There are always external factors preventing
+them from taking that next step. I can't help those people. Whether they are
+clients, friends, or casual acquaintances, they have to learn to help
+themselves first.&lt;/p&gt;
+&lt;p&gt;Then there are the doers. That person you know that if you give her one quick
+introduction or work through one technical problem, she will take that inch
+and go miles. She'll work for months or years slowly building up a network
+to make a goal happen. Then one day after all that hard work other people
+will call her an &amp;quot;overnight success.&amp;quot;&lt;/p&gt;
+&lt;p&gt;You can look at the world either way. But doers recognize other doers. We
+help each other out to make things happen.&lt;/p&gt;
 </summary></entry><entry><title>AgilityFeat</title><link href="http://www.codingacrossamerica.com/agilityfeat-charlottesville-va.html" rel="alternate"></link><updated>2013-04-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-02:agilityfeat-charlottesville-va.html</id><summary type="html">&lt;p&gt;Outsourcing was once the biggest trend in the information technology world.
 &lt;a class="reference external" href="http://www.thomaslfriedman.com/bookshelf/the-world-is-flat"&gt;The World is Flat&lt;/a&gt;
 by Tom Friedman explained that while the United States was focused on fighting
