@@ -99,8 +99,9 @@ made the country appealing for nearshoring.
 AgilityFeat pivoted from a purely agile methodology consulting company to 
 a nearshoring development shop that also offered agile consulting. The 
 combination of consulting and development services works well because
-the development teams in Costa Rica also agile to build software. 
-AgilityFeat also focuses on the `Lean Startup <http://theleanstartup.com/>`_
+the development teams in Costa Rica also use the agile methodology to 
+build software.  AgilityFeat also focuses on the 
+`Lean Startup <http://theleanstartup.com/>`_
 model when building products for businesses trying to find their appropriate
 customer base.
 
