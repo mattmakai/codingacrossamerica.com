@@ -1,5 +1,5 @@
-Starting & Sustaining
-=====================
+Doers Help Doers
+================
 
 :date: 2013-04-03
 :slug: starting-sustaining-book
