@@ -3,12 +3,13 @@ The Gravity Center in Plano, TX
 
 :slug: gravity-center-dallas-tx
 :category: post
-:date: 2013-04-04
+:date: 2013-03-29
 
 `The Gravity Center <http://gravitycentredallas.com/>`_ 
 (`@gravity_centre <https://twitter.com/gravity_centre>`_) 
-in Plano, Texas is an early stage incubator funded by Alcatel-Lucent and 
-AT&T. The incubator's space north of Dallas provides entrepreneurs 
+in Plano, Texas is an early stage incubator funded by Alcatel-Lucent 
+and supported by corporate innovation programs AT&T Foundry and ng Connect.
+The incubator's space north of Dallas provides entrepreneurs 
 who live in Plano with an attractive local alternative to obtaining an 
 office downtown (known as "Uptown" in Dallas).
 
@@ -26,7 +27,7 @@ recruit and evaluate startups for the space. Jennifer has been connecting
 entrepreneurs and software developers in the Dallas for several years.
 She worked to bring the Joomla, Drupal, and .NET communities together for 
 `OpenCamp <http://www.vsellis.com/opencamp-2010-if-you-do-anything-online-you-dont-want-to-miss-it/>`_ 
-in 2010. Jennifer is also started and runs the well-known
+in 2010. Jennifer also started and runs the well-known
 `I Live in Dallas <http://www.iliveindallas.com/>`_ blog.
 
 .. image:: ../img/130329-the-gravity-center/gravity-center-location.jpg
