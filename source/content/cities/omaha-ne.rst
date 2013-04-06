@@ -2,14 +2,12 @@ Omaha, NE
 =========
 
 :category: city
-:date: 2013-06-20
+:date: 2013-06-19
 :slug: omaha-ne
 
 ----
 
 .. image:: ../img/omaha-ne.jpg
-  :width: 640px
-  :height: 480px
   :alt: Aerial view Omaha, NE from 36,000 feet
 
 ----

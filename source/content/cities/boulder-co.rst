@@ -2,14 +2,12 @@ Boulder, CO
 ===========
 
 :category: city
-:date: 2013-06-13
+:date: 2013-06-12
 :slug: boulder-co
 
 ----
 
 .. image:: ../img/boulder-co.jpg
-  :width: 640px
-  :height: 480px
   :alt: Aerial view of Boulder, Colorado downtown and the university
 
 ----

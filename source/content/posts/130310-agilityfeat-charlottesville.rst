@@ -1,7 +1,7 @@
 AgilityFeat
 ===========
 
-:date: 2013-04-02
+:date: 2013-03-10
 :slug: agilityfeat-charlottesville-va
 :category: post
 
