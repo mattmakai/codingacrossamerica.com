@@ -2,7 +2,7 @@ Chicago, IL
 ===========
 
 :category: city
-:date: 2013-07-12
+:date: 2013-07-14
 :slug: chicago-il
 
 ----
