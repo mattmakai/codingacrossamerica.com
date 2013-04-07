@@ -1,11 +1,11 @@
 Austin to Lubbock
 =================
 
-:category: future-post
+:category: post
 :date: 2013-04-07
 :slug: austin-to-lubbock
 
-This is the saddest post I've written so far.
+It is really tough to leave Austin.
 
 .. image:: ../img/130407-austin-to-lubbock/austin-to-lubbock.jpg
   :alt: The drive from Austin, TX to Lubbock, TX.
@@ -16,8 +16,8 @@ The drive from Austin, TX to Lubbock, TX.
 ----
 
 Nothing against Lubbock. Austin is just an amazing city with great weather,
-friendly, tech-savvy people, and a fantastic startup scene. It is tough for
-me to leave here.
+friendly, tech-savvy people, and a fantastic startup scene. I've really
+enjoyed my time here for the past several days.
 
 Lubbock is destination number seven of thirty for Coding Across America.
 
