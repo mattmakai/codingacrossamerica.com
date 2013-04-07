@@ -2,14 +2,12 @@ Detroit, MI
 ===========
 
 :category: city
-:date: 2013-07-20
+:date: 2013-07-21
 :slug: detroit-mi
 
 ----
 
 .. image:: ../img/detroit-mi.jpg
-  :width: 640px
-  :height: 480px
   :alt: View of Detroit, Michigan from the water
 
 ----

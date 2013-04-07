@@ -2,14 +2,12 @@ Washington, DC
 ==============
 
 :category: city
-:date: 2013-08-15
+:date: 2013-08-09
 :slug: washington-dc
 
 ----
 
 .. image:: ../img/washington-dc.jpg
-  :width: 640px
-  :height: 480px
   :alt: Washington, DC
 
 ----

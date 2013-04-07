@@ -2,7 +2,7 @@ Morristown, NJ
 ==============
 
 :category: city
-:date: 2013-08-10
+:date: 2013-08-06
 :slug: morristown-nj
 
 ----

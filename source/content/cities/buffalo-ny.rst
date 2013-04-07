@@ -2,7 +2,7 @@ Buffalo, NY
 ===========
 
 :category: city
-:date: 2013-07-23
+:date: 2013-07-26
 :slug: buffalo-ny
 
 ----
