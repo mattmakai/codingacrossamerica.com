@@ -20,33 +20,43 @@ the most frequently asked questions.
 What is Coding Across America?
 ------------------------------
 Coding Across America is a five month road trip from March until August 2013
-to tell stories about people solving problems using software. I am
+to tell stories of people solving interesting problems with software. I am
 traveling to thirty cities to meet with people in both large and small 
 organizations.
 
 
 Who Have You Already Met With?
 ------------------------------
-I've already written up several companies:
+I have met with and written up many organizations in the cities I've visited:
 
-1. `HumanGeo <../human-geo-washington-dc.html>`_
-2. `WiserTogether <../wisertogether-washington-dc.html>`_
-3. `Uppidy <../uppidy-washington-dc.html>`_
-4. `AgilityFeat <../agilityfeat-charlottesville-va.html>`_
+1. `HumanGeo <../human-geo-washington-dc.html>`_ (DC)
+2. `WiserTogether <../wisertogether-washington-dc.html>`_ (DC)
+3. `Uppidy <../uppidy-washington-dc.html>`_ (DC)
+4. `AgilityFeat <../agilityfeat-charlottesville-va.html>`_ (Charlottesville)
 5. `WillowTree Apps <../willowtree-apps-charlottesville-va.html>`_
+   (Charlottesville)
+6. mSchool (New Orleans)
+7. 4.0 Schools (New Orleans)
+8. Work for Pie (Memphis)
+9. Seed Hatchery (Memphis)
+10. The Common Desk (Dallas)
+11. `The Gravity Center <../gravity-center-dallas-tx.html>`_ (Dallas)
+12. Tech Wildcatters (Dallas)
+13. Continuum Analytics (Austin)
+14. CopperEgg (Austin)
+15. Capital Factory (Austin)
 
-I am working on posts for 
-`mSchool <http://www.mschools.org/>`_, `4.0 Schools <http://4pt0.org/>`_,
-and `Work for Pie <https://workforpie.com/>`_ with many more posts within 
-the coming weeks.
+Organizations without links are ones I am still working to put up. 
+I also write a range of other posts on the general entrepreneurship and 
+tech scenes in each city I visit.
 
 
 Why Participate?
 ----------------
-Holding up individuals doing amazing work everywhere in the United States
-can inspire others. Most of the technology press focuses on what happens
-in Silicon Valley, but there are fascinating stories in every city - yours
-included. 
+By holding up individuals and organizations doing amazing work we can
+inspire others to take interest in their own communities.
+Most of the technology press focuses on innovation happening in 
+Silicon Valley, but there are fascinating stories in every city.
 
 For about an hour of your time I can gather enough information and
 tell your story. It's good press for your organization and your city, 
@@ -77,6 +87,9 @@ on your interests.
 
 We do not talk about proprietary data. Our discussions are generally on 
 the detail level of a tech meetup or a conference presentation.
+
+I don't charge for the write ups. I'm self-funded through remote consulting
+work and my own savings.
 
 
 Who Are You?

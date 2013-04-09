@@ -1,5 +1,5 @@
-Charlotte to NOLA
-=================
+Charlotte to New Orleans
+========================
 
 :category: post
 :date: 2013-03-18

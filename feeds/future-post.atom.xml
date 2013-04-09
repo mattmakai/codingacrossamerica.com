@@ -1,25 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-11T00:00:00-04:00</updated><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>My Thoughts At One Month In</title><link href="http://www.codingacrossamerica.com/my-thoughts-one-month-in.html" rel="alternate"></link><updated>2013-04-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-09:my-thoughts-one-month-in.html</id><summary type="html">&lt;p&gt;I have been on the road for one month today. Twenty percent of my time and
-cities are behind me. Now is a good time to give my initial thoughts.&lt;/p&gt;
-&lt;p&gt;I can't pick one specific high. In no particular order, one high was
-New Orleans Entrepreneurship Week was amazing, including working with the
-&lt;a class="reference external" href="../noew-ideacorps-pitch-challenge.html"&gt;MBA teams&lt;/a&gt;
-and hanging around the IdeaVillage and 4.0 Schools spaces.&lt;/p&gt;
-&lt;p&gt;Three main themes are consistenly popping up so far.&lt;/p&gt;
+cities are behind me. I have driven just over 2600 miles according to my
+aggregated daily mileage totals. Now is a good time to jot down my initial
+thoughts and paint some broad themes from what I've seen firsthand.&lt;/p&gt;
+&lt;p&gt;But first, I am often asked &amp;quot;what's been your favorite part of your trip?&amp;quot;
+I can't pick one specific high. In no particular order, my New Orleans
+favorite was working with the
+&lt;a class="reference external" href="../noew-ideacorps-pitch-challenge.html"&gt;MBA teams&lt;/a&gt; at
+New Orleans Entrepreneurship Week, as well as and hanging around the
+&lt;a class="reference external" href="http://ideavillage.org/"&gt;IdeaVillage&lt;/a&gt; and
+&lt;a class="reference external" href="http://4pt0.org/"&gt;4.0 Schools&lt;/a&gt; spaces. My Memphis favorite was spending
+my first time in the city going out to dinner and drinks with
+&lt;a class="reference external" href="http://www.seedhatchery.com/"&gt;Seed Hatchery&lt;/a&gt;. Speaking to a great group
+at &lt;a class="reference external" href="http://mempy.org/march-25-2013.html"&gt;MemPy&lt;/a&gt; and talking to
+&lt;a class="reference external" href="https://workforpie.com/"&gt;Work for Pie&lt;/a&gt; is up there as well.
+Austin was just beyond any expectations for what I was hoping for. I loved
+every minute I was in that city.&lt;/p&gt;
+&lt;p&gt;The biggest low so far was driving out of Austin on Sunday afternoon. That
+was a difficult day. But I made it to Lubbock and now I've had some time
+to reflect on my previous six cities.&lt;/p&gt;
+&lt;p&gt;Here are three themes consistenly appearing so far:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;Generosity and openness of software developers, entrepreneurs, community
-builders in each city&lt;/li&gt;
-&lt;li&gt;Ad hoc intercity connections&lt;/li&gt;
-&lt;li&gt;Lack of normalcy of startup entrepreneurship&lt;/li&gt;
+&lt;li&gt;Startup communities are generous and open&lt;/li&gt;
+&lt;li&gt;Intercity connections are ad hoc and arbitrary&lt;/li&gt;
+&lt;li&gt;Startup entrepreneurship is a long way from being a &amp;quot;normal&amp;quot; thing to do&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class="section" id="generosity-and-openness"&gt;
-&lt;h2&gt;Generosity and Openness&lt;/h2&gt;
+&lt;div class="section" id="startup-community-generosity"&gt;
+&lt;h2&gt;Startup Community Generosity&lt;/h2&gt;
+&lt;p&gt;The startup communities for most of my destinations, particularly New Orleans,
+Memphis, Dallas, and Austin, have been very generous and open about their
+cities. I'm amazed by the amount of time startups, accelerators, incubators,
+co-working spaces, and independent developers have been willing to spend with
+me to explain not only their own ventures but their cities in general.
+Everyone has also been extremely forthcoming about what weaknesses they
+perceive in their respective locations.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="intercity-connections"&gt;
 &lt;h2&gt;Intercity Connections&lt;/h2&gt;
+&lt;p&gt;Connections between entrepreneurs and software developers between cities
+are ad hoc and arbitrary. There is a tremendous amount of knowledge sharing
+that could benefit entrepreneurs and developers that is not currently taking
+place.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="entrepreneurship-normalcy"&gt;
 &lt;h2&gt;Entrepreneurship Normalcy&lt;/h2&gt;
+&lt;p&gt;Entrepreneurship, even in the technology industry, is a long way from being
+the &amp;quot;normal&amp;quot; thing to do. We have a long uphill climb before a majority of
+software developers start their own companies or join early stage ventures.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked this post you should email me at &lt;a class="reference external" href="mailto:matthew.makai&amp;#64;gmail.com"&gt;matthew.makai&amp;#64;gmail.com&lt;/a&gt; and
+let me know what I should elaborate on further.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Tech Wildcatters</title><link href="http://www.codingacrossamerica.com/tech-wildcatters-dallas-tx.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:tech-wildcatters-dallas-tx.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://techwildcatters.com/"&gt;Tech Wildcatters&lt;/a&gt; is a Dallas-based startup
 accelerator focused on early stage business-to-business (B2B) companies.&lt;/p&gt;

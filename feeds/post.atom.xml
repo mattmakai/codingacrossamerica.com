@@ -128,7 +128,7 @@ getting everything arranged months in advance,
 &lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas Starnes&lt;/a&gt; for the
 introduction, and the Memphis Python community for having me in town!&lt;/p&gt;
 &lt;p&gt;I will post pictures from the event as soon as I get them from Douglas.&lt;/p&gt;
-</summary></entry><entry><title>Heading to Memphis</title><link href="http://www.codingacrossamerica.com/heading-to-memphis.html" rel="alternate"></link><updated>2013-03-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-24:heading-to-memphis.html</id><summary type="html">&lt;p&gt;After a fantastic week in New Orleans, I'm heading up to Memphis,
+</summary></entry><entry><title>New Orleans to Memphis</title><link href="http://www.codingacrossamerica.com/heading-to-memphis.html" rel="alternate"></link><updated>2013-03-24T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-24:heading-to-memphis.html</id><summary type="html">&lt;p&gt;After a fantastic week in New Orleans, I'm heading up to Memphis,
 Tennessee for a four day visit.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/60Yjo"&gt;&lt;img alt="The drive from New Orleans, LA to Memphis, TN." src="../img/130324-heading-to-memphis/nola-to-memphis.jpg" /&gt;&lt;/a&gt;
 &lt;p&gt;The drive from New Orleans, LA to Memphis, TN.&lt;/p&gt;
@@ -489,7 +489,7 @@ entrepreneurial subjects.&lt;/p&gt;
 the conference often has a dearth of that expertise. I am also talking to
 as many New Orleans natives to find out more about their experiences in
 entrepreneurship here.&lt;/p&gt;
-</summary></entry><entry><title>Charlotte to NOLA</title><link href="http://www.codingacrossamerica.com/charlotte-to-new-orleans.html" rel="alternate"></link><updated>2013-03-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-18:charlotte-to-new-orleans.html</id><summary type="html">&lt;p&gt;Several days of catching up with friends and writing in Charlotte
+</summary></entry><entry><title>Charlotte to New Orleans</title><link href="http://www.codingacrossamerica.com/charlotte-to-new-orleans.html" rel="alternate"></link><updated>2013-03-18T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-18:charlotte-to-new-orleans.html</id><summary type="html">&lt;p&gt;Several days of catching up with friends and writing in Charlotte
 gives way for a week in New Orleans.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/dmr1S"&gt;&lt;img alt="The drive from Charlotte, NC to New Orleans, LA" src="../img/130318-charlotte-to-nola/charlotte-to-nola.jpg" /&gt;&lt;/a&gt;
 &lt;p&gt;The drive from Charlotte, NC to New Orleans, LA&lt;/p&gt;
@@ -736,31 +736,41 @@ the most frequently asked questions.&lt;/p&gt;
 &lt;div class="section" id="what-is-coding-across-america"&gt;
 &lt;h2&gt;What is Coding Across America?&lt;/h2&gt;
 &lt;p&gt;Coding Across America is a five month road trip from March until August 2013
-to tell stories about people solving problems using software. I am
+to tell stories of people solving interesting problems with software. I am
 traveling to thirty cities to meet with people in both large and small
 organizations.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="who-have-you-already-met-with"&gt;
 &lt;h2&gt;Who Have You Already Met With?&lt;/h2&gt;
-&lt;p&gt;I've already written up several companies:&lt;/p&gt;
+&lt;p&gt;I have met with and written up many organizations in the cities I've visited:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="../human-geo-washington-dc.html"&gt;HumanGeo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="../wisertogether-washington-dc.html"&gt;WiserTogether&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="../agilityfeat-charlottesville-va.html"&gt;AgilityFeat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="../willowtree-apps-charlottesville-va.html"&gt;WillowTree Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../human-geo-washington-dc.html"&gt;HumanGeo&lt;/a&gt; (DC)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../wisertogether-washington-dc.html"&gt;WiserTogether&lt;/a&gt; (DC)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt; (DC)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../agilityfeat-charlottesville-va.html"&gt;AgilityFeat&lt;/a&gt; (Charlottesville)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../willowtree-apps-charlottesville-va.html"&gt;WillowTree Apps&lt;/a&gt;
+(Charlottesville)&lt;/li&gt;
+&lt;li&gt;mSchool (New Orleans)&lt;/li&gt;
+&lt;li&gt;4.0 Schools (New Orleans)&lt;/li&gt;
+&lt;li&gt;Work for Pie (Memphis)&lt;/li&gt;
+&lt;li&gt;Seed Hatchery (Memphis)&lt;/li&gt;
+&lt;li&gt;The Common Desk (Dallas)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../gravity-center-dallas-tx.html"&gt;The Gravity Center&lt;/a&gt; (Dallas)&lt;/li&gt;
+&lt;li&gt;Tech Wildcatters (Dallas)&lt;/li&gt;
+&lt;li&gt;Continuum Analytics (Austin)&lt;/li&gt;
+&lt;li&gt;CopperEgg (Austin)&lt;/li&gt;
+&lt;li&gt;Capital Factory (Austin)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I am working on posts for
-&lt;a class="reference external" href="http://www.mschools.org/"&gt;mSchool&lt;/a&gt;, &lt;a class="reference external" href="http://4pt0.org/"&gt;4.0 Schools&lt;/a&gt;,
-and &lt;a class="reference external" href="https://workforpie.com/"&gt;Work for Pie&lt;/a&gt; with many more posts within
-the coming weeks.&lt;/p&gt;
+&lt;p&gt;Organizations without links are ones I am still working to put up.
+I also write a range of other posts on the general entrepreneurship and
+tech scenes in each city I visit.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="why-participate"&gt;
 &lt;h2&gt;Why Participate?&lt;/h2&gt;
-&lt;p&gt;Holding up individuals doing amazing work everywhere in the United States
-can inspire others. Most of the technology press focuses on what happens
-in Silicon Valley, but there are fascinating stories in every city - yours
-included.&lt;/p&gt;
+&lt;p&gt;By holding up individuals and organizations doing amazing work we can
+inspire others to take interest in their own communities.
+Most of the technology press focuses on innovation happening in
+Silicon Valley, but there are fascinating stories in every city.&lt;/p&gt;
 &lt;p&gt;For about an hour of your time I can gather enough information and
 tell your story. It's good press for your organization and your city,
 especially as this blog gains momentum as I travel through the thirty
@@ -784,6 +794,8 @@ you are working on, such as rewriting or removing specific regulations?&lt;/li&g
 on your interests.&lt;/p&gt;
 &lt;p&gt;We do not talk about proprietary data. Our discussions are generally on
 the detail level of a tech meetup or a conference presentation.&lt;/p&gt;
+&lt;p&gt;I don't charge for the write ups. I'm self-funded through remote consulting
+work and my own savings.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="who-are-you"&gt;
 &lt;h2&gt;Who Are You?&lt;/h2&gt;
