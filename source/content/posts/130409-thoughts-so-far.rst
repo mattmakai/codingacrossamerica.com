@@ -105,8 +105,13 @@ my first time in the city going out to dinner and drinks with
 `Seed Hatchery <http://www.seedhatchery.com/>`_. Speaking to a great group
 at `MemPy <http://mempy.org/march-25-2013.html>`_ and talking to 
 `Work for Pie <https://workforpie.com/>`_ is up there as well. 
-Austin was just beyond any expectations for what I was hoping for. I loved
-every minute I was in that city.
+Austin was just beyond any expectations for what I was hoping for. The
+time I spent at `Continuum Analytics <http://continuum.io/>`_, 
+`CopperEgg <http://copperegg.com/>`_, 
+`OpenCoffee <http://opencoffeeaustin.org/>`_, 
+`Capital Factory <http://capitalfactory.com/>`_ (blog posts for these coming
+soon) was fascinating. No one Austin is 
+`getting Google Fiber <http://www.engadget.com/2013/04/09/google-fiber-rollout-detailed-for-austin-due-mid-2014/>`_.
 
 The biggest low so far was driving out of Austin on Sunday afternoon. That 
 was a difficult day. But I made it to Lubbock and now I've had some time
