@@ -81,11 +81,11 @@ companies or join early stage ventures.
 I do not yet know how to make entrepreneurship open to a larger audience
 without dumbing it down. The answer may lie in education. 
 
-We must educate a wider audience show entrepreneurship is not born through 
-crazy ideas that go off in the mind of brilliant, but rare individuals. 
-Instead, entrepreneurship is a difficult but repeatable process. A process 
-of solving other people's problems by listening to them and meeting their 
-needs while working within your own vision.
+We must educate a wider audience to show that entrepreneurship is not born 
+through crazy ideas that suddenly appear in the minds of brilliant, but 
+rare individuals. Instead, entrepreneurship is a difficult but repeatable 
+process. A process of solving other people's problems by listening to them 
+and meeting their needs while working within your own vision.
 
 Stripping the mystery from entrepreneurship while reinforcing the 
 understanding that is a long, difficult road may help to make it "normal"
@@ -110,7 +110,7 @@ time I spent at `Continuum Analytics <http://continuum.io/>`_,
 `CopperEgg <http://copperegg.com/>`_, 
 `OpenCoffee <http://opencoffeeaustin.org/>`_, 
 `Capital Factory <http://capitalfactory.com/>`_ (blog posts for these coming
-soon) was fascinating. No one Austin is 
+soon) was fascinating. No wonder Austin is 
 `getting Google Fiber <http://www.engadget.com/2013/04/09/google-fiber-rollout-detailed-for-austin-due-mid-2014/>`_.
 
 The biggest low so far was driving out of Austin on Sunday afternoon. That 
