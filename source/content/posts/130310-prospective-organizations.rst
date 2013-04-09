@@ -39,12 +39,13 @@ I have met with and written up many organizations in the cities I've visited:
 7. 4.0 Schools (New Orleans)
 8. Work for Pie (Memphis)
 9. Seed Hatchery (Memphis)
-10. The Common Desk (Dallas)
+10. Startup Texas (Dallas)
 11. `The Gravity Center <../gravity-center-dallas-tx.html>`_ (Dallas)
-12. Tech Wildcatters (Dallas)
-13. Continuum Analytics (Austin)
-14. CopperEgg (Austin)
-15. Capital Factory (Austin)
+12. The Common Desk (Dallas)
+13. Tech Wildcatters (Dallas)
+14. Continuum Analytics (Austin)
+15. CopperEgg (Austin)
+16. Capital Factory (Austin)
 
 Organizations without links are ones I am still working to put up. 
 I also write a range of other posts on the general entrepreneurship and 

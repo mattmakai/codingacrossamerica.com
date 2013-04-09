@@ -1,5 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-07T00:00:00-04:00</updated><entry><title>Austin to Lubbock</title><link href="http://www.codingacrossamerica.com/austin-to-lubbock.html" rel="alternate"></link><updated>2013-04-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-07:austin-to-lubbock.html</id><summary type="html">&lt;p&gt;It is really tough to leave Austin.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-09T00:00:00-04:00</updated><entry><title>A Month of Meeting Startups</title><link href="http://www.codingacrossamerica.com/month-meeting-startups.html" rel="alternate"></link><updated>2013-04-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-09:month-meeting-startups.html</id><summary type="html">&lt;p&gt;I have been on the road for one month meeting with startups, software
+developers, and organizations dedicated to creating a greater entrepreneurial
+ecosystem in the United States.&lt;/p&gt;
+&lt;p&gt;Twenty percent of my time and cities are behind me. I have driven just over
+2600 miles of my projected 10k+ miles according to my aggregated daily mileage
+totals. This post contains my initial thoughts and paints some broad
+themes from what I've seen firsthand so far.&lt;/p&gt;
+&lt;p&gt;During my time in DC, Charlottesville, Charlotte, New Orleans, Memphis,
+Dallas, and Austin I've met with sixteen organizations (see the
+&lt;a class="reference external" href="../to-prospective-organizations.html"&gt;&amp;quot;Who Have You Already Met With?&amp;quot;&lt;/a&gt;
+section) in addition to attending many meetups and hanging out with
+individual software developers.&lt;/p&gt;
+&lt;p&gt;Here are three themes consistently appearing so far:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Startup communities are generous and open&lt;/li&gt;
+&lt;li&gt;Intercity connections are ad hoc and arbitrary&lt;/li&gt;
+&lt;li&gt;Startup entrepreneurship is a long way from being a &amp;quot;normal&amp;quot; thing to do&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="section" id="startup-community-generosity"&gt;
+&lt;h2&gt;Startup Community Generosity&lt;/h2&gt;
+&lt;p&gt;The startup communities for most of my destinations, particularly New Orleans,
+Memphis, Dallas, and Austin, have been very generous and open about their
+cities.&lt;/p&gt;
+&lt;p&gt;I'm amazed by the amount of time that startups, accelerators,
+incubators, co-working spaces, and independent developers have been
+willing to spend with me. We talk for hours about not only their own
+ventures but their cities in general. Everyone has also been extremely
+forthcoming about what weaknesses they perceive in their respective
+locations.&lt;/p&gt;
+&lt;p&gt;There &lt;em&gt;are&lt;/em&gt; weaknesses to each location. Only by being open about them and
+learning from what other cities are doing well can we hope to improve.
+I will lay out in detail both the strengths and weaknesses in a future post.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="intercity-connections"&gt;
+&lt;h2&gt;Intercity Connections&lt;/h2&gt;
+&lt;p&gt;Connections between entrepreneurs and software developers between cities
+are ad hoc and arbitrary. There is a tremendous amount of knowledge sharing
+that could benefit entrepreneurs and developers that is not currently taking
+place.&lt;/p&gt;
+&lt;p&gt;There's an opportunity here to do a better job of connecting entrepreneurs,
+and those running accelerators, incubators, and co-working spaces with
+their counterparts in other cities. Part of the lack of intercity
+connections are being addressed by &lt;a class="reference external" href="http://www.s.co/"&gt;Startup America&lt;/a&gt; and
+its &lt;a class="reference external" href="http://www.s.co/about/champions"&gt;regional champions and summits&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Publications like &lt;a class="reference external" href="http://nibletz.com/"&gt;Nibletz&lt;/a&gt; and
+&lt;a class="reference external" href="http://tech.co/"&gt;Tech Cocktail&lt;/a&gt; will help to spread knowledge. As will
+books such as &lt;a class="reference external" href="http://www.amazon.com/Startup-Communities-Entrepreneurial-Ecosystem-ebook/dp/B008UV826U/ref=tmm_kin_title_0"&gt;Startup Communities&lt;/a&gt;
+by Brad Feld.&lt;/p&gt;
+&lt;p&gt;Conferences that work to be inclusive of other communities like the
+&lt;a class="reference external" href="http://upstart.bizjournals.com/companies/startups/2013/01/17/nibletz-launches-everywhere-else-con.html?page=all"&gt;Everywhere Else Conference&lt;/a&gt;
+(organized by Nibletz) will allow organizers in each city to connect.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="entrepreneurship-normalcy"&gt;
+&lt;h2&gt;Entrepreneurship Normalcy&lt;/h2&gt;
+&lt;p&gt;Entrepreneurship, even in the technology industry, is a long way from being
+the &amp;quot;normal&amp;quot; thing to do. We have a long uphill climb before a majority of
+software developers, designers, marketers, and others start their own
+companies or join early stage ventures.&lt;/p&gt;
+&lt;p&gt;I do not yet know how to make entrepreneurship open to a larger audience
+without dumbing it down. The answer may lie in education.&lt;/p&gt;
+&lt;p&gt;We must educate a wider audience show entrepreneurship is not born through
+crazy ideas that go off in the mind of brilliant, but rare individuals.
+Instead, entrepreneurship is a difficult but repeatable process. A process
+of solving other people's problems by listening to them and meeting their
+needs while working within your own vision.&lt;/p&gt;
+&lt;p&gt;Stripping the mystery from entrepreneurship while reinforcing the
+understanding that is a long, difficult road may help to make it &amp;quot;normal&amp;quot;
+to a wider audience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="highs-and-lows-on-the-road"&gt;
+&lt;h2&gt;Highs and Lows on the Road&lt;/h2&gt;
+&lt;p&gt;I am often asked &amp;quot;what's been your favorite part of your trip?&amp;quot;
+I can't pick one specific high. In no particular order, my New Orleans
+favorite was working with the
+&lt;a class="reference external" href="../noew-ideacorps-pitch-challenge.html"&gt;MBA teams&lt;/a&gt; at
+New Orleans Entrepreneurship Week, as well as and hanging around the
+&lt;a class="reference external" href="http://ideavillage.org/"&gt;IdeaVillage&lt;/a&gt; and
+&lt;a class="reference external" href="http://4pt0.org/"&gt;4.0 Schools&lt;/a&gt; spaces. My Memphis favorite was spending
+my first time in the city going out to dinner and drinks with
+&lt;a class="reference external" href="http://www.seedhatchery.com/"&gt;Seed Hatchery&lt;/a&gt;. Speaking to a great group
+at &lt;a class="reference external" href="http://mempy.org/march-25-2013.html"&gt;MemPy&lt;/a&gt; and talking to
+&lt;a class="reference external" href="https://workforpie.com/"&gt;Work for Pie&lt;/a&gt; is up there as well.
+Austin was just beyond any expectations for what I was hoping for. I loved
+every minute I was in that city.&lt;/p&gt;
+&lt;p&gt;The biggest low so far was driving out of Austin on Sunday afternoon. That
+was a difficult day. But I made it to Lubbock and now I've had some time
+to reflect on my previous six cities. It's wild to think I have another
+four months of this ahead of me.&lt;/p&gt;
+&lt;p&gt;If you liked this post you should email me at &lt;a class="reference external" href="mailto:matthew.makai&amp;#64;gmail.com"&gt;matthew.makai&amp;#64;gmail.com&lt;/a&gt;.
+Let me know what topics I should elaborate on further or if you're
+interested in meeting up in any of the 23 cities I'm traveling to next.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Austin to Lubbock</title><link href="http://www.codingacrossamerica.com/austin-to-lubbock.html" rel="alternate"></link><updated>2013-04-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-07:austin-to-lubbock.html</id><summary type="html">&lt;p&gt;It is really tough to leave Austin.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/xtUPV"&gt;&lt;img alt="The drive from Austin, TX to Lubbock, TX." src="../img/130407-austin-to-lubbock/austin-to-lubbock.jpg" /&gt;&lt;/a&gt;
 &lt;p&gt;The drive from Austin, TX to Lubbock, TX.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -754,8 +846,9 @@ organizations.&lt;/p&gt;
 &lt;li&gt;4.0 Schools (New Orleans)&lt;/li&gt;
 &lt;li&gt;Work for Pie (Memphis)&lt;/li&gt;
 &lt;li&gt;Seed Hatchery (Memphis)&lt;/li&gt;
-&lt;li&gt;The Common Desk (Dallas)&lt;/li&gt;
+&lt;li&gt;Startup Texas (Dallas)&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../gravity-center-dallas-tx.html"&gt;The Gravity Center&lt;/a&gt; (Dallas)&lt;/li&gt;
+&lt;li&gt;The Common Desk (Dallas)&lt;/li&gt;
 &lt;li&gt;Tech Wildcatters (Dallas)&lt;/li&gt;
 &lt;li&gt;Continuum Analytics (Austin)&lt;/li&gt;
 &lt;li&gt;CopperEgg (Austin)&lt;/li&gt;
