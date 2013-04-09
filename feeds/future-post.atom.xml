@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-02T00:00:00-04:00</updated><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-02:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>Tech Wildcatters</title><link href="http://www.codingacrossamerica.com/tech-wildcatters-dallas-tx.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:tech-wildcatters-dallas-tx.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://techwildcatters.com/"&gt;Tech Wildcatters&lt;/a&gt; is a Dallas-based startup
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-11T00:00:00-04:00</updated><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>My Thoughts At One Month In</title><link href="http://www.codingacrossamerica.com/my-thoughts-one-month-in.html" rel="alternate"></link><updated>2013-04-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-09:my-thoughts-one-month-in.html</id><summary type="html">&lt;p&gt;I have been on the road for one month today. Twenty percent of my time and
+cities are behind me. Now is a good time to give my initial thoughts.&lt;/p&gt;
+&lt;p&gt;I can't pick one specific high. In no particular order, one high was
+New Orleans Entrepreneurship Week was amazing, including working with the
+&lt;a class="reference external" href="../noew-ideacorps-pitch-challenge.html"&gt;MBA teams&lt;/a&gt;
+and hanging around the IdeaVillage and 4.0 Schools spaces.&lt;/p&gt;
+&lt;p&gt;Three main themes are consistenly popping up so far.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Generosity and openness of software developers, entrepreneurs, community
+builders in each city&lt;/li&gt;
+&lt;li&gt;Ad hoc intercity connections&lt;/li&gt;
+&lt;li&gt;Lack of normalcy of startup entrepreneurship&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="section" id="generosity-and-openness"&gt;
+&lt;h2&gt;Generosity and Openness&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="intercity-connections"&gt;
+&lt;h2&gt;Intercity Connections&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="entrepreneurship-normalcy"&gt;
+&lt;h2&gt;Entrepreneurship Normalcy&lt;/h2&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Tech Wildcatters</title><link href="http://www.codingacrossamerica.com/tech-wildcatters-dallas-tx.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:tech-wildcatters-dallas-tx.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://techwildcatters.com/"&gt;Tech Wildcatters&lt;/a&gt; is a Dallas-based startup
 accelerator focused on early stage business-to-business (B2B) companies.&lt;/p&gt;
 &lt;img alt="The outside of Tech Wildcatter's space in the Uptown area of Dallas" src="../img/130401-tech-wildcatters/outside.jpg" /&gt;
 &lt;hr class="docutils" /&gt;
@@ -26,8 +48,8 @@ on &lt;a class="reference external" href="http://99designs.com/"&gt;99designs&lt
 with 99designs. Overall I am really happy with how I spent my $299. This post
 will help you avoid some of the rookie mistakes I made so that you get the
 most value out of your experience.&lt;/p&gt;
-</summary></entry><entry><title>Walter Isaacson: Diversity Nutures Entrepreneurship</title><link href="http://www.codingacrossamerica.com/walter-isaacson-diversity-nutures-entrepreneurship.html" rel="alternate"></link><updated>2013-03-19T18:30:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-19:walter-isaacson-diversity-nutures-entrepreneurship.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/WalterIsaacson"&gt;Walter Isaacson&lt;/a&gt;, a New Orleans
-native, spoke yesterday afternoon at the
+</summary></entry><entry><title>Walter Isaacson: Diversity Nutures Entrepreneurship</title><link href="http://www.codingacrossamerica.com/walter-isaacson-diversity-nutures-entrepreneurship.html" rel="alternate"></link><updated>2013-03-18T20:30:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-03-18:walter-isaacson-diversity-nutures-entrepreneurship.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/WalterIsaacson"&gt;Walter Isaacson&lt;/a&gt;, a New Orleans
+native, gave a keynote speech this evening at the
 &lt;a class="reference external" href="http://ideavillage.org/how_it_works/noew/"&gt;New Orleans Entrepreneurship Week (NOEW)&lt;/a&gt;
 keynote. Walter focused on how diversity nutures entrepreneurship and
 provided historical context for the waves of entrepreneurial endeavors since

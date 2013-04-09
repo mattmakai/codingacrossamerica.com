@@ -54,7 +54,9 @@ takes place on the platform.
 .. image:: ../img/130322-ideapitch/full-tulane-team.jpg
   :alt: The Tulane University team.
 
-The Tulane University team.
+The Tulane University team, from left to right: 
+Gustavo Baptista, Kumar Doraijav, Adran Mendez, Heath Gardenhire, 
+David Bode, Erynn Bell, Conor Aucoin.
 
 ----
 
@@ -255,5 +257,9 @@ The Yale University team.
 
 All the business school groups did a great job, especially considering 
 the tight time constraints. The judges will announce the winning team of the
-IdeaPitch competition tonight. I will update this post with the results then.
+IdeaPitch competition tonight. The two winning teams were 
+`Stanford Graduate School of Business <http://www.gsb.stanford.edu/mba>`_ 
+with Education Everytime and 
+`Tuck School of Business at Dartmouth College <http://www.tuck.dartmouth.edu/mba>`_ 
+with The Clothes Line. Congratulations to both teams!
 

@@ -7,7 +7,6 @@ Liz Bird
 `Liz Bird <http://travelingliz.com/>`_
 --------------------------------------
 
-Liz blazed the trail for taking a leave of absence at Excella when she took
-several months off at the end of 2012 to travel Asia. Thanks Liz! You 
-better come back!
+Liz traveled Asia for six months in 2012-2013. She blazed the trail for 
+taking a leave of absence from Excella.
 
