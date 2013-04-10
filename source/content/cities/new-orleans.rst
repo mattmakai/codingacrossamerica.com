@@ -46,6 +46,11 @@ Interesting
   you get up to 35% labor tax credit, non-Louisiana is 25% labor tax credit
 * `Silicon Bayou News <http://siliconbayounews.com/>`_
 
+Articles
+--------
+* `The Big Comeback: Is New Orleans America's Next Great Innovation Hub? <http://www.theatlantic.com/business/archive/2013/04/the-big-comeback-is-new-orleans-americas-next-great-innovation-hub/274591/>`_
+
+
 Meetups
 -------
 * `NOLA Hack Night <http://www.meetup.com/nolahacknight/>`_. Tuesday every week.
