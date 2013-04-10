@@ -1,7 +1,7 @@
 Why Flagstaff, AZ?
 ==================
 
-:category: post
+:category: old-post
 :slug: why-flagstaff-az
 :date: 2012-10-10
 

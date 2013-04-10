@@ -2,7 +2,7 @@ San Diego, CA
 =============
 
 :category: city
-:date: 2013-04-19
+:date: 2013-04-18
 :slug: san-diego-ca
 
 ----
