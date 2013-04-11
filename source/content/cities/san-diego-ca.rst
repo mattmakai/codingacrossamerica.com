@@ -21,9 +21,11 @@ Basic stats
 * Approximate distance driven on trip: `3850 miles <http://goo.gl/maps/jkU0a>`_
 * `Google Maps: San Diego <http://goo.gl/maps/s6W3j>`_
 
-Start Ups
+Companies
 ---------
 * `Slacker Radio <http://www.slacker.com/>`_
+* `Barefoot Solutions <http://www.barefootsolutions.com/>`_. Mobile and web
+  app development.
 
 User Groups
 -----------
