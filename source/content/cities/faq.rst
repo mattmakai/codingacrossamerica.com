@@ -5,9 +5,8 @@ Frequently Asked Questions
 :slug: faq
 
 
-If you have a question that's not answered here, please tweet 
-`@makaimc <http://twitter.com/makaimc>`_ on Twitter with the question and
-#camfaq. Thanks!
+If you have a question that's not answered here, tweet 
+`@mattmakai <http://twitter.com/mattmakai>`_.
 
 ----
 

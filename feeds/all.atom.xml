@@ -932,6 +932,79 @@ scene in Flagstaff.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/zachd1_618/6607825369/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2013-04-11T10:18:54-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, tweet
+&lt;a class="reference external" href="http://twitter.com/mattmakai"&gt;&amp;#64;mattmakai&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="who-are-you"&gt;
+&lt;h2&gt;Who are you?&lt;/h2&gt;
+&lt;p&gt;I'm &lt;a class="reference external" href="http://www.mattmakai.com/pages/about.html"&gt;Matt Makai&lt;/a&gt;, a software
+developer living in Washington, DC. I currently focus on Python/Django
+development and I've also programmed in Java and Objective-C in the past.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="hasn-t-something-like-this-been-done-before"&gt;
+&lt;h2&gt;Hasn't something like this been done before?&lt;/h2&gt;
+&lt;p&gt;I've found a couple of similar examples with
+&lt;a class="reference external" href="http://www.techhumans.com/2012/07/27/interview-with-corey-haines-august-2011/"&gt;Corey Haines's paired programming trip&lt;/a&gt; and
+&lt;a class="reference external" href="http://www.siliconprairienews.com/2012/08/ideamensch-founder-discusses-his-company-48-state-journey-video"&gt;Mario Schulzke's 48 state journey&lt;/a&gt;.
+I never intended to be the first - lots of people have done cross country
+trips. I do plan on spending a lot of time coding, talking to fellow
+developers, and going to technology meet ups in each city though, which
+many people aren't as interested in.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="where-will-you-stay-during-your-trip"&gt;
+&lt;h2&gt;Where will you stay during your trip?&lt;/h2&gt;
+&lt;p&gt;I plan to stay in hotel rooms, use &lt;a class="reference external" href="http://www.airbnb.com/"&gt;Airbnb&lt;/a&gt;
+for some cities, and also stay with friends when possible. Some friends
+have recommended couch surfing, but I need to look into that more
+before I commit to trying it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="how-are-you-paying-for-all-of-this-travel"&gt;
+&lt;h2&gt;How are you paying for all of this travel?&lt;/h2&gt;
+&lt;p&gt;I've been saving money for awhile. I'm a strong believer in saving
+more than you spend so you have the financial freedom to take on
+opportunities such as Coding Across America.&lt;/p&gt;
+&lt;p&gt;I also will not have to pay rent for the months I'm away since my lease will
+be ending at the same time I begin the trip. As anyone who's lived in the
+DC-metro area knows, removing rent eliminates a major financial burden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="what-can-you-learn-about-a-city-in-only-5-10-days"&gt;
+&lt;h2&gt;What can you learn about a city in only 5-10 days?&lt;/h2&gt;
+&lt;p&gt;I think that remains to be seen. Part of the learning process is planning
+the trip, thoroughly researching every city so my time is well spent, and
+contacting the right people who know way more than I do about where they
+live and then asking them questions. Maybe the answer is that it will only
+be superficial knowledge of each destination, but I have a feeling that
+more will come of it than just the surface level answers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="how-will-you-travel-from-one-city-to-the-next"&gt;
+&lt;h2&gt;How will you travel from one city to the next?&lt;/h2&gt;
+&lt;p&gt;I will be driving in my Black 2004
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Honda_S2000"&gt;Honda S2000&lt;/a&gt; with
+everything I own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="everything-you-own-in-a-2-seat-sportscar-really"&gt;
+&lt;h2&gt;Everything you own in a 2-seat sportscar? Really?&lt;/h2&gt;
+&lt;p&gt;Ok, almost everything. I'm getting rid of my only piece of furniture (a bed)
+and I don't have a TV or desktop computer, so that saves a lot of space.
+I'll probably need to keep a box of things at my parents' house though with
+items such as my undergrad and graduate school diplomas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="what-if-this-site-gets-hit-by-slashdot-reddit-etc"&gt;
+&lt;h2&gt;What if this site gets hit by Slashdot, Reddit, etc?&lt;/h2&gt;
+&lt;p&gt;Well, that would be awesome. There shouldn't be a problem since this site is
+static HTML &amp;amp; JavaScript generated with
+&lt;a class="reference external" href="http://pelican.readthedocs.org/en/latest/"&gt;Pelican&lt;/a&gt;. I use Markdown
+and the jinja2 templating system to create the pages. The site is hosted
+on &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, so it &lt;em&gt;should&lt;/em&gt; scale well.&lt;/p&gt;
+&lt;p&gt;PS Thanks Github! Can I visit you guys when I'm in San Francisco?&lt;/p&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>Los Alamos, NM</title><link href="http://www.codingacrossamerica.com/los-alamos-nm.html" rel="alternate"></link><updated>2013-04-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-10:los-alamos-nm.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Los Alamos, New Mexico" src="../img/los-alamos-nm.jpg" style="width: 640px; height: 480px;" /&gt;
 &lt;hr class="docutils" /&gt;
@@ -3102,80 +3175,6 @@ there.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Everyone</title><link href="http://www.codingacrossamerica.com/everyone.html" rel="alternate"></link><updated>2012-12-23T11:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:everyone.html</id><summary type="html">&lt;p&gt;It seems incredibly dangerous to me to go along with what everone else
 is either doing or saing what you should be doing.&lt;/p&gt;
-</summary></entry><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2012-12-23T11:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, please tweet
-&lt;a class="reference external" href="http://twitter.com/makaimc"&gt;&amp;#64;makaimc&lt;/a&gt; on Twitter with the question and
-#camfaq. Thanks!&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="who-are-you"&gt;
-&lt;h2&gt;Who are you?&lt;/h2&gt;
-&lt;p&gt;I'm &lt;a class="reference external" href="http://www.mattmakai.com/pages/about.html"&gt;Matt Makai&lt;/a&gt;, a software
-developer living in Washington, DC. I currently focus on Python/Django
-development and I've also programmed in Java and Objective-C in the past.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="hasn-t-something-like-this-been-done-before"&gt;
-&lt;h2&gt;Hasn't something like this been done before?&lt;/h2&gt;
-&lt;p&gt;I've found a couple of similar examples with
-&lt;a class="reference external" href="http://www.techhumans.com/2012/07/27/interview-with-corey-haines-august-2011/"&gt;Corey Haines's paired programming trip&lt;/a&gt; and
-&lt;a class="reference external" href="http://www.siliconprairienews.com/2012/08/ideamensch-founder-discusses-his-company-48-state-journey-video"&gt;Mario Schulzke's 48 state journey&lt;/a&gt;.
-I never intended to be the first - lots of people have done cross country
-trips. I do plan on spending a lot of time coding, talking to fellow
-developers, and going to technology meet ups in each city though, which
-many people aren't as interested in.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="where-will-you-stay-during-your-trip"&gt;
-&lt;h2&gt;Where will you stay during your trip?&lt;/h2&gt;
-&lt;p&gt;I plan to stay in hotel rooms, use &lt;a class="reference external" href="http://www.airbnb.com/"&gt;Airbnb&lt;/a&gt;
-for some cities, and also stay with friends when possible. Some friends
-have recommended couch surfing, but I need to look into that more
-before I commit to trying it.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="how-are-you-paying-for-all-of-this-travel"&gt;
-&lt;h2&gt;How are you paying for all of this travel?&lt;/h2&gt;
-&lt;p&gt;I've been saving money for awhile. I'm a strong believer in saving
-more than you spend so you have the financial freedom to take on
-opportunities such as Coding Across America.&lt;/p&gt;
-&lt;p&gt;I also will not have to pay rent for the months I'm away since my lease will
-be ending at the same time I begin the trip. As anyone who's lived in the
-DC-metro area knows, removing rent eliminates a major financial burden.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="what-can-you-learn-about-a-city-in-only-5-10-days"&gt;
-&lt;h2&gt;What can you learn about a city in only 5-10 days?&lt;/h2&gt;
-&lt;p&gt;I think that remains to be seen. Part of the learning process is planning
-the trip, thoroughly researching every city so my time is well spent, and
-contacting the right people who know way more than I do about where they
-live and then asking them questions. Maybe the answer is that it will only
-be superficial knowledge of each destination, but I have a feeling that
-more will come of it than just the surface level answers.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="how-will-you-travel-from-one-city-to-the-next"&gt;
-&lt;h2&gt;How will you travel from one city to the next?&lt;/h2&gt;
-&lt;p&gt;I will be driving in my Black 2004
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Honda_S2000"&gt;Honda S2000&lt;/a&gt; with
-everything I own.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="everything-you-own-in-a-2-seat-sportscar-really"&gt;
-&lt;h2&gt;Everything you own in a 2-seat sportscar? Really?&lt;/h2&gt;
-&lt;p&gt;Ok, almost everything. I'm getting rid of my only piece of furniture (a bed)
-and I don't have a TV or desktop computer, so that saves a lot of space.
-I'll probably need to keep a box of things at my parents' house though with
-items such as my undergrad and graduate school diplomas.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="what-if-this-site-gets-hit-by-slashdot-reddit-etc"&gt;
-&lt;h2&gt;What if this site gets hit by Slashdot, Reddit, etc?&lt;/h2&gt;
-&lt;p&gt;Well, that would be awesome. There shouldn't be a problem since this site is
-static HTML &amp;amp; JavaScript generated with
-&lt;a class="reference external" href="http://pelican.readthedocs.org/en/latest/"&gt;Pelican&lt;/a&gt;. I use Markdown
-and the jinja2 templating system to create the pages. The site is hosted
-on &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, so it &lt;em&gt;should&lt;/em&gt; scale well.&lt;/p&gt;
-&lt;p&gt;PS Thanks Github! Can I visit you guys when I'm in San Francisco?&lt;/p&gt;
-&lt;/div&gt;
 </summary></entry><entry><title>Matt Pincombe</title><link href="http://www.codingacrossamerica.com/matt-pincombe.html" rel="alternate"></link><updated>2012-12-23T11:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:matt-pincombe.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
 &lt;h2&gt;&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;Matt Pincombe&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Matt recommended I visit Madison, WI as it fit the profile of

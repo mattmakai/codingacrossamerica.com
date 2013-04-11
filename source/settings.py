@@ -13,9 +13,9 @@ LINKS = (
 )
 
 SOCIAL = (
-    ('Email', 'mailto:makaimc@gmail.com'),
+    ('Email', 'mailto:matthew.makai@gmail.com'),
     ('GitHub', 'https://github.com/makaimc'),
-    ('Twitter', 'http://twitter.com/makaimc'),
+    ('Twitter', 'http://twitter.com/mattmakai'),
 )
 
 PROJECTS = (
