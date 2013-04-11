@@ -2,7 +2,7 @@ Moab, UT
 ========
 
 :category: city
-:date: 2013-04-13
+:date: 2013-04-12
 :slug: moab-ut
 
 ----
@@ -24,7 +24,7 @@ Accomodations
 -------------
 * `Red Cliffs Lodge <http://www.redcliffslodge.com/>`_
 * `Sorrel River Ranch <http://www.sorrelriver.com/>`_
-
+* Camping
 
 Photo Attribution
 -----------------
