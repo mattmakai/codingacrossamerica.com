@@ -6,8 +6,8 @@ New Orleans to Memphis
 :slug: heading-to-memphis
 
 
-After a fantastic week in New Orleans, I'm heading up to Memphis, 
-Tennessee for a four day visit. 
+After a great week in New Orleans, I'm heading up to Memphis, Tennessee 
+for a four day visit. 
 
 .. image:: ../img/130324-heading-to-memphis/nola-to-memphis.jpg
   :alt: The drive from New Orleans, LA to Memphis, TN.
@@ -16,6 +16,7 @@ Tennessee for a four day visit.
 The drive from New Orleans, LA to Memphis, TN.
 
 ----
+
 
 Memphis is destination number four of thirty for Coding Across America.
 
