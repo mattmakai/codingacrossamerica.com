@@ -43,6 +43,16 @@ Companies
 * `Gazette <https://www.ire.org/jobs/job/191/>`_ in Cedar Rapids (2 hrs
   away from Des Moines. Looking for data visualization analyst.
 
+Incubators
+----------
+* `Startup City Des Moines <http://www.startupcitydsm.com/>`_. Run by Tej
+  Dhawan of Startup America.
+
+People
+------
+* `Tej Dhawan <http://www.tejdhawan.com/>`_. Regional champion for Startup
+  America in Iowa.
+
 Restaurants
 -----------
 * `Django <http://www.djangodesmoines.com/>`_. I mean, holy shit. I'm a

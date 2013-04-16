@@ -27,6 +27,16 @@ Meetups
 -------
 * `Boulder Big Data Meetup <http://www.meetup.com/Boulder-Denver-Big-Data/>`_
 
+Organizations
+-------------
+* `Colorado Technology Association <http://www.coloradotechnology.org/>`_
+
+People
+------
+* Ben Abell & `Erik Mitisek <http://www.mitisek.com/>`_ from Startup 
+  Colorado. Spoke on Executing Region Strategy at Startup America Regional 
+  Summit.
+
 References
 ----------
 * `Google Map of Boulder, CO <https://maps.google.com/maps?q=boulder,+co&ie=UTF-8&hq=&hnear=0x876b8d4e278dafd3:0xc8393b7ca01b8058,Boulder,+CO&gl=us&ei=Cf7oT7_nFcTn0QGC5ri-DQ&ved=0CJYBELYD>`_

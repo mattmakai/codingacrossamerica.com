@@ -25,6 +25,11 @@ Coffee Shops
 * `Bourbon Coffee <https://plus.google.com/110572259937268960247/about?gl=us&hl=en>`_ in
   Foggy Bottom near George Washington University.
 
+People
+------
+* `Frank Gruber <http://twitter.com/frankgruber>`_. Tech Cocktail. Recently
+  relocated to Vegas.
+
 Start ups
 ---------
 * `Feastly <http://www.eatfeastly.com/intro/>`_. Python / Django according to `this job posting <http://careers.stackoverflow.com/jobs/25280/cto-feastly?a=tROLNYI&searchTerm=django>`_.
