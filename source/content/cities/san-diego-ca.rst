@@ -34,6 +34,7 @@ User Groups
 Restaurants
 -----------
 * `Solare <http://www.solarelounge.com/>`_
+* `Gaijin <http://gaijinsd.com/>`_
 
 
 Accomodations
