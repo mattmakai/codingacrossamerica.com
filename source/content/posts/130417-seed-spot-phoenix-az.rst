@@ -1,7 +1,7 @@
 Seed Spot
 =========
 
-:date: 2013-04-17
+:date: 2013-04-17 20:45
 :slug: seed-spot-phoenix-az
 :category: post
 :author: Matt Makai

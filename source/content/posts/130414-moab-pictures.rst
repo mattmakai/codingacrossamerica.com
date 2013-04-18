@@ -36,7 +36,9 @@ Wilson Arch south of Moab.
 ----
 
 .. image:: ../img/130414-moab-scenery/cliff-diving.jpg
-  :alt: Cliff diving
+  :alt: Base jumping
+
+Base jumping. Not me with the parachute there.
 
 ----
 
@@ -47,7 +49,7 @@ Wilson Arch south of Moab.
 ----
 
 
-.. image:: ../img/130414-moab-scenery/red-rocks.jpg
+.. image:: ../img/130414-moab-scenery/memorial.jpg
   :alt: Memorial plaque
 
 Memorial plaque for perished mountain bikers.
