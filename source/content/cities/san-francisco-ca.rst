@@ -49,6 +49,7 @@ Start Ups
 * `Betabrand <http://www.betabrand.com/>`_
 * `Toptal <https://www.toptal.com/>`_
 * `Platfora <http://www.platfora.com/>`_. San Mateo.
+* `Tynker <http://www.tynker.com/>`_
 
 Coding
 ------
