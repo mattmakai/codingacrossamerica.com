@@ -18,8 +18,7 @@ CO+HOOTS was started by `Jenny Poon <https://twitter.com/poondingo>`_ about
 three years ago. Before starting her co-working space, Jenny worked on 
 independent graphic design contracts at home. She was bored without social 
 interaction and it negatively impacted her design creativity. Jenny got a 
-group of fellow graphic designers and other interested parties together 
-and started CO+HOOTS.
+group of fellow entrepreneurs and started CO+HOOTS.
 
 
 .. image:: ../img/130417-co-hoots-phoenix-az/co-hoots-location.jpg
