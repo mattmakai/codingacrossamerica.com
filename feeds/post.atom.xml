@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-18T12:05:00-04:00</updated><entry><title>Misto Box</title><link href="http://www.codingacrossamerica.com/misto-box-phoenix-az.html" rel="alternate"></link><updated>2013-04-18T12:05:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-18:misto-box-phoenix-az.html</id><summary type="html">&lt;p&gt;Misto Box is a curated coffee delivery subscription service based in Phoenix,
-Arizona.&lt;/p&gt;
-&lt;img alt="Misto Box logo on an item in their office" src="../img/130418-misto-box-phoenix-az/misto-box-logo.jpg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-18T12:30:00-04:00</updated><entry><title>Phoenix to San Diego</title><link href="http://www.codingacrossamerica.com/phoenix-to-san-diego.html" rel="alternate"></link><updated>2013-04-18T12:30:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-18:phoenix-to-san-diego.html</id><summary type="html">&lt;p&gt;I'm driving to San Diego after my morning meeting with MistoBox.&lt;/p&gt;
+&lt;a class="reference external image-reference" href="http://goo.gl/maps/WNFqs"&gt;&lt;img alt="The drive from Phoenix, AZ to San Diego, CA." src="../img/130418-phoenix-to-san-diego/phoenix-to-san-diego.jpg" /&gt;&lt;/a&gt;
+&lt;p&gt;The drive from Phoenix to San Diego.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;Misto Box started as a University of Arizona Entrepreneurship Program project
+&lt;p&gt;In San Diego I will be attending the San Diego Python Users Group
+&lt;a class="reference external" href="http://www.meetup.com/pythonsd/events/107826712/"&gt;April meetup&lt;/a&gt; and
+meet with local startups and co-working spaces.&lt;/p&gt;
+&lt;p&gt;Phoenix is destination number eleven of thirty for Coding Across America.&lt;/p&gt;
+</summary></entry><entry><title>MistoBox</title><link href="http://www.codingacrossamerica.com/misto-box-phoenix-az.html" rel="alternate"></link><updated>2013-04-18T12:05:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-18:misto-box-phoenix-az.html</id><summary type="html">&lt;p&gt;MistoBox is a curated coffee delivery subscription service based in Phoenix,
+Arizona.&lt;/p&gt;
+&lt;img alt="MistoBox logo on an item in their office" src="../img/130418-misto-box-phoenix-az/misto-box-logo.jpg" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;MistoBox started as a University of Arizona Entrepreneurship Program project
 during the founders' senior years. The founders, Samantha Meis and Connor
 Riley, launched a successful
 &lt;a class="reference external" href="http://www.kickstarter.com/projects/mistobox/mistobox-delivering-delicious-micro-roasted-coffee"&gt;Kickstarter project&lt;/a&gt;
 in 2012 to obtain the initial funding for their business. Upon
 graduation, Samantha and Connor had to make a decision whether to get
 plain old jobs or continue building their business.&lt;/p&gt;
-&lt;p&gt;Sam and Connor fortunately chose to carry Misto Box forward. In fact, they
+&lt;p&gt;Sam and Connor fortunately chose to carry MistoBox forward. In fact, they
 just hired their first employee.&lt;/p&gt;
-&lt;img alt="Misto Box's founders, Samantha Meis and Connor Riley" src="../img/130418-misto-box-phoenix-az/misto-box-founders.jpg" /&gt;
+&lt;img alt="MistoBox's founders, Samantha Meis and Connor Riley" src="../img/130418-misto-box-phoenix-az/misto-box-founders.jpg" /&gt;
 &lt;p&gt;Connor and Samantha hard at work.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;Misto Box works out of the &amp;quot;warehouse district&amp;quot; area of downtown Phoenix.
+&lt;p&gt;MistoBox works out of the &amp;quot;warehouse district&amp;quot; area of downtown Phoenix.
 Their offices are right next to another Phoenix startup,
 &lt;a class="reference external" href="http://www.webpt.com/"&gt;WebPT&lt;/a&gt;, and a short walk from the DiamondBacks
 stadium.&lt;/p&gt;
-&lt;img alt="Entrance to the renovated warehouse where Misto Box currently works" src="../img/130418-misto-box-phoenix-az/warehouse-entrance.jpg" /&gt;
-&lt;p&gt;The entrance to the renovated warehouse where Misto Box currently works.&lt;/p&gt;
+&lt;img alt="Entrance to the renovated warehouse where MistoBox currently works" src="../img/130418-misto-box-phoenix-az/warehouse-entrance.jpg" /&gt;
+&lt;p&gt;The entrance to the renovated warehouse where MistoBox currently works.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;img alt="Interior of one of the warehouses" src="../img/130418-misto-box-phoenix-az/warehouse.jpg" /&gt;
 &lt;p&gt;Interior of one of the warehouses.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;Samantha gave a quick introduction to Misto Box on the final morning of
+&lt;p&gt;Samantha gave a quick introduction to MistoBox on the final morning of
 the Startup America Regional Summit. Everyone in the room was impressed
 by what Samantha and Connor have already accomplished. It's hard not to
 cheer for these guys. They are a great part of the small but thriving
@@ -33,7 +41,7 @@ entrepreneurial culture in Phoenix.&lt;/p&gt;
 &lt;img alt="Samantha speaking during Startup America Regional Summit breakfast." src="../img/130418-misto-box-phoenix-az/sam-connor-startup-america-summit.jpg" /&gt;
 &lt;p&gt;Samantha speaking at the Startup America Regional Summit breakfast.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;For more information about &lt;a class="reference external" href="http://www.mistobox.com/"&gt;Misto Box&lt;/a&gt;, check
+&lt;p&gt;For more information about &lt;a class="reference external" href="http://www.mistobox.com/"&gt;MistoBox&lt;/a&gt;, check
 out these articles on
 &lt;a class="reference external" href="http://techcrunch.com/2012/09/03/mistobox-wants-to-boost-your-morning-cup-of-joe-with-the-birchbox-of-coffee/"&gt;TechCrunch&lt;/a&gt;
 and
