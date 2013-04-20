@@ -27,4 +27,23 @@ getting everything arranged months in advance,
 `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_ for the
 introduction, and the Memphis Python community for having me in town!
 
-I will post pictures from the event as soon as I get them from Douglas.
+Here are a few pictures from the event, thanks for taking them Douglas!
+
+.. image:: ../img/130327-mempy/matt-makai-mempy-talk.jpg
+  :alt: Picture of Matt Makai setting up for MemPy talk
+
+Setting up for my talk. I promise I don't always look this serious.
+
+----
+
+
+.. image:: ../img/130327-mempy/matt-makai-mempy-talk-2.jpg
+  :alt: Picture of Matt Makai during MemPy talk
+
+----
+
+.. image:: ../img/130327-mempy/matt-makai-mempy-audience.jpg
+  :alt: Snapshot of the crowd from MemPy March meetup
+
+
+
