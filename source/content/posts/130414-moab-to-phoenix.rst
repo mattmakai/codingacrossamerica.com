@@ -7,7 +7,7 @@ Moab to Phoenix
 
 I'm heading down to Phoenix after camping in Moab for the weekend.
 
-.. image:: ../img/130412-los-alamos-to-moab/los-alamos-to-moab.jpg
+.. image:: ../img/130414-moab-to-phoenix/moab-to-phoenix.jpg
   :alt: The drive from Moab, UT to Phoenix, AZ.
   :target: http://goo.gl/maps/BcjAV
 
