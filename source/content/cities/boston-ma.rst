@@ -23,6 +23,8 @@ Companies
 ---------
 * `US Green Data <http://www.usgreendata.com/>`_. Also relevant:
   `Job posting <http://careers.stackoverflow.com/jobs/27047/clean-tech-web-developer-django-python-to-u-s-green-data>`_
+* `Digitas <http://www.digitas.com/>`_. 
+  `Python job posting <http://jobs.pythonweekly.com/jobs/senior-python-developer-3/>`_.
 
 
 Users Groups

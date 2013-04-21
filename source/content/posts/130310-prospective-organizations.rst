@@ -46,6 +46,11 @@ I have met with and written up many organizations in the cities I've visited:
 14. Continuum Analytics (Austin)
 15. CopperEgg (Austin)
 16. Capital Factory (Austin)
+17. Startup America - Regional Summit (Phoenix)
+18. `Seed Spot <../seed-spot-phoenix-az.html>`_ (Phoenix)
+19. `CO+HOOTS <../co-hoots-phoenix-az.html>`_ (Phoenix)
+20. `MistoBox <../misto-box-phoenix-az.html>`_ (Phoenix)
+
 
 Organizations without links are ones I am still working to put up. 
 I also write a range of other posts on the general entrepreneurship and 
