@@ -805,10 +805,17 @@ products and services. Strategy, UI, and marketing.&lt;/li&gt;
 bit of information.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div class="section" id="accelerators-incubators"&gt;
+&lt;h2&gt;Accelerators/Incubators&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://launchpad.la/"&gt;Launchpad LA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amplify.la/"&gt;Amplify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div class="section" id="conferences"&gt;
 &lt;h2&gt;Conferences&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://max.adobe.com/"&gt;Adobe MAX&lt;/a&gt;. May 4-8. Registering for this.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://max.adobe.com/"&gt;Adobe MAX&lt;/a&gt;. May 4-8. Going to this conference.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="python-django"&gt;
@@ -816,8 +823,7 @@ bit of information.&lt;/li&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/ladjango/"&gt;LA Django&lt;/a&gt;. Tech meetup group gets
 together every third Tuesday of every month.&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/Orange-County-CA-Python-User-Group/events/66108162/"&gt;Orange Country Python Users Group&lt;/a&gt;. April 30th meet up coincides with when
-I'll be in the area. Marking down my attendance for that session.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/Orange-County-CA-Python-User-Group/events/66108162/"&gt;Orange Country Python Users Group&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="restaurants"&gt;
@@ -842,22 +848,59 @@ for its Mexican food and happy hour.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/14931645&amp;#64;N04/6926115530/"&gt;Flickr Creative Commons License Source Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Antengo</title><link href="http://www.codingacrossamerica.com/antengo-san-diego-ca.html" rel="alternate"></link><updated>2013-04-23T18:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-23:antengo-san-diego-ca.html</id><summary type="html">&lt;p&gt;Antengo is a location-based classifieds mobile app startup located in
+</summary></entry><entry><title>Antengo</title><link href="http://www.codingacrossamerica.com/antengo-san-diego-ca.html" rel="alternate"></link><updated>2013-04-23T18:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-23:antengo-san-diego-ca.html</id><summary type="html">&lt;p&gt;Antengo is a location-based classified ads mobile app startup located in
 San Diego, California.&lt;/p&gt;
 &lt;img alt="Antengo logo on one of their posters in the office" src="../img/130423-antengo-san-diego-ca/antengo-logo.jpg" /&gt;
 &lt;p&gt;Antengo logo in their office.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;In July 2010, Marcus Wandell (&lt;a class="reference external" href="https://twitter.com/antceo"&gt;&amp;#64;antceo&lt;/a&gt;) and
-Hunter Jensen launched their mobile app as Anttenna. They rebranded to Antengo
-a few months later in September 2010.&lt;/p&gt;
+Hunter Jensen launched their mobile app called &amp;quot;Anttenna.&amp;quot; They relaunched and
+rebranded to Antengo a few months later in September 2010.&lt;/p&gt;
+&lt;p&gt;Antengo is a mobile-first company, meaning they design and implement their
+product to have a full experience on a mobile phone through their app. Some
+alternative products, such as Craigslist, were originally designed for the
+web and are therefore less convenient to use on mobile phones.&lt;/p&gt;
 &lt;div class="section" id="technology"&gt;
 &lt;h2&gt;Technology&lt;/h2&gt;
-&lt;p&gt;Antengo has native apps for both &lt;a class="reference external" href="https://itunes.apple.com/us/app/antengo-classifieds-auto-post/id355980778?mt=8"&gt;iOS&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://antengo.com/"&gt;Antengo&lt;/a&gt; has native apps for both
+&lt;a class="reference external" href="https://itunes.apple.com/us/app/antengo-classifieds-auto-post/id355980778?mt=8"&gt;iOS&lt;/a&gt;
 and &lt;a class="reference external" href="https://play.google.com/store/apps/details?id=com.antengo.activities&amp;amp;hl=en"&gt;Android&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The backend services are built in PHP&lt;/p&gt;
+&lt;p&gt;The backend services running on remote servers that store data and interact
+with the mobile apps are built in PHP.&lt;/p&gt;
 &lt;img alt="Matthew Wilberger rocking the Antengo Ant Head" src="../img/130423-antengo-san-diego-ca/matthew-wilberger-ant-head.jpg" /&gt;
 &lt;p&gt;Matthew Wilberger (&lt;a class="reference external" href="https://twitter.com/mjwsd"&gt;&amp;#64;mjwsd&lt;/a&gt;) rocking the
 Antengo Ant Head.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="team"&gt;
+&lt;h2&gt;Team&lt;/h2&gt;
+&lt;p&gt;In 2010, Marcus Wendell discussed his idea for a mobile-first classified ads
+startup with Hunter Jensen, founder of
+&lt;a class="reference external" href="http://www.barefootsolutions.com/"&gt;Barefoot Solutions&lt;/a&gt;. Hunter had
+prior interest in classified ad services having worked on
+&lt;a class="reference external" href="http://www.uloop.com/"&gt;ULoop&lt;/a&gt; and
+&lt;a class="reference external" href="http://www.barefootstudent.com/"&gt;Barefoot Student&lt;/a&gt;. He agreed to
+help Marcus build the app that became Antengo in exchange for equity.&lt;/p&gt;
+&lt;img alt="Antengo founders and a couple of members of their team" src="../img/130423-antengo-san-diego-ca/antengo-team.jpg" /&gt;
+&lt;p&gt;Part of the Antengo team, from left to right,
+Matthew Wilberger (marketing), Marcus Wandell (founder), Hunter
+Jensen (founder), and Kiet Lam (Android and PHP development).&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Antengo is one of several companies based out of the EvoNexus incubator
+in downtown San Diego, which is partially funded by the city. It's great to
+see free office space offered to qualifying startups since their capital is
+limited and should primarily be spent on building a great team.&lt;/p&gt;
+&lt;img alt="Antengo team in their office space" src="../img/130423-antengo-san-diego-ca/antengo-space.jpg" /&gt;
+&lt;p&gt;The Antengo team at work in their corner of the EvoNexus space in downtown
+San Diego.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Check out Antengo's location-based mobile apps in the Google Play and Apple
+App Stores. You can also find out more information
+about these guys in these articles on
+&lt;a class="reference external" href="http://tech.co/last-minute-discount-gifts-antengo-2011-12"&gt;TechCocktail&lt;/a&gt;,
+&lt;a class="reference external" href="http://techcrunch.com/2011/12/12/backed-by-angels-antengo-takes-on-craigslist-with-realtime-mobile-classifieds/"&gt;TechCrunch&lt;/a&gt;,
+and
+&lt;a class="reference external" href="http://www.xconomy.com/san-diego/2012/11/26/san-diegos-antengo-marching-to-next-round-in-mobile-classified-ads/"&gt;Xconomy&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>EvoNexus</title><link href="http://www.codingacrossamerica.com/evonexus.html" rel="alternate"></link><updated>2013-04-23T14:50:04-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-23:evonexus.html</id><summary type="html"></summary></entry><entry><title>Add Kansas City, Missouri</title><link href="http://www.codingacrossamerica.com/add-kansas-city-missouri.html" rel="alternate"></link><updated>2013-04-23T14:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-23:add-kansas-city-missouri.html</id><summary type="html">&lt;p&gt;I'm officially adding Kansas City, Missouri to my destinations list.&lt;/p&gt;
 &lt;img alt="Kansas City, Missouri downtown" src="../img/130423-add-kansas-city-mo/kansas-city-downtown.jpg" /&gt;

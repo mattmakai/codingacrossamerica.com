@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-23T18:00:00-04:00</updated><entry><title>Antengo</title><link href="http://www.codingacrossamerica.com/antengo-san-diego-ca.html" rel="alternate"></link><updated>2013-04-23T18:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-23:antengo-san-diego-ca.html</id><summary type="html">&lt;p&gt;Antengo is a location-based classifieds mobile app startup located in
-San Diego, California.&lt;/p&gt;
-&lt;img alt="Antengo logo on one of their posters in the office" src="../img/130423-antengo-san-diego-ca/antengo-logo.jpg" /&gt;
-&lt;p&gt;Antengo logo in their office.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;p&gt;In July 2010, Marcus Wandell (&lt;a class="reference external" href="https://twitter.com/antceo"&gt;&amp;#64;antceo&lt;/a&gt;) and
-Hunter Jensen launched their mobile app as Anttenna. They rebranded to Antengo
-a few months later in September 2010.&lt;/p&gt;
-&lt;div class="section" id="technology"&gt;
-&lt;h2&gt;Technology&lt;/h2&gt;
-&lt;p&gt;Antengo has native apps for both &lt;a class="reference external" href="https://itunes.apple.com/us/app/antengo-classifieds-auto-post/id355980778?mt=8"&gt;iOS&lt;/a&gt;
-and &lt;a class="reference external" href="https://play.google.com/store/apps/details?id=com.antengo.activities&amp;amp;hl=en"&gt;Android&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The backend services are built in PHP&lt;/p&gt;
-&lt;img alt="Matthew Wilberger rocking the Antengo Ant Head" src="../img/130423-antengo-san-diego-ca/matthew-wilberger-ant-head.jpg" /&gt;
-&lt;p&gt;Matthew Wilberger (&lt;a class="reference external" href="https://twitter.com/mjwsd"&gt;&amp;#64;mjwsd&lt;/a&gt;) rocking the
-Antengo Ant Head.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>Tech Wildcatters</title><link href="http://www.codingacrossamerica.com/tech-wildcatters-dallas-tx.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:tech-wildcatters-dallas-tx.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://techwildcatters.com/"&gt;Tech Wildcatters&lt;/a&gt; is a Dallas-based startup
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/future-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-11T00:00:00-04:00</updated><entry><title>The New "Grad School"</title><link href="http://www.codingacrossamerica.com/new-grad-school.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:new-grad-school.html</id><summary type="html"></summary></entry><entry><title>Tech Wildcatters</title><link href="http://www.codingacrossamerica.com/tech-wildcatters-dallas-tx.html" rel="alternate"></link><updated>2013-04-01T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-01:tech-wildcatters-dallas-tx.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://techwildcatters.com/"&gt;Tech Wildcatters&lt;/a&gt; is a Dallas-based startup
 accelerator focused on early stage business-to-business (B2B) companies.&lt;/p&gt;
 &lt;img alt="The outside of Tech Wildcatter's space in the Uptown area of Dallas" src="../img/130401-tech-wildcatters/outside.jpg" /&gt;
 &lt;hr class="docutils" /&gt;

@@ -19,22 +19,32 @@ Basic stats
 * Approximate distance driven on trip: `4000 miles <http://goo.gl/maps/tMajn>`_
 * `Google Maps: Los Angeles <http://goo.gl/maps/8VDL1>`_
 
+
 Start Ups
 ---------
 * `Los Angeles Startups Twitter account <https://twitter.com/LA_Startups>`_
 * `Business Insider on LA startup scene <http://www.businessinsider.com/los-angeles-tech-startups-2012-9>`_. Taken with a grain of salt but might have useful
   bit of information.
 
+
+Accelerators/Incubators
+-----------------------
+* `Launchpad LA <http://launchpad.la/>`_
+* `Amplify <http://www.amplify.la/>`_
+
+
 Conferences
 -----------
-* `Adobe MAX <http://max.adobe.com/>`_. May 4-8. Registering for this.
+* `Adobe MAX <http://max.adobe.com/>`_. May 4-8. Going to this conference.
+
+
 
 Python/Django
 -------------
 * `LA Django <http://www.meetup.com/ladjango/>`_. Tech meetup group gets
   together every third Tuesday of every month.
-* `Orange Country Python Users Group <http://www.meetup.com/Orange-County-CA-Python-User-Group/events/66108162/>`_. April 30th meet up coincides with when 
-  I'll be in the area. Marking down my attendance for that session.
+* `Orange Country Python Users Group <http://www.meetup.com/Orange-County-CA-Python-User-Group/events/66108162/>`_. 
+
 
 Restaurants
 -----------
@@ -44,3 +54,4 @@ Restaurants
 Photo Attribution
 -----------------
 * `Flickr Creative Commons License Source Link <http://www.flickr.com/photos/feculent_fugue/6190964798/>`_
+
