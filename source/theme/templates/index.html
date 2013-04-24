@@ -10,7 +10,7 @@
           <div class="blog-post">
             <h3><a href="{{ article.slug }}.html">{{ article.title }}</a></h3>
             {% set post_count = post_count + 1 %}
-            {{ article.content|truncate(350) }} 
+            {{ article.content|truncate(400) }} 
             (<a href="{{ article.slug }}.html">read more</a>)
           </div>
         {% endif %}

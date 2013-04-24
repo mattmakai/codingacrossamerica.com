@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-18T12:30:00-04:00</updated><entry><title>Phoenix to San Diego</title><link href="http://www.codingacrossamerica.com/phoenix-to-san-diego.html" rel="alternate"></link><updated>2013-04-18T12:30:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-18:phoenix-to-san-diego.html</id><summary type="html">&lt;p&gt;I'm driving to San Diego after my morning meeting with MistoBox.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-04-23T14:00:00-04:00</updated><entry><title>Add Kansas City, Missouri</title><link href="http://www.codingacrossamerica.com/add-kansas-city-missouri.html" rel="alternate"></link><updated>2013-04-23T14:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-23:add-kansas-city-missouri.html</id><summary type="html">&lt;p&gt;I'm officially adding Kansas City, Missouri to my destinations list.&lt;/p&gt;
+&lt;img alt="Kansas City, Missouri downtown" src="../img/130423-add-kansas-city-mo/kansas-city-downtown.jpg" /&gt;
+&lt;p&gt;A picture of downtown Kansas City I took while in town last summer.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;I will be in KC from Tuesday, June 25 through Thursday, June 27 with the
+option to add an extra day before or afterwards.&lt;/p&gt;
+&lt;div class="section" id="what-s-in-kansas-city"&gt;
+&lt;h2&gt;What's in Kansas City?&lt;/h2&gt;
+&lt;p&gt;Quite a bit even without taking into consideration the
+excitement over the &lt;a class="reference external" href="https://fiber.google.com/"&gt;Google Fiber&lt;/a&gt; rollout.&lt;/p&gt;
+&lt;p&gt;I'll be meeting with Luke Norris
+(&lt;a class="reference external" href="https://twitter.com/norrisluke"&gt;&amp;#64;norrisluke&lt;/a&gt;) and some of the
+Code for America fellows, the Kauffman Foundation, some local startups,
+co-working spaces, and incubators. More info to come as the dates get
+closer.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Phoenix to San Diego</title><link href="http://www.codingacrossamerica.com/phoenix-to-san-diego.html" rel="alternate"></link><updated>2013-04-18T12:30:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-18:phoenix-to-san-diego.html</id><summary type="html">&lt;p&gt;I'm driving to San Diego after my morning meeting with MistoBox.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/WNFqs"&gt;&lt;img alt="The drive from Phoenix, AZ to San Diego, CA." src="../img/130418-phoenix-to-san-diego/phoenix-to-san-diego.jpg" /&gt;&lt;/a&gt;
 &lt;p&gt;The drive from Phoenix to San Diego.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
