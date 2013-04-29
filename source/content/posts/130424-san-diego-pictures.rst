@@ -1,7 +1,7 @@
 San Diego Scenery
 =================
 
-:date: 2013-04-24
+:date: 2013-04-24 18:00
 :slug: san-diego-scenery
 :category: post
 :author: Matt Makai
