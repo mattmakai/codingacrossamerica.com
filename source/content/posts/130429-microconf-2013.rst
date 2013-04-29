@@ -1,0 +1,30 @@
+MicroConf 2013
+==============
+
+:date: 2013-04-29
+:slug: microconf-2013-las-vegas
+:category: post
+:author: Matt Makai
+
+I'm in Las Vegas, Nevada for MicroConf 2013 today and tomorrow. 
+
+.. image:: ../img/130429-microconf-2013/microconf-2013-on-screen.jpg
+  :alt: Microconf 2013 projected on the main screen of the conference room
+
+----
+
+MicroConf is a conference focused on bootstrapped startups and single founder
+software companies. 
+
+The conference organizers' perspectives is one of the best parts. Their 
+attitude is dismissive of the idea that if your startup doesn't take 
+venture funding or rise to a billion dollar valuation, then it's a failure. 
+Success instead can be defined by solving real problems for your customers 
+and making a good living building a business you love.
+
+The videos from last year's 
+`MicroConf 2012 <http://www.microconf.com/videos-2012.html>`_ were 
+incredibly insightful. So I figured I'd make attending a tech conference the 
+purpose of my first ever trip to Vegas. Further updates on MicroConf 2013
+coming later.
+
