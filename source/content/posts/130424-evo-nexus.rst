@@ -2,7 +2,7 @@ EvoNexus
 ========
 
 :date: 2013-04-24 08:00
-:slug: evonexus-san-diego
+:slug: evonexus-san-diego-ca
 :category: post
 :author: Matt Makai
 

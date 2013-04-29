@@ -51,7 +51,7 @@ I have met with and written up many organizations in the cities I've visited:
 19. `CO+HOOTS <../co-hoots-phoenix-az.html>`_ (Phoenix)
 20. `MistoBox <../misto-box-phoenix-az.html>`_ (Phoenix)
 21. `Antengo <../antengo-san-diego-ca.html>`_ (San Diego)
-22. EvoNexus (San Diego)
+22. `EvoNexus <../evonexus-san-diego-ca.html>`_ (San Diego)
 23. Barefoot Solutions (San Diego)
 24. ForwardMetrics (San Diego)
 25. Saambaa (San Diego)
