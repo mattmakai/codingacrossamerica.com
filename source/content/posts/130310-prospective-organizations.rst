@@ -45,11 +45,16 @@ I have met with and written up many organizations in the cities I've visited:
 13. Tech Wildcatters (Dallas)
 14. Continuum Analytics (Austin)
 15. CopperEgg (Austin)
-16. Capital Factory (Austin)
+16. `Capital Factory <../capital-factory-austin-tx.html>`_ (Austin)
 17. Startup America - Regional Summit (Phoenix)
 18. `Seed Spot <../seed-spot-phoenix-az.html>`_ (Phoenix)
 19. `CO+HOOTS <../co-hoots-phoenix-az.html>`_ (Phoenix)
 20. `MistoBox <../misto-box-phoenix-az.html>`_ (Phoenix)
+21. `Antengo <../antengo-san-diego-ca.html>`_ (San Diego)
+22. EvoNexus (San Diego)
+23. Barefoot Solutions (San Diego)
+24. ForwardMetrics (San Diego)
+25. Saambaa (San Diego)
 
 
 Organizations without links are ones I am still working to put up. 
