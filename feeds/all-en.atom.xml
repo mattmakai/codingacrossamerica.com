@@ -691,7 +691,7 @@ get it done.&lt;/li&gt;
 &lt;div class="section" id="basic-stats"&gt;
 &lt;h2&gt;Basic stats&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="../why-redding-ca.html"&gt;Why Redding, California?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="/why-redding-ca.html"&gt;Why Redding, California?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;City population: 92k&lt;/li&gt;
 &lt;li&gt;Approximate distance driven on trip: &lt;a class="reference external" href="http://goo.gl/maps/QXtqr"&gt;4550 miles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://goo.gl/maps/KWQpC"&gt;Google Maps: Redding&lt;/a&gt;&lt;/li&gt;
@@ -877,13 +877,55 @@ Friday afternoon at &lt;a class="reference external" href="../evonexus-san-diego
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;I spent a few minutes showing some pictures and telling stories from what
 I saw in other cities that could be relevant to San Diego.&lt;/p&gt;
-</summary></entry><entry><title>ForwardMetrics</title><link href="http://www.codingacrossamerica.com/forwardmetrics-san-diego-ca.html" rel="alternate"></link><updated>2013-04-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-25:forwardmetrics-san-diego-ca.html</id><summary type="html">&lt;p&gt;ForwardMetrics is a startup in San Diego about to launch its new strategic
-planning application.&lt;/p&gt;
+</summary></entry><entry><title>ForwardMetrics</title><link href="http://www.codingacrossamerica.com/forwardmetrics-san-diego-ca.html" rel="alternate"></link><updated>2013-04-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-25:forwardmetrics-san-diego-ca.html</id><summary type="html">&lt;p&gt;ForwardMetrics is a San Diego-based startup about to launch its new strategic
+planning web application, Navigator.&lt;/p&gt;
 &lt;img alt="ForwardMetrics' logo" src="../img/130425-forwardmetrics/forwardmetrics-logo.jpg" /&gt;
 &lt;hr class="docutils" /&gt;
-&lt;p&gt;ForwardMetrics was founded in 2011 by Ozzie DiVinere and Scott Warner.&lt;/p&gt;
-&lt;p&gt;If you liked this post on a San Diego startup, you should also check out
-&lt;a class="reference external" href="../antengo-san-diego-ca.html"&gt;Antengo&lt;/a&gt;
+&lt;p&gt;ForwardMetrics is located about thirty minutes of downtown San Diego in
+Encinitas, CA. The San Diego startup scene has loosely-affiliated networks
+developing in various locations in and around the city. ForwardMetrics is
+an example of a startup outside the EvoNexus-centered downtown area.&lt;/p&gt;
+&lt;p&gt;Ozzie DiVinere and Scott Warner founded ForwardMetrics in 2011.&lt;/p&gt;
+&lt;img alt="Left to right, Ozzie DiVinere, Andrew Hard, and Scott Warner" src="../img/130425-forwardmetrics/ozzie-andrew-scott.jpg" /&gt;
+&lt;p&gt;Left to right, founder Ozzie DiVinere, marketing director Andrew Hard,
+and founder Scott Warner.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Ozzie and Scott saw a need for a flexible, easy-to-use strategic planning
+tool where non-technical users could simply drag-and-drop items to
+reorganize their plans. Their tool, called ForwardMetrics Navigator,
+will be coming out of beta and into public release within the next few days.&lt;/p&gt;
+&lt;p&gt;The team built a significant amount of custom code to create a uniform user
+experience across many devices. They found that existing drag-and-drop
+libraries could not provide a consistent experience across desktop browsers,
+tablets, and mobile devices.&lt;/p&gt;
+&lt;p&gt;ForwardMetrics' development team, led by Scott, built a custom JavaScript
+library for the user interface. The library connects to a PHP backend on
+their servers. All items on the screen that are dragged and dropped are
+immediately synced with the servers and then between all browsers with the
+same plan open. If a user one browser and her colleague is working in
+another on the same plan, you can see each others' changes in real-time.&lt;/p&gt;
+&lt;img alt="A screenshot of tasks in ForwardMetrics' Navigator web application" src="../img/130425-forwardmetrics/navigator-screenshot.png" /&gt;
+&lt;p&gt;Screenshot of tasks in ForwardMetrics' Navigator web application&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Another focus of the application is the metrics' visualization. Visualizing
+plan projections and milestones is important to the tools' target market.&lt;/p&gt;
+&lt;img alt="Metrics graph screenshot in Navigator" src="../img/130425-forwardmetrics/navigator-graphs.png" /&gt;
+&lt;p&gt;Metrics graph screenshot in Navigator&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Another aspect of the software I found impressive during the demo Scott
+gave me was the language translation. Language translation is one of those
+nasty, time-consuming, big problems that's hard to get right. The market
+for strategic planning tools needs language translation because there are
+many international customers.&lt;/p&gt;
+&lt;p&gt;Navigator handles this problem by translating an initial set of languages.
+Then as users work through the application in a different language, their
+users can vote on which translations are appropriate, essentially
+crowdsourcing the solutions. More information can be found about
+ForwardMetrics' Navigator product on their
+&lt;a class="reference external" href="http://www.forwardmetrics.com/faq"&gt;FAQ page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you liked this post about
+&lt;a class="reference external" href="http://www.forwardmetrics.com/"&gt;ForwardMetrics&lt;/a&gt;, you should also check
+out these other San Diego posts on &lt;a class="reference external" href="../antengo-san-diego-ca.html"&gt;Antengo&lt;/a&gt;
 and &lt;a class="reference external" href="../evonexus-san-diego-ca.html"&gt;EvoNexus&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>San Diego Scenery</title><link href="http://www.codingacrossamerica.com/san-diego-scenery.html" rel="alternate"></link><updated>2013-04-24T18:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-24:san-diego-scenery.html</id><summary type="html">&lt;p&gt;The following are some initial pictures from San Diego to continue this
 theme after the overwhelmingly positive response to my Los Alamos and Moab
@@ -1422,79 +1464,6 @@ of cities clearly shows that what's normal is context dependent.&lt;/p&gt;
 on my writing (yes, I know, I'm way way behind), take in the sights, and
 program ideas that are bouncing around in my head.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2013-04-11T09:18:54-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, tweet
-&lt;a class="reference external" href="http://twitter.com/mattmakai"&gt;&amp;#64;mattmakai&lt;/a&gt;.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="who-are-you"&gt;
-&lt;h2&gt;Who are you?&lt;/h2&gt;
-&lt;p&gt;I'm &lt;a class="reference external" href="http://www.mattmakai.com/pages/about.html"&gt;Matt Makai&lt;/a&gt;, a software
-developer living in Washington, DC. I currently focus on Python/Django
-development and I've also programmed in Java and Objective-C in the past.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="hasn-t-something-like-this-been-done-before"&gt;
-&lt;h2&gt;Hasn't something like this been done before?&lt;/h2&gt;
-&lt;p&gt;I've found a couple of similar examples with
-&lt;a class="reference external" href="http://www.techhumans.com/2012/07/27/interview-with-corey-haines-august-2011/"&gt;Corey Haines's paired programming trip&lt;/a&gt; and
-&lt;a class="reference external" href="http://www.siliconprairienews.com/2012/08/ideamensch-founder-discusses-his-company-48-state-journey-video"&gt;Mario Schulzke's 48 state journey&lt;/a&gt;.
-I never intended to be the first - lots of people have done cross country
-trips. I do plan on spending a lot of time coding, talking to fellow
-developers, and going to technology meet ups in each city though, which
-many people aren't as interested in.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="where-will-you-stay-during-your-trip"&gt;
-&lt;h2&gt;Where will you stay during your trip?&lt;/h2&gt;
-&lt;p&gt;I plan to stay in hotel rooms, use &lt;a class="reference external" href="http://www.airbnb.com/"&gt;Airbnb&lt;/a&gt;
-for some cities, and also stay with friends when possible. Some friends
-have recommended couch surfing, but I need to look into that more
-before I commit to trying it.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="how-are-you-paying-for-all-of-this-travel"&gt;
-&lt;h2&gt;How are you paying for all of this travel?&lt;/h2&gt;
-&lt;p&gt;I've been saving money for awhile. I'm a strong believer in saving
-more than you spend so you have the financial freedom to take on
-opportunities such as Coding Across America.&lt;/p&gt;
-&lt;p&gt;I also will not have to pay rent for the months I'm away since my lease will
-be ending at the same time I begin the trip. As anyone who's lived in the
-DC-metro area knows, removing rent eliminates a major financial burden.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="what-can-you-learn-about-a-city-in-only-5-10-days"&gt;
-&lt;h2&gt;What can you learn about a city in only 5-10 days?&lt;/h2&gt;
-&lt;p&gt;I think that remains to be seen. Part of the learning process is planning
-the trip, thoroughly researching every city so my time is well spent, and
-contacting the right people who know way more than I do about where they
-live and then asking them questions. Maybe the answer is that it will only
-be superficial knowledge of each destination, but I have a feeling that
-more will come of it than just the surface level answers.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="how-will-you-travel-from-one-city-to-the-next"&gt;
-&lt;h2&gt;How will you travel from one city to the next?&lt;/h2&gt;
-&lt;p&gt;I will be driving in my Black 2004
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Honda_S2000"&gt;Honda S2000&lt;/a&gt; with
-everything I own.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="everything-you-own-in-a-2-seat-sportscar-really"&gt;
-&lt;h2&gt;Everything you own in a 2-seat sportscar? Really?&lt;/h2&gt;
-&lt;p&gt;Ok, almost everything. I'm getting rid of my only piece of furniture (a bed)
-and I don't have a TV or desktop computer, so that saves a lot of space.
-I'll probably need to keep a box of things at my parents' house though with
-items such as my undergrad and graduate school diplomas.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr class="docutils" /&gt;
-&lt;div class="section" id="what-if-this-site-gets-hit-by-slashdot-reddit-etc"&gt;
-&lt;h2&gt;What if this site gets hit by Slashdot, Reddit, etc?&lt;/h2&gt;
-&lt;p&gt;Well, that would be awesome. There shouldn't be a problem since this site is
-static HTML &amp;amp; JavaScript generated with
-&lt;a class="reference external" href="http://pelican.readthedocs.org/en/latest/"&gt;Pelican&lt;/a&gt;. I use Markdown
-and the jinja2 templating system to create the pages. The site is hosted
-on &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, so it &lt;em&gt;should&lt;/em&gt; scale well.&lt;/p&gt;
-&lt;p&gt;PS Thanks Github! Can I visit you guys when I'm in San Francisco?&lt;/p&gt;
-&lt;/div&gt;
 </summary></entry><entry><title>Los Alamos is Beautiful</title><link href="http://www.codingacrossamerica.com/los-alamos-new-mexico-is-beautiful.html" rel="alternate"></link><updated>2013-04-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-11:los-alamos-new-mexico-is-beautiful.html</id><summary type="html">&lt;p&gt;I am spending a few days in Los Alamos, New Mexico and then Moab, Utah
 to catch my breath. It's beautiful here. Here are some photos I took during
 my drive up from Lubbock, Texas and while walking around town in Los Alamos.&lt;/p&gt;
@@ -1603,17 +1572,6 @@ on the 15th through the 17th.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/azuquin/4121336404/"&gt;Flickr Creative Commons Photo Attribution&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry><entry><title>Strengths and Weaknesses of Cities So Far</title><link href="http://www.codingacrossamerica.com/strengths-and-weaknesses-of-cities-so-far.html" rel="alternate"></link><updated>2013-04-09T09:56:09-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-09:strengths-and-weaknesses-of-cities-so-far.html</id><summary type="html">&lt;div class="section" id="strengths"&gt;
-&lt;h2&gt;Strengths&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="weaknesses"&gt;
-&lt;h2&gt;Weaknesses&lt;/h2&gt;
-&lt;p&gt;Here are the biggest weaknesses that I perceived about each city so far:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Charlottesville - not enough software developers&lt;/li&gt;
-&lt;li&gt;Charlotte - dominated by big finance&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 </summary></entry><entry><title>A Month of Meeting Startups</title><link href="http://www.codingacrossamerica.com/month-meeting-startups.html" rel="alternate"></link><updated>2013-04-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-09:month-meeting-startups.html</id><summary type="html">&lt;p&gt;I have been on the road for one month meeting with startups, software
 developers, and organizations dedicated to creating a greater entrepreneurial
 ecosystem in the United States.&lt;/p&gt;
@@ -1710,27 +1668,6 @@ four months of this ahead of me.&lt;/p&gt;
 &lt;p&gt;If you liked this post you should email me at &lt;a class="reference external" href="mailto:matthew.makai&amp;#64;gmail.com"&gt;matthew.makai&amp;#64;gmail.com&lt;/a&gt;.
 Let me know what topics I should elaborate on further or if you're
 interested in meeting up in any of the 23 cities I'm traveling to next.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Burton White</title><link href="http://www.codingacrossamerica.com/burton-white.html" rel="alternate"></link><updated>2013-04-08T19:44:14-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-08:burton-white.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://excella.com/people/burton-white.aspx"&gt;Burton White&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Burton set up my visit to New Orleans and hooked me into the New Orleans
-Entrepreneurship Week (NOEW) scene.&lt;/p&gt;
-&lt;p&gt;Burton is a
-&lt;a class="reference external" href="http://excella.com/people/burton-white.aspx"&gt;founding partner at Excella Consulting&lt;/a&gt;
-where I currently work.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Stephanie (Vineyard) Lewandowski</title><link href="http://www.codingacrossamerica.com/stephanie-vineyard.html" rel="alternate"></link><updated>2013-04-08T19:39:35-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-08:stephanie-vineyard.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
-&lt;h2&gt;Stephanie (Vineyard) Lewandowski&lt;/h2&gt;
-&lt;p&gt;Stephanie recommended I buy a
-&lt;a class="reference external" href="http://www.amazon.com/gp/product/B00538KI24/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=minimneeds-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00538KI24"&gt;silk sleep sack&lt;/a&gt;
-so I always had fresh sheets on my trip. Plus she's my work wife at CFPB
-and had to listen to me yap endlessly about my upcoming trip for months on
-end.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Liz Bird</title><link href="http://www.codingacrossamerica.com/contributors-liz-bird.html" rel="alternate"></link><updated>2013-04-08T19:33:41-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-08:contributors-liz-bird.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://travelingliz.com/"&gt;Liz Bird&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Liz traveled Asia for six months in 2012-2013. She blazed the trail for
-taking a leave of absence from Excella.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Austin to Lubbock</title><link href="http://www.codingacrossamerica.com/austin-to-lubbock.html" rel="alternate"></link><updated>2013-04-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-07:austin-to-lubbock.html</id><summary type="html">&lt;p&gt;It is really tough to leave Austin.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://goo.gl/maps/xtUPV"&gt;&lt;img alt="The drive from Austin, TX to Lubbock, TX." src="../img/130407-austin-to-lubbock/austin-to-lubbock.jpg" /&gt;&lt;/a&gt;
@@ -3791,6 +3728,81 @@ serious upgrade so the government can stop spending so much damn money on
 technology and getting so little for it. There's a whole host of other
 government problems that would need to be addressed outside what this
 article discusses but it's an interesting start nonetheless.&lt;/p&gt;
+</summary></entry><entry><title>Cities</title><link href="http://www.codingacrossamerica.com/cities.html" rel="alternate"></link><updated>2013-01-01T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-01:cities.html</id><summary type="html">&lt;p&gt;This is a list of the cities I am visiting during Coding Across America.
+All arrival dates are near final.&lt;/p&gt;
+</summary></entry><entry><title>Frequently Asked Questions</title><link href="http://www.codingacrossamerica.com/faq.html" rel="alternate"></link><updated>2013-01-01T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-01-01:faq.html</id><summary type="html">&lt;p&gt;If you have a question that's not answered here, tweet
+&lt;a class="reference external" href="http://twitter.com/mattmakai"&gt;&amp;#64;mattmakai&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="who-are-you"&gt;
+&lt;h2&gt;Who are you?&lt;/h2&gt;
+&lt;p&gt;I'm &lt;a class="reference external" href="http://www.mattmakai.com/pages/about.html"&gt;Matt Makai&lt;/a&gt;, a software
+developer living in Washington, DC. I currently focus on Python/Django
+development and I've also programmed in Java and Objective-C in the past.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="hasn-t-something-like-this-been-done-before"&gt;
+&lt;h2&gt;Hasn't something like this been done before?&lt;/h2&gt;
+&lt;p&gt;I've found a couple of similar examples with
+&lt;a class="reference external" href="http://www.techhumans.com/2012/07/27/interview-with-corey-haines-august-2011/"&gt;Corey Haines's paired programming trip&lt;/a&gt; and
+&lt;a class="reference external" href="http://www.siliconprairienews.com/2012/08/ideamensch-founder-discusses-his-company-48-state-journey-video"&gt;Mario Schulzke's 48 state journey&lt;/a&gt;.
+I never intended to be the first - lots of people have done cross country
+trips. I do plan on spending a lot of time coding, talking to fellow
+developers, and going to technology meet ups in each city though, which
+many people aren't as interested in.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="where-will-you-stay-during-your-trip"&gt;
+&lt;h2&gt;Where will you stay during your trip?&lt;/h2&gt;
+&lt;p&gt;I plan to stay in hotel rooms, use &lt;a class="reference external" href="http://www.airbnb.com/"&gt;Airbnb&lt;/a&gt;
+for some cities, and also stay with friends when possible. Some friends
+have recommended couch surfing, but I need to look into that more
+before I commit to trying it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="how-are-you-paying-for-all-of-this-travel"&gt;
+&lt;h2&gt;How are you paying for all of this travel?&lt;/h2&gt;
+&lt;p&gt;I've been saving money for awhile. I'm a strong believer in saving
+more than you spend so you have the financial freedom to take on
+opportunities such as Coding Across America.&lt;/p&gt;
+&lt;p&gt;I also will not have to pay rent for the months I'm away since my lease will
+be ending at the same time I begin the trip. As anyone who's lived in the
+DC-metro area knows, removing rent eliminates a major financial burden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="what-can-you-learn-about-a-city-in-only-5-10-days"&gt;
+&lt;h2&gt;What can you learn about a city in only 5-10 days?&lt;/h2&gt;
+&lt;p&gt;I think that remains to be seen. Part of the learning process is planning
+the trip, thoroughly researching every city so my time is well spent, and
+contacting the right people who know way more than I do about where they
+live and then asking them questions. Maybe the answer is that it will only
+be superficial knowledge of each destination, but I have a feeling that
+more will come of it than just the surface level answers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="how-will-you-travel-from-one-city-to-the-next"&gt;
+&lt;h2&gt;How will you travel from one city to the next?&lt;/h2&gt;
+&lt;p&gt;I will be driving in my Black 2004
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Honda_S2000"&gt;Honda S2000&lt;/a&gt; with
+everything I own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="everything-you-own-in-a-2-seat-sportscar-really"&gt;
+&lt;h2&gt;Everything you own in a 2-seat sportscar? Really?&lt;/h2&gt;
+&lt;p&gt;Ok, almost everything. I'm getting rid of my only piece of furniture (a bed)
+and I don't have a TV or desktop computer, so that saves a lot of space.
+I'll probably need to keep a box of things at my parents' house though with
+items such as my undergrad and graduate school diplomas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="what-if-this-site-gets-hit-by-slashdot-reddit-etc"&gt;
+&lt;h2&gt;What if this site gets hit by Slashdot, Reddit, etc?&lt;/h2&gt;
+&lt;p&gt;Well, that would be awesome. There shouldn't be a problem since this site is
+static HTML &amp;amp; JavaScript generated with
+&lt;a class="reference external" href="http://pelican.readthedocs.org/en/latest/"&gt;Pelican&lt;/a&gt;. I use Markdown
+and the jinja2 templating system to create the pages. The site is hosted
+on &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, so it &lt;em&gt;should&lt;/em&gt; scale well.&lt;/p&gt;
+&lt;p&gt;PS Thanks Github! Can I visit you guys when I'm in San Francisco?&lt;/p&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Why Redding, CA?</title><link href="http://www.codingacrossamerica.com/why-redding-ca.html" rel="alternate"></link><updated>2012-12-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-26:why-redding-ca.html</id><summary type="html">&lt;p&gt;Redding is a small town of about 90k residents in Northern California,
 about three and a half hours from San Francisco. From my initial research
 there doesn't seem to be much of a technology start up scene here. That's
@@ -3813,61 +3825,6 @@ more information about Redding.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/dandeluca/3697142049/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>About Coding Across America</title><link href="http://www.codingacrossamerica.com/about.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:about.html</id><summary type="html"></summary></entry><entry><title></title><link href="http://www.codingacrossamerica.com/blog.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:blog.html</id><summary type="html"></summary></entry><entry><title>Cincinnati, OH</title><link href="http://www.codingacrossamerica.com/cincinnati-oh.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:cincinnati-oh.html</id><summary type="html">&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://gigaom.com/2012/05/30/from-cincinnati-to-silicon-valley-dotloop-ceo-explains-his-move/"&gt;http://gigaom.com/2012/05/30/from-cincinnati-to-silicon-valley-dotloop-ceo-explains-his-move/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</summary></entry><entry><title>Cities</title><link href="http://www.codingacrossamerica.com/cities.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:cities.html</id><summary type="html">&lt;p&gt;This is a list of the cities I am visiting during Coding Across America.
-All arrival dates are near final.&lt;/p&gt;
-</summary></entry><entry><title>Contributors</title><link href="http://www.codingacrossamerica.com/contributors.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:contributors.html</id><summary type="html">&lt;p&gt;The following people have been influential in helping me
-develop ideas and figure out what to do on my trip. A huge &amp;quot;thank you&amp;quot; from
-me to everyone listed here.&lt;/p&gt;
-</summary></entry><entry><title>Luke Makai</title><link href="http://www.codingacrossamerica.com/contributors-luke-makai.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:contributors-luke-makai.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=A70IlZ3Uyv8"&gt;Luke Makai&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Luke helped me to develop ideas about traveling for a significant period
-of time, which is one of a million ways he's contributed to my ability to do
-Coding Across America.&lt;/p&gt;
-&lt;p&gt;Luke created the
-&lt;a class="reference external" href="http://www.youtube.com/watch?v=A70IlZ3Uyv8"&gt;linked YouTube video&lt;/a&gt;
-after traveling around Mexico for two weeks.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Peter Jacobson</title><link href="http://www.codingacrossamerica.com/contributors-peter-jacobson.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:contributors-peter-jacobson.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://instagr.am/p/LDa8U1C7Au/"&gt;Peter Jacobson&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;PJ recommended I keep some days on my schedule completely clear of plans
-so I could use those days to rest, relax, and do things spur-of-the-moment.&lt;/p&gt;
-&lt;p&gt;PJ is currently
-&lt;a class="reference external" href="http://instagr.am/p/LDa8U1C7Au/"&gt;kayaking down the Hudson River&lt;/a&gt; and taking
-some time off this summer before starting the MBA program at Dartmouth in
-August 2012.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Ryan Anderson</title><link href="http://www.codingacrossamerica.com/contributors-ryan-anderson.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:contributors-ryan-anderson.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://www.sciencemag.org/content/330/6010.cover-expansion"&gt;Dr. Ryan Anderson&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Ryan suggested that I fly back to the East Coast halfway through
-the trip to recharge and visit family and friends.&lt;/p&gt;
-&lt;p&gt;Ryan took the
-&lt;a class="reference external" href="http://www.sciencemag.org/content/330/6010.cover-expansion"&gt;linked photo&lt;/a&gt;
-while working towards his doctorate at Virginia Tech and the picture
-was published on the front cover of Science magazine in December 2010.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Erin Callahan</title><link href="http://www.codingacrossamerica.com/erin-callahan.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:erin-callahan.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://ecallahan.tumblr.com/"&gt;Erin Callahan&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Erin recommended I visit her
-&lt;a class="reference external" href="http://www.ocallaghanspub.com/"&gt;Uncle's bar O'Callaghan's&lt;/a&gt;.
-She also suggested a bunch of great things to do while in Chicago.&lt;/p&gt;
-&lt;p&gt;Erin spent thirteen weeks in Ghana teaching children and helping the
-local community. She
-&lt;a class="reference external" href="http://ecallahan.tumblr.com/"&gt;blogged about her experience&lt;/a&gt; while over
-there.&lt;/p&gt;
-&lt;/div&gt;
-</summary></entry><entry><title>Everyone</title><link href="http://www.codingacrossamerica.com/everyone.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:everyone.html</id><summary type="html">&lt;p&gt;It seems incredibly dangerous to me to go along with what everone else
-is either doing or saing what you should be doing.&lt;/p&gt;
-</summary></entry><entry><title>Matt Pincombe</title><link href="http://www.codingacrossamerica.com/matt-pincombe.html" rel="alternate"></link><updated>2012-12-23T10:07:44-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-12-23:matt-pincombe.html</id><summary type="html">&lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;Matt Pincombe&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Matt recommended I visit Madison, WI as it fit the profile of
-interesting cities across the country that I should visit.&lt;/p&gt;
-&lt;p&gt;Matt is a
-&lt;a class="reference external" href="http://excella.com/people/matt-pincombe.aspx"&gt;partner at Excella Consulting&lt;/a&gt;
-where I currently work.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Convictions</title><link href="http://www.codingacrossamerica.com/convictions.html" rel="alternate"></link><updated>2012-11-26T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-11-26:convictions.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;&amp;quot;Some convictions are so strong that the world must break to
 accommodate them.&amp;quot;&lt;/strong&gt;&lt;/p&gt;

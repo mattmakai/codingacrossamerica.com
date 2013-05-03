@@ -6,6 +6,7 @@ TIMEZONE = 'America/New_York'
 
 GITHUB_URL = 'https://github.com/makaimc/makaimc.github.com'
 PDF_GENERATOR = False
+PDF_STYLE = 'twelvepoint'
 GOOGLE_ANALYTICS = 'UA-19910497-6'
 
 BYLINE = '&copy; 2012 Matt Makai. All Rights Reserved.'

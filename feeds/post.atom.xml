@@ -22,6 +22,56 @@ coming later.&lt;/p&gt;
 and will hopefully have time on Wednesday for a tour of the downtown startup
 area before I head to Los Angeles.&lt;/p&gt;
 &lt;p&gt;Las Vegas is destination number twelve of thirty for Coding Across America.&lt;/p&gt;
+</summary></entry><entry><title>ForwardMetrics</title><link href="http://www.codingacrossamerica.com/forwardmetrics-san-diego-ca.html" rel="alternate"></link><updated>2013-04-25T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-25:forwardmetrics-san-diego-ca.html</id><summary type="html">&lt;p&gt;ForwardMetrics is a San Diego-based startup about to launch its new strategic
+planning web application, Navigator.&lt;/p&gt;
+&lt;img alt="ForwardMetrics' logo" src="../img/130425-forwardmetrics/forwardmetrics-logo.jpg" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;ForwardMetrics is located about thirty minutes of downtown San Diego in
+Encinitas, CA. The San Diego startup scene has loosely-affiliated networks
+developing in various locations in and around the city. ForwardMetrics is
+an example of a startup outside the EvoNexus-centered downtown area.&lt;/p&gt;
+&lt;p&gt;Ozzie DiVinere and Scott Warner founded ForwardMetrics in 2011.&lt;/p&gt;
+&lt;img alt="Left to right, Ozzie DiVinere, Andrew Hard, and Scott Warner" src="../img/130425-forwardmetrics/ozzie-andrew-scott.jpg" /&gt;
+&lt;p&gt;Left to right, founder Ozzie DiVinere, marketing director Andrew Hard,
+and founder Scott Warner.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Ozzie and Scott saw a need for a flexible, easy-to-use strategic planning
+tool where non-technical users could simply drag-and-drop items to
+reorganize their plans. Their tool, called ForwardMetrics Navigator,
+will be coming out of beta and into public release within the next few days.&lt;/p&gt;
+&lt;p&gt;The team built a significant amount of custom code to create a uniform user
+experience across many devices. They found that existing drag-and-drop
+libraries could not provide a consistent experience across desktop browsers,
+tablets, and mobile devices.&lt;/p&gt;
+&lt;p&gt;ForwardMetrics' development team, led by Scott, built a custom JavaScript
+library for the user interface. The library connects to a PHP backend on
+their servers. All items on the screen that are dragged and dropped are
+immediately synced with the servers and then between all browsers with the
+same plan open. If a user one browser and her colleague is working in
+another on the same plan, you can see each others' changes in real-time.&lt;/p&gt;
+&lt;img alt="A screenshot of tasks in ForwardMetrics' Navigator web application" src="../img/130425-forwardmetrics/navigator-screenshot.png" /&gt;
+&lt;p&gt;Screenshot of tasks in ForwardMetrics' Navigator web application&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Another focus of the application is the metrics' visualization. Visualizing
+plan projections and milestones is important to the tools' target market.&lt;/p&gt;
+&lt;img alt="Metrics graph screenshot in Navigator" src="../img/130425-forwardmetrics/navigator-graphs.png" /&gt;
+&lt;p&gt;Metrics graph screenshot in Navigator&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Another aspect of the software I found impressive during the demo Scott
+gave me was the language translation. Language translation is one of those
+nasty, time-consuming, big problems that's hard to get right. The market
+for strategic planning tools needs language translation because there are
+many international customers.&lt;/p&gt;
+&lt;p&gt;Navigator handles this problem by translating an initial set of languages.
+Then as users work through the application in a different language, their
+users can vote on which translations are appropriate, essentially
+crowdsourcing the solutions. More information can be found about
+ForwardMetrics' Navigator product on their
+&lt;a class="reference external" href="http://www.forwardmetrics.com/faq"&gt;FAQ page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you liked this post about
+&lt;a class="reference external" href="http://www.forwardmetrics.com/"&gt;ForwardMetrics&lt;/a&gt;, you should also check
+out these other San Diego posts on &lt;a class="reference external" href="../antengo-san-diego-ca.html"&gt;Antengo&lt;/a&gt;
+and &lt;a class="reference external" href="../evonexus-san-diego-ca.html"&gt;EvoNexus&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>San Diego Scenery</title><link href="http://www.codingacrossamerica.com/san-diego-scenery.html" rel="alternate"></link><updated>2013-04-24T18:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-04-24:san-diego-scenery.html</id><summary type="html">&lt;p&gt;The following are some initial pictures from San Diego to continue this
 theme after the overwhelmingly positive response to my Los Alamos and Moab
 pictures. I am in San Diego until Sunday so I'll probably have more pictures

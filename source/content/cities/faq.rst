@@ -3,6 +3,7 @@ Frequently Asked Questions
 
 :category: faq
 :slug: faq
+:date: 2013-01-01
 
 
 If you have a question that's not answered here, tweet 
