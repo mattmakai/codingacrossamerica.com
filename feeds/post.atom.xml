@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-05-08T00:00:00-04:00</updated><entry><title>Updates</title><link href="http://www.codingacrossamerica.com/updates.html" rel="alternate"></link><updated>2013-05-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-08:updates.html</id><summary type="html">&lt;p&gt;My updates have been less frequent over the past few days. I am shifting
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-05-09T00:00:00-04:00</updated><entry><title>Thoughts After Two Months</title><link href="http://www.codingacrossamerica.com/thoughts-after-two-months.html" rel="alternate"></link><updated>2013-05-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-09:thoughts-after-two-months.html</id><summary type="html">&lt;p&gt;I've been on the road for two months today. Here are a few of my thoughts to
+date.&lt;/p&gt;
+&lt;p&gt;At the one month mark I &lt;a class="reference external" href="../month-meeting-startups.html"&gt;wrote my thoughts&lt;/a&gt;
+on meeting startups. I still agree with what I wrote in that post. This post
+is a little different - more ad hoc topics in each section. Some of these
+topics I've been thinking about for awhile. Others I've just realized in
+the past day.&lt;/p&gt;
+&lt;div class="section" id="home-run-skepticism"&gt;
+&lt;h2&gt;Home Run Skepticism&lt;/h2&gt;
+&lt;p&gt;Mainstream media primarily covers &amp;quot;home run hit&amp;quot; startups such as Facebook,
+Google, and Tesla. The media focus on the home runs obscures that there are
+a huge number of self-funded companies creating value for their customers.&lt;/p&gt;
+&lt;p&gt;Companies that are not venture capital backed can be less risky because they
+are not trying to generate outsized returns for their investors. To keep with
+the baseball analogy, a bunch of singles and doubles are great. It's
+important to &lt;em&gt;not&lt;/em&gt; take venture capital if you want to build a company that
+provides you and your employees with good incomes and sustainable lifestyles.&lt;/p&gt;
+&lt;p&gt;Here are a dozen examples of such companies:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.bidsketch.com/"&gt;Bidsketch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.hittail.com/"&gt;HitTail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.barefootsolutions.com/"&gt;Barefoot Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://convertkit.com/"&gt;ConvertKit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.auditshark.com/"&gt;Audit Shark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.37signals.com/"&gt;37Signals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://smartbear.com/"&gt;Smart Bear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.appointmentreminder.org/"&gt;Appointment Reminder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.crazyegg.com/"&gt;CrazyEgg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.mgroomer.com/"&gt;mGroomer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.woothemes.com/"&gt;WooThemes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.quickreader.net/"&gt;QuickReader&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dc-won-t-be-a-startup-hub-but"&gt;
+&lt;h2&gt;DC Won't Be A Startup Hub, But...&lt;/h2&gt;
+&lt;p&gt;I don't think DC is a good place to
+build a startup. I am using Paul Graham's definition of startup as
+&amp;quot;&lt;a class="reference external" href="http://www.paulgraham.com/growth.html"&gt;a company design to grow fast&lt;/a&gt;&amp;quot;.
+But it &lt;em&gt;is&lt;/em&gt; a hotbed of entrepreneurship.&lt;/p&gt;
+&lt;p&gt;Entrepreneurs in DC start consulting companies. There's low overhead when
+your consultants on on-site, hiring is driven by clients' willingness to
+bring another person on-board, and it's a tried and true model that DC
+people understand.&lt;/p&gt;
+&lt;p&gt;When you create a startup you need to fight against the high salaries that
+consulting firms offer, the lack of decent, cheap space downtown, and
+the fact that people interested in startups move away from DC to places like
+San Francisco, Seattle, and Austin.&lt;/p&gt;
+&lt;p&gt;I'll need to elaborate futher on this topic later.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="our-education-system-is-fucked-up"&gt;
+&lt;h2&gt;Our Education System is Fucked Up&lt;/h2&gt;
+&lt;p&gt;This isn't an original idea. It's amazing to me how our education system
+prepares us for the 20th century. We're churning out students like we churn
+out widgets in a factory.&lt;/p&gt;
+&lt;p&gt;Yet the jobs in the 21st century requiring
+creativity and skills such as software development. We don't teach that.
+Instead we have a glorified prison system where students are held hostage
+for the formative years of their lives. And we have a massive bureaucratic
+system preventing any sort of positive change. We're all to blame for this
+incredible failing in our society. It's sad. We're failing the next
+generation even though everyone wants to talk endless how much we supposedly
+care about our children.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="this-website-design-sucks"&gt;
+&lt;h2&gt;This Website Design Sucks&lt;/h2&gt;
+&lt;p&gt;I'm going to change it. The blog format is stale and I have plenty of ideas
+for making it good now that I have some decent content.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Updates</title><link href="http://www.codingacrossamerica.com/updates.html" rel="alternate"></link><updated>2013-05-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-08:updates.html</id><summary type="html">&lt;p&gt;My updates have been less frequent over the past few days. I am shifting
 from primarily running around meeting with companies to doing more
 programming. There are also a couple dozen posts I need to finish writing,
 even some from as far back as New Orleans and Memphis!&lt;/p&gt;
