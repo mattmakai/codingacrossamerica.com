@@ -55,6 +55,8 @@ I have met with and written up many organizations in the cities I've visited:
 23. Barefoot Solutions (San Diego)
 24. ForwardMetrics (San Diego)
 25. Saambaa (San Diego)
+26. Downtown Project (Las Vegas)
+27. SocialGlimpz (San Francisco)
 
 
 Organizations without links are ones I am still working to put up. 

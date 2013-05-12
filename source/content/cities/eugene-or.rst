@@ -8,8 +8,6 @@ Eugene, OR
 ----
 
 .. image:: ../img/eugene-or.jpg
-  :width: 640px
-  :height: 480px
   :alt: Eugene Oregon Science Factory
 
 ----
@@ -27,6 +25,7 @@ Companies
   from this company presented a lightning talk at DjangoCon about 
   not launching on Friday, "how hard can it be?" and it's just good enough -
   get it done.
+* `Palo Alto Software <http://www.paloalto.com/>`_
 
 Photo Attribution
 -----------------
