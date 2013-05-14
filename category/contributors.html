@@ -63,27 +63,23 @@
       </ul>
     </div>
   </div>
-</div>
-  <div class="container">
-    
-  <div class="row">
+</div>  <div class="container">
+      <div class="row">
     <div class="span8">
+      <h2>Miles Driven</h2>
+      <div id="chart"></div>
       <h2>Recent Blog Posts</h2>
-      
-      
-        
-      
-      <div>
+                                <div>
         <a href="/blog.html">View more posts &raquo;</a>
       </div>
     </div>
     <div class="offset1 span3">
       <h3>Present Location</h3>
       <strong>
-        <a href="../las-vegas-nv.html">Las Vegas, NV</a>
+        <a href="../san-francisco-ca.html">San Francisco, CA</a>
       </strong>
       <div>
-        City #12. Day 53 of 152 (35%)
+          City #14. Day 66 of 152 (43%)
       </div>
       <hr/>
       <!--
@@ -98,8 +94,7 @@
       -->
       <h3>Updates</h3>
       <a href="http://twitter.com/mattmakai/"><img src="/img/twitter-icon.png" style="border: none; margin-top: 5px;" height="28" width="28" /></a>
-<a href="/feeds/post.atom.xml"><img src="/img/feed-icon.png" height="28" width="28" style="border: none; margin-top: 5px;" /></a>
-      <hr/>
+<a href="/feeds/post.atom.xml"><img src="/img/feed-icon.png" height="28" width="28" style="border: none; margin-top: 5px;" /></a>      <hr/>
       <h3>What?</h3>
       <p>
         Coding Across America is a five month road trip to tell the stories 
@@ -122,13 +117,9 @@
       <hr/>
       <div>
         <h3>Destinations</h3>
-        
-          
-        
-      </div>
+                                </div>
     </div>
   </div>
-
     <hr/>
     <div class="footer">
       &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
@@ -144,5 +135,89 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
   <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/d3.min.js" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+            var containerWidth = $("#chart").width(),
+        containerHeight = containerWidth * .8;
+
+    var margin = {top: 10, right: 10, bottom: 30, left: 60},
+        width = containerWidth - margin.left - margin.right,
+        height = (containerHeight * .7) - margin.top - margin.bottom,
+        maxDays = 152, maxMiles = 10500,
+        lineWidth = width / maxDays;
+
+    var x = d3.scale.linear()
+        .domain([0, maxDays])
+        .range([0, width]);
+
+    var y = d3.scale.linear()
+        .domain([0, maxMiles])
+        .range([height, 0]);
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left");
+
+    var svg = d3.select("#chart").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + 
+            margin.top + ")");
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+
+    function drawChart(data) {
+        var total_bars = svg.selectAll("rect.total-miles")
+            .data(data.driving)
+                .enter()
+            .append("rect")
+                .attr("x", function(d) {return x(d.day) - lineWidth;})
+                .attr("y", function(d) {return height;})
+                .attr("width",lineWidth)
+                .attr("class", "total-miles")
+                .attr("height", function(d) {return 0;})
+                .style("stroke","#406BB4")
+                .style("fill","#F9A31A")
+            .transition()
+                .attr("y", function(d) {return y(d.total);})
+                .attr("height", function(d) {return height - y(d.total);})
+                .delay(function(d, i) {return (i * 50) + 250;})
+                .duration(1200);
+
+        var bars = svg.selectAll("rect.daily-miles")
+            .data(data.driving)
+                .enter()
+            .append("rect")
+                .attr("x", function(d) {return x(d.day) - lineWidth;})
+                .attr("y", function(d) {return height;})
+                .attr("class", "daily-miles")
+                .attr("width",lineWidth)
+                .attr("height", function(d) {return 0;})
+                .style("stroke","black")
+                .style("fill","#406BB4")
+            .transition()
+                .attr("y", function(d) {return y(d.miles);})
+                .attr("height", function(d) {return height - y(d.miles);})
+                .delay(function(d, i) {return (i * 50) + 250;})
+                .duration(1200);
+    }
+
+    d3.json('/data/driving.json', drawChart);
+
+    });
+  </script>
 </body>
 </html>

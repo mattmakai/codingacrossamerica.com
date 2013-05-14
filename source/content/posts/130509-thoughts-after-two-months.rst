@@ -82,8 +82,8 @@ care about our children.
 
 This Website Design Sucks
 -------------------------
-I'm going to change it. The blog format is stale and I have plenty of ideas
-for making it good now that I have some decent content.
+I'm going to change the design. The blog format is stale and I have plenty 
+of ideas for making it good now that I have some decent content.
 
 
 

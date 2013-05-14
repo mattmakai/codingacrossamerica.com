@@ -3,6 +3,7 @@ Erin Callahan
 
 :category: contributor
 :slug: erin-callahan
+:date: 2013-01-01
 
 `Erin Callahan <http://ecallahan.tumblr.com/>`_
 -----------------------------------------------

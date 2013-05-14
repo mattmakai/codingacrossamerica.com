@@ -3,6 +3,7 @@ Burton White
 
 :category: contributor
 :slug: burton-white
+:date: 2013-01-01
 
 `Burton White <http://excella.com/people/burton-white.aspx>`_
 -------------------------------------------------------------

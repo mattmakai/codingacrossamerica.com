@@ -3,6 +3,7 @@ Liz Bird
 
 :category: contributor
 :slug: contributors-liz-bird
+:date: 2013-01-01
 
 `Liz Bird <http://travelingliz.com/>`_
 --------------------------------------

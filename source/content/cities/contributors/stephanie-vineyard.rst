@@ -3,6 +3,7 @@ Stephanie (Vineyard) Lewandowski
 
 :category: contributor
 :slug: stephanie-vineyard
+:date: 2013-01-01
 
 Stephanie (Vineyard) Lewandowski
 --------------------------------

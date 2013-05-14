@@ -3,6 +3,7 @@ Luke Makai
 
 :category: contributor
 :slug: contributors-luke-makai
+:date: 2013-01-01
 
 `Luke Makai <http://www.youtube.com/watch?v=A70IlZ3Uyv8>`_
 ----------------------------------------------------------

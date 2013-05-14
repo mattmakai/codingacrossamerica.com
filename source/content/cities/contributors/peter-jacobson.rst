@@ -3,6 +3,7 @@ Peter Jacobson
 
 :category: contributor
 :slug: contributors-peter-jacobson
+:date: 2013-01-01
 
 `Peter Jacobson <http://instagr.am/p/LDa8U1C7Au/>`_
 ---------------------------------------------------

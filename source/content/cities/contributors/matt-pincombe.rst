@@ -3,6 +3,7 @@ Matt Pincombe
 
 :category: contributor
 :slug: matt-pincombe
+:date: 2013-01-01
 
 `Matt Pincombe <http://excella.com/people/matt-pincombe.aspx>`_
 ---------------------------------------------------------------

@@ -3,6 +3,7 @@ Ryan Anderson
 
 :category: contributor
 :slug: contributors-ryan-anderson
+:date: 2013-01-01
 
 
 `Dr. Ryan Anderson <http://www.sciencemag.org/content/330/6010.cover-expansion>`_

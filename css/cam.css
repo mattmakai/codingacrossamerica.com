@@ -800,3 +800,8 @@ p{font-size:18px;font-weight:200;line-height:25px;color:inherit;font-family:"Pal
 #mc_embed_signup #mce-error-response{display:none;}
 #mc_embed_signup #mce-success-response{color:#529214;display:none;}
 #mc_embed_signup label.error{display:block;float:none;width:auto;margin-left:1.05em;text-align:left;padding:.5em 0;}
+.land{fill:#eee;stroke:#406bb4;stroke-width:.5px;}
+.county-boundary{fill:none;stroke:#fff;stroke-width:.5px;}
+.state-boundary{fill:none;stroke:#406bb4;stroke-width:.5px;}
+.y{fill:white;stroke:black;}
+.x{fill:white;stroke:black;}
