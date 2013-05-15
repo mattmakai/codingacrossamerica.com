@@ -7,7 +7,7 @@ ForwardMetrics
 :author: Matt Makai
 
 ForwardMetrics is a San Diego-based startup about to launch its new strategic
-planning web application, Navigator.
+planning web application, FM Navigator.
 
 .. image:: ../img/130425-forwardmetrics/forwardmetrics-logo.jpg
   :alt: ForwardMetrics' logo
@@ -31,7 +31,7 @@ and founder Scott Warner.
 
 Ozzie and Scott saw a need for a flexible, easy-to-use strategic planning 
 tool where non-technical users could simply drag-and-drop items to 
-reorganize their plans. Their tool, called ForwardMetrics Navigator, 
+reorganize their plans. Their tool, called FM Navigator, 
 will be coming out of beta and into public release within the next few days.
 
 The team built a significant amount of custom code to create a uniform user 
@@ -47,9 +47,9 @@ same plan open. If a user one browser and her colleague is working in
 another on the same plan, you can see each others' changes in real-time.
 
 .. image:: ../img/130425-forwardmetrics/navigator-screenshot.png
-  :alt: A screenshot of tasks in ForwardMetrics' Navigator web application
+  :alt: A screenshot of tasks in ForwardMetrics' FM Navigator web application
 
-Screenshot of tasks in ForwardMetrics' Navigator web application
+Screenshot of tasks in the FM Navigator web application
 
 ----
 
@@ -57,9 +57,9 @@ Another focus of the application is the metrics' visualization. Visualizing
 plan projections and milestones is important to the tools' target market.
 
 .. image:: ../img/130425-forwardmetrics/navigator-graphs.png
-  :alt: Metrics graph screenshot in Navigator 
+  :alt: Metrics graph screenshot in FM Navigator 
 
-Metrics graph screenshot in Navigator
+Metrics graph screenshot in FM Navigator
 
 ----
 
@@ -69,11 +69,11 @@ nasty, time-consuming, big problems that's hard to get right. The market
 for strategic planning tools needs language translation because there are
 many international customers. 
 
-Navigator handles this problem by translating an initial set of languages. 
+FM Navigator handles this problem by translating an initial set of languages. 
 Then as users work through the application in a different language, their 
 users can vote on which translations are appropriate, essentially 
 crowdsourcing the solutions. More information can be found about
-ForwardMetrics' Navigator product on their 
+ForwardMetrics' FM Navigator product on their 
 `FAQ page <http://www.forwardmetrics.com/faq>`_.
 
 If you liked this post about 
