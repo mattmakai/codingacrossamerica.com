@@ -60,9 +60,10 @@
     {"day":  59, "date": "05/06/2013", "miles":   0, "total":  5575},
     {"day":  60, "date": "05/07/2013", "miles":   0, "total":  5575},
     {"day":  61, "date": "05/08/2013", "miles":  25, "total":  5600},
-    {"day":  62, "date": "05/09/2013", "miles": 455, "total":  6055},
-    {"day":  63, "date": "05/10/2013", "miles":   0, "total":  6055},
-    {"day":  64, "date": "05/11/2013", "miles":   0, "total":  6055},
-    {"day":  65, "date": "05/12/2013", "miles":   0, "total":  6055},
-    {"day":  66, "date": "05/13/2013", "miles":   0, "total":  6055}
+    {"day":  62, "date": "05/09/2013", "miles": 440, "total":  6040},
+    {"day":  63, "date": "05/10/2013", "miles":   0, "total":  6040},
+    {"day":  64, "date": "05/11/2013", "miles":   0, "total":  6040},
+    {"day":  65, "date": "05/12/2013", "miles":   0, "total":  6040},
+    {"day":  66, "date": "05/13/2013", "miles":   0, "total":  6040},
+    {"day":  67, "date": "05/14/2013", "miles":  55, "total":  6095}
 ]}
