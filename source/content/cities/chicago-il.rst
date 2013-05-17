@@ -31,6 +31,7 @@ Companies
   `UX/Django developer job description <http://jobs.pythonweekly.com/jobs/uxdjango-developer/>`_
 * `The Onion <http://www.theonion.com/>`_. Also relevant: `job posting for Django <http://www.crunchboard.com/opening/detailjob.php?jid=15798>`_
 * `Hashrocket <http://hashrocket.com/>`_.
+* `Panopta <http://www.panopta.com/>`_
 
 Coding
 ------
