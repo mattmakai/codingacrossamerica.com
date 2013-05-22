@@ -66,8 +66,6 @@
 </div>  <div class="container">
       <div class="row">
     <div class="span8">
-      <h2>Miles Driven</h2>
-      <div id="chart"></div>
       <h2>Recent Blog Posts</h2>
                               <div class="blog-post">
             <h3><a href="where-are-the-updates-makai.html">&quot;Where're the Updates, Makai?&quot;</a></h3>
@@ -136,10 +134,10 @@ software companies.</p>
     <div class="offset1 span3">
       <h3>Present Location</h3>
       <strong>
-        <a href="../eugene-or.html">Eugene, OR</a>
+        <a href="../portland-or.html">Portland, OR</a>
       </strong>
       <div>
-          City #16. Day 71 of 152 (47%)
+          City #17. Day 75 of 152 (49%)
       </div>
       <hr/>
       <!--
@@ -198,86 +196,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   <script src="/js/d3.min.js" charset="utf-8"></script>
   <script type="text/javascript">
     $(document).ready(function() {
-            var containerWidth = $("#chart").width(),
-        containerHeight = containerWidth * .8;
-
-    var margin = {top: 10, right: 10, bottom: 30, left: 60},
-        width = containerWidth - margin.left - margin.right,
-        height = (containerHeight * .7) - margin.top - margin.bottom,
-        maxDays = 152, maxMiles = 10500,
-        lineWidth = width / maxDays;
-
-    var x = d3.scale.linear()
-        .domain([0, maxDays])
-        .range([0, width]);
-
-    var y = d3.scale.linear()
-        .domain([0, maxMiles])
-        .range([height, 0]);
-
-    var xAxis = d3.svg.axis()
-        .scale(x)
-        .orient("bottom");
-
-    var yAxis = d3.svg.axis()
-        .scale(y)
-        .orient("left");
-
-    var svg = d3.select("#chart").append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + 
-            margin.top + ")");
-
-    svg.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(0," + height + ")")
-        .call(xAxis);
-
-    svg.append("g")
-        .attr("class", "y axis")
-        .call(yAxis);
-
-    function drawChart(data) {
-        var total_bars = svg.selectAll("rect.total-miles")
-            .data(data.driving)
-                .enter()
-            .append("rect")
-                .attr("x", function(d) {return x(d.day) - lineWidth;})
-                .attr("y", function(d) {return height;})
-                .attr("width",lineWidth)
-                .attr("class", "total-miles")
-                .attr("height", function(d) {return 0;})
-                .style("stroke","#406BB4")
-                .style("fill","#F9A31A")
-            .transition()
-                .attr("y", function(d) {return y(d.total);})
-                .attr("height", function(d) {return height - y(d.total);})
-                .delay(function(d, i) {return (i * 50) + 250;})
-                .duration(1200);
-
-        var bars = svg.selectAll("rect.daily-miles")
-            .data(data.driving)
-                .enter()
-            .append("rect")
-                .attr("x", function(d) {return x(d.day) - lineWidth;})
-                .attr("y", function(d) {return height;})
-                .attr("class", "daily-miles")
-                .attr("width",lineWidth)
-                .attr("height", function(d) {return 0;})
-                .style("stroke","black")
-                .style("fill","#406BB4")
-            .transition()
-                .attr("y", function(d) {return y(d.miles);})
-                .attr("height", function(d) {return height - y(d.miles);})
-                .delay(function(d, i) {return (i * 50) + 250;})
-                .duration(1200);
-    }
-
-    d3.json('/data/driving.json', drawChart);
-
-    });
+            });
   </script>
 </body>
 </html>
