@@ -1,6 +1,7 @@
 .y {fill: none; stroke: white; stroke-width: 1px;}
 .x {fill: none; stroke: white; stroke-width: 1px;}
 
+
 html, body {
     margin: 0;
     padding: 0;
@@ -340,4 +341,17 @@ h1.recent-stories {
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
     border-radius:3px;
+}
+
+/* adjust for phones and tablets' smaller screen sizes */
+@media only screen and (max-device-width: 1024px){
+    .window:nth-child(2) {
+      max-width: 500px;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    .window:nth-child(6) {
+      max-width: 100px;
+    }
 }
