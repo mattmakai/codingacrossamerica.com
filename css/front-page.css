@@ -46,7 +46,7 @@ h1 {
 
 /* snippet about page for caa */
 .window:nth-child(2) {
-  background: url('/img/driving-west.jpg') no-repeat center center fixed;
+  background: url('/img/driving-west.jpg') no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -87,7 +87,7 @@ h1 {
 
 /* recent stories page */
 .window:nth-child(6) {
-  background: url('/img/front-page-recent-stories-bg.jpg') no-repeat center center fixed;
+  background: url('/img/front-page-recent-stories-bg.jpg') no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -344,17 +344,20 @@ h1.recent-stories {
 }
 
 /* adjust for phones and tablets' smaller screen sizes */
-/* ipad vertical */
+/* ipad horizontal */
 @media only screen and (max-device-width: 1024px){
     .window:nth-child(2) {
       max-width: 1024px;
     }
     .window:nth-child(6) {
+      background: url('/img/front-page-recent-stories-bg-1024.jpg') no-repeat center fixed;
       max-width: 1024px;
     }
 }
 
-/* ipad horizontal */
+/* ipad vertical */
+
+/* iphone */
 
 @media only screen and (max-device-width: 480px) {
     .window:nth-child(2) {
