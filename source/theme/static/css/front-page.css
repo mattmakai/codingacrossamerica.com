@@ -352,6 +352,8 @@ h1.recent-stories {
     .window:nth-child(6) {
       background: url('/img/front-page-recent-stories-bg-1024.jpg') no-repeat center fixed;
       max-width: 1024px;
+      background-attachment: fixed !important;
+      background-size: cover !important;
     }
 }
 
