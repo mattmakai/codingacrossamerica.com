@@ -46,11 +46,6 @@ h1 {
 
 /* snippet about page for caa */
 .window:nth-child(2) {
-  background: url('/img/driving-west.jpg') no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   color: #222;
   top: 100%;
 }
