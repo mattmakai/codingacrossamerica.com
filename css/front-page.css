@@ -344,14 +344,23 @@ h1.recent-stories {
 }
 
 /* adjust for phones and tablets' smaller screen sizes */
+/* ipad vertical */
 @media only screen and (max-device-width: 1024px){
     .window:nth-child(2) {
-      max-width: 500px;
+      max-width: 1024px;
+    }
+    .window:nth-child(6) {
+      max-width: 1024px;
     }
 }
 
+/* ipad horizontal */
+
 @media only screen and (max-device-width: 480px) {
+    .window:nth-child(2) {
+      max-width: 480px;
+    }
     .window:nth-child(6) {
-      max-width: 100px;
+      max-width: 480px;
     }
 }
