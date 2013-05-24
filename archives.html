@@ -1,89 +1,317 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/cam.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
+<![endif]-->
   <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
   </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
-    <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li >
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-        <li >
-          <a href="/about.html">About</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>  <div class="container">
-      <h1>Archives for Coding Across America</h1>
-    <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
-    </div>
-  </div>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-            });
-  </script>
+    <h1>Archives for Coding Across America</h1>
+
+<dl>
+    <dt>Fri 09 August 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/washington-dc.html">Washington, DC</a></dd>
+    <dt>Tue 06 August 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/morristown-nj.html">Morristown, NJ</a></dd>
+    <dt>Sat 03 August 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/new-york-ny.html">New York, NY</a></dd>
+    <dt>Mon 29 July 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/boston-ma.html">Boston, MA</a></dd>
+    <dt>Fri 26 July 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/buffalo-ny.html">Buffalo, NY</a></dd>
+    <dt>Sun 21 July 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/detroit-mi.html">Detroit, MI</a></dd>
+    <dt>Sun 14 July 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/chicago-il.html">Chicago, IL</a></dd>
+    <dt>Mon 08 July 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/madison-wi.html">Madison, WI</a></dd>
+    <dt>Tue 25 June 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/kansas-city-mo.html">Kansas City, MO</a></dd>
+    <dt>Sat 22 June 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/des-moines-ia.html">Des Moines, IA</a></dd>
+    <dt>Wed 19 June 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/omaha-ne.html">Omaha, NE</a></dd>
+    <dt>Wed 12 June 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/boulder-co.html">Boulder, CO</a></dd>
+    <dt>Sun 09 June 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/buffalo-wy.html">Buffalo, WY</a></dd>
+    <dt>Thu 06 June 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/missoula-mt.html">Missoula, MT</a></dd>
+    <dt>Wed 29 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/seattle-wa.html">Seattle, WA</a></dd>
+    <dt>Tue 21 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/portland-or.html">Portland, OR</a></dd>
+    <dt>Fri 17 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/eugene-or.html">Eugene, OR</a></dd>
+    <dt>Thu 16 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/where-are-the-updates-makai.html">&quot;Where're the Updates, Makai?&quot;</a></dd>
+    <dt>Thu 09 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/san-francisco-ca.html">San Francisco, CA</a></dd>
+    <dt>Thu 09 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/thoughts-after-two-months.html">Thoughts After Two Months</a></dd>
+    <dt>Wed 08 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/updates.html">Updates</a></dd>
+    <dt>Mon 06 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/adobe-max-2013.html">Adobe MAX 2013</a></dd>
+    <dt>Wed 01 May 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/los-angeles-ca.html">Los Angeles, CA</a></dd>
+    <dt>Mon 29 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/microconf-2013-las-vegas.html">MicroConf 2013</a></dd>
+    <dt>Sun 28 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/las-vegas-nv.html">Las Vegas, NV</a></dd>
+    <dt>Sun 28 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/san-diego-to-las-vegas.html">San Diego to Las Vegas</a></dd>
+    <dt>Fri 26 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/coding-across-america-at-evonexus.html">Coding Across America &#64; EvoNexus</a></dd>
+    <dt>Thu 25 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/forwardmetrics-san-diego-ca.html">ForwardMetrics</a></dd>
+    <dt>Wed 24 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/san-diego-scenery.html">San Diego Scenery</a></dd>
+    <dt>Wed 24 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/evonexus-san-diego-ca.html">EvoNexus</a></dd>
+    <dt>Tue 23 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/antengo-san-diego-ca.html">Antengo</a></dd>
+    <dt>Tue 23 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/add-kansas-city-missouri.html">Add Kansas City, Missouri</a></dd>
+    <dt>Thu 18 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/phoenix-to-san-diego.html">Phoenix to San Diego</a></dd>
+    <dt>Thu 18 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/misto-box-phoenix-az.html">MistoBox</a></dd>
+    <dt>Thu 18 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/san-diego-ca.html">San Diego, CA</a></dd>
+    <dt>Wed 17 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/co-hoots-phoenix-az.html">CO+HOOTS</a></dd>
+    <dt>Wed 17 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/seed-spot-phoenix-az.html">Seed Spot</a></dd>
+    <dt>Tue 16 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/flagstaff-az.html">Flagstaff, AZ</a></dd>
+    <dt>Tue 16 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/startup-america-artwork.html">Startup America Artwork</a></dd>
+    <dt>Sun 14 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/moab-to-phoenix.html">Moab to Phoenix</a></dd>
+    <dt>Sun 14 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/moab-scenery.html">Moab Scenery</a></dd>
+    <dt>Sun 14 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/phoenix-az.html">Phoenix, AZ</a></dd>
+    <dt>Fri 12 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/los-alamos-to-moab.html">Los Alamos to Moab</a></dd>
+    <dt>Fri 12 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/moab-ut.html">Moab, UT</a></dd>
+    <dt>Fri 12 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a></dd>
+    <dt>Thu 11 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/los-alamos-new-mexico-is-beautiful.html">Los Alamos is Beautiful</a></dd>
+    <dt>Thu 11 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/new-grad-school.html">The New &quot;Grad School&quot;</a></dd>
+    <dt>Wed 10 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/los-alamos-nm.html">Los Alamos, NM</a></dd>
+    <dt>Wed 10 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/lubbock-to-los-alamos.html">Lubbock to Los Alamos</a></dd>
+    <dt>Tue 09 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/substitute-phoenix-for-flagstaff.html">Substitute Phoenix for Flagstaff</a></dd>
+    <dt>Tue 09 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/month-meeting-startups.html">A Month of Meeting Startups</a></dd>
+    <dt>Sun 07 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/austin-to-lubbock.html">Austin to Lubbock</a></dd>
+    <dt>Sun 07 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/lubbock-tx.html">Lubbock, TX</a></dd>
+    <dt>Wed 03 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/capital-factory-austin-tx.html">Capital Factory</a></dd>
+    <dt>Wed 03 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/starting-sustaining-book.html">Doers Help Doers</a></dd>
+    <dt>Mon 01 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/austin-tx.html">Austin, TX</a></dd>
+    <dt>Mon 01 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/dallas-to-austin.html">Dallas to Austin</a></dd>
+    <dt>Mon 01 April 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/tech-wildcatters-dallas-tx.html">Tech Wildcatters</a></dd>
+    <dt>Fri 29 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/gravity-center-dallas-tx.html">The Gravity Center in Plano, TX</a></dd>
+    <dt>Fri 29 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/the-common-desk-dallas-tx.html">The Common Desk</a></dd>
+    <dt>Thu 28 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/dallas-tx.html">Dallas, TX</a></dd>
+    <dt>Thu 28 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/memphis-to-dallas.html">Memphis to Dallas</a></dd>
+    <dt>Wed 27 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/memphis-mempy-talk.html">MemPy</a></dd>
+    <dt>Wed 27 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/memphis-seed-hatchery-dinner.html">Memphis Seed Hatchery Dinner</a></dd>
+    <dt>Sun 24 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/heading-to-memphis.html">New Orleans to Memphis</a></dd>
+    <dt>Sun 24 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/memphis-tn.html">Memphis, TN</a></dd>
+    <dt>Sat 23 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In To New Orleans' Growing Entrepreneurship Scene</a></dd>
+    <dt>Fri 22 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/4pt0schools-coder-couch-nola.html">4.0 Schools' Coder Couch in NOLA</a></dd>
+    <dt>Fri 22 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/noew-ideacorps-pitch-challenge.html">NOEW IDEAcorps Pitch Challenge</a></dd>
+    <dt>Thu 21 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools' Companies Pitches</a></dd>
+    <dt>Wed 20 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/maximizing-value-99-designs-logo-contest.html">99designs Logo Contests</a></dd>
+    <dt>Mon 18 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a></dd>
+    <dt>Mon 18 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/new-orleans-entrepreneurship-week.html">New Orleans Entrepreneurship Week</a></dd>
+    <dt>Mon 18 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/charlotte-to-new-orleans.html">Charlotte to New Orleans</a></dd>
+    <dt>Sun 17 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/nashville-tn.html">Nashville, TN</a></dd>
+    <dt>Sun 17 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/new-orleans-la.html">New Orleans, LA</a></dd>
+    <dt>Sat 16 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/hey-pycon.html">PyCon</a></dd>
+    <dt>Thu 14 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/charlottesville-virginia-day-one-through-five.html">Charlottesville, VA Pictures</a></dd>
+    <dt>Wed 13 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/charlotte-nc.html">Charlotte, NC</a></dd>
+    <dt>Tue 12 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/willowtree-apps-charlottesville-va.html">WillowTree Apps</a></dd>
+    <dt>Sun 10 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/agilityfeat-charlottesville-va.html">AgilityFeat</a></dd>
+    <dt>Sun 10 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/to-prospective-organizations.html">To Prospective Organizations</a></dd>
+    <dt>Sat 09 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/charlottesville-va.html">Charlottesville, VA</a></dd>
+    <dt>Sat 09 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/day-one-coding-across-america.html">Day One</a></dd>
+    <dt>Sat 09 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/washington-dc-to-charlottesville-va.html">Washington, DC to Charlottesville</a></dd>
+    <dt>Fri 08 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/uppidy-washington-dc.html">Uppidy</a></dd>
+    <dt>Fri 01 March 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/wisertogether-washington-dc.html">WiserTogether</a></dd>
+    <dt>Tue 26 February 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/schedule-curveball.html">Schedule Curveball</a></dd>
+    <dt>Wed 20 February 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/human-geo-washington-dc.html">HumanGeo</a></dd>
+    <dt>Tue 19 February 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/tim-oreilly-open-government.html">Tim O'Reilly on Open Government</a></dd>
+    <dt>Thu 14 February 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/less-than-one-month-to-go.html">(Less Than) One Month to Go</a></dd>
+    <dt>Sat 26 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/dc-python-group-coding.html">DC Python Group Coding</a></dd>
+    <dt>Fri 25 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/comments.html">Comments</a></dd>
+    <dt>Wed 16 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/wikivoyage-and-bonus-city.html">Wikivoyage and a Bonus City</a></dd>
+    <dt>Wed 09 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/two-months-to-go.html">Two Months To Go</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/blog.html">Blog</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/burton-white.html">Burton White</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/cities.html">Cities</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/contributors.html">Contributors</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/contributors-liz-bird.html">Liz Bird</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/contributors-luke-makai.html">Luke Makai</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/contributors-peter-jacobson.html">Peter Jacobson</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/contributors-ryan-anderson.html">Ryan Anderson</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/erin-callahan.html">Erin Callahan</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/faq.html">Frequently Asked Questions</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/matt-pincombe.html">Matt Pincombe</a></dd>
+    <dt>Tue 01 January 2013</dt>
+    <dd><a href="http://www.codingacrossamerica.com/stephanie-vineyard.html">Stephanie (Vineyard) Lewandowski</a></dd>
+    <dt>Wed 26 December 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-redding-ca.html">Why Redding, CA?</a></dd>
+    <dt>Mon 26 November 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/convictions.html">Convictions</a></dd>
+    <dt>Wed 21 November 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/research.html">Research</a></dd>
+    <dt>Thu 01 November 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/songs.html">Songs</a></dd>
+    <dt>Tue 30 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/30-in-5.html">30 in 5</a></dd>
+    <dt>Wed 24 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-san-francisco-ca.html">Why San Francisco, CA?</a></dd>
+    <dt>Sun 21 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-los-angeles-ca.html">Why Los Angeles, CA?</a></dd>
+    <dt>Sat 13 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-san-diego-ca.html">Why San Diego, CA?</a></dd>
+    <dt>Wed 10 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-flagstaff-az.html">Why Flagstaff, AZ?</a></dd>
+    <dt>Sun 07 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-moab-ut.html">Why Moab, Utah?</a></dd>
+    <dt>Sat 06 October 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-los-alamos-nm.html">Why Los Alamos, New Mexico?</a></dd>
+    <dt>Thu 27 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-lubbock-tx.html">Why Lubbock, Texas?</a></dd>
+    <dt>Sun 23 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/diminishing-marginal-utility-stuff.html">Diminishing Marginal Utility of &quot;Stuff&quot;</a></dd>
+    <dt>Sat 22 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-austin-tx.html">Why Austin, Texas?</a></dd>
+    <dt>Tue 18 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/staying-in-shape-on-the-road.html">Staying In Shape On The Road</a></dd>
+    <dt>Tue 18 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-new-orleans-la.html">Why New Orleans, Louisiana?</a></dd>
+    <dt>Fri 07 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-memphis-tennessee.html">Why Memphis, Tennessee?</a></dd>
+    <dt>Wed 05 September 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/djangonauts-org.html">Djangonauts.org</a></dd>
+    <dt>Wed 29 August 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/living-out-of-your-car.html">Living Out of Your Car</a></dd>
+    <dt>Mon 20 August 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/beards.html">Beards</a></dd>
+    <dt>Sun 19 August 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-nashville-tn.html">Why Nashville, Tennessee?</a></dd>
+    <dt>Sat 04 August 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/few-route-modifications.html">A Few Route Modifications</a></dd>
+    <dt>Sat 28 July 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/archetypal-days.html">Archetypal Days</a></dd>
+    <dt>Sun 22 July 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/causal-attribution.html">Causal Attribution</a></dd>
+    <dt>Sun 15 July 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/inconveniences.html">Inconveniences</a></dd>
+    <dt>Sat 07 July 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/quiet.html">Quiet</a></dd>
+    <dt>Wed 04 July 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/breadth-versus-depth.html">Breadth Versus Depth</a></dd>
+    <dt>Sat 30 June 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-charlottesville-va.html">Why Charlottesville, Virginia?</a></dd>
+    <dt>Sun 24 June 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/camera.html">Camera</a></dd>
+    <dt>Mon 18 June 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/projects.html">Projects</a></dd>
+    <dt>Sun 17 June 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/the-conversations.html">The Conversations</a></dd>
+    <dt>Mon 11 June 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/estimating-budget.html">Estimating A Budget</a></dd>
+    <dt>Tue 05 June 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/jump-forward-one-year.html">Jump Forward One Year</a></dd>
+    <dt>Thu 31 May 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-charlotte-nc.html">Why Charlotte, North Carolina?</a></dd>
+    <dt>Mon 28 May 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/possessions.html">Possessions</a></dd>
+    <dt>Sat 26 May 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/contributions.html">Contributions</a></dd>
+    <dt>Thu 24 May 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/what-to-do-in-each-city.html">What To Do In Each City</a></dd>
+    <dt>Tue 22 May 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/goals.html">Goals</a></dd>
+    <dt>Mon 21 May 2012</dt>
+    <dd><a href="http://www.codingacrossamerica.com/why-coding-across-america.html">Why?</a></dd>
+</dl>
+    
 </body>
 </html>

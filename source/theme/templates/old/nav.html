@@ -1,0 +1,25 @@
+<div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <ul class="nav">
+        <li>
+          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
+        </li>
+      </ul>
+      <ul class="nav right-nav" style="float: right;">
+        <li {% if article and (article.category == 'blog' or article.category == 'post') %}class="active"{% endif %}>
+          <a href="/blog.html">Blog</a>
+        </li>
+        <li {% if article and (article.category == 'cities' or article.category == 'city') %}class="active"{% endif %}>
+          <a href="/cities.html">Cities</a>
+        </li>
+        <li {% if article and article.category == 'contributors' %}class="active"{% endif %}>
+          <a href="/contributors.html">Contributors</a>
+        </li>
+        <li {% if article and article.category == 'about' %}class="active"{% endif %}>
+          <a href="/about.html">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

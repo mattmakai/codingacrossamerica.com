@@ -1,77 +1,210 @@
-{% extends 'base.html' %}
+{% extends "base.html" %}
+
+{% block css_head %}
+    <link rel="stylesheet" href="/css/front-page.css">
+    <link rel="stylesheet" href="/css/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+{% endblock %}
 
 {% block content %}
-  <div class="row">
-    <div class="span8">
-      <h2>Recent Blog Posts</h2>
-      {% set post_count = 0 %}
-      {% for article in dates %}
-        {% if article.category == 'post' and post_count < 6 %}
-          <div class="blog-post">
-            <h3><a href="{{ article.slug }}.html">{{ article.title }}</a></h3>
-            {% set post_count = post_count + 1 %}
-            {{ article.content|truncate(400) }} 
-            (<a href="{{ article.slug }}.html">read more</a>)
-          </div>
-        {% endif %}
-      {% endfor %}
-      <div>
-        <a href="/blog.html">View more posts &raquo;</a>
-      </div>
-    </div>
-    <div class="offset1 span3">
-      <h3>Present Location</h3>
-      <strong>
-        <a href="../portland-or.html">Portland, OR</a>
-      </strong>
-      <div>
-          City #17. Day 75 of 152 (49%)
-      </div>
-      <hr/>
-      <!--
-      <div id="mc_embed_signup">
-          <form action="http://mattmakai.us2.list-manage2.com/subscribe/post?u=b7e774f0c4f05dcebbfee183d&amp;id=58e7f1e2ec" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <label for="mce-EMAIL">Email updates on software development and startups. No spam or advertisements ever.</label>
-              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-          </form>
-      </div>
-      <hr/>
-      -->
-      <h3>Updates</h3>
-      {% include "feeds.html" %}
-      <hr/>
-      <h3>What?</h3>
-      <p>
-        Coding Across America is a five month road trip to tell the stories 
-        of software developers and entrepreneurs around the United States.
-      </p>
-      <h3>When?</h3>
-      <p>
-        I'm currently on the road! I have been traveling since March 9. I 
-        will wrap up my trip on August 9, 2013.
-      </p>
-      <h3>Why?</h3>
-      <p>
-        To listen, learn through writing, and show there are fascinating 
-        startup ecosystems all across the United States.
-      </p>
-      <h3>Learn More</h3>
-      <p>
-        See <a href="../faq.html">frequently asked questions</a>.
-      </p>
-      <hr/>
-      <div>
-        <h3>Destinations</h3>
-        {% for article in dates|reverse %}
-          {% if article.category == 'city' %}
-            <div>
-              {{ article.date.strftime('%m.%d') }} 
-              <a href="{{ article.slug }}.html">{{ article.title }}</a>
+    <section id="intro-text" class="window">
+        <div class="content">
+            <img src="/img/caa-logo.png" class="caa-logo" />
+            <div class="caa-subtitle"> 
+                Scroll <i class="icon-arrow-down"></i> 
+                <div id="navigation-links" style="display: none;">
+                    ...or jump to: <br/>
+                    <a class="top-navigation pad-right" href="#map">Map</a> |
+                    <a class="top-navigation pad-right pad-left" href="#stories">Stories</a> |
+                    <a class="top-navigation pad-left pad-right" href="#timeline">Timeline</a> |
+                    <a class="top-navigation pad-left" href="#contact">Contact</a>
+                </div>
             </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </div>
+        </div>
+    </section>
+    
+    <section id="intro" class="window">
+        <div class="content">
+            <div class="intro">
+                <div class="intro-text">
+                        Coding Across America is a 
+                    <div class="five-months">five month road trip</div>
+                        through
+                    <div class="thirty-cities">
+                        thirty United States cities
+                    </div> 
+                    <div class="plain-text">
+                        to learn from tech entrepreneurs
+                    </div>
+                    <div class="plain-text">
+                        and tell their stories.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="miles-driven-viz" class="window">
+        <div class="content">
+            <h1>Miles driven <span class="primary-color">by day</span> and 
+            <span class="complementary-color">in aggregate</span></h1>
+            <div id="miles-driven-chart"></div>
+        </div>
+    </section>
+    
+    <section id="map" class="window">
+        <div class="content">
+            <h1>Stories by City</h1>
+            <div id="map-container"></div>
+        </div>
+    </section>
+    
+    <section id="organizations" class="window">
+        <div class="content">
+            <h1>Stories by Topic</h1>
+            <div id="org-svg"></div>
+        </div>
+    </section>
+   
+   <!--
+    <section id="timeline" class="window">
+        <div class="content">
+            <h1>Timeline</h1>
+            <div id="caa-timeline"></div>
+        </div>
+    </section>
+   -->
+    
+
+    <section id="stories" class="window">
+        <div class="content">
+            <div class="recent-stories-text">
+                <h1 class="recent-stories">Recent Stories</h1>
+                {% set post_count = 0 %}
+                {% for article in dates %}
+                    {% if article.category == 'post' and post_count < 6 %}
+                        <div class="front-page-story">
+                            <a href="{{ article.slug }}.html">{{ article.title }}</a>
+                        </div>
+                        {% set post_count = post_count + 1 %}
+                    {% endif %}
+                {% endfor %}
+                <div class="see-all-stories">
+                    <a href="/blog.html">...or see all stories</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="your-hackers-journey" class="window">
+        <div class="content apprenticeship">
+            <h1>You Should Travel and Learn About Your Field</h1>
+            <h2>
+                "<span class="quote">Get out of the building.</span>"
+                    - <a href="http://steveblank.com/2009/10/08/get-out-of-my-building/" class="quote-link">Steve Blank</a>
+            </h2>
+            <h2>
+                I'm considering writing a book about how to travel
+                and create a self-directed project for yourself.
+            </h2>
+            <h2>
+                If you find the topic of a self-directed traveling 
+                "apprenticeship" interesting, shoot me an email 
+                or a tweet. Scroll down for my contact information.
+            </h2>
+            <h2>
+                I've made plenty of mistakes while planning and executing
+                my own trip. If I can write about ways to avoid those
+                mistakes and it's useful to other people, I'll definitely
+                take the time to do it.
+            </h2>
+        </div>
+    </section>
+    
+    
+    <section id="contact" class="window">
+        <div class="content">
+            <h1>Contact</h1>
+            <div class="contact-picture">
+                <img src="/img/matt-makai.jpg" id="matt-makai-image" />
+            </div>
+            <div class="contact-info">
+                <div class="contact-info-container">
+                <h2>Matt Makai</h2>
+                <h2>Full stack software developer</h2>
+                <h2>&nbsp;</h2>
+                <h2><a href="mailto:matthew.makai@gmail.com" class="contact-link">matthew.makai@gmail.com</a></h2>
+                <h2>@<a href="https://twitter.com/mattmakai" class="contact-link">mattmakai</a> on Twitter</h2>
+                <h2><a href="https://github.com/makaimc" class="contact-link">makaimc</a> on Github</h2>
+                <h2><a href="http://www.mattmakai.com/" class="contact-link">Technical blog</a></h2>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+<!-- 
+    <section id="thank-you" class="window">
+        <div class="content">
+            <h1>Thank You</h1>
+        </div>
+    </section>
+-->
+    
+    <section id="caa-inverted-logo" class="window">
+        <div class="content">
+            <div class="caa-logo-inverted">
+                <img src="/img/caa-logo-inverted.png" width="90%" />
+            </div>
+        </div>
+    </section>
+{% endblock %}
+
+{% block javascript_body %}
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.windows.js"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var $windows = $('.window');
+            var sectionReady = {"intro-text": true, "miles-driven-viz": true,
+                                "organizations": true};
+
+            $windows.windows({
+                snapping: true,
+                snapSpeed: 150,
+                snapInterval: 1800,
+                onScroll: function(s) {
+                    var sectionId = $('.window').getCurrentWindow().context.id;
+                    var sectionStarted = sectionReady[sectionId];
+                    if (sectionReady[sectionId]) {
+                        // only run a visualization once
+                        sectionReady[sectionId] = false;
+                        if (sectionId == "intro") {
+                        }
+                        if (sectionId == "miles-driven-viz") {
+                            d3.json('/data/driving.json', drawChart);
+                        }
+                        if (sectionId == "organizations") {
+                            d3.json('/data/stories.json', 
+                                drawOrganizationsChart);
+                        }
+                    }
+                },
+                onSnapComplete: function($el) {},
+                onWindowEnter: function($el) {}
+            });
+
+            $("#navigation-links").delay(1000).fadeIn(1000);
+            drawCitiesMap();
+
+            
+
+        });
+
+
+    </script>
 {% endblock %}

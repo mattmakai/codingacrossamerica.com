@@ -1,202 +1,230 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/cam.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+        <link rel="stylesheet" href="/css/front-page.css">
+    <link rel="stylesheet" href="/css/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
+<![endif]-->
   <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
   </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
-    <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li >
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-        <li >
-          <a href="/about.html">About</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>  <div class="container">
-      <div class="row">
-    <div class="span8">
-      <h2>Recent Blog Posts</h2>
-                              <div class="blog-post">
-            <h3><a href="where-are-the-updates-makai.html">&quot;Where're the Updates, Makai?&quot;</a></h3>
-                        <p>Yes, I know I have been putting up posts a lot slower than I did earlier in
-my trip. I have actually had a lot of great meetings lately in San Francisco.
-There is a whole bunch of great new content which I have to finish up and
-publish.</p>
-<p>I'm working on a site redesign that will define what the finished output
-of my five month project will ultimately be. It's taking me awhile because
-I ... 
-            (<a href="where-are-the-updates-makai.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h3><a href="thoughts-after-two-months.html">Thoughts After Two Months</a></h3>
-                        <p>I've been on the road for two months today. Here are a few of my thoughts to
-date.</p>
-<p>At the one month mark I <a class="reference external" href="../month-meeting-startups.html">wrote my thoughts</a>
-on meeting startups. I still agree with what I wrote in that post. This post
-is a little different - more ad hoc topics in each section. Some of these
-topics I've been thinking about for ... 
-            (<a href="thoughts-after-two-months.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h3><a href="updates.html">Updates</a></h3>
-                        <p>My updates have been less frequent over the past few days. I am shifting
-from primarily running around meeting with companies to doing more
-programming. There are also a couple dozen posts I need to finish writing,
-even some from as far back as New Orleans and Memphis!</p>
-<p>I will still be meeting with companies in San Francisco, Portland, Seattle,
-and beyond. However, I'm trying to avoid ... 
-            (<a href="updates.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h3><a href="adobe-max-2013.html">Adobe MAX 2013</a></h3>
-                        <p>I'm at Adobe MAX 2013 in Los Angeles, CA for the next three days.</p>
-<img alt="Adobe MAX banner at registration" src="/img/130506-adobe-max-2013/adobe-max-banner.jpg" />
-<hr class="docutils" />
-<p>There should be some product unveilings as well as updates to the Creative
-Cloud Suite, which includes Photoshop, Illustrator, Indesign, Edge Reflow,
-and many other tools used by graphic and web ... 
-            (<a href="adobe-max-2013.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h3><a href="microconf-2013-las-vegas.html">MicroConf 2013</a></h3>
-                        <p>I'm in Las Vegas, Nevada for MicroConf 2013 today and tomorrow.</p>
-<img alt="Microconf 2013 projected on the main screen of the conference room" src="../img/130429-microconf-2013/microconf-2013-on-screen.jpg" />
-<hr class="docutils" />
-<p>MicroConf is a conference focused on bootstrapped startups and single founder
-software companies.</p>
-<p>The conference organizers' perspectives is one of ... 
-            (<a href="microconf-2013-las-vegas.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h3><a href="san-diego-to-las-vegas.html">San Diego to Las Vegas</a></h3>
-                        <p>I am heading up to Las Vegas after spending just over a week in San Diego.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/2RmA0"><img alt="The drive from San Diego, CA to Las Vegas, NV" src="../img/130428-san-diego-to-las-vegas/san-diego-to-las-vegas.jpg" /></a>
-<p>The drive from San Diego, CA to Las Vegas, NV.</p>
-<hr class="docutils" />
-<p>In Las Vegas I will be ... 
-            (<a href="san-diego-to-las-vegas.html">read more</a>)
-          </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <div>
-        <a href="/blog.html">View more posts &raquo;</a>
-      </div>
-    </div>
-    <div class="offset1 span3">
-      <h3>Present Location</h3>
-      <strong>
-        <a href="../portland-or.html">Portland, OR</a>
-      </strong>
-      <div>
-          City #17. Day 75 of 152 (49%)
-      </div>
-      <hr/>
-      <!--
-      <div id="mc_embed_signup">
-          <form action="http://mattmakai.us2.list-manage2.com/subscribe/post?u=b7e774f0c4f05dcebbfee183d&amp;id=58e7f1e2ec" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <label for="mce-EMAIL">Email updates on software development and startups. No spam or advertisements ever.</label>
-              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-          </form>
-      </div>
-      <hr/>
-      -->
-      <h3>Updates</h3>
-      <a href="http://twitter.com/mattmakai/"><img src="/img/twitter-icon.png" style="border: none; margin-top: 5px;" height="28" width="28" /></a>
-<a href="/feeds/post.atom.xml"><img src="/img/feed-icon.png" height="28" width="28" style="border: none; margin-top: 5px;" /></a>      <hr/>
-      <h3>What?</h3>
-      <p>
-        Coding Across America is a five month road trip to tell the stories 
-        of software developers and entrepreneurs around the United States.
-      </p>
-      <h3>When?</h3>
-      <p>
-        I'm currently on the road! I have been traveling since March 9. I 
-        will wrap up my trip on August 9, 2013.
-      </p>
-      <h3>Why?</h3>
-      <p>
-        To listen, learn through writing, and show there are fascinating 
-        startup ecosystems all across the United States.
-      </p>
-      <h3>Learn More</h3>
-      <p>
-        See <a href="../faq.html">frequently asked questions</a>.
-      </p>
-      <hr/>
-      <div>
-        <h3>Destinations</h3>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
-    </div>
-  </div>
-    <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
-    </div>
-  </div>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
+        <section id="intro-text" class="window">
+        <div class="content">
+            <img src="/img/caa-logo.png" class="caa-logo" />
+            <div class="caa-subtitle"> 
+                Scroll <i class="icon-arrow-down"></i> 
+                <div id="navigation-links" style="display: none;">
+                    ...or jump to: <br/>
+                    <a class="top-navigation pad-right" href="#map">Map</a> |
+                    <a class="top-navigation pad-right pad-left" href="#stories">Stories</a> |
+                    <a class="top-navigation pad-left pad-right" href="#timeline">Timeline</a> |
+                    <a class="top-navigation pad-left" href="#contact">Contact</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="intro" class="window">
+        <div class="content">
+            <div class="intro">
+                <div class="intro-text">
+                        Coding Across America is a 
+                    <div class="five-months">five month road trip</div>
+                        through
+                    <div class="thirty-cities">
+                        thirty United States cities
+                    </div> 
+                    <div class="plain-text">
+                        to learn from tech entrepreneurs
+                    </div>
+                    <div class="plain-text">
+                        and tell their stories.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="miles-driven-viz" class="window">
+        <div class="content">
+            <h1>Miles driven <span class="primary-color">by day</span> and 
+            <span class="complementary-color">in aggregate</span></h1>
+            <div id="miles-driven-chart"></div>
+        </div>
+    </section>
+    
+    <section id="map" class="window">
+        <div class="content">
+            <h1>Stories by City</h1>
+            <div id="map-container"></div>
+        </div>
+    </section>
+    
+    <section id="organizations" class="window">
+        <div class="content">
+            <h1>Stories by Topic</h1>
+            <div id="org-svg"></div>
+        </div>
+    </section>
+   
+   <!--
+    <section id="timeline" class="window">
+        <div class="content">
+            <h1>Timeline</h1>
+            <div id="caa-timeline"></div>
+        </div>
+    </section>
+   -->
+    
+
+    <section id="stories" class="window">
+        <div class="content">
+            <div class="recent-stories-text">
+                <h1 class="recent-stories">Recent Stories</h1>
+                                                                            <div class="front-page-story">
+                            <a href="where-are-the-updates-makai.html">&quot;Where're the Updates, Makai?&quot;</a>
+                        </div>
+                                                                                                        <div class="front-page-story">
+                            <a href="thoughts-after-two-months.html">Thoughts After Two Months</a>
+                        </div>
+                                                                                                        <div class="front-page-story">
+                            <a href="updates.html">Updates</a>
+                        </div>
+                                                                                                        <div class="front-page-story">
+                            <a href="adobe-max-2013.html">Adobe MAX 2013</a>
+                        </div>
+                                                                                                        <div class="front-page-story">
+                            <a href="microconf-2013-las-vegas.html">MicroConf 2013</a>
+                        </div>
+                                                                                                        <div class="front-page-story">
+                            <a href="san-diego-to-las-vegas.html">San Diego to Las Vegas</a>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="see-all-stories">
+                    <a href="/blog.html">...or see all stories</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="your-hackers-journey" class="window">
+        <div class="content apprenticeship">
+            <h1>You Should Travel and Learn About Your Field</h1>
+            <h2>
+                "<span class="quote">Get out of the building.</span>"
+                    - <a href="http://steveblank.com/2009/10/08/get-out-of-my-building/" class="quote-link">Steve Blank</a>
+            </h2>
+            <h2>
+                I'm considering writing a book about how to travel
+                and create a self-directed project for yourself.
+            </h2>
+            <h2>
+                If you find the topic of a self-directed traveling 
+                "apprenticeship" interesting, shoot me an email 
+                or a tweet. Scroll down for my contact information.
+            </h2>
+            <h2>
+                I've made plenty of mistakes while planning and executing
+                my own trip. If I can write about ways to avoid those
+                mistakes and it's useful to other people, I'll definitely
+                take the time to do it.
+            </h2>
+        </div>
+    </section>
+    
+    
+    <section id="contact" class="window">
+        <div class="content">
+            <h1>Contact</h1>
+            <div class="contact-picture">
+                <img src="/img/matt-makai.jpg" id="matt-makai-image" />
+            </div>
+            <div class="contact-info">
+                <div class="contact-info-container">
+                <h2>Matt Makai</h2>
+                <h2>Full stack software developer</h2>
+                <h2>&nbsp;</h2>
+                <h2><a href="mailto:matthew.makai@gmail.com" class="contact-link">matthew.makai@gmail.com</a></h2>
+                <h2>@<a href="https://twitter.com/mattmakai" class="contact-link">mattmakai</a> on Twitter</h2>
+                <h2><a href="https://github.com/makaimc" class="contact-link">makaimc</a> on Github</h2>
+                <h2><a href="http://www.mattmakai.com/" class="contact-link">Technical blog</a></h2>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+<!-- 
+    <section id="thank-you" class="window">
+        <div class="content">
+            <h1>Thank You</h1>
+        </div>
+    </section>
+-->
+    
+    <section id="caa-inverted-logo" class="window">
+        <div class="content">
+            <div class="caa-logo-inverted">
+                <img src="/img/caa-logo-inverted.png" width="90%" />
+            </div>
+        </div>
+    </section>
+        <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.windows.js"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var $windows = $('.window');
+            var sectionReady = {"intro-text": true, "miles-driven-viz": true,
+                                "organizations": true};
+
+            $windows.windows({
+                snapping: true,
+                snapSpeed: 150,
+                snapInterval: 1800,
+                onScroll: function(s) {
+                    var sectionId = $('.window').getCurrentWindow().context.id;
+                    var sectionStarted = sectionReady[sectionId];
+                    if (sectionReady[sectionId]) {
+                        // only run a visualization once
+                        sectionReady[sectionId] = false;
+                        if (sectionId == "intro") {
+                        }
+                        if (sectionId == "miles-driven-viz") {
+                            d3.json('/data/driving.json', drawChart);
+                        }
+                        if (sectionId == "organizations") {
+                            d3.json('/data/stories.json', 
+                                drawOrganizationsChart);
+                        }
+                    }
+                },
+                onSnapComplete: function($el) {},
+                onWindowEnter: function($el) {}
             });
-  </script>
+
+            $("#navigation-links").delay(1000).fadeIn(1000);
+            drawCitiesMap();
+
+            
+
+        });
+
+
+    </script>
+
 </body>
 </html>

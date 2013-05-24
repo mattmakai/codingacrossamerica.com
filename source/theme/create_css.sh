@@ -1,2 +1,2 @@
 #!/bin/sh
-lessc --compress less/cam.less > ./static/css/cam.css
+lessc --compress less/caa.less > ./static/css/caa.css

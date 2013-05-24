@@ -1,0 +1,343 @@
+.y {fill: none; stroke: white; stroke-width: 1px;}
+.x {fill: none; stroke: white; stroke-width: 1px;}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica; 
+}
+
+.content {
+    padding: 3% 5% 5% 5%;
+    margin:auto;
+}
+
+.primary-color {
+    color: #406BB4;
+}
+
+.complementary-color {
+    color: #F9A31A;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.caa-logo {
+    max-width: 100%;
+}
+
+.window {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+/* title page with logo */
+.window:nth-child(1) {
+    background: #fff; 
+    color: #406BB4;
+    top: 0%;
+}
+
+/* snippet about page for caa */
+.window:nth-child(2) {
+  background: url('/img/driving-west.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #222;
+  top: 100%;
+}
+
+/* miles driven chart */
+.window:nth-child(3) {
+    background: #333;
+    color: #fff;
+    top: 200%;
+}
+
+/* stories by city */
+.window:nth-child(4) {
+    background: #406BB4;
+    color: #fff;
+    top: 300%;
+}
+
+/* stories by topic visualization */
+.window:nth-child(5) {
+    background: #231f20;
+    color: #fff;
+    top: 400%;
+}
+
+/* timeline */
+/*
+.window:nth-child(6) {
+    background: #F9A31A;
+    color: #406BB4;
+    top: 500%;
+}
+*/
+
+/* recent stories page */
+.window:nth-child(6) {
+  background: url('/img/front-page-recent-stories-bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    color: #222;
+    top: 500%;
+}
+
+/* book page */
+.window:nth-child(7) {
+    background: #222;
+    color: #fff;
+    top: 600%;
+}
+
+/* contact information page */
+.window:nth-child(8) {
+    background: #000;
+    color: #fff;
+    top: 700%;
+}
+
+/* reverse logo page */
+.window:nth-child(9) {
+    background: #406BB4;
+    color: #fff;
+    top: 800%;
+}
+
+.window:nth-child(10) {
+    background: #eee;
+    color: #fff;
+    top: 900%;
+}
+
+.section-left {
+    text-align: left;
+    padding: 0 25px 0 5%;
+    float: left;
+}
+
+.section-right {
+    text-align: right;
+    padding: 0 5% 0 25px;
+    float: right;
+}
+
+a.top-navigation, a:hover.top-navigation {
+    color: #406BB4;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.pad-right {
+    padding-right: 10px;
+}
+
+a.pad-left {
+    padding-left: 10px;
+}
+
+.caa-subtitle {
+    text-align: right;
+    color: #222;
+}
+
+#navigation-links {
+    padding-top: 20px;
+}
+
+
+.intro-text {
+    background: rgba(0,0,0,.8);
+    color: #eee;
+    font-size: 2em;
+    font-weight: bold;
+    width: 70%;
+    padding: 1em;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:6px;
+}
+
+.contact-picture {
+    float: left;
+}
+
+.contact-picture img {
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:6px;
+}
+
+.contact-info {
+    float: right;
+    vertical-align: top;
+}
+
+.contact-info-container {
+    text-align: left;
+}
+
+a.contact-link, a:hover.contact-link {
+    color: #ddd;
+}
+
+.intro .plain-text {
+    padding-bottom: 10px;
+}
+
+.intro .five-months {
+    color: #406BB4;
+    padding: 10px 0 10px 0;
+}
+
+.thirty-cities {
+    color: #F9A31A;
+    padding: 10px 0 10px 0;
+}
+
+/* inverted logo slide */
+.caa-logo-inverted {
+    text-align: center;
+}
+
+/* map */
+#states path {
+  fill: #ccc;
+  stroke: #fff;
+}
+
+path.arc {
+  pointer-events: none;
+  fill: none;
+  stroke: #000;
+  display: none;
+}
+
+path.cell {
+  fill: none;
+  pointer-events: all;
+}
+
+circle {
+  fill: steelblue;
+  fill-opacity: .8;
+  stroke: #fff;
+}
+
+#cells.voronoi path.cell {
+  stroke: brown;
+}
+
+#cells g:hover path.arc {
+  display: inherit;
+}
+
+.city-name {
+    color: #222;
+    font-weight: bold;
+}
+
+
+/* book page */
+.apprenticeship h2 {
+    color: #ddd;
+    width: 70%;
+}
+
+a.twitter-link, a:hover.twitter-link {
+    color: #fff;
+}
+
+a.quote-link, a:hover.quote-link {
+    color: #ddd;
+}
+
+span.quote {
+    font-style: italic; 
+}
+
+/* miles driven page */
+.total-miles-tooltip {
+    color: #222;
+    background: #eee;
+    border: 1px solid #222;
+    padding: 3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+}
+
+.miles-driven-tooltip {
+    color: #eee;
+    background: #406BB4;
+    border: 1px solid #222;
+    padding: 3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+}
+
+/* recent stories page */
+.recent-stories-text {
+    background: rgba(240,255,255,.5);
+    color: #222;
+    font-weight: bold;
+    width: 70%;
+    padding: 0 20px 20px 20px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+
+h1.recent-stories {
+    padding: 20px 0 10px 0;
+    margin: 0;
+}
+
+.front-page-story {
+    padding-bottom: 10px;;
+}
+
+.front-page-story a {
+    color: #222;
+    text-decoration: none;
+}
+
+.front-page-story a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.see-all-stories a {
+    text-decoration: underline;
+    color: #222;
+}
+
+.see-all-stories a:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+/* stories by topic visualization */
+.story-tooltip {
+    color: #eee;
+    background: #406BB4;
+    border: 1px solid #222;
+    padding: 6px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+}

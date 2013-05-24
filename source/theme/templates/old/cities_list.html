@@ -1,0 +1,23 @@
+<h1>{{ article.title }}</h1>
+<div class="row">
+    <div class="span8">
+        <p>
+            {{ article.content }}
+        </p>
+    </div>
+</div>
+<div class="row">
+  <div class="span12">
+      <div>
+        <strong>Arrival Date</strong>
+      </div>
+      {% for article in dates|reverse %}
+        {% if article.category == 'city' %}
+          <div>
+            {{ article.date.strftime('%m.%d.%Y') }} &nbsp;&nbsp;
+            <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
+          </div>
+        {% endif %}
+      {% endfor %}
+  </div>
+</div>

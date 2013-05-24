@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>{{ article.title }}</h1>
+  <div class="row">
+    <div class="span8">
+      {% block blog_content %}{% endblock %}
+    </div>
+  </div>
+{% endblock %}
