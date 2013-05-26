@@ -205,40 +205,13 @@ a.contact-link, a:hover.contact-link {
 }
 
 /* map */
-#states path {
-  fill: #ccc;
-  stroke: #fff;
-}
-
-path.arc {
-  pointer-events: none;
-  fill: none;
-  stroke: #000;
-  display: none;
-}
-
-path.cell {
-  fill: none;
-  pointer-events: all;
-}
-
-circle {
-  fill: steelblue;
-  fill-opacity: .8;
-  stroke: #fff;
-}
-
-#cells.voronoi path.cell {
-  stroke: brown;
-}
-
-#cells g:hover path.arc {
-  display: inherit;
-}
-
 .city-name {
     color: #222;
     font-weight: bold;
+}
+
+.future-stories {
+    color: #999;
 }
 
 

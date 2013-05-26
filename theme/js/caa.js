@@ -330,31 +330,31 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         .bindPopup('<span class="city-name"><a href="/new-orleans-la.html">New Orleans, LA</a><br/>March 17-24, 2013</span><br/><a href="/new-orleans-entrepreneurship-week.html">NOEW 2013</a><br/><a href="/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a><br/><a href="/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools Companies\' Pitches</a><br/><a href="/4pt0schools-coder-couch-nola">4.0 Schools\' Coder Couch</a><br/><a href="/noew-ideacorps-pitch-challenge.html">IDEAcorps Pitch Challenge</a><br/><a href="/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In to NOLA\s Growing Entrepreneurship Scene</a>');
     
     L.marker(new L.LatLng(35.05, -90.00)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a>');
+        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery</span>');
     
     L.marker(new L.LatLng(32.73, -96.97)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/dallas-tx.html">Dallas, TX</a><br/>March 28-April 1, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/dallas-tx.html">Dallas, TX</a><br/>March 28-April 1, 2013</span><br/><a href="/gravity-center-dallas-tx.html">The Gravity Center</a><br/><span class="future-stories">Startup Texas<br/>Tech Wildcatters<br/>The Common Desk<br/>SocialGlimpz</span>');
     
     L.marker(new L.LatLng(30.30, -97.70)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/austin-tx.html">Austin, TX</a><br/>April 1-7, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/austin-tx.html">Austin, TX</a><br/>April 1-7, 2013</span><br/><a href="/capital-factory-austin-tx.html">Capital Factory</a><br/><a href="starting-sustaining-book.html">Doers Help Doers</a><br/><span class="future-stories">Continuum Analytics<br/>CopperEgg</span>');
 
     L.marker(new L.LatLng(33.65, -101.82)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/lubbock-tx.html">Lubbock, TX</a><br/>April 7-10, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/lubbock-tx.html">Lubbock, TX</a><br/>April 7-10, 2013</span><br/><a href="/month-meeting-startups.html">A Month of Meeting Startups</a><br/>');
     
     L.marker(new L.LatLng(35.88, -106.28)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/los-alamos-nm.html">Los Alamos, NM</a><br/>April 10-12, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/los-alamos-nm.html">Los Alamos, NM</a><br/>April 10-12, 2013</span><br/><a href="/los-alamos-new-mexico-is-beautiful.html">Los Alamos is Beautiful</a><br/><a href="/why-hell-you-in-small-city.html">Why the Hell Are You in [Small City]?</a>');
     
     L.marker(new L.LatLng(38.77, -109.75)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/moab-ut.html">Moab, UT</a><br/>April 12-14, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/moab-ut.html">Moab, UT</a><br/>April 12-14, 2013</span><br/><a href="/moab-scenery.html">Moab Scenery</a>');
     
     L.marker(new L.LatLng(33.43, -112.02)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/phoenix-az.html">Phoenix, AZ</a><br/>April 14-18, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/phoenix-az.html">Phoenix, AZ</a><br/>April 14-18, 2013</span><br/><a href="/startup-america-artwork.html">Startup America Artwork</a><br/><a href="/seed-spot-phoenix-az.html">Seed Spot</a><br/><a href="/co-hoots-phoenix-az.html">CO+HOOTS</a><br/><a href="/misto-box-phoenix-az.html">MistoBox</a><br/><span class="future-stories">Startup America Regional Summit Thoughts</span>');
    
     L.marker(new L.LatLng(32.73, -117.17)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/san-diego-ca.html">San Diego, CA</a><br/>April 18-28, 2013</span>');
     
     L.marker(new L.LatLng(36.08, -115.17)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/las-vegas-nv.html">Las Vegas, NV</a><br/>April 28-May 1, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/las-vegas-nv.html">Las Vegas, NV</a><br/>April 28-May 1, 2013</span><br/><span class="future-stories">Microconf Thoughts<br/>Downtown Project</span>');
     
     L.marker(new L.LatLng(33.93, -118.40)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span>');
