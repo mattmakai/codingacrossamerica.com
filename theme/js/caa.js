@@ -351,10 +351,10 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         .bindPopup('<span class="city-name"><a href="/phoenix-az.html">Phoenix, AZ</a><br/>April 14-18, 2013</span><br/><a href="/startup-america-artwork.html">Startup America Artwork</a><br/><a href="/seed-spot-phoenix-az.html">Seed Spot</a><br/><a href="/co-hoots-phoenix-az.html">CO+HOOTS</a><br/><a href="/misto-box-phoenix-az.html">MistoBox</a><br/><span class="future-stories">Startup America Regional Summit Thoughts</span>');
    
     L.marker(new L.LatLng(32.73, -117.17)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/san-diego-ca.html">San Diego, CA</a><br/>April 18-28, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/san-diego-ca.html">San Diego, CA</a><br/>April 18-28, 2013</span><br/><a href="/antengo-san-diego-ca.html">Antengo</a><br/><a href="/evonexus-san-diego-ca.html">EvoNexus</a><br/><a href="/forwardmetrics-san-diego-ca.html">ForwardMetrics</a><br/><a href="/san-diego-scenery.html">San Diego Scenery</a><br/><span class="future-stories">Saambaa</span>');
     
     L.marker(new L.LatLng(36.08, -115.17)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/las-vegas-nv.html">Las Vegas, NV</a><br/>April 28-May 1, 2013</span><br/><span class="future-stories">Microconf Thoughts<br/>Downtown Project</span>');
+        .bindPopup('<span class="city-name"><a href="/las-vegas-nv.html">Las Vegas, NV</a><br/>April 28-May 1, 2013</span><br/><a href="/microconf-2013-las-vegas.html">Microconf 2013</a><br/><span class="future-stories">Microconf Thoughts<br/>Downtown Project</span>');
     
     L.marker(new L.LatLng(33.93, -118.40)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span>');
