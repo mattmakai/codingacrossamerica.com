@@ -330,13 +330,13 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         .bindPopup('<span class="city-name"><a href="/new-orleans-la.html">New Orleans, LA</a><br/>March 17-24, 2013</span><br/><a href="/new-orleans-entrepreneurship-week.html">NOEW 2013</a><br/><a href="/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a><br/><a href="/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools Companies\' Pitches</a><br/><a href="/4pt0schools-coder-couch-nola">4.0 Schools\' Coder Couch</a><br/><a href="/noew-ideacorps-pitch-challenge.html">IDEAcorps Pitch Challenge</a><br/><a href="/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In to NOLA\s Growing Entrepreneurship Scene</a>');
     
     L.marker(new L.LatLng(35.05, -90.00)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a>');
+        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery</span>');
     
     L.marker(new L.LatLng(32.73, -96.97)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/dallas-tx.html">Dallas, TX</a><br/>March 28-April 1, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/dallas-tx.html">Dallas, TX</a><br/>March 28-April 1, 2013</span><br/><a href="/gravity-center-dallas-tx.html">The Gravity Center</a><br/><span class="future-stories">Startup Texas</span>');
     
     L.marker(new L.LatLng(30.30, -97.70)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/austin-tx.html">Austin, TX</a><br/>April 1-7, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/austin-tx.html">Austin, TX</a><br/>April 1-7, 2013</span><br/><a href="/capital-factory-austin-tx.html">Capital Factory</a><br/><span class="future-stories">Continuum Analytics<br/>CopperEgg</span>');
 
     L.marker(new L.LatLng(33.65, -101.82)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/lubbock-tx.html">Lubbock, TX</a><br/>April 7-10, 2013</span>');
