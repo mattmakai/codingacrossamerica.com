@@ -136,23 +136,161 @@
                   "name": "Washington, DC"
                 }
               ]
+            }, 
+            {
+              "name": "Virginia", 
+              "children": [
+                {
+                  "link": "/charlottesville-va.html", 
+                  "name": "Charlottesville"
+                }
+              ]
+            }, 
+            {
+              "name": "North Carolina", 
+              "children": [
+                {
+                  "link": "/charlotte-nc.html", 
+                  "name": "Charlotte"
+                }
+              ]
             }
           ]
         }, 
         {
           "name": "South", 
-          "children": null
+          "children": [
+            {
+              "name": "Louisiana", 
+              "children": [
+                {
+                  "link": "/new-orleans-la.html", 
+                  "name": "New Orleans"
+                }
+              ]
+            }, 
+            {
+              "name": "Tennessee", 
+              "children": [
+                {
+                  "link": "/memphis-tn.html", 
+                  "name": "Memphis"
+                }
+              ]
+            }, 
+            {
+              "name": "Texas", 
+              "children": [
+                {
+                  "link": "/dallas-tx.html", 
+                  "name": "Dallas"
+                }, 
+                {
+                  "link": "/austin-tx.html", 
+                  "name": "Austin"
+                }, 
+                {
+                  "link": "/lubbock-tx.html", 
+                  "name": "Lubbock"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Southwest", 
+          "children": [
+            {
+              "name": "New Mexico", 
+              "children": [
+                {
+                  "link": "/los-alamos-nm.html", 
+                  "name": "Los Alamos"
+                }
+              ]
+            }, 
+            {
+              "name": "Utah", 
+              "children": [
+                {
+                  "link": "/moab-ut.html", 
+                  "name": "Moab"
+                }
+              ]
+            }, 
+            {
+              "name": "Arizona", 
+              "children": [
+                {
+                  "link": "/phoenix-az.html", 
+                  "name": "Phoenix"
+                }
+              ]
+            }
+          ]
         }, 
         {
           "name": "West", 
-          "children": null
+          "children": [
+            {
+              "name": "California", 
+              "children": [
+                {
+                  "link": "/san-diego-ca.html", 
+                  "name": "San Diego"
+                }, 
+                {
+                  "link": "/los-angeles-ca.html", 
+                  "name": "Los Angeles"
+                }, 
+                {
+                  "link": "/san-francisco-ca.html", 
+                  "name": "San Diego"
+                }
+              ]
+            }
+          ]
         }, 
         {
           "name": "Northwest", 
-          "children": null
+          "children": [
+            {
+              "name": "Oregon", 
+              "children": [
+                {
+                  "link": "/eugene-or.html", 
+                  "name": "Eugene"
+                }, 
+                {
+                  "link": "/portland-or.html", 
+                  "name": "Portland"
+                }
+              ]
+            }, 
+            {
+              "name": "Washington", 
+              "children": [
+                {
+                  "link": "/seattle-wa.html", 
+                  "name": "Seattle"
+                }
+              ]
+            }
+          ]
         }, 
         {
-          "name": "Midwest"
+          "name": "Midwest", 
+          "children": [
+            {
+              "name": "Iowa", 
+              "children": [
+                {
+                  "link": "/des-moines-ia.html", 
+                  "name": "Des Moines"
+                }
+              ]
+            }
+          ]
         }
       ]
     }, 

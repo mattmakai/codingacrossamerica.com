@@ -134,11 +134,11 @@ function drawChart(data) {
 var organizationsContainerWidth = $("#org-svg").width(),
     organizationsContainerHeight = $("#organizations").height();
 
-var orgMargins = {top: 10, right: 60, bottom: 60, left: 60},
+var orgMargins = {top: 0, right: 60, bottom: 10, left: 60},
     orgWidth = 
         milesDrivenContainerWidth - orgMargins.left - orgMargins.right,
     orgHeight = 
-        (milesDrivenContainerHeight * .65) - orgMargins.top - 
+        (milesDrivenContainerHeight * .75) - orgMargins.top - 
         orgMargins.bottom;
 
 function drawOrganizationsChart(root) {
@@ -147,7 +147,7 @@ function drawOrganizationsChart(root) {
 
     var orgSvg = d3.select("#org-svg").append("svg")
         .attr("width", orgWidth)
-        .attr("height", orgHeight)
+        .attr("height", orgHeight + 100)
       .append("g")
         .attr("transform", 
             "translate(" + orgWidth / 2 + "," + orgHeight * .52 + ")");

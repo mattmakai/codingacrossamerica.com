@@ -71,15 +71,75 @@ children:
         - name: Washington, DC
           children:
             - name: Washington, DC
-              link: '/washington-dc.html'
+              link: "/washington-dc.html"
+        - name: Virginia
+          children:
+            - name: Charlottesville
+              link: "/charlottesville-va.html"
+        - name: North Carolina
+          children:
+            - name: Charlotte
+              link: "/charlotte-nc.html"
       - name: South
         children:
+          - name: Louisiana
+            children:
+            - name: New Orleans
+              link: "/new-orleans-la.html"
+          - name: Tennessee
+            children:
+            - name: Memphis
+              link: "/memphis-tn.html"
+          - name: Texas
+            children:
+            - name: Dallas
+              link: "/dallas-tx.html"
+            - name: Austin
+              link: "/austin-tx.html"
+            - name: Lubbock
+              link: "/lubbock-tx.html"
+      - name: Southwest
+        children:
+          - name: New Mexico
+            children:
+            - name: Los Alamos
+              link: "/los-alamos-nm.html"
+          - name: Utah
+            children:
+            - name: Moab
+              link: "/moab-ut.html"
+          - name: Arizona
+            children:
+            - name: Phoenix
+              link: "/phoenix-az.html"
       - name: West
         children:
+          - name: California
+            children:
+            - name: San Diego
+              link: "/san-diego-ca.html"
+            - name: Los Angeles
+              link: "/los-angeles-ca.html"
+            - name: San Diego
+              link: "/san-francisco-ca.html"
       - name: Northwest
         children:
+          - name: Oregon
+            children:
+            - name: Eugene
+              link: "/eugene-or.html"
+            - name: Portland
+              link: "/portland-or.html"
+          - name: Washington
+            children:
+            - name: Seattle
+              link: "/seattle-wa.html"
       - name: Midwest
-
+        children:
+          - name: Iowa
+            children:
+            - name: Des Moines
+              link: "/des-moines-ia.html"
   - name: Pictures
     children:
       - name: East
