@@ -3,8 +3,9 @@ Why?
 
 :date: 2012-05-21
 :category: post
-:featured: True
 :slug: why-coding-across-america
+:tag: opinion
+
 
 Why travel across the United States for four months? There's a few ways to
 approach this question, so I'll answer three variations separately then 

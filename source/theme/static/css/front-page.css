@@ -286,12 +286,12 @@ h1.recent-stories {
 }
 
 .see-all-stories a {
-    text-decoration: underline;
+    text-decoration: none;
     color: #222;
 }
 
 .see-all-stories a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #000;
 }
 

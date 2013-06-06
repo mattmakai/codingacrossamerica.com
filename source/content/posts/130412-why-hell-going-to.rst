@@ -4,7 +4,7 @@ Why the Hell Are You In [small city]?
 :date: 2013-04-12
 :slug: why-hell-you-in-small-city
 :category: post
-
+:tag: opinion
 
 I've spent the past few days in Los Alamos, New Mexico (population 12k) and 
 before that Lubbock, Texas (pop. 234k, 83rd in the country for cities). I'm

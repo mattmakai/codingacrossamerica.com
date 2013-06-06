@@ -17,7 +17,7 @@
                     ...or jump to: <br/>
                     <a class="top-navigation pad-right" href="#map">Map</a> |
                     <a class="top-navigation pad-right pad-left" href="#stories">Stories</a> |
-                    <a class="top-navigation pad-left pad-right" href="#timeline">Timeline</a> |
+                    <!-- <a class="top-navigation pad-left pad-right" href="#timeline">Timeline</a> | -->
                     <a class="top-navigation pad-left" href="#contact">Contact</a>
                 </div>
             </div>
@@ -80,14 +80,12 @@
     <section id="stories" class="window">
         <div class="content">
             <div class="recent-stories-text">
-                <h1 class="recent-stories">Recent Stories</h1>
-                {% set post_count = 0 %}
+                <h1 class="recent-stories">Opinion Posts</h1>
                 {% for article in dates %}
-                    {% if article.category == 'post' and post_count < 6 %}
+                    {% if article.category == 'post' and article.tag == 'opinion' %}
                         <div class="front-page-story">
                             <a href="{{ article.slug }}.html">{{ article.title }}</a>
                         </div>
-                        {% set post_count = post_count + 1 %}
                     {% endif %}
                 {% endfor %}
                 <div class="see-all-stories">

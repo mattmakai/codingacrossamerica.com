@@ -4,6 +4,7 @@ Causal Attribution
 :category: post
 :slug: causal-attribution
 :date: 2012-07-22
+:tag: opinion
 
 One of my least favorite quotes is "everything happens for a reason." The
 connotation is clearer if you append "but I didn't plan it out that

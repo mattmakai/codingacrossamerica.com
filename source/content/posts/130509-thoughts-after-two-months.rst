@@ -5,7 +5,7 @@ Thoughts After Two Months
 :slug: thoughts-after-two-months
 :category: post
 :author: Matt Makai
-
+:tag: opinion
 
 I've been on the road for two months today. Here are a few of my thoughts to 
 date. 

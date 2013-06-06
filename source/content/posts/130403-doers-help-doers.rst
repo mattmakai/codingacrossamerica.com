@@ -4,6 +4,7 @@ Doers Help Doers
 :date: 2013-04-03
 :slug: starting-sustaining-book
 :category: post
+:tag: opinion
 
 I've been catching up on reading my book backlog while traveling over these 
 five months on the road from March through August. During my time in Dallas 
