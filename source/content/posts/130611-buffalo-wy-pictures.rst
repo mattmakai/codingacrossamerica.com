@@ -6,11 +6,11 @@ Wyoming Photograpy
 :category: post
 :author: Matt Makai
 
-Buffalo, Wyoming is one of the two stops I picked to hang out a few days
+Buffalo, Wyoming is one of my stops to hang out for a few days
 on the long trek from Seattle to Boulder. Luckily the weather has been
-sunny and clear here so I could snap these great pictures. The photos are
-from a combination of driving through the mountains, walking around 
-Sheridan, Wyoming, and Buffalo itself.
+clear here so I could snap these great pictures. The photos are
+from a combination of driving through the mountains and walking around 
+and Buffalo.
 
 .. image:: ../img/130611-wyoming-photography/driving.jpg
   :alt: Driving through Wyoming
@@ -205,4 +205,10 @@ Another view of the statue.
   :alt: Virginian Restaurant sign.
 
 The Virginian Restaraunt sign. Everyone loves Virginia, even in Wyoming.
+
+----
+
+If you liked this post you should check out my pictures from 
+`Los Alamos </los-alamos-new-mexico-is-beautiful.html>`_ and
+`Moab </moab-scenery.html>`_.
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-06-11T00:00:00-04:00</updated><entry><title>Wyoming Photograpy</title><link href="http://www.codingacrossamerica.com/wyoming-photography.html" rel="alternate"></link><updated>2013-06-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-11:wyoming-photography.html</id><summary type="html">&lt;p&gt;Buffalo, Wyoming is one of the two stops I picked to hang out a few days
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-06-11T00:00:00-04:00</updated><entry><title>Wyoming Photograpy</title><link href="http://www.codingacrossamerica.com/wyoming-photography.html" rel="alternate"></link><updated>2013-06-11T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-11:wyoming-photography.html</id><summary type="html">&lt;p&gt;Buffalo, Wyoming is one of my stops to hang out for a few days
 on the long trek from Seattle to Boulder. Luckily the weather has been
-sunny and clear here so I could snap these great pictures. The photos are
-from a combination of driving through the mountains, walking around
-Sheridan, Wyoming, and Buffalo itself.&lt;/p&gt;
+clear here so I could snap these great pictures. The photos are
+from a combination of driving through the mountains and walking around
+and Buffalo.&lt;/p&gt;
 &lt;img alt="Driving through Wyoming" src="../img/130611-wyoming-photography/driving.jpg" /&gt;
 &lt;p&gt;Driving through Wyoming.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -80,6 +80,10 @@ items.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;img alt="Virginian Restaurant sign." src="../img/130611-wyoming-photography/virginian-restaurant.jpg" /&gt;
 &lt;p&gt;The Virginian Restaraunt sign. Everyone loves Virginia, even in Wyoming.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked this post you should check out my pictures from
+&lt;a class="reference external" href="/los-alamos-new-mexico-is-beautiful.html"&gt;Los Alamos&lt;/a&gt; and
+&lt;a class="reference external" href="/moab-scenery.html"&gt;Moab&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>"Where're the Updates, Makai?"</title><link href="http://www.codingacrossamerica.com/where-are-the-updates-makai.html" rel="alternate"></link><updated>2013-05-16T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-16:where-are-the-updates-makai.html</id><summary type="html">&lt;p&gt;Yes, I know I have been putting up posts a lot slower than I did earlier in
 my trip. I have actually had a lot of great meetings lately in San Francisco.
 There is a whole bunch of great new content which I have to finish up and
