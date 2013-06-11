@@ -23,7 +23,7 @@ Driving through Wyoming.
 .. image:: ../img/130611-wyoming-photography/mountains.jpg
   :alt: Mountains in Wyoming
 
-Mountains in Wyoming. I'm about to over them.
+Mountains in Wyoming. I'm about to go over them.
 
 ----
 
@@ -47,7 +47,7 @@ Small town in Wyoming I drove through.
 .. image:: ../img/130611-wyoming-photography/small-wyoming-town.jpg
   :alt: Small town in Wyoming
 
-Small town in Wyoming I drove through. 
+Another shot of the town.
 
 ----
 
