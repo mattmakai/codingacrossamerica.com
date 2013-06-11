@@ -3,7 +3,7 @@ Moab Scenery
 
 :date: 2013-04-14 10:00
 :slug: moab-scenery
-:category: post
+:category: picture-post
 :author: Matt Makai
 
 I spent a couple of days in Moab, Utah over the weekend for mountain biking 

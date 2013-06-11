@@ -3,7 +3,8 @@ Los Alamos is Beautiful
 
 :date: 2013-04-11
 :slug: los-alamos-new-mexico-is-beautiful
-:category: post
+:category: picture-post
+:author: Matt Makai
 
 I am spending a few days in Los Alamos, New Mexico and then Moab, Utah 
 to catch my breath. It's beautiful here. Here are some photos I took during

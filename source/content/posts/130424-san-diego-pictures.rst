@@ -3,7 +3,7 @@ San Diego Scenery
 
 :date: 2013-04-24 18:00
 :slug: san-diego-scenery
-:category: post
+:category: picture-post
 :author: Matt Makai
 
 The following are some initial pictures from San Diego to continue this
