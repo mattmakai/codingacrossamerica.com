@@ -3,7 +3,7 @@ Wyoming Photograpy
 
 :date: 2013-06-11
 :slug: wyoming-photography
-:category: post
+:category: picture-post
 :author: Matt Makai
 
 Buffalo, Wyoming is one of my stops to hang out for a few days

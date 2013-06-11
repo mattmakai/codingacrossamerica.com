@@ -2,7 +2,7 @@
 <div class="row">
     <div class="span8">
       {% for article in dates %}
-        {% if article.category == 'post' %}
+        {% if article.category == 'post' or article.category == 'picture-post' %}
           <div class="blog-post">
             <h2><a href="{{ article.slug }}.html">{{ article.title }}</a></h2>
             {{ article.content|truncate(400) }} 
@@ -21,7 +21,7 @@
       <h3>Posts By Title</h3>
       <ul class="post-list">
         {% for article in dates %}
-          {% if article.category == 'post' %}
+          {% if article.category == 'post' or article.category == 'picture-post' %}
             <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
           {% endif %}
         {% endfor %}

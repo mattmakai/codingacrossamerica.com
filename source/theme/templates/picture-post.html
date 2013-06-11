@@ -5,7 +5,7 @@
     {{ article.date.strftime('%m.%d.%Y') }}.
   </div>
   <div class="row">
-    <div class="span7">
+    <div class="span12">
       <hr/>
       {{ article.content }}
 
@@ -25,16 +25,4 @@
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">Return to the blog</a>
     </div>
-    <div class="offset1 span3">
-      <hr/>
-      <h3>Posts By Date</h3>
-      <ul class="post-list">
-        {% for article in dates %}
-          {% if article.category == 'post' or article.category == 'picture-post' %}
-            <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-    <hr/>
   </div>

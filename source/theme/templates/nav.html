@@ -7,7 +7,7 @@
         </li>
       </ul>
       <ul class="nav right-nav" style="float: right;">
-        <li {% if article and (article.category == 'blog' or article.category == 'post') %}class="active"{% endif %}>
+        <li {% if article and (article.category == 'blog' or article.category == 'post' or article.category == 'picture-post') %}class="active"{% endif %}>
           <a href="/blog.html">Blog</a>
         </li>
         <li {% if article and (article.category == 'cities' or article.category == 'city') %}class="active"{% endif %}>
