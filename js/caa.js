@@ -366,7 +366,7 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span>');
     
     L.marker(new L.LatLng(45.60, -122.60)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a>');
     
     L.marker(new L.LatLng(47.45, -122.30)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span>');
@@ -375,7 +375,7 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         .bindPopup('<span class="city-name"><a href="/missoula-mt.html">Missoula, MT</a><br/>June 6-9, 2013</span>');
     
     L.marker(new L.LatLng(44.35, -106.70)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/buffalo-wy.html">Buffalo, WY</a><br/>June 9-12, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/buffalo-wy.html">Buffalo, WY</a><br/>June 9-12, 2013</span><br/><a href="/wyoming-photography.html">Wyoming Pictures</a>');
     
     L.marker(new L.LatLng(40.02, -105.27)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/boulder-co.html">Boulder, CO</a><br/>June 12-19, 2013</span>');
