@@ -254,7 +254,7 @@ function drawCitiesMap() {
 
     $("#map-container").height(mapHeight);
     
-var map = L.map('map-container').setView([37.8, -96], 4);
+    var map = L.map('map-container', {'minZoom': 4}).setView([37.8, -96], 4);
 
     var cloudmade = L.tileLayer('http://{s}.tile.cloudmade.com/{key}/{styleId}/256/{z}/{x}/{y}.png', {
         key: 'BC9A493B41014CAABB98F0471D759707',
@@ -316,6 +316,7 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         style: style,
         onEachFeature: onEachFeature
     }).addTo(map);
+
     
     L.marker(new L.LatLng(38.95,-77.04)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/washington-dc.html">Washington, DC</a><br/>Depart March 9, return August 9, 2013</span><br/><a href="/tim-oreilly-open-government.html">Tim O\'Reilly on Open Government</a><br/><a href="/human-geo-washington-dc.html">HumanGeo</a><br/><a href="/wisertogether-washington-dc.html">WiserTogether</a><br/><a href="/uppidy-washington-dc.html">Uppidy</a>');
