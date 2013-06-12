@@ -360,7 +360,7 @@ var map = L.map('map-container').setView([37.8, -96], 4);
         .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span>');
     
     L.marker(new L.LatLng(37.62, -122.38)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a>');
     
     L.marker(new L.LatLng(44.12, -123.22)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span>');
