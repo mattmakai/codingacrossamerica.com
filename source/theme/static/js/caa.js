@@ -373,7 +373,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span>');
     
     L.marker(new L.LatLng(46.92, -114.08)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/missoula-mt.html">Missoula, MT</a><br/>June 6-9, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/missoula-mt.html">Missoula, MT</a><br/>June 6-9, 2013</span><br/><a href="/montana-pictures.html">Montana Pictures</a>');
     
     L.marker(new L.LatLng(44.35, -106.70)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/buffalo-wy.html">Buffalo, WY</a><br/>June 9-12, 2013</span><br/><a href="/wyoming-photography.html">Wyoming Pictures</a>');
