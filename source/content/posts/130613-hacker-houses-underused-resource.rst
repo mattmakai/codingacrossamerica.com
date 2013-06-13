@@ -1,5 +1,5 @@
-Hacker Houses Are An Underused Resource
-=======================================
+Hacker Houses Are An Underused Concept
+======================================
 
 :slug: hacker-houses-underused-resource
 :date: 2013-06-13
@@ -17,7 +17,7 @@ cities with smaller tech communities such as
 Hacker houses, such as 
 `Chez JJ in San Francisco <https://www.airbnb.com/rooms/470096>`_ and
 `Ben Barreth’s Hacker House in Kansas City <http://www.siliconprairienews.com/2013/06/take-a-stroll-through-ben-barreth-s-hacker-house-in-kansas-city>`_ 
-are an underused resource for attracting software developers to a city.
+are an underused concept for attracting software developers to a city.
 It's surprising that I have not seen groups of tech companies band together
 to create hacker houses and market them to developers outside their
 communities.
