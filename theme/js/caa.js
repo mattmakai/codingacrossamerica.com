@@ -367,7 +367,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span>');
     
     L.marker(new L.LatLng(45.60, -122.60)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a>');
+        .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a><br/><br/><span class="external-resources">External Resources</span></br><a href="http://www.oregonlive.com/silicon-forest/">Silicon Forest News</a>');
     
     L.marker(new L.LatLng(47.45, -122.30)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span>');

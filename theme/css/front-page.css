@@ -210,6 +210,12 @@ a.contact-link, a:hover.contact-link {
     font-weight: bold;
 }
 
+.external-resources {
+    padding-top: 5px;
+    color: #222;
+    font-weight: bold;
+}
+
 .future-stories {
     color: #999;
 }

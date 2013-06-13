@@ -210,6 +210,11 @@ a.contact-link, a:hover.contact-link {
     font-weight: bold;
 }
 
+.external-resources {
+    color: #222;
+    font-weight: bold;
+}
+
 .future-stories {
     color: #999;
 }
