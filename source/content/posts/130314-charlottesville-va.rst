@@ -2,7 +2,7 @@ Charlottesville, VA Pictures
 ============================
 
 :date: 2013-03-14
-:category: post
+:category: picture-post
 :slug: charlottesville-virginia-day-one-through-five
 
 Here are a few "rear of the car"-perspective pictures from the first five 
