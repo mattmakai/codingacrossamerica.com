@@ -331,7 +331,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/new-orleans-la.html">New Orleans, LA</a><br/>March 17-24, 2013</span><br/><a href="/new-orleans-entrepreneurship-week.html">NOEW 2013</a><br/><a href="/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a><br/><a href="/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools Companies\' Pitches</a><br/><a href="/4pt0schools-coder-couch-nola">4.0 Schools\' Coder Couch</a><br/><a href="/noew-ideacorps-pitch-challenge.html">IDEAcorps Pitch Challenge</a><br/><a href="/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In to NOLA\s Growing Entrepreneurship Scene</a>');
     
     L.marker(new L.LatLng(35.05, -90.00)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery</span>');
+        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery<br/>Work for Pie<br/>Launch Memphis<br/></span>');
     
     L.marker(new L.LatLng(32.73, -96.97)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/dallas-tx.html">Dallas, TX</a><br/>March 28-April 1, 2013</span><br/><a href="/gravity-center-dallas-tx.html">The Gravity Center</a><br/><span class="future-stories">Startup Texas<br/>Tech Wildcatters<br/>The Common Desk<br/>SocialGlimpz</span>');
@@ -381,14 +381,14 @@ function drawCitiesMap() {
     L.marker(new L.LatLng(40.02, -105.27)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/boulder-co.html">Boulder, CO</a><br/>June 12-19, 2013</span>');
     
-    L.marker(new L.LatLng(41.26, -95.94)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>June 19-22, 2013</span>');
-    
     L.marker(new L.LatLng(41.58, -93.71)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/des-moines-ia.html">Des Moines, IA</a><br/>June 22-25, 27-July 8, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/des-moines-ia.html">Des Moines, IA</a><br/>June 19-25, 27-July 8, 2013</span><br/><span class="future-stories">Silicon Prairie News<br/>Dwolla<br/>StartupCity Des Moines<br/>Pongr<br/>BitMethod<br/>Hatchlings<br/></span>');
     
     L.marker(new L.LatLng(39.10, -94.58)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span>');
+    
+    L.marker(new L.LatLng(41.26, -95.94)).addTo(map)
+        .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/></span>');
     
     L.marker(new L.LatLng(43.07, -89.40)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/madison-wi.html">Madison, WI</a><br/>July 8-14, 2013</span>');

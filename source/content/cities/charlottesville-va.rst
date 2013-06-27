@@ -6,26 +6,25 @@ Charlottesville, VA
 :date: 2013-03-09
 :tags: uva
 
-----
+
+Charlottesville is a small city and the home of
+`University of Virginia <http://www.virginia.edu/>`_. 
+There are a mix of small consulting firms servicing the local National 
+Ground Intelligence Center (NGIC) and Defense Intelligence Agency (DIA) 
+defense market, but also some product-based startup companies as well.
+
 
 .. image:: ../img/charlottesville-va.jpg
   :alt: Charlottesville's Downtown Outdoor Mall
 
 ----
 
+
 Basic stats
 -----------
-* `Why Charlottesville? <../why-charlottesville-va.html>`_
 * City population: 43k, Charlottesville + Albemarle County: 120k
-* Approximate distance driven on trip: `115 miles <http://goo.gl/maps/QV2Jj>`_
 * `Google Maps: Charlottesville <http://goo.gl/maps/U71YP>`_
 
-
-First Glance Start Up Scene
----------------------------
-* Some small consulting firms focused on the Department of Defense clients
-  located here: the National Ground Intelligence Center (NGIC) and a piece
-  of the Defense Intelligence Agency (DIA)
 
 Coffee Shops
 ------------
@@ -36,30 +35,38 @@ Coffee Shops
 * `Para Coffee <http://www.paracoffee.com/>`_ on The Corner (near Grounds).
 * `Lataza Coffee House <http://latazacoffeehouse.com/>`_ in Belmont.
 * `Greenberry's <http://www.greenberrys.com/locations.php>`_ - a chain, but
-  I really like their location at Barrack's Road Shopping Center.
-* `Top 3 Independent Coffee Shops in Charlottesville, VA <http://voices.yahoo.com/top-3-independent-coffee-shops-charlottesville-5752800.html>`_. One of
-  these places (Fox Park) is unfortunately no longer in business.
+  in a good location at Barrack's Road Shopping Center.
+
+
+Tech Companies
+--------------
+* `AgilityFeat <http://www.agilityfeat.com/>`_
+* `WillowTree Apps <http://www.willowtreeapps.com/>`_
+
+
+Co-working
+----------
+* `Open Space <http://getopenspace.com/>`_ is a really interesting
+  collaboration space for individuals and small businesses that need a
+  place to work. They also host events where speakers will come for an
+  evening and talk about relevant topics.
+
 
 Entrepreneurship
 ----------------
 * `Open Space <http://getopenspace.com/>`_ is a collaboration space 
   for individuals and small businesses that need a place to work.
-
 * `Batten Institute for Entrepreneurship (Darden School of Business) <http://www.darden.virginia.edu/web/batten-institute/>`_ studies innovation and
   entrepreneurship from an academic standpoint.
-
 * `Charlottesville Technology Incubator <http://www.cvilletechincubator.org/>`_
 
-Startups
---------
-* `AgilityFeat <http://www.agilityfeat.com/>`_
-* `WillowTree Apps <http://www.willowtreeapps.com/>`_
 
 Venture Capital
 ---------------
 * `Court Square Ventures <http://courtsquareventures.com/>`_ 
 * `Tall Oaks Capital <http://www.talloakscapital.com/>`_ 
 * `Harren Equity Partners <http://www.harrenequity.com/>`_
+
 
 Restaurants
 -----------
@@ -74,6 +81,13 @@ Restaurants
 * `X Lounge <https://plus.google.com/111081050665763458339/about?gl=us&hl=en>`_. Solid for going out or grabbing some food.
 * `Blue Light Grill <http://www.bluelightgrill.com/>`_. Great food and spot
   right on the Downtown Mall.
+
+
+Interesting Notes
+-----------------
+* `Alexis Ohanian <http://www.hyperink.com/Make-Something-People-Love-Lessons-From-A-Startup-Guy-b1478>`_, a Reddit co-founder, went to UVA and graduated
+  in 2005.
+
 
 References
 ----------
