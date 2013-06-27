@@ -78,7 +78,6 @@ Restaurants
   sandwich please.
 * `Fellini's #9 <http://fellinis9.com/>`_. Amazing Italian food. Classic
   Downtown Mall location.
-* `X Lounge <https://plus.google.com/111081050665763458339/about?gl=us&hl=en>`_. Solid for going out or grabbing some food.
 * `Blue Light Grill <http://www.bluelightgrill.com/>`_. Great food and spot
   right on the Downtown Mall.
 
