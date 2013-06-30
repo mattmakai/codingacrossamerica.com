@@ -352,7 +352,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/phoenix-az.html">Phoenix, AZ</a><br/>April 14-18, 2013</span><br/><a href="/startup-america-artwork.html">Startup America Artwork</a><br/><a href="/seed-spot-phoenix-az.html">Seed Spot</a><br/><a href="/co-hoots-phoenix-az.html">CO+HOOTS</a><br/><a href="/misto-box-phoenix-az.html">MistoBox</a><br/><span class="future-stories">Startup America Regional Summit Thoughts</span>');
    
     L.marker(new L.LatLng(32.73, -117.17)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/san-diego-ca.html">San Diego, CA</a><br/>April 18-28, 2013</span><br/><a href="/antengo-san-diego-ca.html">Antengo</a><br/><a href="/evonexus-san-diego-ca.html">EvoNexus</a><br/><a href="/forwardmetrics-san-diego-ca.html">ForwardMetrics</a><br/><a href="/san-diego-scenery.html">San Diego Scenery</a><br/><span class="future-stories">Saambaa</span>');
+        .bindPopup('<span class="city-name"><a href="/san-diego-ca.html">San Diego, CA</a><br/>April 18-28, 2013</span><br/><a href="/antengo-san-diego-ca.html">Antengo</a><br/><a href="/evonexus-san-diego-ca.html">EvoNexus</a><br/><a href="/forwardmetrics-san-diego-ca.html">ForwardMetrics</a><br/><a href="/san-diego-scenery.html">San Diego Scenery</a><br/><span class="future-stories">Nulu<br/>Saambaa</span>');
     
     L.marker(new L.LatLng(36.08, -115.17)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/las-vegas-nv.html">Las Vegas, NV</a><br/>April 28-May 1, 2013</span><br/><a href="/microconf-2013-las-vegas.html">Microconf 2013</a><br/><a href="/las-vegas-nevada-pictures.html">Las Vegas Pictures</a><br/><span class="future-stories">Microconf Thoughts</span>');
@@ -361,16 +361,16 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span>');
     
     L.marker(new L.LatLng(37.62, -122.38)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a>');
+        .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a><br/><span class="future-stories">Twilio<br/>Code for America</span>');
     
     L.marker(new L.LatLng(44.12, -123.22)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span><br/><span class="future-stories">Palo Alto Software<br/>Concentric Sky</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://siliconshire.org/">Silicon Shire</a>');
     
     L.marker(new L.LatLng(45.60, -122.60)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a><br/><br/><span class="external-resources">External Resources</span></br><a href="http://www.oregonlive.com/silicon-forest/">Silicon Forest News</a>');
+        .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://www.oregonlive.com/silicon-forest/">Silicon Forest News</a>');
     
     L.marker(new L.LatLng(47.45, -122.30)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span><br/><a href="/university-of-washington-pictures.html">University of Washington Pictures</a><br/><span class="future-stories">Socrata<br/>Factor.io<br/>Maker Space</span>');
     
     L.marker(new L.LatLng(46.92, -114.08)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/missoula-mt.html">Missoula, MT</a><br/>June 6-9, 2013</span><br/><a href="/montana-pictures.html">Montana Pictures</a>');

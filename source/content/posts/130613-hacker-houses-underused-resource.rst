@@ -5,6 +5,7 @@ Hacker Houses Are An Underused Concept
 :date: 2013-06-13
 :category: post
 :author: Matt Makai
+:tag: opinion
 
 I've constantly been asked during my Coding Across America project if I
 know any software developers to hire from outside the area who would be
