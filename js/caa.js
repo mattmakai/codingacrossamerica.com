@@ -385,7 +385,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/des-moines-ia.html">Des Moines, IA</a><br/>June 19-25, 27-July 8, 2013</span><br/><span class="future-stories">Silicon Prairie News<br/>Dwolla<br/>StartupCity Des Moines<br/>Pongr<br/>BitMethod<br/>Hatchlings<br/></span>');
     
     L.marker(new L.LatLng(39.10, -94.58)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span>');
+        .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>KCSourceLink<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span>');
     
     L.marker(new L.LatLng(41.26, -95.94)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/></span><br/><span class="external-resources">External Resources</span><br/><a href="http://techomaha.com/">Tech Omaha</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a></span>');
