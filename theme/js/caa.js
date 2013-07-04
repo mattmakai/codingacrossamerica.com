@@ -10,7 +10,7 @@ var margin = {top: 10, right: 60, bottom: 60, left: 60},
     milesDrivenHeight = 
         (milesDrivenContainerHeight * .7) - margin.top - margin.bottom;
 
-var maxDays = 155, maxMiles = 10500,
+var maxDays = 153, maxMiles = 12000,
     lineWidth = milesDrivenWidth / maxDays;
 
 var x = d3.scale.linear()
@@ -388,7 +388,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>KCSourceLink<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span>');
     
     L.marker(new L.LatLng(41.26, -95.94)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/></span><br/><span class="external-resources">External Resources</span><br/><a href="http://techomaha.com/">Tech Omaha</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a></span>');
+        .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/></span><br/><span class="external-resources">External Resources</span><br/><a href="http://techomaha.com/">Tech Omaha</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a><br/><a href="http://jamesharr.github.io/omg-code/">OMG!Code</a></span>');
     
     L.marker(new L.LatLng(43.07, -89.40)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/madison-wi.html">Madison, WI</a><br/>July 8-14, 2013</span>');
