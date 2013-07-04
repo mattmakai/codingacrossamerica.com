@@ -328,7 +328,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/charlotte-nc.html">Charlotte, NC</a><br/>March 13-17, 2013</span><br/><a href="/hey-pycon.html">Hey PyCon!</a>');
 
     L.marker(new L.LatLng(29.98,-90.25)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/new-orleans-la.html">New Orleans, LA</a><br/>March 17-24, 2013</span><br/><a href="/new-orleans-entrepreneurship-week.html">NOEW 2013</a><br/><a href="/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a><br/><a href="/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools Companies\' Pitches</a><br/><a href="/4pt0schools-coder-couch-nola">4.0 Schools\' Coder Couch</a><br/><a href="/noew-ideacorps-pitch-challenge.html">IDEAcorps Pitch Challenge</a><br/><a href="/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In to NOLA\s Growing Entrepreneurship Scene</a>');
+        .bindPopup('<span class="city-name"><a href="/new-orleans-la.html">New Orleans, LA</a><br/>March 17-24, 2013</span><br/><a href="/new-orleans-entrepreneurship-week.html">NOEW 2013</a><br/><a href="/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a><br/><a href="/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools Companies\' Pitches</a><br/><a href="/4pt0schools-coder-couch-nola">4.0 Schools\' Coder Couch</a><br/><a href="/noew-ideacorps-pitch-challenge.html">IDEAcorps Pitch Challenge</a><br/><a href="/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In to NOLA\s Growing Entrepreneurship Scene</a><br/><span class="future-stories">mSchool<br/>Enriched Schools</span><br/><br/><span class="external-resources"><a href="http://siliconbayounews.com/">Silicon Bayou News</a></span>');
     
     L.marker(new L.LatLng(35.05, -90.00)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery<br/>Work for Pie<br/>Launch Memphis<br/></span>');
@@ -361,7 +361,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span>');
     
     L.marker(new L.LatLng(37.62, -122.38)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a><br/><span class="future-stories">Twilio<br/>Code for America</span>');
+        .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a><br/><span class="future-stories">Twilio<br/>Code for America<br/>Banjo<br/></span>');
     
     L.marker(new L.LatLng(44.12, -123.22)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span><br/><span class="future-stories">Palo Alto Software<br/>Concentric Sky</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://siliconshire.org/">Silicon Shire</a>');
@@ -388,7 +388,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>KCSourceLink<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span>');
     
     L.marker(new L.LatLng(41.26, -95.94)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/></span><br/><span class="external-resources">External Resources</span><br/><a href="http://techomaha.com/">Tech Omaha</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a><br/><a href="http://jamesharr.github.io/omg-code/">OMG!Code</a></span>');
+        .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/>Startup Genome</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://techomaha.com/">Tech Omaha</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a><br/><a href="http://jamesharr.github.io/omg-code/">OMG!Code</a></span>');
     
     L.marker(new L.LatLng(43.07, -89.40)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/madison-wi.html">Madison, WI</a><br/>July 8-14, 2013</span>');
