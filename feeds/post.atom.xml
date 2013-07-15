@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-06-13T00:00:00-04:00</updated><entry><title>Hacker Houses Are An Underused Concept</title><link href="http://www.codingacrossamerica.com/hacker-houses-underused-resource.html" rel="alternate"></link><updated>2013-06-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-13:hacker-houses-underused-resource.html</id><summary type="html">&lt;p&gt;I've constantly been asked during my Coding Across America project if I
-know any software developers to hire from outside the area who would be
-willing to relocate. The attracting talent problem is most acute in
-cities with smaller tech communities such as
-&lt;a class="reference external" href="../charlottesville-va.html"&gt;Charlottesville, Virginia&lt;/a&gt;,
-&lt;a class="reference external" href="../eugene-or.html"&gt;Eugene, Oregon&lt;/a&gt;, and
-&lt;a class="reference external" href="../memphis-tn.html"&gt;Memphis, Tennessee&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-06-13T00:00:00-04:00</updated><entry><title>Hacker Houses Are An Underused Concept</title><link href="http://www.codingacrossamerica.com/hacker-houses-underused-resource.html" rel="alternate"></link><updated>2013-06-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-13:hacker-houses-underused-resource.html</id><summary type="html">&lt;p&gt;I have often been asked during my Coding Across America project if I
+know software developers willing to relocate to the areas I visit.&lt;/p&gt;
+&lt;p&gt;The attracting talent problem is most acute in cities with smaller tech
+communities such as Charlottesville, Eugene, and Memphis. Larger cities
+with smaller than expected tech communities such as Dallas and LA can also
+suffer from the same issue.&lt;/p&gt;
 &lt;p&gt;Hacker houses, such as
 &lt;a class="reference external" href="https://www.airbnb.com/rooms/470096"&gt;Chez JJ in San Francisco&lt;/a&gt; and
 &lt;a class="reference external" href="http://www.siliconprairienews.com/2013/06/take-a-stroll-through-ben-barreth-s-hacker-house-in-kansas-city"&gt;Ben Barreth’s Hacker House in Kansas City&lt;/a&gt;
@@ -1467,6 +1466,32 @@ organizations.&lt;/p&gt;
 &lt;li&gt;Saambaa (San Diego)&lt;/li&gt;
 &lt;li&gt;Downtown Project (Las Vegas)&lt;/li&gt;
 &lt;li&gt;SocialGlimpz (San Francisco)&lt;/li&gt;
+&lt;li&gt;Code for America (San Francisco)&lt;/li&gt;
+&lt;li&gt;Twilio (San Francisco)&lt;/li&gt;
+&lt;li&gt;Banjo (Bay Area)&lt;/li&gt;
+&lt;li&gt;Palo Alto Software (Eugene)&lt;/li&gt;
+&lt;li&gt;Concentric Sky (Eugene)&lt;/li&gt;
+&lt;li&gt;Portland State Business Accelerator (Portland)&lt;/li&gt;
+&lt;li&gt;Socrata (Seattle)&lt;/li&gt;
+&lt;li&gt;Factor.io (Seattle)&lt;/li&gt;
+&lt;li&gt;Maker Space (Seattle)&lt;/li&gt;
+&lt;li&gt;Silicon Praire News (Des Moines)&lt;/li&gt;
+&lt;li&gt;Dwolla (Des Moines)&lt;/li&gt;
+&lt;li&gt;StartupCity (Des Moines)&lt;/li&gt;
+&lt;li&gt;Pongr (Des Moines)&lt;/li&gt;
+&lt;li&gt;BitMethod (Des Moines)&lt;/li&gt;
+&lt;li&gt;Hatchlings (Des Moines)&lt;/li&gt;
+&lt;li&gt;Kaufmann Foundation (Kansas City)&lt;/li&gt;
+&lt;li&gt;KCSourceLink (Kansas City)&lt;/li&gt;
+&lt;li&gt;Entrepreneur KC Radio (Kansas City)&lt;/li&gt;
+&lt;li&gt;SightDeckKC (Kansas City)&lt;/li&gt;
+&lt;li&gt;Leap2 (Kansas City)&lt;/li&gt;
+&lt;li&gt;Hacker Village (Kansas City)&lt;/li&gt;
+&lt;li&gt;EyeVerify (Kansas City)&lt;/li&gt;
+&lt;li&gt;One Million Cups KC (Kansas City)&lt;/li&gt;
+&lt;li&gt;Omaha Python (Omaha)&lt;/li&gt;
+&lt;li&gt;Startup Genome (Omaha)&lt;/li&gt;
+&lt;li&gt;Drifty (Madison)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Organizations without links are ones I am still working to put up.
 I also write a range of other posts on the general entrepreneurship and
