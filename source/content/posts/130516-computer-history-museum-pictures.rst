@@ -8,9 +8,9 @@ Computer History Museum in Mountain View, CA
 
 
 The Computer History Museum in Mountain View, California is an incredible
-walk through the computing timeline. The exhibits range from 17th and 18th 
+walk through the computing timeline. The exhibits range from 17th 
 century calculators to the iconic Cray Supercomputer featured in Jurassic
-Park, to Google's self-driving car. 
+Park.
 
 .. image:: ../img/130516-computer-history-museum/revolution.jpg
   :alt: Revolution. The current theme for the Computer History Museum.
@@ -31,7 +31,7 @@ Computing timeline 1950s to present.
 .. image:: ../img/130516-computer-history-museum/google-car.jpg
   :alt: Google's self-driving car.
 
-Google's self-driving car. I sat in it. It's no S2000.
+Google's Maps car. I sat in it. It's no S2000.
 
 ----
 

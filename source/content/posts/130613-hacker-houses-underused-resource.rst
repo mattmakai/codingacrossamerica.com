@@ -7,13 +7,13 @@ Hacker Houses Are An Underused Concept
 :author: Matt Makai
 :tag: opinion
 
-I've constantly been asked during my Coding Across America project if I
-know any software developers to hire from outside the area who would be
-willing to relocate. The attracting talent problem is most acute in 
-cities with smaller tech communities such as 
-`Charlottesville, Virginia <../charlottesville-va.html>`_, 
-`Eugene, Oregon <../eugene-or.html>`_, and
-`Memphis, Tennessee <../memphis-tn.html>`_.
+I have often been asked during my Coding Across America project if I
+know software developers willing to relocate to the areas I visit. 
+
+The attracting talent problem is most acute in cities with smaller tech 
+communities such as Charlottesville, Eugene, and Memphis. Larger cities
+with smaller than expected tech communities such as Dallas and LA can also 
+suffer from the same issue.
 
 Hacker houses, such as 
 `Chez JJ in San Francisco <https://www.airbnb.com/rooms/470096>`_ and
