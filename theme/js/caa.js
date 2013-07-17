@@ -394,7 +394,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/madison-wi.html">Madison, WI</a><br/>July 8-14, 2013</span><br/><span class="future-stories">Drifty</span>');
     
     L.marker(new L.LatLng(41.85, -87.65)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/chicago-il.html">Chicago, IL</a><br/>July 14-21, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/chicago-il.html">Chicago, IL</a><br/>July 14-21, 2013</span><br/><a href="/chicago-pictures.html">Chicago Pictures</a><br/>');
     
     L.marker(new L.LatLng(42.33, -83.05)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/detroit-mi.html">Detroit, MI</a><br/>July 21-26, 2013</span>');
