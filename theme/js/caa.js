@@ -364,7 +364,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a><br/><span class="future-stories">Twilio<br/>Code for America<br/>Banjo<br/></span>');
     
     L.marker(new L.LatLng(44.12, -123.22)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span><br/><span class="future-stories">Palo Alto Software<br/>Concentric Sky</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://siliconshire.org/">Silicon Shire</a>');
+        .bindPopup('<span class="city-name"><a href="/eugene-or.html">Eugene, OR</a><br/>May 17-21, 2013</span><br/><a href="/eugene-oregon-pictures.html">Eugene Pictures</a><br/><span class="future-stories">Palo Alto Software<br/>Concentric Sky</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://siliconshire.org/">Silicon Shire</a>');
     
     L.marker(new L.LatLng(45.60, -122.60)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://www.oregonlive.com/silicon-forest/">Silicon Forest News</a>');
