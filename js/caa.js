@@ -358,7 +358,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/las-vegas-nv.html">Las Vegas, NV</a><br/>April 28-May 1, 2013</span><br/><a href="/microconf-2013-las-vegas.html">Microconf 2013</a><br/><a href="/las-vegas-nevada-pictures.html">Las Vegas Pictures</a><br/><span class="future-stories">Microconf Thoughts</span>');
     
     L.marker(new L.LatLng(33.93, -118.40)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/los-angeles-ca.html">Los Angeles, CA</a><br/>May 1-9, 2013</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://www.builtinla.com/" target="_blank">Built in LA</a><br/>');
     
     L.marker(new L.LatLng(37.62, -122.38)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/san-francisco-ca.html">San Francisco &amp; San Jose, CA</a><br/>May 9-17, 2013</span><br/><a href="/computer-history-museum-mountain-view-ca.html">Computer History Museum</a><br/><span class="future-stories">Twilio<br/>Code for America<br/>Banjo<br/></span>');
@@ -394,7 +394,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/madison-wi.html">Madison, WI</a><br/>July 8-14, 2013</span><br/><span class="future-stories">Drifty</span>');
     
     L.marker(new L.LatLng(41.85, -87.65)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/chicago-il.html">Chicago, IL</a><br/>July 14-21, 2013</span><br/><a href="/chicago-pictures.html">Chicago Pictures</a><br/>');
+        .bindPopup('<span class="city-name"><a href="/chicago-il.html">Chicago, IL</a><br/>July 14-21, 2013</span><br/><a href="/chicago-pictures.html">Chicago Pictures</a><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://technori.com/" target="_blank">Technori</a><br/><a href="http://www.builtinchicago.org/" target="_blank">Built in Chicago</a><br/>');
     
     L.marker(new L.LatLng(42.33, -83.05)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/detroit-mi.html">Detroit, MI</a><br/>July 21-26, 2013</span>');
