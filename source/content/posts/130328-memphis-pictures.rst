@@ -11,7 +11,7 @@ My four day stay was highlighted by amazingly welcoming hosts, great food,
 live music, and an exciting whirlwind tour through the city. 
 
 
-.. image:: ../img/130328-memphis-pictures/memphis-blues-sign.jpg
+.. image:: ../img/130328-memphis-pictures/memphis-blues-club.jpg
   :alt: Memphis BB King's Blues sign
 
 BB King's Blues Club on Beale Street in Memphis, Tennessee.
@@ -44,11 +44,51 @@ Tiger mascot on University of Memphis campus where I gave a
 ----
 
 
-.. image:: ../img/130328-memphis-pictures/.jpg
-  :alt: 
+.. image:: ../img/130328-memphis-pictures/graffiti.jpg
+  :alt: My favorite street graffiti.
 
-Tiger mascot on University of Memphis campus where I gave a 
-`Memphis Python </memphis-mempy-talk.html>`_ talk on Git/GitHub Workflows.
+My favorite street graffiti I found in Memphis.
+
+----
+
+
+.. image:: ../img/130328-memphis-pictures/main-street-memphis.jpg
+  :alt: Main Street in Memphis. 
+
+Main Street in Memphis. Locals prefer this to touristy Beale Street.
+
+----
+
+
+.. image:: ../img/130328-memphis-pictures/river-walk.jpg
+  :alt: Main Street in Memphis. 
+
+Mississippi River Walk in Memphis.
+
+----
+
+
+.. image:: ../img/130328-memphis-pictures/memphis-sign.jpg
+  :alt: Sign on the River Walk in Memphis.
+
+Sign on the River Walk in Memphis.
+
+----
+
+
+.. image:: ../img/130328-memphis-pictures/river-walk-houses.jpg
+  :alt: Houses on the River Walk in Memphis.
+
+Nice houses overlooking the Mississippi River in Memphis.
+
+----
+
+
+.. image:: ../img/130328-memphis-pictures/leaving-memphis.jpg
+  :alt: Sign for Arkansas.
+
+Sign on the bridge from Memphis into Arkansas while leaving Memphis to
+drive down to Dallas, Texas.
 
 
 If you liked these pictures you should check out my photos from
