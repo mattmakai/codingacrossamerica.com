@@ -10,7 +10,7 @@ var margin = {top: 10, right: 60, bottom: 60, left: 60},
     milesDrivenHeight = 
         (milesDrivenContainerHeight * .7) - margin.top - margin.bottom;
 
-var maxDays = 153, maxMiles = 12000,
+var maxDays = 153, maxMiles = 13000,
     lineWidth = milesDrivenWidth / maxDays;
 
 var x = d3.scale.linear()
@@ -92,7 +92,7 @@ function drawChart(data) {
             .attr("height", function(d) {
                     return milesDrivenHeight - y(d.total);
                 })
-            .delay(function(d, i) {return (i * 50) + 100;})
+            .delay(function(d, i) {return (i * 40) + 100;})
             .duration(1200);
 
     var bars = svg.selectAll("rect.daily-miles")
@@ -331,7 +331,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/new-orleans-la.html">New Orleans, LA</a><br/>March 17-24, 2013</span><br/><a href="/new-orleans-entrepreneurship-week.html">NOEW 2013</a><br/><a href="/walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a><br/><a href="/noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools Companies\' Pitches</a><br/><a href="/4pt0schools-coder-couch-nola">4.0 Schools\' Coder Couch</a><br/><a href="/noew-ideacorps-pitch-challenge.html">IDEAcorps Pitch Challenge</a><br/><a href="/how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In to NOLA\s Growing Entrepreneurship Scene</a><br/><span class="future-stories">mSchool<br/>Enriched Schools</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://siliconbayounews.com/">Silicon Bayou News</a></span>');
     
     L.marker(new L.LatLng(35.05, -90.00)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery<br/>Work for Pie<br/>Launch Memphis<br/></span>');
+        .bindPopup('<span class="city-name"><a href="/memphis-tn.html">Memphis, TN</a><br/>March 24-28, 2013</span><br/><a href="/memphis-tennessee-pictures.html">Memphis Pictures</a><br/><a href="/memphis-mempy-talk.html">MemPy</a><br/><span class="future-stories">Seed Hatchery<br/>Work for Pie<br/>Launch Memphis<br/></span>');
     
     L.marker(new L.LatLng(32.73, -96.97)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/dallas-tx.html">Dallas, TX</a><br/>March 28-April 1, 2013</span><br/><a href="/gravity-center-dallas-tx.html">The Gravity Center</a><br/><span class="future-stories">Startup Texas<br/>Tech Wildcatters<br/>The Common Desk<br/>SocialGlimpz</span>');
