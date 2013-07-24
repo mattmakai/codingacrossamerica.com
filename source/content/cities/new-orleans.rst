@@ -49,7 +49,7 @@ Interesting
 Articles
 --------
 * `The Big Comeback: Is New Orleans America's Next Great Innovation Hub? <http://www.theatlantic.com/business/archive/2013/04/the-big-comeback-is-new-orleans-americas-next-great-innovation-hub/274591/>`_
-
+* `Silicon Bayou rising: New Orleans' drive to be the next great tech city <http://www.theverge.com/2013/6/6/4391280/silicon-bayou-rising-new-orleans-drive-to-be-the-next-great-tech-city>`_
 
 Meetups
 -------
@@ -57,10 +57,6 @@ Meetups
 * `gnocode <http://www.meetup.com/gnocode/>`_
 * `We Make <http://www.meetup.com/We-Make/>`_
 * `New Orleans Personal Computer Club <http://www.meetup.com/NOPC-Club/>`_
-
-References
-----------
-* `New Orleans Wikipedia Entry <http://en.wikipedia.org/wiki/New_Orleans>`_
 
 Photo Attribution
 -----------------

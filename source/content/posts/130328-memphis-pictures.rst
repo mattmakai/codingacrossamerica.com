@@ -60,14 +60,6 @@ Main Street in Memphis. Locals prefer this to touristy Beale Street.
 ----
 
 
-.. image:: ../img/130328-memphis-pictures/river-walk.jpg
-  :alt: Main Street in Memphis. 
-
-Mississippi River Walk in Memphis.
-
-----
-
-
 .. image:: ../img/130328-memphis-pictures/memphis-sign.jpg
   :alt: Sign on the River Walk in Memphis.
 
@@ -80,6 +72,14 @@ Sign on the River Walk in Memphis.
   :alt: Houses on the River Walk in Memphis.
 
 Nice houses overlooking the Mississippi River in Memphis.
+
+----
+
+
+.. image:: ../img/130328-memphis-pictures/river-walk.jpg
+  :alt: Main Street in Memphis. 
+
+Mississippi River Walk in Memphis.
 
 ----
 

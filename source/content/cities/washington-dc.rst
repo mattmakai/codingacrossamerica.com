@@ -15,8 +15,11 @@ Washington, DC
 Basic stats
 -----------
 * City population: 620k, Metro population: 5.6m
-* Approximate distance driven on trip: `9200 miles <http://bit.ly/WRgRT5>`_
-* `Google Maps: Washington, D.C. <http://goo.gl/maps/xwM3F>`_
+
+
+Articles
+--------
+* `What I Learned From Researching the DC Tech/Startup Community <http://spinnakr.com/blog/dc-tech/2013/04/dc-techstartup-community/>`_
 
 Coffee Shops
 ------------

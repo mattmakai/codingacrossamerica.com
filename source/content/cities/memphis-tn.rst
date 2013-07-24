@@ -20,11 +20,17 @@ About
 * `Google Maps: Memphis <http://goo.gl/maps/JKriK>`_
 
 
-Interesting Initiatives
------------------------
+Accelerators
+------------
 * `Seed Hatchery <http://www.seedhatchery.com/>`_
+
+Co-working & incubators
+-----------------------
 * `Emerge Memphis <http://www.emergememphis.org/>`_
 * `Launchpad Memphis <http://www.launchmemphis.com/launchpad/>`_
+
+Entrepreneurship Initatives
+---------------------------
 * `Startup Memphis <http://startupmemphis.com/>`_
 * `Startup Tennessee <http://www.startuptn.com/>`_
 
@@ -33,6 +39,7 @@ Companies
 * `Work for Pie <https://workforpie.com/>`_
 * `Deluge Studios <http://www.delugestudios.com/>`_
 * `Boosterville <http://sodbuster.com/>`_
+* `RedRover <http://www.redrovercompany.com/>`_
 
 Venture Capital
 ---------------
@@ -48,13 +55,10 @@ Articles
 
 Meetups
 -------
-* `MEMpy <http://mempy.org/>`_. I'll be speaking on March 25th.
+* `MEMpy <http://mempy.org/>`_. 
 * `Memphis Startup Meetup <http://www.meetup.com/Memphis_startup_meetup/>`_
 * `Midsouth Tech Corner <http://www.meetup.com/MidsouthTechCorner/>`_
 
-References
-----------
-* `Wikipedia: Memphis, TN <http://en.wikipedia.org/wiki/Memphis,_Tennessee>`_
 
 Photo Attribution
 -----------------
