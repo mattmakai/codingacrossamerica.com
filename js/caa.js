@@ -319,7 +319,7 @@ function drawCitiesMap() {
 
     
     L.marker(new L.LatLng(38.95,-77.04)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/washington-dc.html">Washington, DC</a><br/>Depart March 9, return August 9, 2013</span><br/><a href="/tim-oreilly-open-government.html">Tim O\'Reilly on Open Government</a><br/><a href="/human-geo-washington-dc.html">HumanGeo</a><br/><a href="/wisertogether-washington-dc.html">WiserTogether</a><br/><a href="/uppidy-washington-dc.html">Uppidy</a><br/><br/><a href="external-resources">External Resources</a><br/><a href="http://proudlymadeindc.com/">Proudly Made in DC</a><br/><a href="http://www.fosterly.com/">Fosterly</a>');
+        .bindPopup('<span class="city-name"><a href="/washington-dc.html">Washington, DC</a><br/>Depart March 9, return August 9, 2013</span><br/><a href="/tim-oreilly-open-government.html">Tim O\'Reilly on Open Government</a><br/><a href="/human-geo-washington-dc.html">HumanGeo</a><br/><a href="/wisertogether-washington-dc.html">WiserTogether</a><br/><a href="/uppidy-washington-dc.html">Uppidy</a><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://proudlymadeindc.com/">Proudly Made in DC</a><br/><a href="http://www.fosterly.com/">Fosterly</a>').openPopup();
 
     L.marker(new L.LatLng(38.13,-78.45)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/charlottesville-va.html">Charlottesville, VA</a><br/>March 9-13, 2013</span><br/><a href="/day-one-coding-across-america.html">Day One</a><br/><a href="/charlottesville-virginia-day-one-through-five.html">Charlottesville Pictures</a><br/><a href="/agilityfeat-charlottesville-va.html">AgilityFeat</a><br/><a href="/willowtree-apps-charlottesville-va.html">WillowTree Apps</a>');
