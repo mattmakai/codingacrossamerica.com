@@ -158,10 +158,10 @@ function drawOrganizationsChart(root) {
         .value(function(d) { return 1; });
     
     var arcStart = d3.svg.arc()
-        .startAngle(function(d) { return d.x -1; })
+        .startAngle(function(d) { return d.x; })
         .endAngle(function(d) { return d.x + d.dx; })
-        .innerRadius(function(d) { return 0; })
-        .outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
+        .innerRadius(function(d) { return 180; })
+        .outerRadius(function(d) { return 180; });
 
     var arc = d3.svg.arc()
         .startAngle(function(d) { return d.x; })
@@ -222,8 +222,8 @@ function drawOrganizationsChart(root) {
         .style("fill", "#222")
             .each(stash)
         .transition()
-            .delay(600)
-            .duration(3000)
+            .delay(250)
+            .duration(2750)
         .style("fill", function(d) { 
             return color((d.children ? d : d.parent).name); 
          })
