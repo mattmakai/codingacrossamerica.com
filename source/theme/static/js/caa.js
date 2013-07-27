@@ -370,7 +370,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/portland-or.html">Portland, OR</a><br/>May 21-29, 2013</span><br/><a href="/portland-oregon-pictures.html">Portland Pictures</a><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://www.oregonlive.com/silicon-forest/">Silicon Forest News</a>');
     
     L.marker(new L.LatLng(47.45, -122.30)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span><br/><a href="/university-of-washington-pictures.html">University of Washington Pictures</a><br/><span class="future-stories">Socrata<br/>Factor.io<br/>Maker Space</span>');
+        .bindPopup('<span class="city-name"><a href="/seattle-wa.html">Seattle, WA</a><br/>May 29-June 6, 2013</span><br/><a href="/seattle-city-pictures.html">Seattle City Pictures</a><br/><a href="/seattle-hiking-pictures.html">Seattle Hiking Pictures</a><br/><a href="/university-of-washington-pictures.html">University of Washington Pictures</a><br/><span class="future-stories">Socrata<br/>Factor.io<br/>Maker Space</span>');
     
     L.marker(new L.LatLng(46.92, -114.08)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/missoula-mt.html">Missoula, MT</a><br/>June 6-9, 2013</span><br/><a href="/montana-pictures.html">Montana Pictures</a>');
