@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-06-13T00:00:00-04:00</updated><entry><title>Hacker Houses Are An Underused Concept</title><link href="http://www.codingacrossamerica.com/hacker-houses-underused-resource.html" rel="alternate"></link><updated>2013-06-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-13:hacker-houses-underused-resource.html</id><summary type="html">&lt;p&gt;I have often been asked during my Coding Across America project if I
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-07-27T00:00:00-04:00</updated><entry><title>Pictures Compilation</title><link href="http://www.codingacrossamerica.com/pictures-compilation.html" rel="alternate"></link><updated>2013-07-27T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-27:pictures-compilation.html</id><summary type="html">&lt;p&gt;This post contains a running list of all the picture posts from
+Coding Across America. Often cities have more than one post with pictures,
+Seattle for example, and it can be difficult to see them all at once. This
+post is intended to compile the full list. I will update this post as I
+continue traveling even after my road trip is over. Currently I have
+Chicago (DjangoCon 2014), Austin (Startup Week), Memphis (Everywhere Else
+Conference), Austin (SXSW 2014), Montreal (PyCon 2014) on the schedule with
+several others in the planning stages.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;July 16, 2013: &lt;a class="reference external" href="/chicago-pictures.html"&gt;Chicago Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;June 11, 2013: &lt;a class="reference external" href="/wyoming-photography.html"&gt;Wyoming Photography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;June 9, 2013: &lt;a class="reference external" href="/montana-pictures.html"&gt;Montana Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;June 3, 2013: &lt;a class="reference external" href="/seattle-city-pictures.html"&gt;Seattle City Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;June 2, 2013: &lt;a class="reference external" href="/seattle-hiking-pictures.html"&gt;Seattle Hiking Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;June 1, 2013: &lt;a class="reference external" href="/university-of-washington-pictures.html"&gt;University of Washington Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 28, 2013: &lt;a class="reference external" href="/portland-oregon-pictures.html"&gt;Portland, Oregon Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 19, 2013: &lt;a class="reference external" href="/eugene-oregon-pictures.html"&gt;Eugene, Oregon Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 16, 2013: &lt;a class="reference external" href="/computer-history-museum-mountain-view-ca.html"&gt;Computer History Museum in Mountain View, California Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 1, 2013: &lt;a class="reference external" href="/las-vegas-nevada-pictures.html"&gt;Las Vegas Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;April 24, 2013: &lt;a class="reference external" href="/san-diego-scenery.html"&gt;San Diego Scenery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;April 14, 2013: &lt;a class="reference external" href="/moab-scenery.html"&gt;Moab Scenery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;April 11, 2013: &lt;a class="reference external" href="/los-alamos-new-mexico-is-beautiful.html"&gt;Los Alamos is Beautiful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;March 28, 2013: &lt;a class="reference external" href="/memphis-tennessee-pictures.html"&gt;Memphis, Tennessee Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;March 14, 2013: &lt;a class="reference external" href="/charlottesville-virginia-day-one-through-five.html"&gt;Charlottesville, Virginia Pictures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Hacker Houses Are An Underused Concept</title><link href="http://www.codingacrossamerica.com/hacker-houses-underused-resource.html" rel="alternate"></link><updated>2013-06-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-06-13:hacker-houses-underused-resource.html</id><summary type="html">&lt;p&gt;I have often been asked during my Coding Across America project if I
 know software developers willing to relocate to the areas I visit.&lt;/p&gt;
 &lt;p&gt;The attracting talent problem is most acute in cities with smaller tech
 communities such as Charlottesville, Eugene, and Memphis. Larger cities
