@@ -379,7 +379,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/buffalo-wy.html">Buffalo, WY</a><br/>June 9-12, 2013</span><br/><a href="/wyoming-photography.html">Wyoming Pictures</a>');
     
     L.marker(new L.LatLng(40.02, -105.27)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/boulder-co.html">Boulder, CO</a><br/>June 12-19, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/boulder-co.html">Boulder, CO</a><br/>June 12-19, 2013</span><br/><a href="/colorado-hiking-pictures.html">Colorado Hiking Pictures</a>');
     
     L.marker(new L.LatLng(41.58, -93.71)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/des-moines-ia.html">Des Moines, IA</a><br/>June 19-25, 27-July 8, 2013</span><br/><span class="future-stories">Silicon Prairie News<br/>Dwolla<br/>StartupCity Des Moines<br/>Pongr<br/>BitMethod<br/>Hatchlings<br/></span>');

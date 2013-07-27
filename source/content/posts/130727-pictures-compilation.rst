@@ -17,6 +17,8 @@ several others in the planning stages.
 
 * July 16, 2013: `Chicago Pictures </chicago-pictures.html>`_
 
+* June 17, 2013: `Colorado Hiking Pictures </colorado-hiking-pictures.html>`_
+
 * June 11, 2013: `Wyoming Photography </wyoming-photography.html>`_
 
 * June 9, 2013: `Montana Pictures </montana-pictures.html>`_
