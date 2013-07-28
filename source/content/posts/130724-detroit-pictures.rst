@@ -53,7 +53,7 @@ Found a cool hole-in-the-wall spot for lunch,
 ----
 
 
-.. image:: ../img/130724-detroit-pictures/renaissance-center.jpg
+.. image:: ../img/130724-detroit-pictures/renaissance-center-up.jpg
   :alt: Looking up at the Renaissance Center which houses GM's headquarters.
 
 Looking up at the Renaissance Center which houses GM's headquarters.
