@@ -106,6 +106,36 @@ relocated to Vegas.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/endymion120/5471920747/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>Django Boston Talk</title><link href="http://www.codingacrossamerica.com/django-boston-talk.html" rel="alternate"></link><updated>2013-07-31T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-31:django-boston-talk.html</id><summary type="html">&lt;p&gt;I was fortunate enough to be able to give a technical talk at
+&lt;a class="reference external" href="http://www.meetup.com/djangoboston/events/100266532/"&gt;Django Boston&lt;/a&gt;
+on Wednesday evening. The presentation was created in
+&lt;a class="reference external" href="http://lab.hakim.se/reveal-js/"&gt;reveal.js&lt;/a&gt;, an HTML5 and JavaScript
+framework. Here are some pictures from the event as well as links to the
+video of the presentation and associated slides.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Akamai office entrance." src="../img/130731-django-boston-talk/akamai.jpg" /&gt;
+&lt;p&gt;Akamai office entrance where the talk was held. Nice venue!&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Django Boston presentation slides projected on the screen." src="../img/130731-django-boston-talk/django-boston.jpg" /&gt;
+&lt;p&gt;Title slide of my Django Boston presentation on how to take over an existing
+Django project codebase.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Matt Makai talking about Django project structures." src="../img/130731-django-boston-talk/talk-2.jpg" /&gt;
+&lt;p&gt;Here I'm discussing the project structure variations between 1.3, 1.4+, and
+customized projects.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Matt Makai talking Django projects." src="../img/130731-django-boston-talk/talk.jpg" /&gt;
+&lt;p&gt;Awkward shot... I must talk with my hands a lot.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Django Boston t-shirt." src="../img/130731-django-boston-talk/t-shirt.jpg" /&gt;
+&lt;p&gt;Thanks for the speaker t-shirt guys!&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;There is a &lt;a class="reference external" href="http://www.youtube.com/watch?v=psCVC9BdgsA"&gt;video of the talk&lt;/a&gt;.
+&lt;a class="reference external" href="http://www.mattmakai.com/static/presentations/django-boston-july-2013.html"&gt;These are the talk slides&lt;/a&gt;
+and the
+&lt;a class="reference external" href="https://github.com/makaimc/mattmakai.github.com/blob/gh-pages/source/static-html/presentations/django-boston-july-2013.html"&gt;source code is on Github&lt;/a&gt;.
+Thanks again for having me Django Boston and being a part of my Coding Across
+America project!&lt;/p&gt;
 </summary></entry><entry><title>Boston, MA</title><link href="http://www.codingacrossamerica.com/boston-ma.html" rel="alternate"></link><updated>2013-07-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-07-29:boston-ma.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Dusk view of Boston, Massachusetts" src="../img/boston-ma.jpg" /&gt;
 &lt;hr class="docutils" /&gt;

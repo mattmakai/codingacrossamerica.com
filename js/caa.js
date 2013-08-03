@@ -10,7 +10,7 @@ var margin = {top: 10, right: 60, bottom: 60, left: 60},
     milesDrivenHeight = 
         (milesDrivenContainerHeight * .7) - margin.top - margin.bottom;
 
-var maxDays = 153, maxMiles = 13000,
+var maxDays = 150, maxMiles = 14000,
     lineWidth = milesDrivenWidth / maxDays;
 
 var x = d3.scale.linear()
@@ -403,7 +403,7 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/buffalo-ny.html">Buffalo, NY</a><br/>July 26-29, 2013</span>');
 
     L.marker(new L.LatLng(42.36, -71.06)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/boston-ma.html">Boston, MA</a><br/>July 29-August 3, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/boston-ma.html">Boston, MA</a><br/>July 29-August 3, 2013</span><br/><a href="/django-boston-talk.html">Django Boston Talk</a>');
 
     L.marker(new L.LatLng(40.71, -74.01)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/new-york-ny.html">New York, NY</a><br/>August 3-7, 2013</span>');
