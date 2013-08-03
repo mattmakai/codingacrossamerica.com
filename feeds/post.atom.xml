@@ -5,6 +5,8 @@ on Wednesday evening. The presentation was created in
 &lt;a class="reference external" href="http://lab.hakim.se/reveal-js/"&gt;reveal.js&lt;/a&gt;, an HTML5 and JavaScript
 framework. Here are some pictures from the event as well as links to the
 video of the presentation and associated slides.&lt;/p&gt;
+&lt;p&gt;This talk is based on a blog post I published which provides
+&lt;a class="reference external" href="http://www.mattmakai.com/django-project-checklist.html"&gt;a checklist for evaluating existing Django projects&lt;/a&gt;.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;img alt="Akamai office entrance." src="../img/130731-django-boston-talk/akamai.jpg" /&gt;
 &lt;p&gt;Akamai office entrance where the talk was held. Nice venue!&lt;/p&gt;

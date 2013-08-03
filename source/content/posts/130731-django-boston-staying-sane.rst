@@ -11,7 +11,10 @@ I was fortunate enough to be able to give a technical talk at
 on Wednesday evening. The presentation was created in 
 `reveal.js <http://lab.hakim.se/reveal-js/>`_, an HTML5 and JavaScript 
 framework. Here are some pictures from the event as well as links to the 
-video of the presentation and associated slides. 
+video of the presentation and associated slides.
+
+This talk is based on a blog post I published which provides 
+`a checklist for evaluating existing Django projects <http://www.mattmakai.com/django-project-checklist.html>`_.
 
 ----
 
