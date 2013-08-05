@@ -10,7 +10,7 @@ var margin = {top: 10, right: 60, bottom: 60, left: 60},
     milesDrivenHeight = 
         (milesDrivenContainerHeight * .7) - margin.top - margin.bottom;
 
-var maxDays = 150, maxMiles = 14000,
+var maxDays = 152, maxMiles = 14000,
     lineWidth = milesDrivenWidth / maxDays;
 
 var x = d3.scale.linear()
@@ -92,7 +92,7 @@ function drawChart(data) {
             .attr("height", function(d) {
                     return milesDrivenHeight - y(d.total);
                 })
-            .delay(function(d, i) {return (i * 40) + 100;})
+            .delay(function(d, i) {return (i * 35) + 100;})
             .duration(1200);
 
     var bars = svg.selectAll("rect.daily-miles")
@@ -124,7 +124,7 @@ function drawChart(data) {
             .attr("height", function(d) {
                     return milesDrivenHeight - y(d.miles);
                 })
-            .delay(function(d, i) {return (i * 50) + 100;})
+            .delay(function(d, i) {return (i * 35) + 80;})
             .duration(1200);
 
 }
