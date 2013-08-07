@@ -403,13 +403,10 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/buffalo-ny.html">Buffalo, NY</a><br/>July 26-29, 2013</span>');
 
     L.marker(new L.LatLng(42.36, -71.06)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/boston-ma.html">Boston, MA</a><br/>July 29-August 3, 2013</span><br/><a href="/django-boston-talk.html">Django Boston Talk</a>');
+        .bindPopup('<span class="city-name"><a href="/boston-ma.html">Boston, MA</a><br/>July 29-August 2, 2013</span><br/><a href="/django-boston-talk.html">Django Boston Talk</a>');
 
     L.marker(new L.LatLng(40.71, -74.01)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/new-york-ny.html">New York, NY</a><br/>August 3-7, 2013</span>');
-
-    L.marker(new L.LatLng(40.80, -74.48)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/morristown-nj.html">Morristown, NJ</a><br/>August 7-9, 2013</span>');
+        .bindPopup('<span class="city-name"><a href="/new-york-ny.html">New York, NY</a><br/>August 2-6, 2013</span><br/><a href="/central-park-nyc-pictures.html">Central Park Pictures</a>');
 
 }
 
