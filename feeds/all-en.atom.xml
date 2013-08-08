@@ -48,6 +48,138 @@ relocated to Vegas.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.flickr.com/photos/aon/3017817334/"&gt;Flickr Creative Commons License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+</summary></entry><entry><title>Four Types of Software Developer Communities for Startups</title><link href="http://www.codingacrossamerica.com/four-types-startup-tech-cities.html" rel="alternate"></link><updated>2013-08-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-08:four-types-startup-tech-cities.html</id><summary type="html">&lt;p&gt;After traveling to 30 cities over the past 5 months as part of my
+&lt;a class="reference external" href="/#intro"&gt;Coding Across America&lt;/a&gt; project, I've discovered that entrepreneurs
+can categorize cities into one of four types of software development scenes.&lt;/p&gt;
+&lt;p&gt;Software developers with a full stack skill set are necessary as a
+&amp;quot;raw input&amp;quot; to an entrepreneurial culture. Over time, a startup scene without
+access to software developers will wither and die as the entrepreneurs
+move to cities with better tech scenes.&lt;/p&gt;
+&lt;div class="section" id="type-1-severely-limited-tech-community"&gt;
+&lt;h2&gt;Type 1: Severely Limited Tech Community&lt;/h2&gt;
+&lt;p&gt;Entrepreneurs in some cities find themselves with severely limited
+access to software development talent of any type. To build and scale a
+business with software as a major component (which most businesses today need
+for differentiation), the business will likely have to move or open another
+office in a different city.&lt;/p&gt;
+&lt;p&gt;For example, from my trip I found this issue to be the case in
+&lt;a class="reference external" href="/new-orleans-la.html"&gt;New Orleans&lt;/a&gt;. NOLA has a thriving entrepreneurial
+community with &lt;a class="reference external" href="http://ideavillage.org/"&gt;IdeaVillage&lt;/a&gt;,
+&lt;a class="reference external" href="http://4pt0.org/"&gt;4.0 Schools&lt;/a&gt;, and events such as
+&lt;a class="reference external" href="http://ideavillage.org/how_it_works/noew/"&gt;New Orleans Entrepreneurship Week&lt;/a&gt;.
+However, the raw input pool of software developers is simply not large enough
+to sustain an entrepreneurial community. I'm not trying to take away from
+the software developers who are there - certain events like
+&lt;a class="reference external" href="http://www.meetup.com/nolahacknight/"&gt;NOLA Hack Night&lt;/a&gt; show that there
+&lt;em&gt;are&lt;/em&gt; developers. However, there are simply not enough of them given the
+size of New Orleans.&lt;/p&gt;
+&lt;img alt="Morning skyline in New Orleans." src="../img/130808-four-types-cities/nola-morning-skyline.jpg" /&gt;
+&lt;p&gt;Morning skyline in New Orleans.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Cities with a severely limited tech community should first incentivize
+companies to hire software developers for local positions. In addition,
+local leadership who run tech meetups are key to building a strongly bound
+tech community. Once a small community is established, tech startups should
+consider banding together to create
+&lt;a class="reference external" href="/hacker-houses-underused-resource.html"&gt;hacker houses&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="type-2-primarily-enterprise-development"&gt;
+&lt;h2&gt;Type 2: Primarily Enterprise Development&lt;/h2&gt;
+&lt;p&gt;The second type of city has software development talent, although the talent
+is geared towards narrowly scoped enterprise software skills, such as SOAP
+web services. A developer can stay in a position for years generating XML
+schemas for web services and not learn any other parts of a technology stack!
+That type of developer would struggle mightily in a startup environment where
+developers share responsibilities for all parts of the product until the
+team scales to a sufficiently large size.&lt;/p&gt;
+&lt;p&gt;Non-technical entrepreneurs with a fledgling business are looking for
+&amp;quot;full stack&amp;quot; developers who can build an entire product from the back
+end database creation to the front end CSS design, as well as run the
+application (or mobile app) in production.&lt;/p&gt;
+&lt;p&gt;Another challenge in these cities is that the culture often
+discourages leaving an established job to take a risk at a startup. If a
+startup fails, large enterprises are often reluctant to hire workers back
+due to the mistaken view that time at a startup is similar to being unemployed.&lt;/p&gt;
+&lt;p&gt;Examples of this type of city are &lt;a class="reference external" href="/memphis-tn.html"&gt;Memphis, TN&lt;/a&gt;,
+&lt;a class="reference external" href="/charlotte-nc.html"&gt;Charlotte, NC&lt;/a&gt;, &lt;a class="reference external" href="/dallas-tx.html"&gt;Dallas, TX&lt;/a&gt;, and
+&lt;a class="reference external" href="/omaha-ne.html"&gt;Omaha, NE&lt;/a&gt;. Note however, Washington, DC is not included
+in this category even though it shares many characteristics (DC falls in
+type 3, next).&lt;/p&gt;
+&lt;img alt="Main Street in Memphis, TN." src="../img/130808-four-types-cities/main-street-memphis.jpg" /&gt;
+&lt;p&gt;Main Street in Memphis, Tennessee.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Entreprise development type cities have a huge potential source for great
+developers: pick out the best developers who are bored in their jobs and
+have a passion for learning more. Hooking those developers into local tech
+meetups with entrepreneurs and full stack developers provides an opportunity
+to over time get them the broad skill set they'd need to succeed at a tech
+startup.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="type-3-consulting-skewed"&gt;
+&lt;h2&gt;Type 3: Consulting Skewed&lt;/h2&gt;
+&lt;p&gt;As I traveled and talked with tech startups and software developers
+around the country I realized Washington, DC is an oddity in this list.
+That's either a good or a bad thing depending on whether you think what
+matters is entrepreneurship, or
+&lt;a class="reference external" href="http://www.paulgraham.com/growth.html"&gt;startups meant for rapid growth&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Entrepreneurship is common in Washington, DC. But the easiest business to
+start is a consulting firm. Think of the advantages: hire when someone else
+is willing to pay for that person's salary (plus extra), minimal office
+overhead since most consultants are on client site, and downsize headcount
+if necessary when projects end. Yet these same forces that make it easy to
+start a consulting business also push up the salaries to a point where
+jumping to a scalable product-based startup creates too much risk versus
+reward from a individual's financial standpoint.&lt;/p&gt;
+&lt;p&gt;Sure, some developers are attracted by the startup environment, a laid
+back atmosphere, and the trendiness of working at a tech startup. But if
+you're a great developer who's into that, why wouldn't you just move to
+Austin, Texas? Without any other limiting factors, it would be silly
+to deal with the high cost of living in D.C. and work at a tech startup.&lt;/p&gt;
+&lt;img alt="The shadow of a flag flying in Washington, DC." src="../img/130808-four-types-cities/washington-dc.jpg" /&gt;
+&lt;p&gt;Washington, DC.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;I'm still on the fence as to whether Washington, D.C. can or should change
+the consulting firm culture. I'll have more to say on this after I meet with
+more members of the tech startup scene now that I have returned from
+my trip.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="type-4-extensive-talent-massive-demand"&gt;
+&lt;h2&gt;Type 4: Extensive Talent, Massive Demand&lt;/h2&gt;
+&lt;p&gt;The final type of scene I found in the United States was where there was
+extensive talent throughout the city. However, massive demand by both startups
+and large established tech companies such as Google, Amazon, and Facebook
+creates significant upward salary pressure.&lt;/p&gt;
+&lt;p&gt;Examples of these cities are &lt;a class="reference external" href="/san-francisco-ca.html"&gt;San Francisco&lt;/a&gt; (and
+the whole Bay Area, &lt;a class="reference external" href="/seattle-wa.html"&gt;Seattle&lt;/a&gt;,
+&lt;a class="reference external" href="/austin-tx.html"&gt;Austin&lt;/a&gt;, and to a lesser extent,
+&lt;a class="reference external" href="/new-york-ny.html"&gt;New York City&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="The New York City skyline view from the East Village." src="../img/130808-four-types-cities/new-york-skyline.jpg" /&gt;
+&lt;p&gt;New York City skyline viewed from the East Village.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Extensive talent, massive demand type of cities need ways to train new
+technical talent. A great
+example is &lt;a class="reference external" href="http://www.starterleague.com/"&gt;The Starter League&lt;/a&gt; in Chicago.
+Programs like The Starter League take people who have little to no
+programming ability and in several weeks getting them over the steep
+initial learning curve. Over time these types of programs create an influx
+of tech workers with practical full stack skills. One area for improvement
+will be engaging program alumni to make sure they are continuing to build
+their skills after they graduate.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Those are the four broad categories I found. I'm sure some aspects will
+change as I have time to reflect and discuss this subject further with
+various tech communities. For example, I did not address the tech
+communities found in university-centered cities such as
+&lt;a class="reference external" href="/charlottesville-va.html"&gt;Charlottesville&lt;/a&gt;,
+&lt;a class="reference external" href="/boulder-co.html"&gt;Boulder&lt;/a&gt;,
+&lt;a class="reference external" href="/eugene-or.html"&gt;Eugene&lt;/a&gt;, and
+&lt;a class="reference external" href="/madison-wi.html"&gt;Madison&lt;/a&gt;. If you find the subject interesting or have a
+comment about it, send me an email at &lt;a class="reference external" href="mailto:matthew.makai&amp;#64;gmail.com"&gt;matthew.makai&amp;#64;gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you found my writing in this post interesting you should also read about
+my perspectives on
+&lt;a class="reference external" href="/hacker-houses-underused-resource.html"&gt;hacker houses as an underutilized resource&lt;/a&gt;
+and my post on why &lt;a class="reference external" href="/starting-sustaining-book.html"&gt;doers help doers&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>Central Park NYC Pictures</title><link href="http://www.codingacrossamerica.com/central-park-nyc-pictures.html" rel="alternate"></link><updated>2013-08-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-06:central-park-nyc-pictures.html</id><summary type="html">&lt;p&gt;The last stop on my road trip was New York City. New York is a big
 enough place that although I grew up west of the city in Morristown,
 New Jersey, I never really felt I knew the area well. Pictures in this blog
@@ -666,6 +798,11 @@ are an underused concept for attracting software developers to a city.
 It's surprising that I have not seen groups of tech companies band together
 to create hacker houses and market them to developers outside their
 communities.&lt;/p&gt;
+&lt;img alt="A picture of the JJ Chez hacker house in San Francisco." src="../img/130613-hacker-houses/jj-chez-hacker-house.jpg" /&gt;
+&lt;p&gt;A picture of the bunk beds in one room of the
+&lt;a class="reference external" href="https://www.airbnb.com/s?host_id=2301071"&gt;JJ Chez San Francisco Hacker House&lt;/a&gt;
+where I stayed while on my trip in May.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
 &lt;p&gt;Here's an example. Let's say in Eugene, Oregon that
 &lt;a class="reference external" href="http://concentricsky.com/"&gt;Concentric Sky&lt;/a&gt;,
 &lt;a class="reference external" href="http://www.paloalto.com/"&gt;Palo Alto Software&lt;/a&gt;, and other organizations

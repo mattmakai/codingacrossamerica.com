@@ -23,6 +23,16 @@ It's surprising that I have not seen groups of tech companies band together
 to create hacker houses and market them to developers outside their
 communities.
 
+
+.. image:: ../img/130613-hacker-houses/jj-chez-hacker-house.jpg
+  :alt: A picture of the JJ Chez hacker house in San Francisco.
+
+A picture of the bunk beds in one room of the 
+`JJ Chez San Francisco Hacker House <https://www.airbnb.com/s?host_id=2301071>`_ 
+where I stayed while on my trip in May.
+
+----
+
 Here's an example. Let's say in Eugene, Oregon that 
 `Concentric Sky <http://concentricsky.com/>`_,
 `Palo Alto Software <http://www.paloalto.com/>`_, and other organizations
