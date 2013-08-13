@@ -1,5 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-08-08T00:00:00-04:00</updated><entry><title>Four Types of Software Developer Communities for Startups</title><link href="http://www.codingacrossamerica.com/four-types-startup-tech-cities.html" rel="alternate"></link><updated>2013-08-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-08:four-types-startup-tech-cities.html</id><summary type="html">&lt;p&gt;After traveling to 30 cities over the past 5 months as part of my
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-08-13T00:00:00-04:00</updated><entry><title>Thank You!</title><link href="http://www.codingacrossamerica.com/thank-you.html" rel="alternate"></link><updated>2013-08-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-13:thank-you.html</id><summary type="html">&lt;p&gt;After five months and thirty cities, I've returned to our nation's capital.
+My time on the road was a tremendous opportunity to spend significant time
+outside the D.C. bubble and learn from amazing people that I otherwise would
+not have had an opportunity to interact with.&lt;/p&gt;
+&lt;p&gt;I want to use this post to highlight and thank all the organizations I met
+with around the country. In addition, I want to highlight some exceptional
+people who really went above and beyond to help me learn from their local
+tech community.&lt;/p&gt;
+&lt;div class="section" id="people-of-immense-help-along-the-way"&gt;
+&lt;h2&gt;People of Immense Help Along the Way&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Memphis: &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;Brad Montgomery&lt;/a&gt; and
+&lt;a class="reference external" href="https://twitter.com/cliffmckinney"&gt;Cliff McKinney&lt;/a&gt;
+(&lt;a class="reference external" href="https://workforpie.com/"&gt;Work for Pie&lt;/a&gt;)
+&amp;amp; &lt;a class="reference external" href="https://twitter.com/ECMathews"&gt;Eric Mathews&lt;/a&gt;
+(&lt;a class="reference external" href="http://www.seedhatchery.com/"&gt;Seed Hatchery&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dallas:
+&lt;a class="reference external" href="http://blog.uber.com/2013/01/25/ubergrouper-two-truths-and-a-lie-dallas-edition/"&gt;Andrew Jacobson&lt;/a&gt;
+(&lt;a class="reference external" href="http://uber.com/"&gt;Uber&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Austin: &lt;a class="reference external" href="https://twitter.com/CaseySoftware"&gt;Keith Casey&lt;/a&gt;
+(&lt;cite&gt;Twilio &amp;lt;http://www.twilio.com/&amp;gt;&lt;/cite&gt;)&lt;/li&gt;
+&lt;li&gt;San Diego: &lt;a class="reference external" href="https://twitter.com/mjwsd"&gt;Matthew Wilberger&lt;/a&gt;
+(&lt;a class="reference external" href="https://twitter.com/GrowthHackLabs"&gt;Growth Hack Labs&lt;/a&gt; &amp;amp; Antengo)&lt;/li&gt;
+&lt;li&gt;Kansas City: &lt;a class="reference external" href="https://twitter.com/norrisluke"&gt;Luke Norris&lt;/a&gt;
+(&lt;a class="reference external" href="http://codeforamerica.org/"&gt;Code for America&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Des Moines, Kansas City, and Omaha:
+&lt;a class="reference external" href="https://twitter.com/geoffwood"&gt;Geoff Wood&lt;/a&gt; &amp;amp;
+&lt;a class="reference external" href="https://twitter.com/meganebannister"&gt;Megan Bannister&lt;/a&gt;
+(&lt;a class="reference external" href="http://www.siliconprairienews.com/"&gt;Silicon Prairie News&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Boston: &lt;a class="reference external" href="https://twitter.com/natea"&gt;Nate Aune&lt;/a&gt;
+(&lt;a class="reference external" href="http://appsembler.com/"&gt;Appsembler&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="organizations"&gt;
+&lt;h2&gt;Organizations&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="../human-geo-washington-dc.html"&gt;HumanGeo&lt;/a&gt; (DC)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../wisertogether-washington-dc.html"&gt;WiserTogether&lt;/a&gt; (DC)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../uppidy-washington-dc.html"&gt;Uppidy&lt;/a&gt; (DC)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../agilityfeat-charlottesville-va.html"&gt;AgilityFeat&lt;/a&gt; (Charlottesville)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../willowtree-apps-charlottesville-va.html"&gt;WillowTree Apps&lt;/a&gt;
+(Charlottesville)&lt;/li&gt;
+&lt;li&gt;IdeaVillage (New Orleans)&lt;/li&gt;
+&lt;li&gt;mSchool (New Orleans)&lt;/li&gt;
+&lt;li&gt;4.0 Schools (New Orleans)&lt;/li&gt;
+&lt;li&gt;Work for Pie (Memphis)&lt;/li&gt;
+&lt;li&gt;Seed Hatchery (Memphis)&lt;/li&gt;
+&lt;li&gt;Boosterville (Memphis)&lt;/li&gt;
+&lt;li&gt;Screwpulp (Memphis)&lt;/li&gt;
+&lt;li&gt;Launch Memphis (Memphis)&lt;/li&gt;
+&lt;li&gt;Startup Texas (Dallas)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../gravity-center-dallas-tx.html"&gt;The Gravity Center&lt;/a&gt; (Dallas)&lt;/li&gt;
+&lt;li&gt;The Common Desk (Dallas)&lt;/li&gt;
+&lt;li&gt;Tech Wildcatters (Dallas)&lt;/li&gt;
+&lt;li&gt;Continuum Analytics (Austin)&lt;/li&gt;
+&lt;li&gt;CopperEgg (Austin)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../capital-factory-austin-tx.html"&gt;Capital Factory&lt;/a&gt; (Austin)&lt;/li&gt;
+&lt;li&gt;Startup America - Regional Summit (Phoenix)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../seed-spot-phoenix-az.html"&gt;Seed Spot&lt;/a&gt; (Phoenix)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../co-hoots-phoenix-az.html"&gt;CO+HOOTS&lt;/a&gt; (Phoenix)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../misto-box-phoenix-az.html"&gt;MistoBox&lt;/a&gt; (Phoenix)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../antengo-san-diego-ca.html"&gt;Antengo&lt;/a&gt; (San Diego)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../evonexus-san-diego-ca.html"&gt;EvoNexus&lt;/a&gt; (San Diego)&lt;/li&gt;
+&lt;li&gt;Barefoot Solutions (San Diego)&lt;/li&gt;
+&lt;li&gt;nulu (San Diego)&lt;/li&gt;
+&lt;li&gt;ForwardMetrics (San Diego)&lt;/li&gt;
+&lt;li&gt;Saambaa (San Diego)&lt;/li&gt;
+&lt;li&gt;Downtown Project (Las Vegas)&lt;/li&gt;
+&lt;li&gt;SocialGlimpz (San Francisco)&lt;/li&gt;
+&lt;li&gt;Code for America (San Francisco)&lt;/li&gt;
+&lt;li&gt;Twilio (San Francisco)&lt;/li&gt;
+&lt;li&gt;Banjo (Bay Area)&lt;/li&gt;
+&lt;li&gt;Palo Alto Software (Eugene)&lt;/li&gt;
+&lt;li&gt;Concentric Sky (Eugene)&lt;/li&gt;
+&lt;li&gt;Portland State Business Accelerator (Portland)&lt;/li&gt;
+&lt;li&gt;Socrata (Seattle)&lt;/li&gt;
+&lt;li&gt;Factor.io (Seattle)&lt;/li&gt;
+&lt;li&gt;Maker Space (Seattle)&lt;/li&gt;
+&lt;li&gt;Silicon Praire News (Des Moines)&lt;/li&gt;
+&lt;li&gt;Dwolla (Des Moines)&lt;/li&gt;
+&lt;li&gt;StartupCity (Des Moines)&lt;/li&gt;
+&lt;li&gt;Pongr (Des Moines)&lt;/li&gt;
+&lt;li&gt;BitMethod (Des Moines)&lt;/li&gt;
+&lt;li&gt;Hatchlings (Des Moines)&lt;/li&gt;
+&lt;li&gt;GForce Group (Des Moines)&lt;/li&gt;
+&lt;li&gt;Kaufmann Foundation (Kansas City)&lt;/li&gt;
+&lt;li&gt;KCSourceLink (Kansas City)&lt;/li&gt;
+&lt;li&gt;Entrepreneur KC Radio (Kansas City)&lt;/li&gt;
+&lt;li&gt;SightDeckKC (Kansas City)&lt;/li&gt;
+&lt;li&gt;Leap2 (Kansas City)&lt;/li&gt;
+&lt;li&gt;Hacker Village (Kansas City)&lt;/li&gt;
+&lt;li&gt;EyeVerify (Kansas City)&lt;/li&gt;
+&lt;li&gt;One Million Cups KC (Kansas City)&lt;/li&gt;
+&lt;li&gt;directEDGAR (Omaha)&lt;/li&gt;
+&lt;li&gt;Omaha Python (Omaha)&lt;/li&gt;
+&lt;li&gt;Startup Genome (Omaha)&lt;/li&gt;
+&lt;li&gt;Drifty (Madison)&lt;/li&gt;
+&lt;li&gt;The Starter League (Chicago)&lt;/li&gt;
+&lt;li&gt;1871 (Chicago)&lt;/li&gt;
+&lt;li&gt;Matchist (Chicago)&lt;/li&gt;
+&lt;li&gt;Boston Django (Boston)&lt;/li&gt;
+&lt;li&gt;Appsembler (Boston)&lt;/li&gt;
+&lt;li&gt;Schrodinger (NYC)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="talks"&gt;
+&lt;h2&gt;Talks&lt;/h2&gt;
+&lt;p&gt;Also a huge thanks to the organizations and meetup groups that invited me
+to give talks. While I often speak in DC, it was amazing engaging in
+discussion with communities from coast to coast.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://mempy.org/march-25-2013.html"&gt;MemPy&lt;/a&gt; (Memphis, Tennessee)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/COMMNEXUS_SD/status/329278052855054336"&gt;EvoNexus Community&lt;/a&gt;
+(San Diego, California)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.omahapython.org/blog/archives/286"&gt;Omaha Python&lt;/a&gt;
+(Omaha, Nebraska)&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/djangoboston/events/100266532/"&gt;Django Boston&lt;/a&gt;
+(Boston, Massachusetts)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also have an upcoming talk in Chicago at DjangoCon on September 5 and
+another talk in DC on Sept 25. After that, I'm hoping to cool it a bit for
+a couple of months.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;There's been so many people along the way that have been incredibly helpful
+and generous. Thank you all for helping me with my Coding Across America
+project.&lt;/p&gt;
+&lt;p&gt;I will be writing a post on what's next, but the gist of it is to apply
+what I've learned along the way to the DC tech and startup community. I have
+many meetings set up with organizations here in the DC area and I look
+forward to spreading the knowledge, making connections, and generally
+paying it forward as I was able to do throughout my trip.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you found my writing in this post interesting you should also read about
+my perspectives on
+&lt;a class="reference external" href="/four-types-startup-tech-cities.html"&gt;the four types of software development communities for startups&lt;/a&gt; and
+&lt;a class="reference external" href="/hacker-houses-underused-resource.html"&gt;hacker houses as an underutilized resource&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Four Types of Software Developer Communities for Startups</title><link href="http://www.codingacrossamerica.com/four-types-startup-tech-cities.html" rel="alternate"></link><updated>2013-08-08T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-08:four-types-startup-tech-cities.html</id><summary type="html">&lt;p&gt;After traveling to 30 cities over the past 5 months as part of my
 &lt;a class="reference external" href="/#intro"&gt;Coding Across America&lt;/a&gt; project, I've discovered that entrepreneurs
 can categorize cities into one of four types of software development scenes.&lt;/p&gt;
 &lt;p&gt;Software developers with a full stack skill set are necessary as a
@@ -1641,10 +1778,14 @@ organizations.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="../agilityfeat-charlottesville-va.html"&gt;AgilityFeat&lt;/a&gt; (Charlottesville)&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../willowtree-apps-charlottesville-va.html"&gt;WillowTree Apps&lt;/a&gt;
 (Charlottesville)&lt;/li&gt;
+&lt;li&gt;IdeaVillage (New Orleans)&lt;/li&gt;
 &lt;li&gt;mSchool (New Orleans)&lt;/li&gt;
 &lt;li&gt;4.0 Schools (New Orleans)&lt;/li&gt;
 &lt;li&gt;Work for Pie (Memphis)&lt;/li&gt;
 &lt;li&gt;Seed Hatchery (Memphis)&lt;/li&gt;
+&lt;li&gt;Boosterville (Memphis)&lt;/li&gt;
+&lt;li&gt;Screwpulp (Memphis)&lt;/li&gt;
+&lt;li&gt;Launch Memphis (Memphis)&lt;/li&gt;
 &lt;li&gt;Startup Texas (Dallas)&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../gravity-center-dallas-tx.html"&gt;The Gravity Center&lt;/a&gt; (Dallas)&lt;/li&gt;
 &lt;li&gt;The Common Desk (Dallas)&lt;/li&gt;
@@ -1659,6 +1800,7 @@ organizations.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="../antengo-san-diego-ca.html"&gt;Antengo&lt;/a&gt; (San Diego)&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="../evonexus-san-diego-ca.html"&gt;EvoNexus&lt;/a&gt; (San Diego)&lt;/li&gt;
 &lt;li&gt;Barefoot Solutions (San Diego)&lt;/li&gt;
+&lt;li&gt;nulu (San Diego)&lt;/li&gt;
 &lt;li&gt;ForwardMetrics (San Diego)&lt;/li&gt;
 &lt;li&gt;Saambaa (San Diego)&lt;/li&gt;
 &lt;li&gt;Downtown Project (Las Vegas)&lt;/li&gt;
@@ -1690,9 +1832,14 @@ organizations.&lt;/p&gt;
 &lt;li&gt;Omaha Python (Omaha)&lt;/li&gt;
 &lt;li&gt;Startup Genome (Omaha)&lt;/li&gt;
 &lt;li&gt;Drifty (Madison)&lt;/li&gt;
+&lt;li&gt;The Starter League (Chicago)&lt;/li&gt;
+&lt;li&gt;1871 (Chicago)&lt;/li&gt;
+&lt;li&gt;Matchist (Chicago)&lt;/li&gt;
+&lt;li&gt;Boston Django (Boston)&lt;/li&gt;
+&lt;li&gt;Appsembler (Boston)&lt;/li&gt;
+&lt;li&gt;Schrodinger (NYC)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Organizations without links are ones I am still working to put up.
-I also write a range of other posts on the general entrepreneurship and
+&lt;p&gt;I also write a range of other posts on the general entrepreneurship and
 tech scenes in each city I visit.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="why-participate"&gt;
