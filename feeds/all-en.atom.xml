@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-08-13T00:00:00-04:00</updated><entry><title>Thank You!</title><link href="http://www.codingacrossamerica.com/thank-you.html" rel="alternate"></link><updated>2013-08-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-13:thank-you.html</id><summary type="html">&lt;p&gt;After five months and thirty cities, I've returned to our nation's capital.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-08-19T00:00:00-04:00</updated><entry><title>An Offer to Developers Visiting D.C.</title><link href="http://www.codingacrossamerica.com/dc-offer.html" rel="alternate"></link><updated>2013-08-19T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-19:dc-offer.html</id><summary type="html">&lt;p&gt;This is a short post. I'm settling back into downtown Washington, D.C. now
+that I have been back for about a week and a half.&lt;/p&gt;
+&lt;p&gt;I am extending an open invitation to software developers visiting D.C. who
+want help getting connected to the tech scene here. If you are coming to
+town for a conference or vacation and are interested in checking out the
+software development community, please shoot me an email at
+&lt;a class="reference external" href="mailto:matthew.makai&amp;#64;gmail.com"&gt;matthew.makai&amp;#64;gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I'm happy to make introductions as a way of paying it forward. It's the least
+I can do after such warm welcomes by so many
+&lt;a class="reference external" href="/thank-you.html"&gt;people and organizations&lt;/a&gt; I met with while on the road
+and the widely generous software development community across the U.S.&lt;/p&gt;
+&lt;img alt="A view inside the Courthouse Metro station." src="../img/130819-dc-offer/metro.jpg" /&gt;
+&lt;p&gt;A view from inside the Arlington Courthouse metro station.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you found my writing in this post interesting you should also read
+&lt;a class="reference external" href="/thank-you.html"&gt;my thank you post&lt;/a&gt; and about my perspectives on
+&lt;a class="reference external" href="/four-types-startup-tech-cities.html"&gt;the four types of software development communities for startups&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Thank You!</title><link href="http://www.codingacrossamerica.com/thank-you.html" rel="alternate"></link><updated>2013-08-13T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-13:thank-you.html</id><summary type="html">&lt;p&gt;After five months and thirty cities, I've returned to our nation's capital.
 My time on the road was a tremendous opportunity to spend significant time
 outside the D.C. bubble and learn from amazing people that I otherwise would
 not have had an opportunity to interact with.&lt;/p&gt;
