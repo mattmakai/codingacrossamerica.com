@@ -2,7 +2,7 @@
   <div>
     By 
     <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
-    {{ article.date.strftime('%m.%d.%Y') }}.
+    {{ article.date.strftime('%m.%d.%Y') }}. {% if article.tags %}Tags: {% for t in article.tags %}{% if not loop.first %}, {% endif %}{{ t.name }}{% endfor %}{% endif %}
   </div>
   <div class="row">
     <div class="span7">
