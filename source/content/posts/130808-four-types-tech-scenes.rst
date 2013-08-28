@@ -136,7 +136,7 @@ and large established tech companies such as Google, Amazon, and Facebook
 creates significant upward salary pressure.
 
 Examples of these cities are `San Francisco </san-francisco-ca.html>`_ (and
-the whole Bay Area, `Seattle </seattle-wa.html>`_, 
+the whole Bay Area), `Seattle </seattle-wa.html>`_, 
 `Austin </austin-tx.html>`_, and to a lesser extent, 
 `New York City </new-york-ny.html>`_.
 

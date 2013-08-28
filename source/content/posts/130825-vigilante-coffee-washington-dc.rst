@@ -29,6 +29,10 @@ going on around you. There are only a few easily accessible electric
 outlets depending on where you sit. However, the cafe is dark enough that 
 you can have your screen brightness low to conserve battery power.
 
+I was able to jump on a password-less wifi connection easily enough while
+there. Next time I stop by I'll make sure that's actually their Internet
+though.
+
 .. image:: ../img/130825-vigilante-coffee/map.jpg
   :alt: Map with the location of Vigilante Coffee pop up cafe.
   :target: http://goo.gl/maps/nOgsd
