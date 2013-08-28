@@ -61,7 +61,7 @@ Upstairs bar, usually not manned during weekday regular hours.
 
 ----
 
-.. image:: ../img/130827-busboys-poets/upstairs.jpg
+.. image:: ../img/130827-busboys-poets/patio.jpg
   :alt: Patio seating outside Busboys.
 
 Patio seating. Canopy cover allows you to work outside on a laptop easily
