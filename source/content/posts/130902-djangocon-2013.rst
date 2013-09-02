@@ -1,0 +1,25 @@
+DjangoCon 2013
+==============
+
+:slug: djangocon-2013
+:date: 2013-09-02
+:category: post
+:author: Matt Makai
+:tags: conference, travel
+
+I'm in Chicago this week for DjangoCon 2013. I will be speaking Thursday 
+morning on 
+`Making Django Play Nice with Third Party Services <http://www.djangocon.us/schedule/presentation/47/>`_. Come find me or hit me up on Twitter if you're 
+around this week!
+
+
+.. image:: ../img/130902-djangocon-2013/skyline.jpg
+  :alt: Chicago downtown skyline.
+
+Downtown Chicago skyline on the Chicago River.
+
+----
+
+Check out my pictures from 
+`the last time I was in Chicago </chicago-pictures.html>`_.
+

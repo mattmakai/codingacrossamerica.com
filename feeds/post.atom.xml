@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-08-28T00:00:00-04:00</updated><entry><title>Commissary in Washington, D.C.</title><link href="http://www.codingacrossamerica.com/commissary-washington-dc.html" rel="alternate"></link><updated>2013-08-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-28:commissary-washington-dc.html</id><summary type="html">&lt;p&gt;Commissary is a coffee shop, restaurant, and bar a half block from Logan
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-02T00:00:00-04:00</updated><entry><title>DjangoCon 2013</title><link href="http://www.codingacrossamerica.com/djangocon-2013.html" rel="alternate"></link><updated>2013-09-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-02:djangocon-2013.html</id><summary type="html">&lt;p&gt;I'm in Chicago this week for DjangoCon 2013. I will be speaking Thursday
+morning on
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/47/"&gt;Making Django Play Nice with Third Party Services&lt;/a&gt;. Come find me or hit me up on Twitter if you're
+around this week!&lt;/p&gt;
+&lt;img alt="Chicago downtown skyline." src="../img/130902-djangocon-2013/skyline.jpg" /&gt;
+&lt;p&gt;Downtown Chicago skyline on the Chicago River.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Check out my pictures from
+&lt;a class="reference external" href="/chicago-pictures.html"&gt;the last time I was in Chicago&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="conference"></category><category term="travel"></category></entry><entry><title>Commissary in Washington, D.C.</title><link href="http://www.codingacrossamerica.com/commissary-washington-dc.html" rel="alternate"></link><updated>2013-08-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-28:commissary-washington-dc.html</id><summary type="html">&lt;p&gt;Commissary is a coffee shop, restaurant, and bar a half block from Logan
 Circle on P Street NW in Washington, D.C.&lt;/p&gt;
 &lt;img alt="Commissary logo" src="../img/130828-commissary/commissary-logo.jpg" /&gt;
 &lt;p&gt;Commissary's logo.&lt;/p&gt;
