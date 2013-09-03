@@ -2,7 +2,7 @@ The Debate the "Autoworkers" of Our Generation
 ==============================================
 
 :slug: autoworkers-our-generation
-:date: 2013-09-03
+:date: 2013-09-03 08:00
 :category: post
 :author: Matt Makai
 :tags: debate, software developers

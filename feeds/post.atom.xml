@@ -1,5 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-02T00:00:00-04:00</updated><entry><title>DjangoCon 2013</title><link href="http://www.codingacrossamerica.com/djangocon-2013.html" rel="alternate"></link><updated>2013-09-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-02:djangocon-2013.html</id><summary type="html">&lt;p&gt;I'm in Chicago this week for DjangoCon 2013. I will be speaking Thursday
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-03T10:00:00-04:00</updated><entry><title>DjangoCon 2013... Go!</title><link href="http://www.codingacrossamerica.com/djangocon-2013-go.html" rel="alternate"></link><updated>2013-09-03T10:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-03:djangocon-2013-go.html</id><summary type="html">&lt;p&gt;The main DjangoCon 2013 conference is kicking off this morning. Here's a quick
+couple of pictures as people are getting settled down before the keynote.&lt;/p&gt;
+&lt;p&gt;I will be speaking Thursday morning on
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/47/"&gt;Making Django Play Nice with Third Party Services&lt;/a&gt;. Come find me or hit me up on Twitter if you're
+around this week!&lt;/p&gt;
+&lt;img alt="Conference room while people are getting settled." src="../img/130903-djangocon-2013-begin/conference-room.jpg" /&gt;
+&lt;p&gt;Main conference room before everyone got settled.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Conference room while people before getting set up." src="../img/130903-djangocon-2013-begin/setting-up.jpg" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Steve Holden kicking off the conference." src="../img/130903-djangocon-2013-begin/steve-holden.jpg" /&gt;
+&lt;p&gt;Steve Holden kicking off the conferene and introducing Russell Keith-Magee.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Russell Keith-Magee talking about the Malcolm Tredinnick Memorial Award." src="../img/130903-djangocon-2013-begin/malcolm-tredinnick-memorial-award.jpg" /&gt;
+&lt;p&gt;Russell Keith-Magee introducing the upcoming Malcolm Tredinnick Memorial Award.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you want to see more of Chicago, check out my pictures from
+&lt;a class="reference external" href="/chicago-pictures.html"&gt;the last time I was in Chicago&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="conference"></category><category term="travel"></category><category term="djangocon"></category></entry><entry><title>The Debate the "Autoworkers" of Our Generation</title><link href="http://www.codingacrossamerica.com/autoworkers-our-generation.html" rel="alternate"></link><updated>2013-09-03T08:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-03:autoworkers-our-generation.html</id><summary type="html">&lt;p&gt;Recently on Hacker News there were two blogs debating whether software
+developers are the autoworkers of our generation. The first post was aptly
+enough entitled
+&amp;quot;&lt;a class="reference external" href="http://blog.baugues.com/autoworkers"&gt;Autoworkers of Our Generation&lt;/a&gt;.&amp;quot;
+The post's argument was that although software developers generally enjoy
+great salaries now, there are looming &amp;quot;threats&amp;quot; (aka, solutions to the
+current demand problem) on the horizon that could change the equation. For
+example, &lt;a class="reference external" href="http://www.starterleague.com/"&gt;The Starter League&lt;/a&gt; in Chicago
+turns out qualified Rails developers who can be hired by companies instead
+of talent already on the market. The takeaway is to not get comfortable and
+keeping learning and growing your skillset.&lt;/p&gt;
+&lt;p&gt;The second post was a response entitled
+&amp;quot;&lt;a class="reference external" href="http://imsky.co/blog/not-autoworkers/"&gt;Not the autoworkers of our generation&lt;/a&gt;.&amp;quot;
+The argument in this post was that autoworkers were granted a higher standard
+of living for several decades due to labor unions' strong bargaining power and
+because the work could not yet be automated to a significant degree. That
+dynamic was destroyed particularly by automation (as well as other forces
+such as manufacturing approaches and bureaucracy at GM, Ford, and Chrysler).
+My guess is that the decreasing power of labor unions was driven not by
+generational forces but instead by the weakening demand for unskilled labor.&lt;/p&gt;
+&lt;p&gt;The argument is that software development will not suffer such a fate because
+developers perform highly skilled work that cannot be automated. Also, any
+automation gains are qucikly swallowed by a corresponding increase in the
+complexity of systems attempting to be built. Put another way, software
+development automation does not go towards building the same systems for
+less money, it generally goes towards making new and existing systems with
+more business rules, features, and interconnections to other systems.&lt;/p&gt;
+&lt;div class="section" id="my-perspective"&gt;
+&lt;h2&gt;My Perspective&lt;/h2&gt;
+&lt;p&gt;As usual, I'm in the middle, although I lean towards the latter argument.
+It's possible there will be much more entry-level talent to satisfy existing
+demand if developer bootcamps are successful at turning out large numbers of
+qualified developers. But there's so much work to be done at the high end,
+such as teaching, mentoring, and reviewing those entry-level developers.
+Then there's the building of the frameworks such as Rails and Django that
+developers leverage to create the web applications in the first place (to
+say nothing of mobile apps, embedded systems, etc etc), which is something
+developers only get comfortable with after several years of experience. No
+bootcamp today (or my guess, for the foreseeable future) can teach that type
+of work.&lt;/p&gt;
+&lt;p&gt;I do agree with the first post's sentiment that if you want to justify
+increasing your salary you need to constantly learn, grow, and challenge
+yourself. Also, not just in the technical realm but also improving your
+social intelligence, communications with team members, writing, and
+understanding of business. I've unfortunately seen far too many &amp;quot;architects&amp;quot;
+in big enterprises get laid off only to find they have no useful skills
+because they failed to improve anything other than their domain knowledge
+about their employer.&lt;/p&gt;
+&lt;p&gt;Generally though I don't currently see automation as much of threat to our
+field. In fact automation is a value-add if you know how to use increasingly
+sophisticated tools to accomplish your job that previously would have taken
+several entry-level developers to complete.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you found this post interesting check out my thoughts on
+&lt;a class="reference external" href="/hacker-houses-underused-resource.html"&gt;hacker houses as underutilized resources&lt;/a&gt;
+and
+&lt;a class="reference external" href="/four-types-startup-tech-cities.html"&gt;the four types of startup tech cities&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="debate"></category><category term="software developers"></category></entry><entry><title>DjangoCon 2013</title><link href="http://www.codingacrossamerica.com/djangocon-2013.html" rel="alternate"></link><updated>2013-09-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-02:djangocon-2013.html</id><summary type="html">&lt;p&gt;I'm in Chicago this week for DjangoCon 2013. I will be speaking Thursday
 morning on
 &lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/47/"&gt;Making Django Play Nice with Third Party Services&lt;/a&gt;. Come find me or hit me up on Twitter if you're
 around this week!&lt;/p&gt;
