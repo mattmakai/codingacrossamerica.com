@@ -1,5 +1,5 @@
-The Debate the "Autoworkers" of Our Generation
-==============================================
+The Debate on the "Autoworkers" of Our Generation
+=================================================
 
 :slug: autoworkers-our-generation
 :date: 2013-09-03 08:00
