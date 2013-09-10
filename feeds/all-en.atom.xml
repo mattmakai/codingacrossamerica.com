@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-03T10:00:00-04:00</updated><entry><title>DjangoCon 2013... Go!</title><link href="http://www.codingacrossamerica.com/djangocon-2013-go.html" rel="alternate"></link><updated>2013-09-03T10:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-03:djangocon-2013-go.html</id><summary type="html">&lt;p&gt;The main DjangoCon 2013 conference is kicking off this morning. Here's a quick
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-06T00:00:00-04:00</updated><entry><title>Chicago Wicker Park Pictures</title><link href="http://www.codingacrossamerica.com/chicago-wicker-park-pictures.html" rel="alternate"></link><updated>2013-09-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-06:chicago-wicker-park-pictures.html</id><summary type="html">&lt;p&gt;I flew in to Chicago ahead of DjangoCon 2013's tutorials and speaker dinner
+on Monday night. Here are some pictures from walking around and having lunch
+in Chicago's Wicker Park neighborhood.&lt;/p&gt;
+&lt;img alt="Street sign for Wicker Park St." src="../img/130906-chicago-wicker-park/wicker-park-st-sign.jpg" /&gt;
+&lt;p&gt;Street sign at the intersection of Wicker Park Street and Monroe Street right
+outside the park.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Fountain at Wicker Park." src="../img/130906-chicago-wicker-park/fountain.jpg" /&gt;
+&lt;p&gt;A fountain in Wicker Park.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Greenery in Wicker Park." src="../img/130906-chicago-wicker-park/lush.jpg" /&gt;
+&lt;p&gt;Greenery in Wicker Park.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Cool street graffiti in Wicker Park." src="../img/130906-chicago-wicker-park/graffiti.jpg" /&gt;
+&lt;p&gt;Awesome street graffiti in the Wicker Park neighborhood.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Interesting street art in Wicker Park neighborhood at a dog park." src="../img/130906-chicago-wicker-park/street-art.jpg" /&gt;
+&lt;p&gt;Interesting street art in Wicker Park neighborhood at a dog park.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Interesting building in Wicker Park area." src="../img/130906-chicago-wicker-park/building.jpg" /&gt;
+&lt;p&gt;Interesting building I saw while walking around.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="A view of three buildings in Wicker Park." src="../img/130906-chicago-wicker-park/wicker-park-buildings.jpg" /&gt;
+&lt;p&gt;More of the buildings in the Wicker Park neighborhood.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Francesca's Forno Restaurant in Wicker Park." src="../img/130906-chicago-wicker-park/forno.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.miafrancesca.com/static.asp?path=3115,3145"&gt;Francesca's Forno Restaurant&lt;/a&gt;
+in Wicker Park.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Pinball machines at a barcade in Wicker Park." src="../img/130906-chicago-wicker-park/pinball-machines.jpg" /&gt;
+&lt;p&gt;Awesome barcade, &lt;a class="reference external" href="http://emporiumchicago.com/"&gt;Emporium Arcade Bar&lt;/a&gt;,
+in Wicker Park.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Barcade in Wicker Park." src="../img/130906-chicago-wicker-park/arcade-games.jpg" /&gt;
+&lt;p&gt;Arcade games lined at at Emporium Arcade Bar.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;More photos from DjangoCon and my ten days in Chicago coming soon.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked these pictures you should check out my first batch of photos from
+&lt;a class="reference external" href="/chicago-pictures.html"&gt;Chicago&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>DjangoCon 2013... Go!</title><link href="http://www.codingacrossamerica.com/djangocon-2013-go.html" rel="alternate"></link><updated>2013-09-03T10:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-03:djangocon-2013-go.html</id><summary type="html">&lt;p&gt;The main DjangoCon 2013 conference is kicking off this morning. Here's a quick
 couple of pictures as people are getting settled down before the keynote.&lt;/p&gt;
 &lt;p&gt;I will be speaking Thursday morning on
 &lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/47/"&gt;Making Django Play Nice with Third Party Services&lt;/a&gt;. Come find me or hit me up on Twitter if you're
