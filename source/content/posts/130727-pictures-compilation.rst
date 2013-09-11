@@ -15,6 +15,9 @@ Chicago (DjangoCon 2014), Austin (Startup Week), Memphis (Everywhere Else
 Conference), Austin (SXSW 2014), Montreal (PyCon 2014) on the schedule with
 several others in the planning stages.
 
+
+* September 6, 2013: `Chicago Wicker Park Pictures </chicago-wicker-park-pictures.html>`_
+
 * August 6, 2013: `NYC Central Park Pictures </central-park-nyc-pictures.html>`_
 
 * July 24, 2013: `Detroit Pictures </detroit-pictures.html>`_

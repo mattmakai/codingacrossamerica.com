@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/picture-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-06T00:00:00-04:00</updated><entry><title>Chicago Wicker Park Pictures</title><link href="http://www.codingacrossamerica.com/chicago-wicker-park-pictures.html" rel="alternate"></link><updated>2013-09-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-06:chicago-wicker-park-pictures.html</id><summary type="html">&lt;p&gt;I flew in to Chicago ahead of DjangoCon 2013's tutorials and speaker dinner
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/picture-post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-07T00:00:00-04:00</updated><entry><title>DjangoCon 2013 Pictures</title><link href="http://www.codingacrossamerica.com/djangocon-2013-pictures.html" rel="alternate"></link><updated>2013-09-07T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-07:djangocon-2013-pictures.html</id><summary type="html">&lt;p&gt;The main purpose of being in Chicago from August 31 through Sept 9 was
+for one of my favorite conferences, DjangoCon 2013. Here are some pictures
+from speakers and a few views of the city. Many more pictures of Chicago
+coming soon.&lt;/p&gt;
+&lt;img alt="DjangoCon t-shirt, conference program, and attendee lanyard." src="../img/130907-djangocon/djangocon-schwag.jpg" /&gt;
+&lt;p&gt;Some of the DjangoCon schwag, including the new t-shirt design, as well as
+the conference program and attendee badge with lanyard.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Jacob Kaplan-Moss, one of the creators of Django, speaking at DjangoCon" src="../img/130907-djangocon/jacobian.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/jacobian"&gt;Jacob Kaplan-Moss&lt;/a&gt;, one of the original
+developers of Django and now Director of Security at
+&lt;a class="reference external" href="https://www.heroku.com/"&gt;Heroku&lt;/a&gt;, speaking about
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/48/"&gt;doing security right and making it part of everyone's development process&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Josie Keller speaking at DjangoCon" src="../img/130907-djangocon/josie-keller.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/kellerjo"&gt;Josie Keller&lt;/a&gt;, one of the founders of
+&lt;a class="reference external" href="http://geekchicprogramming.com/"&gt;GeekChic&lt;/a&gt;, speaking about
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/39/"&gt;giving women the tools they need to become active participants in the technology community&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Ken Cochrane speaking at DjangoCon" src="../img/130907-djangocon/ken-cochrane.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/KenCochrane"&gt;Ken Cochrane&lt;/a&gt; of
+&lt;a class="reference external" href="https://www.dotcloud.com/"&gt;dotCloud&lt;/a&gt;
+speaking about
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/27/"&gt;the new hotness&lt;/a&gt;
+that is &lt;a class="reference external" href="https://www.docker.io/"&gt;Docker&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Ben Lopatin speaking at DjangoCon" src="../img/130907-djangocon/ben-lopatin.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/bennylope"&gt;Ben Lopatin&lt;/a&gt;, one of the founders of
+&lt;a class="reference external" href="http://www.wellfireinteractive.com/"&gt;Wellfire Interactive&lt;/a&gt; speaking about
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/8/"&gt;Django and Search&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Matt Makai speaking at DjangoCon" src="../img/130907-djangocon/matt-makai.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/mattmakai"&gt;Matt Makai&lt;/a&gt; (hey, that's me!) of
+&lt;a class="reference external" href="http://www.excella.com/"&gt;Excella Consulting&lt;/a&gt; speaking (preaching?)
+about using
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/47/"&gt;Django with third party services&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Matt Robenolt speaking at DjangoCon" src="../img/130907-djangocon/matt-robenolt.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/mattrobenolt"&gt;Matt Robenolt&lt;/a&gt; of
+&lt;a class="reference external" href="http://disqus.com/"&gt;Disqus&lt;/a&gt; speaking about HTTP tricks for
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/33/"&gt;scaling Django&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Russell Keith-McGee speaking at DjangoCon" src="../img/130907-djangocon/russell-keith-mcgee.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/freakboy3742"&gt;Russell Keith-McGee&lt;/a&gt;, Django core
+developer speaking about
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/30/"&gt;integrating web systems that weren't meant to be integrated&lt;/a&gt;.
+This talk was awesome because as a developer who's done some enterprise-y
+work in the past these are exactly the challenges you have to overcome that
+we take for granted as solved problems in most tech startup environments.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Nathan Duthoit speaking at DjangoCon" src="../img/130907-djangocon/nathan-duthoit.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/nduthoit"&gt;Nathan Duthoit&lt;/a&gt; of
+&lt;a class="reference external" href="https://www.waveapps.com/"&gt;Wave&lt;/a&gt; speaking about
+&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/11/"&gt;database schema migrations&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Gold sponsors of DjangoCon" src="../img/130907-djangocon/gold-sponsors.jpg" /&gt;
+&lt;p&gt;Quick capture of the gold sponsors for DjangoCon, including our firm,
+Excella Consulting.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Dusk in Chicago" src="../img/130907-djangocon/dusk.jpg" /&gt;
+&lt;p&gt;Dusk in Chicago on the final evening of the main DjangoCon schedule.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked these pictures you should check out my photos from
+&lt;a class="reference external" href="/chicago-wicker-park-pictures.html"&gt;walking around Wicker Park&lt;/a&gt;
+and my first batch
+of photos from &lt;a class="reference external" href="/chicago-pictures.html"&gt;Chicago&lt;/a&gt; during my road trip.&lt;/p&gt;
+</summary></entry><entry><title>Chicago Wicker Park Pictures</title><link href="http://www.codingacrossamerica.com/chicago-wicker-park-pictures.html" rel="alternate"></link><updated>2013-09-06T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-06:chicago-wicker-park-pictures.html</id><summary type="html">&lt;p&gt;I flew in to Chicago ahead of DjangoCon 2013's tutorials and speaker dinner
 on Monday night. Here are some pictures from walking around and having lunch
 in Chicago's Wicker Park neighborhood.&lt;/p&gt;
 &lt;img alt="Street sign for Wicker Park St." src="../img/130906-chicago-wicker-park/wicker-park-st-sign.jpg" /&gt;
