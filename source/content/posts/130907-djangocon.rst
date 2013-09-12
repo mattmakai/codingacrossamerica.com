@@ -86,10 +86,10 @@ about using
 ----
 
 
-.. image:: ../img/130907-djangocon/russell-keith-mcgee.jpg
+.. image:: ../img/130907-djangocon/russell-keith-magee.jpg
   :alt: Russell Keith-McGee speaking at DjangoCon
 
-`Russell Keith-McGee <https://twitter.com/freakboy3742>`_, Django core
+`Russell Keith-Magee <https://twitter.com/freakboy3742>`_, Django core
 developer speaking about 
 `integrating web systems that weren't meant to be integrated <http://www.djangocon.us/schedule/presentation/30/>`_. 
 This talk was awesome because as a developer who's done some enterprise-y 
