@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-10T00:00:00-04:00</updated><entry><title>Chicago Round Two Pictures (Part Two)</title><link href="http://www.codingacrossamerica.com/chicago-round-2-part-2-pictures.html" rel="alternate"></link><updated>2013-09-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-10:chicago-round-2-part-2-pictures.html</id><summary type="html">&lt;p&gt;This is the last set of my best pictures from Chicago for
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-17T00:00:00-04:00</updated><entry><title>Fletcher Heisler, Author of Real Python and Developer at TrackMaven</title><link href="http://www.codingacrossamerica.com/fletcher-heisler-real-python-trackmaven.html" rel="alternate"></link><updated>2013-09-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-17:fletcher-heisler-real-python-trackmaven.html</id><summary type="html">&lt;p&gt;Fletcher Heisler (&lt;a class="reference external" href="https://twitter.com/fheisler"&gt;&amp;#64;fheisler&lt;/a&gt;) is the author
+of the Real Python lessons and currently a Python developer at TrackMaven,
+based in Dupont Circle, Washington, D.C.&lt;/p&gt;
+&lt;img alt="Fletcher Heisler, author of Real Python lessons" src="../img/130917-fletcher-heisler-interview/fletcher.jpg" /&gt;
+&lt;p&gt;Fletcher Heisler while out to lunch in Dupont Circle at
+&lt;a class="reference external" href="http://www.rakuasiandining.com/"&gt;Raku&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="latest-technologies"&gt;
+&lt;h2&gt;Latest Technologies&lt;/h2&gt;
+&lt;p&gt;Fletcher's currently working on scaling TrackMaven's increasingly popular
+competitive marketing analysis service. Much of TrackMaven's processing is
+done on
+&lt;a class="reference external" href="https://addons.heroku.com/heroku-postgresql"&gt;Heroku's PostgreSQL database servers&lt;/a&gt;.
+He's evaluating how much of that processing can be moved to in-memory
+datastores such as &lt;a class="reference external" href="http://redis.io/"&gt;Redis&lt;/a&gt; or
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/NoSQL"&gt;NoSQL&lt;/a&gt; options such as
+&lt;a class="reference external" href="http://basho.com/riak/"&gt;Basho's Riak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Much of TrackMaven's service is powered by &lt;a class="reference external" href="http://www.python.org/"&gt;Python&lt;/a&gt;
+/ &lt;a class="reference external" href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt; web applications
+running on &lt;a class="reference external" href="https://www.heroku.com/"&gt;Heroku&lt;/a&gt;. Heroku makes scaling a web
+application easy initially but can become cost prohibitive with a large
+number of &lt;a class="reference external" href="https://www.heroku.com/pricing"&gt;dynos&lt;/a&gt;,
+&lt;a class="reference external" href="https://addons.heroku.com/"&gt;addons&lt;/a&gt;, and databases.&lt;/p&gt;
+&lt;p&gt;Fletcher also works with a few &lt;a class="reference external" href="http://linode.com/"&gt;Linode&lt;/a&gt; instances that
+are part of TrackMaven's infrastructure. He and
+&lt;a class="reference external" href="http://www.trackmaven.com/matt.html"&gt;Matt Camilli&lt;/a&gt;
+are working with and evaluating
+&lt;a class="reference external" href="http://www.ansibleworks.com/ansibleworks-awx/"&gt;AnsibleWorks AWX&lt;/a&gt;
+for deploying, scaling, and maintaining more traditional LAMP servers that
+could in some cases replace Heroku.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="learning-to-program"&gt;
+&lt;h2&gt;Learning to Program&lt;/h2&gt;
+&lt;p&gt;Fletcher took an interesting path into programming and has only begun
+started web development in the last couple of years. Fletcher began using
+Python while in academia, but not in a computer science department. Learning
+the basic syntax and how to cobble together various libraries provided a
+&amp;quot;gateway drug&amp;quot; into the web development world.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="real-python"&gt;
+&lt;h2&gt;Real Python&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.realpython.com/"&gt;Real Python&lt;/a&gt; started as a
+&lt;a class="reference external" href="http://www.kickstarter.com/projects/fletcher/practical-python-learn-programming-for-the-real-wo"&gt;wildly successful Kickstarter campaign&lt;/a&gt;.
+The initial funding goal of $800 was far surpassed by the eventual $21,150
+worth of pledges.&lt;/p&gt;
+&lt;p&gt;Real Python now has four parts: Python syntax,
+web development, tool and topics, and projects. Further sections on data
+analysis or interesting projects with &lt;a class="reference external" href="http://www.arduino.cc/"&gt;Arduino&lt;/a&gt;
+and &lt;a class="reference external" href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; may be added in the future.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="trackmaven"&gt;
+&lt;h2&gt;TrackMaven&lt;/h2&gt;
+&lt;p&gt;At a hackathon in D.C., Fletcher met
+&lt;a class="reference external" href="http://www.trackmaven.com/allen.html"&gt;Allen Gannett&lt;/a&gt;,
+TrackMaven's founder. Although Fletcher considered working full-time on
+Real Python, the opportunity to get in as a developer at the beginning of
+a very promising startup seemed too great to pass up. Since then Fletcher's
+been working on building out the TrackMaven product and meeting the scaling
+challenges due to high customer demand for their competitive marketing
+intelligence product.&lt;/p&gt;
+&lt;p&gt;Be sure to check out TrackMaven's
+&lt;a class="reference external" href="http://trackmaven.com/blog/2013/04/who-is-maven/"&gt;Pembroke Welsh Corgi mascot Maven&lt;/a&gt;,
+probably the best tech startup mascot I've seen anywhere in the US.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked this post you should check out my posts on
+&lt;a class="reference external" href="/four-types-startup-tech-cities.html"&gt;the four types of cities' startup tech scenes&lt;/a&gt;
+and
+&lt;a class="reference external" href="/dc-offer.html"&gt;my offer to fellow software developers visiting Washington, D.C.&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Chicago Round Two Pictures (Part Two)</title><link href="http://www.codingacrossamerica.com/chicago-round-2-part-2-pictures.html" rel="alternate"></link><updated>2013-09-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-10:chicago-round-2-part-2-pictures.html</id><summary type="html">&lt;p&gt;This is the last set of my best pictures from Chicago for
 &lt;a class="reference external" href="http://www.djangocon.us/"&gt;DjangoCon 2013&lt;/a&gt;. This set of pictures is
 primarily from Millenium Park, a beach on Lake Michigan, and a Cubs game at
 Wrigley Field.&lt;/p&gt;
@@ -255,16 +324,7 @@ several entry-level developers to complete.&lt;/p&gt;
 and
 &lt;a class="reference external" href="/four-types-startup-tech-cities.html"&gt;the four types of startup tech cities&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="debate"></category><category term="software developers"></category></entry><entry><title>DjangoCon 2013</title><link href="http://www.codingacrossamerica.com/djangocon-2013.html" rel="alternate"></link><updated>2013-09-02T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-02:djangocon-2013.html</id><summary type="html">&lt;p&gt;I'm in Chicago this week for DjangoCon 2013. I will be speaking Thursday
-morning on
-&lt;a class="reference external" href="http://www.djangocon.us/schedule/presentation/47/"&gt;Making Django Play Nice with Third Party Services&lt;/a&gt;. Come find me or hit me up on Twitter if you're
-around this week!&lt;/p&gt;
-&lt;img alt="Chicago downtown skyline." src="../img/130902-djangocon-2013/skyline.jpg" /&gt;
-&lt;p&gt;Downtown Chicago skyline on the Chicago River.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;p&gt;Check out my pictures from
-&lt;a class="reference external" href="/chicago-pictures.html"&gt;the last time I was in Chicago&lt;/a&gt;.&lt;/p&gt;
-</summary><category term="conference"></category><category term="travel"></category></entry><entry><title>Commissary in Washington, D.C.</title><link href="http://www.codingacrossamerica.com/commissary-washington-dc.html" rel="alternate"></link><updated>2013-08-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-28:commissary-washington-dc.html</id><summary type="html">&lt;p&gt;Commissary is a coffee shop, restaurant, and bar a half block from Logan
+</summary><category term="debate"></category><category term="software developers"></category></entry><entry><title>Commissary in Washington, D.C.</title><link href="http://www.codingacrossamerica.com/commissary-washington-dc.html" rel="alternate"></link><updated>2013-08-28T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-08-28:commissary-washington-dc.html</id><summary type="html">&lt;p&gt;Commissary is a coffee shop, restaurant, and bar a half block from Logan
 Circle on P Street NW in Washington, D.C.&lt;/p&gt;
 &lt;img alt="Commissary logo" src="../img/130828-commissary/commissary-logo.jpg" /&gt;
 &lt;p&gt;Commissary's logo.&lt;/p&gt;

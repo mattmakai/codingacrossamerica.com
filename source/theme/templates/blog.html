@@ -5,11 +5,8 @@
         {% if article.category == 'post' or article.category == 'picture-post' %}
           <div class="blog-post">
             <h2><a href="{{ article.slug }}.html">{{ article.title }}</a></h2>
-            {{ article.content|truncate(400) }} 
+            {{ article.content|truncate(400, False) }} 
             (<a href="{{ article.slug }}.html">read more</a>)
-            <div>
-            From {{ article.date.strftime('%m.%d.%Y') }}.
-            </div>
           </div>
         {% endif %}
       {% endfor %}

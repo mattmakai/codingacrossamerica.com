@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+        <link rel="stylesheet" href="/css/front-page.css">
+    <link rel="stylesheet" href="/css/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
+<![endif]-->
+  <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+  </script>
+</head>
+<body>
+
+        <section id="intro-text" class="window">
+        <div class="content">
+            <img src="/img/caa-logo.png" class="caa-logo" />
+            <div class="caa-subtitle"> 
+                <div id="navigation-links" style="display: none;">
+                    <a class="top-navigation pad-right" href="#map">Map</a> |
+                    <a class="top-navigation pad-right pad-left" href="/blog.html">Blog</a> |
+                    <!-- <a class="top-navigation pad-left pad-right" href="#timeline">Timeline</a> | -->
+                    <a class="top-navigation pad-left" href="#contact">Contact</a>
+                    <div style="text-align: center; margin-top: 40px;">
+                        <i class="icon-arrow-down"></i> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="intro" class="window">
+        <div class="content">
+            <div class="intro">
+                <div class="intro-text">
+                        Coding Across America was a 
+                    <div class="five-months">five month road trip</div>
+                        through
+                    <div class="thirty-cities">
+                        thirty United States cities
+                    </div> 
+                    <div class="plain-text">
+                        to learn from tech entrepreneurs
+                    </div>
+                    <div class="plain-text">
+                        and tell their stories.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="miles-driven-viz" class="window">
+        <div class="content">
+            <h1>Miles driven <span class="primary-color">by day</span> and 
+            <span class="complementary-color">in aggregate</span></h1>
+            <div id="miles-driven-chart"></div>
+        </div>
+    </section>
+    
+    <section id="map" class="window">
+        <div class="content">
+            <h1>Stories by City</h1>
+            <div id="map-container"></div>
+        </div>
+    </section>
+    
+    <section id="organizations" class="window">
+        <div class="content">
+            <h1>Stories by Topic</h1>
+            <div id="org-svg"></div>
+        </div>
+    </section>
+   
+   <!--
+    <section id="timeline" class="window">
+        <div class="content">
+            <h1>Timeline</h1>
+            <div id="caa-timeline"></div>
+        </div>
+    </section>
+   -->
+    
+
+    <section id="stories" class="window">
+        <div class="content">
+            <div class="recent-stories-text">
+                <h1 class="recent-stories">Opinion Posts</h1>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="front-page-story">
+                            <a href="dc-offer.html">An Offer to Developers Visiting D.C.</a>
+                        </div>
+                                                                                <div class="front-page-story">
+                            <a href="thank-you.html">Thank You!</a>
+                        </div>
+                                                                                                                                                        <div class="front-page-story">
+                            <a href="four-types-startup-tech-cities.html">Four Types of Software Developer Communities for Startups</a>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="front-page-story">
+                            <a href="hacker-houses-underused-resource.html">Hacker Houses Are An Underused Concept</a>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div class="front-page-story">
+                            <a href="thoughts-after-two-months.html">Thoughts After Two Months</a>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="front-page-story">
+                            <a href="why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a>
+                        </div>
+                                                                                                                                                                                                                                <div class="front-page-story">
+                            <a href="month-meeting-startups.html">A Month of Meeting Startups</a>
+                        </div>
+                                                                                                                                                                                            <div class="front-page-story">
+                            <a href="starting-sustaining-book.html">Doers Help Doers</a>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="front-page-story">
+                            <a href="causal-attribution.html">Causal Attribution</a>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="front-page-story">
+                            <a href="why-coding-across-america.html">Why?</a>
+                        </div>
+                                                    <div class="see-all-stories">
+                    <a href="/blog.html">...or see all stories</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="your-hackers-journey" class="window">
+        <div class="content apprenticeship">
+            <h1>You Should Travel and Learn About Your Field</h1>
+            <h2>
+                "<span class="quote">Get out of the building.</span>"
+                    - <a href="http://steveblank.com/2009/10/08/get-out-of-my-building/" class="quote-link">Steve Blank</a>
+            </h2>
+            <h2>
+                I'm considering writing a book about how to travel
+                and create a self-directed project for yourself.
+            </h2>
+            <h2>
+                If you find the topic of a self-directed traveling 
+                "apprenticeship" interesting, shoot me an email 
+                or a tweet. Scroll down for my contact information.
+            </h2>
+            <h2>
+                I've made plenty of mistakes while planning and executing
+                my own trip. If I can write about ways to avoid those
+                mistakes and it's useful to other people, I'll definitely
+                take the time to do it.
+            </h2>
+        </div>
+    </section>
+    
+    
+    <section id="contact" class="window">
+        <div class="content">
+            <h1>Contact</h1>
+            <div class="contact-picture">
+                <img src="/img/matt-makai.jpg" id="matt-makai-image" />
+            </div>
+            <div class="contact-info">
+                <div class="contact-info-container">
+                <h2>Matt Makai</h2>
+                <h2>Full stack software developer</h2>
+                <h2>&nbsp;</h2>
+                <h2><a href="mailto:matthew.makai@gmail.com" class="contact-link">matthew.makai@gmail.com</a></h2>
+                <h2>@<a href="https://twitter.com/mattmakai" class="contact-link">mattmakai</a> on Twitter</h2>
+                <h2><a href="https://github.com/makaimc" class="contact-link">makaimc</a> on Github</h2>
+                <h2><a href="http://www.mattmakai.com/" class="contact-link">Technical blog</a></h2>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+<!-- 
+    <section id="thank-you" class="window">
+        <div class="content">
+            <h1>Thank You</h1>
+        </div>
+    </section>
+-->
+    
+    <section id="caa-inverted-logo" class="window">
+        <div class="content">
+            <div class="caa-logo-inverted">
+                <img src="/img/caa-logo-inverted.png" width="90%" />
+            </div>
+        </div>
+    </section>
+        <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.windows.js"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var $windows = $('.window');
+            var sectionReady = {"intro-text": true, "miles-driven-viz": true,
+                                "organizations": true};
+
+            $windows.windows({
+                snapping: false,
+                snapSpeed: 150,
+                snapInterval: 1800,
+                onScroll: function(s) {
+                    var sectionId = $('.window').getCurrentWindow().context.id;
+                    var sectionStarted = sectionReady[sectionId];
+                    if (sectionReady[sectionId]) {
+                        // only run a visualization once
+                        sectionReady[sectionId] = false;
+                        if (sectionId == "intro") {
+                        }
+                        if (sectionId == "miles-driven-viz") {
+                            d3.json('/data/driving.json', drawChart);
+                        }
+                        if (sectionId == "organizations") {
+                            d3.json('/data/stories.json', 
+                                drawOrganizationsChart);
+                        }
+                    }
+                },
+                onSnapComplete: function($el) {},
+                onWindowEnter: function($el) {}
+            });
+
+            $("#navigation-links").delay(1000).fadeIn(1000);
+            drawCitiesMap();
+
+            $("#intro").backstretch("/img/driving-west.jpg");
+            $("#stories").backstretch("/img/front-page-recent-stories-bg.jpg");
+
+        });
+
+
+    </script>
+
+</body>
+</html>
