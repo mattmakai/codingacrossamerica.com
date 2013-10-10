@@ -4,6 +4,7 @@ ForwardMetrics
 :date: 2013-04-25
 :slug: forwardmetrics-san-diego-ca
 :category: post
+:post_type: startup
 :author: Matt Makai
 
 ForwardMetrics is a San Diego-based startup about to launch its new strategic
@@ -11,6 +12,7 @@ planning web application, FM Navigator.
 
 .. image:: ../img/130425-forwardmetrics/forwardmetrics-logo.jpg
   :alt: ForwardMetrics' logo
+  :width: 100%
 
 ----
 
@@ -23,6 +25,7 @@ Ozzie DiVinere and Scott Warner founded ForwardMetrics in 2011.
 
 .. image:: ../img/130425-forwardmetrics/ozzie-andrew-scott.jpg
   :alt: Left to right, Ozzie DiVinere, Andrew Hard, and Scott Warner
+  :width: 100%
 
 Left to right, founder Ozzie DiVinere, marketing director Andrew Hard, 
 and founder Scott Warner.
@@ -48,6 +51,7 @@ another on the same plan, you can see each others' changes in real-time.
 
 .. image:: ../img/130425-forwardmetrics/navigator-screenshot.png
   :alt: A screenshot of tasks in ForwardMetrics' FM Navigator web application
+  :width: 100%
 
 Screenshot of tasks in the FM Navigator web application
 
@@ -58,6 +62,7 @@ plan projections and milestones is important to the tools' target market.
 
 .. image:: ../img/130425-forwardmetrics/navigator-graphs.png
   :alt: Metrics graph screenshot in FM Navigator 
+  :width: 100%
 
 Metrics graph screenshot in FM Navigator
 
@@ -80,5 +85,4 @@ If you liked this post about
 `ForwardMetrics <http://www.forwardmetrics.com/>`_, you should also check
 out these other San Diego posts on `Antengo <../antengo-san-diego-ca.html>`_ 
 and `EvoNexus <../evonexus-san-diego-ca.html>`_.
-
 

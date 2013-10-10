@@ -2,6 +2,7 @@ Convictions
 ===========
 
 :category: post
+:post_type: opinion
 :date: 2012-11-26
 :slug: convictions
 

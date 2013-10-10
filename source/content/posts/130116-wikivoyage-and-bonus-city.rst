@@ -3,6 +3,7 @@ Wikivoyage and a Bonus City
 
 :date: 2013-01-16
 :slug: wikivoyage-and-bonus-city
+:post_type: opinion
 :category: post
 
 I just found out about `Wikivoyage <http://en.wikivoyage.org/wiki/Main_Page>`_ today. I can't believe I did not know about it earlier. Wikivoyage is 

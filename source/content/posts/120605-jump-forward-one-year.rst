@@ -2,6 +2,7 @@ Jump Forward One Year
 =====================
 
 :category: post
+:post_type: opinion
 :date: 2012-06-05
 :slug: jump-forward-one-year
 

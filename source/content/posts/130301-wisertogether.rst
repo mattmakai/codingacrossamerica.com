@@ -3,6 +3,7 @@ WiserTogether
 
 :category: post
 :slug: wisertogether-washington-dc
+:post_type: startup
 :date: 2013-03-01
 
 How do people facing life-altering health care decisions make the right 
@@ -27,10 +28,9 @@ complications they feared. Yet this agnonizing experience stuck with Shub. In
 early 2008, he founded `WiserTogether <http://www.wisertogether.com/>`_ 
 to improve health care decision making for patients.
 
-----
-
 .. image:: ../img/130227-wisertogether/wisertogether-logo.jpg
   :alt: WiserTogether's logo at their offices in Georgetown, Washington, DC
+  :width: 100%
 
 ----
 
@@ -55,6 +55,7 @@ United States in California and Georgia.
 
 .. image:: ../img/130227-wisertogether/wisertogether-georgetown-office-location.jpg 
   :alt: WiserTogether's main office location
+  :width: 100%
   :target: http://goo.gl/maps/sNcMm
 
 ----
@@ -71,6 +72,7 @@ platform.
 
 .. image:: ../img/130227-wisertogether/wisertogether-offices.jpg
   :alt: a picture of WiserTogether's office in Georgetown, Washington, DC
+  :width: 100%
 
 ----
 
@@ -84,6 +86,7 @@ automated testing suite before being released to the public.
 
 .. image:: ../img/130227-wisertogether/wisertogether-development-team.jpg
   :alt: Lunch with several of WiserTogether's development team
+  :width: 100%
 
 Lunch at `Thunderburger <http://www.thunderburger.com/index1.html>`_ with 
 several members of WiserTogether's development team. From left to right, Erik, 

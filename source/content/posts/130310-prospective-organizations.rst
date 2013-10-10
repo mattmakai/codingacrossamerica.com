@@ -2,6 +2,7 @@ To Prospective Organizations
 ============================
 
 :category: post
+:post_type: opinion
 :slug: to-prospective-organizations
 :date: 2013-03-10
 

@@ -4,6 +4,7 @@ Walter Isaacson: Diversity Nutures Entrepreneurship
 :slug: walter-isaacson-diversity-nutures-entrepreneurship
 :date: 2013-03-18 20:30
 :category: post
+:post_type: tech_event
 :author: Matt Makai
 
 New Orleans native `Walter Isaacson <https://twitter.com/WalterIsaacson>`_ 
@@ -18,6 +19,7 @@ growth.
 
 .. image:: ../img/130319-walter-isaacson-noew/walter-isaacson.jpg
   :alt: Walter Isaacson at New Orleans Entrepreneurship Week
+  :width: 100%
 
 Walter Isaacson speaking to a captive New Orleans Entrepreneurship Week (NOEW) 
 audience this afternoon at Gallier Hall in News Orleans, Louisiana.

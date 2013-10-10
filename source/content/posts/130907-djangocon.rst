@@ -4,6 +4,7 @@ DjangoCon 2013 Pictures
 :date: 2013-09-07
 :slug: djangocon-2013-pictures
 :category: picture-post
+:post_type: pictures
 :author: Matt Makai
 
 The main purpose of being in Chicago from August 31 through Sept 9 was
@@ -14,6 +15,7 @@ coming soon.
 
 .. image:: ../img/130907-djangocon/djangocon-schwag.jpg
   :alt: DjangoCon t-shirt, conference program, and attendee lanyard.
+  :width: 100%
 
 Some of the DjangoCon schwag, including the new t-shirt design, as well as 
 the conference program and attendee badge with lanyard.
@@ -23,6 +25,7 @@ the conference program and attendee badge with lanyard.
 
 .. image:: ../img/130907-djangocon/jacobian.jpg
   :alt: Jacob Kaplan-Moss, one of the creators of Django, speaking at DjangoCon
+  :width: 100%
 
 `Jacob Kaplan-Moss <https://twitter.com/jacobian>`_, one of the original
 developers of Django and now Director of Security at 
@@ -34,6 +37,7 @@ developers of Django and now Director of Security at
 
 .. image:: ../img/130907-djangocon/josie-keller.jpg
   :alt: Josie Keller speaking at DjangoCon
+  :width: 100%
 
 `Josie Keller <https://twitter.com/kellerjo>`_, one of the founders of 
 `GeekChic <http://geekchicprogramming.com/>`_, speaking about 
@@ -44,6 +48,7 @@ developers of Django and now Director of Security at
 
 .. image:: ../img/130907-djangocon/ken-cochrane.jpg
   :alt: Ken Cochrane speaking at DjangoCon
+  :width: 100%
 
 `Ken Cochrane <https://twitter.com/KenCochrane>`_ of 
 `dotCloud <https://www.dotcloud.com/>`_ 
@@ -57,6 +62,7 @@ that is `Docker <https://www.docker.io/>`_.
 
 .. image:: ../img/130907-djangocon/ben-lopatin.jpg
   :alt: Ben Lopatin speaking at DjangoCon
+  :width: 100%
 
 `Ben Lopatin <https://twitter.com/bennylope>`_, one of the founders of
 `Wellfire Interactive <http://www.wellfireinteractive.com/>`_ speaking about
@@ -67,6 +73,7 @@ that is `Docker <https://www.docker.io/>`_.
 
 .. image:: ../img/130907-djangocon/matt-makai.jpg
   :alt: Matt Makai speaking at DjangoCon
+  :width: 100%
 
 `Matt Makai <https://twitter.com/mattmakai>`_ (hey, that's me!) of 
 `Excella Consulting <http://www.excella.com/>`_ speaking (preaching?) 
@@ -78,6 +85,7 @@ about using
 
 .. image:: ../img/130907-djangocon/matt-robenolt.jpg
   :alt: Matt Robenolt speaking at DjangoCon
+  :width: 100%
 
 `Matt Robenolt <https://twitter.com/mattrobenolt>`_ of 
 `Disqus <http://disqus.com/>`_ speaking about HTTP tricks for 
@@ -88,6 +96,7 @@ about using
 
 .. image:: ../img/130907-djangocon/russell-keith-magee.jpg
   :alt: Russell Keith-McGee speaking at DjangoCon
+  :width: 100%
 
 `Russell Keith-Magee <https://twitter.com/freakboy3742>`_, Django core
 developer speaking about 
@@ -101,6 +110,7 @@ we take for granted as solved problems in most tech startup environments.
 
 .. image:: ../img/130907-djangocon/nathan-duthoit.jpg
   :alt: Nathan Duthoit speaking at DjangoCon
+  :width: 100%
 
 `Nathan Duthoit <https://twitter.com/nduthoit>`_ of 
 `Wave <https://www.waveapps.com/>`_ speaking about 
@@ -111,6 +121,7 @@ we take for granted as solved problems in most tech startup environments.
 
 .. image:: ../img/130907-djangocon/gold-sponsors.jpg
   :alt: Gold sponsors of DjangoCon
+  :width: 100%
 
 Quick capture of the gold sponsors for DjangoCon, including our firm,
 Excella Consulting.
@@ -120,6 +131,7 @@ Excella Consulting.
 
 .. image:: ../img/130907-djangocon/dusk.jpg
   :alt: Dusk in Chicago
+  :width: 100%
 
 Dusk in Chicago on the final evening of the main DjangoCon schedule.
 

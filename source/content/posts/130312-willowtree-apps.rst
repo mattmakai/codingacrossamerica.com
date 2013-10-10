@@ -2,6 +2,7 @@ WillowTree Apps
 ===============
 
 :date: 2013-03-12 19:05
+:post_type: startup
 :slug: willowtree-apps-charlottesville-va
 :category: post
 
@@ -47,6 +48,7 @@ WillowTree Apps
 
 .. image:: ../img/130312-willowtree-apps/willowtree-apps-logo.png
   :alt: WillowTree Apps logo
+  :width: 100%
 
 ----
 
@@ -68,6 +70,7 @@ typically dominated by low-level and proprietary programming languages.
 
 .. image:: ../img/130312-willowtree-apps/willowtree-apps-team.jpg
   :alt: Developers, designers, and a recruiter from WillowTree Apps
+  :width: 100%
 
 Employees of WillowTree Apps and myself at lunch. From left to right,
 Eric, Jon, me, Michael, Christy, Max, and Andrew.
@@ -93,6 +96,7 @@ Software Development in Charlottesville
 
 .. image:: ../img/130312-willowtree-apps/willowtree-apps-location.jpg
   :alt: WillowTree Apps' office location in Charlottesville, Virginia
+  :width: 100%
   :target: http://goo.gl/maps/MJ7bh
 
 ----
@@ -113,6 +117,7 @@ tech relationships in Charlottesville.
 
 .. image:: ../img/130312-willowtree-apps/willowtree-apps-office.jpg
   :alt: WillowTree Apps' office
+  :width: 100%
 
 Inside WillowTree Apps' office on the Charlottesville Downtown Mall.
 
@@ -125,5 +130,7 @@ of interesting technology work going on everywhere in the US.
 
 If you liked this post you'll also want to read about 
 `Uppidy <../uppidy-washington-dc.html>`_'s 
-mobile app for saving text messages, pictures, and video from your phone.
+mobile app for saving text messages, pictures, and video from your phone
+or `AgilityFeat <../agilityfeat-charlottesville-va.html>`_ which is also
+based in Charlottesville.
 

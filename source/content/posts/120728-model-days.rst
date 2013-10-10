@@ -3,6 +3,7 @@ Archetypal Days
 
 :category: post
 :date: 2012-07-28
+:post_type: opinion
 :slug: archetypal-days
 
 There are several archetypal days I'll have over the course of four 

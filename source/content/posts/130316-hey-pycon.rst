@@ -3,6 +3,7 @@ PyCon
 
 :slug: hey-pycon
 :date: 2013-03-16
+:post_type: tech_event
 :category: post
 
 Hey PyCon!

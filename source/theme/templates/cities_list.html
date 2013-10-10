@@ -1,23 +1,46 @@
-<h1>{{ article.title }}</h1>
-<div class="row">
-    <div class="span8">
-        <p>
-            {{ article.content }}
-        </p>
+
+<div class="container">
+    <h1>Map and Cities List</h1>
+   
+    <div id="map-container" style="width: 100%;">&nsbp;</div>
+
+    <hr/>
+    
+    <div class="row">
+        <div class="col-md-12">
+            <div style="margin: 20px 0 20px 0">
+              <a href="http://bit.ly/109Eaui"><img src="/img/coding-across-america-map.png" width="100%"/></a>
+              <br />
+              <strong>Note</strong>: Google Maps only allows 25 destinations, so 
+              this map shows 25 of 30 cities. 
+            </div>
+        
+            <p>
+                {{ article.content }}
+            </p>
+        </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-md-12">
+          <div>
+            <strong>Arrival Date</strong>
+          </div>
+          {% for article in dates|reverse %}
+            {% if article.category == 'city' %}
+              <div>
+                {{ article.date.strftime('%m.%d.%Y') }} &nbsp;&nbsp;
+                <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
+              </div>
+            {% endif %}
+          {% endfor %}
+
+          <h2>Learn More</h2>
+          <p>
+            See the <a href="../faq.html">frequently asked questions</a> page.
+          </p>
+      </div>
     </div>
 </div>
-<div class="row">
-  <div class="span12">
-      <div>
-        <strong>Arrival Date</strong>
-      </div>
-      {% for article in dates|reverse %}
-        {% if article.category == 'city' %}
-          <div>
-            {{ article.date.strftime('%m.%d.%Y') }} &nbsp;&nbsp;
-            <a href="/{{ article.slug }}.html">{{ article.title }}</a> 
-          </div>
-        {% endif %}
-      {% endfor %}
-  </div>
-</div>
+

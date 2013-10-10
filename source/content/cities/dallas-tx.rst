@@ -9,6 +9,7 @@ Dallas, TX
 
 .. image:: ../img/dallas-tx.jpg
   :alt: Downtown Dallas, TX from Interstate 35 Eastbound
+  :width: 100%
 
 ----
 

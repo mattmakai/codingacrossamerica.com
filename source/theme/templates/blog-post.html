@@ -1,16 +1,15 @@
-  <h1>{{ article.title }}</h1>
+<div class="container">
+<h1>{{ article.title }}</h1>
   <div>
     By 
     <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
     {{ article.date.strftime('%m.%d.%Y') }}. {% if article.tags %}Tags: {% for t in article.tags %}{% if not loop.first %}, {% endif %}{{ t.name }}{% endfor %}{% endif %}
   </div>
   <div class="row">
-    <div class="span7">
-      <hr/>
+    <div class="col-md-10 article-font">
       {{ article.content }}
-
-        <p>
-      If you want to keep up with my travels as a developer around the US, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
+      <p>
+      If you're interested in software development and learning more about tech startups, <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
       </p>
         <div id="disqus_thread" style="margin-top: 25px;"></div>
         <script type="text/javascript">
@@ -23,18 +22,7 @@
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">Return to the blog</a>
+      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">View all stories</a>
     </div>
-    <div class="offset1 span3">
-      <hr/>
-      <h3>Posts By Date</h3>
-      <ul class="post-list">
-        {% for article in dates %}
-          {% if article.category == 'post' or article.category == 'picture-post' %}
-            <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-    <hr/>
   </div>
+</div>

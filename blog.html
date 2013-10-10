@@ -1,76 +1,59 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/caa.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
+    <div class="white-out" style="margin-top: 10px;">
     <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li class="active">
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-      </ul>
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li ><a href="/cities.html">Map</a></li>
+                  <li ><a href="/contributors.html">Contributors</a></li>
+                  <li ><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>  <div class="container">
-          <h2>Blog</h2>
+</div>          <div class="container">
+<h2>All Stories</h2>
 <div class="row">
-    <div class="span7">
+    <div class="col-md-8">
                         <div class="blog-post">
             <h2><a href="fletcher-heisler-real-python-trackmaven.html">Fletcher Heisler, Author of Real Python and Developer at TrackMaven</a></h2>
             <p>Fletcher Heisler (<a class="reference external" href="https://twitter.com/fheisler">&#64;fheisler</a>) is the author
 of the Real Python lessons and currently a Python developer at TrackMaven,
 based in Dupont Circle, Washington, D.C.</p>
-<img alt="Fletcher Heisler, author of Real Python lessons" src="../img/130917-fletcher-heisler-interview/fletcher.jpg" />
-<p>Fletcher Heisler while out to ... 
+<img alt="Fletcher Heisler, author of Real Python lessons" src="../img/130917-fletcher-heisler-interview/fletcher.jpg" style="width: 100%;" />
+<p>Fletcher ... 
             (<a href="fletcher-heisler-real-python-trackmaven.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -79,18 +62,18 @@ based in Dupont Circle, Washington, D.C.</p>
 <a class="reference external" href="http://www.djangocon.us/">DjangoCon 2013</a>. This set of pictures is
 primarily from Millenium Park, a beach on Lake Michigan, and a Cubs game at
 Wrigley Field.</p>
-<img alt="The Bean with buildings reflecting off of it." src="../img/130910-chicago-rd-2-pt2/bean.jpg" />
-<p>The Bean in Millenium Park ... 
+<img alt="The Bean with buildings reflecting off of it." src="../img/130910-chicago-rd-2-pt2/bean.jpg" style="width: 100%;" />
+<p>The ... 
             (<a href="chicago-round-2-part-2-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="chicago-round-2-pictures.html">Chicago Round Two Pictures</a></h2>
-            <p>Here are some more pictures from my second time in Chicago this year.
+            <p>These are more pictures from my second time in Chicago this year.
 This trip was for <a class="reference external" href="/djangocon-2013-pictures.html">DjangoCon</a> 2013.
 These pictures are mostly from the River North and Millenium Park areas of
 the city.</p>
-<img alt="Chicago sign in South Loop area." src="../img/130909-chicago-rd-2-pictures/chicago-sign.jpg" />
-<p>Iconic Chicago sign ... 
+<img alt="Chicago sign in South Loop area." src="../img/130909-chicago-rd-2-pictures/chicago-sign.jpg" style="width: 100%;" />
+<p>Iconic ... 
             (<a href="chicago-round-2-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -99,8 +82,8 @@ the city.</p>
 for one of my favorite conferences, DjangoCon 2013. Here are some pictures
 from speakers and a few views of the city. Many more pictures of Chicago
 coming soon.</p>
-<img alt="DjangoCon t-shirt, conference program, and attendee lanyard." src="../img/130907-djangocon/djangocon-schwag.jpg" />
-<p>Some of the DjangoCon schwag, ... 
+<img alt="DjangoCon t-shirt, conference program, and attendee lanyard." src="../img/130907-djangocon/djangocon-schwag.jpg" style="width: 100%;" />
+<p>Some of ... 
             (<a href="djangocon-2013-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -108,9 +91,8 @@ coming soon.</p>
             <p>I flew in to Chicago ahead of DjangoCon 2013's tutorials and speaker dinner
 on Monday night. Here are some pictures from walking around and having lunch
 in Chicago's Wicker Park neighborhood.</p>
-<img alt="Street sign for Wicker Park St." src="../img/130906-chicago-wicker-park/wicker-park-st-sign.jpg" />
-<p>Street sign at the intersection of Wicker Park Street and Monroe Street right
-outside ... 
+<img alt="Street sign for Wicker Park St." src="../img/130906-chicago-wicker-park/wicker-park-st-sign.jpg" style="width: 100%;" />
+<p>Street sign at the intersection of Wicker Park Street and Monroe ... 
             (<a href="chicago-wicker-park-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -123,7 +105,7 @@ around ...
             (<a href="djangocon-2013-go.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="autoworkers-our-generation.html">The Debate on the &quot;Autoworkers&quot; of Our Generation</a></h2>
+            <h2><a href="autoworkers-our-generation.html">Debate on the &quot;Autoworkers&quot; of Our Generation</a></h2>
             <p>Recently on Hacker News there were two blogs debating whether software
 developers are the autoworkers of our generation. The first post was aptly
 enough entitled
@@ -136,33 +118,33 @@ great salaries now, there are looming ...
             <h2><a href="commissary-washington-dc.html">Commissary in Washington, D.C.</a></h2>
             <p>Commissary is a coffee shop, restaurant, and bar a half block from Logan
 Circle on P Street NW in Washington, D.C.</p>
-<img alt="Commissary logo" src="../img/130828-commissary/commissary-logo.jpg" />
+<img alt="Commissary logo" src="../img/130828-commissary/commissary-logo.jpg" style="width: 100%;" />
 <p>Commissary's logo.</p>
 <hr class="docutils" />
 <p>The P Street location for Commissary is right near Logan Circle. The inside
-is large although on weekend during brunch it fills up quickly. I ... 
+is large although on weekend during brunch it ... 
             (<a href="commissary-washington-dc.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="busboys-poets-washington-dc.html">Busboys and Poets in Washington, D.C.</a></h2>
             <p>Busboys and Poets is a large coffee shop, bar, and restaurant on the corner of
 5th and K Street Northwest in Washington, D.C.</p>
-<img alt="Sign outside Busboys and Poets" src="../img/130827-busboys-poets/busboys-sign.jpg" />
+<img alt="Sign outside Busboys and Poets" src="../img/130827-busboys-poets/busboys-sign.jpg" style="width: 100%;" />
 <p>Busboys &amp; Poets sign outside their 5th and K Street NW location.</p>
 <hr class="docutils" />
-<p>The 5th and K St Busboys spot is one of two locations they have in ... 
+<p>The 5th and K St Busboys spot is one of two ... 
             (<a href="busboys-poets-washington-dc.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="vigilante-coffee-washington-dc.html">Vigilante Coffee in Washington, D.C.</a></h2>
             <p>Vigilante Coffee is a pop up cafe on 7th Street Northwest in Washington,
 D.C.</p>
-<img alt="Sign outside Vigilante Coffee" src="../img/130825-vigilante-coffee/vigilante-coffee-sign.jpg" />
+<img alt="Sign outside Vigilante Coffee" src="../img/130825-vigilante-coffee/vigilante-coffee-sign.jpg" style="width: 100%;" />
 <p>Vigilante Coffee pop up cafe sign.</p>
 <hr class="docutils" />
 <p>The place feels similar
 to coffee shops in the Pacific Northwest, which is difficult to find
-anywhere in Washington, D.C. The inside is ... 
+anywhere in Washington, ... 
             (<a href="vigilante-coffee-washington-dc.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -185,7 +167,7 @@ not have had an opportunity to interact with.</p>
 with around the country. In addition, I ... 
             (<a href="thank-you.html">read more</a>)
           </div>
-                                                            <div class="blog-post">
+                                              <div class="blog-post">
             <h2><a href="four-types-startup-tech-cities.html">Four Types of Software Developer Communities for Startups</a></h2>
             <p>After traveling to 30 cities over the past 5 months as part of my
 <a class="reference external" href="/#intro">Coding Across America</a> project, I've discovered that entrepreneurs
@@ -200,11 +182,11 @@ can categorize cities into one of four types of software development scenes.</p>
 enough place that although I grew up west of the city in Morristown,
 New Jersey, I never really felt I knew the area well. Pictures in this blog
 post are all related to Central Park.</p>
-<img alt="Welcome to Central Park sign." src="../img/130806-nyc-pictures/welcome-central-park.jpg" />
-<p>Welcome to Central Park sign and a ... 
+<img alt="Welcome to Central Park sign." src="../img/130806-nyc-pictures/welcome-central-park.jpg" style="width: 100%;" />
+<p>Welcome to ... 
             (<a href="central-park-nyc-pictures.html">read more</a>)
           </div>
-                                                            <div class="blog-post">
+                                              <div class="blog-post">
             <h2><a href="django-boston-talk.html">Django Boston Talk</a></h2>
             <p>I was fortunate enough to be able to give a technical talk at
 <a class="reference external" href="http://www.meetup.com/djangoboston/events/100266532/">Django Boston</a>
@@ -213,24 +195,14 @@ on Wednesday evening. The presentation was created in
 framework. Here are some pictures from the event as well as links ... 
             (<a href="django-boston-talk.html">read more</a>)
           </div>
-                                              <div class="blog-post">
-            <h2><a href="pictures-compilation.html">Pictures Compilation</a></h2>
-            <p>This post contains a running list of all the picture posts from
-Coding Across America. Often cities have more than one post with pictures,
-Seattle for example, and it can be difficult to see them all at once. This
-post is intended to compile the full list. I will update this post as I
-continue traveling even after my road trip is over. Currently I have
-Chicago (DjangoCon 2014), Austin (Startup ... 
-            (<a href="pictures-compilation.html">read more</a>)
-          </div>
-                                              <div class="blog-post">
+                                                            <div class="blog-post">
             <h2><a href="detroit-pictures.html">Detroit Pictures</a></h2>
             <p>I spent a few quick days in Detroit catching up on work between my time in
 Chicago and Buffalo. Most of my time was spent downtown near the
 Renaissance Center where I stayed but I also checked out Royal Oak a little
 ways north of downtown.</p>
-<img alt="Statue of Cadillac, founder of Detroit." src="../img/130724-detroit-pictures/cadillac-statue.jpg" />
-<p>Statue of Cadillac, founder of ... 
+<img alt="Statue of Cadillac, founder of Detroit." src="../img/130724-detroit-pictures/cadillac-statue.jpg" style="width: 100%;" />
+<p>Statue of ... 
             (<a href="detroit-pictures.html">read more</a>)
           </div>
                                               <div class="blog-post">
@@ -239,18 +211,17 @@ ways north of downtown.</p>
 after hanging out in Des Moines, Omaha, and Madison for a couple of weeks.
 It's beautiful here though as these pictures (and ones I'll post as I
 continue to explore Chicago) show.</p>
-<img alt="Chicago skyline." src="../img/130716-chicago-pictures/skyline-from-navy-pier.jpg" />
-<p>A view of the Chicago skyline taken from ... 
+<img alt="Chicago skyline." src="../img/130716-chicago-pictures/skyline-from-navy-pier.jpg" style="width: 100%;" />
+<p>A view of the Chicago ... 
             (<a href="chicago-pictures.html">read more</a>)
           </div>
                                                                                                       <div class="blog-post">
             <h2><a href="colorado-hiking-pictures.html">Colorado Hiking Pictures</a></h2>
             <p>Hiking in Colorado was amazing - and tiring. It's tough on your lungs to
 go from about 5,000 feet elevation to 12,000+ feet within a 40 minute drive,
-then climb up a steep hill to go even higher. Still this trip was well
-worth the effort due to the amazing scenery at that level. Once again the
-pictures don't do it justice compared to being there in person but they
-still turned out reasonably ... 
+then climb up a steep hill to go even higher.</p>
+<img alt="Matt Makai to the left of the Loveland Pass sign." src="../img/130617-colorado-hiking-pictures/loveland-pass.jpg" style="width: 100%;" />
+<p>Me standing next to the Loveland Pass ... 
             (<a href="colorado-hiking-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -266,12 +237,12 @@ suffer from the same ...
                                               <div class="blog-post">
             <h2><a href="wyoming-photography.html">Wyoming Photograpy</a></h2>
             <p>Buffalo, Wyoming is one of my stops to hang out for a few days
-on the long trek from Seattle to Boulder. Luckily the weather has been
-clear here so I could snap these great pictures. The photos are
+on the trek from Seattle to Boulder. The weather has been
+beautiful here so I snapped these great pictures. The photos are
 from a combination of driving through the mountains and walking around
-and Buffalo.</p>
-<img alt="Driving through Wyoming" src="../img/130611-wyoming-photography/driving.jpg" />
-<p>Driving through ... 
+Buffalo.</p>
+<img alt="Driving through Wyoming" src="../img/130611-wyoming-photography/driving.jpg" style="width: 100%;" />
+<p>Driving ... 
             (<a href="wyoming-photography.html">read more</a>)
           </div>
                                               <div class="blog-post">
@@ -280,8 +251,8 @@ and Buffalo.</p>
 Hamilton in Montana. I also stopped in Bozeman for
 lunch on the way to Wyoming. Montana is a beautiful state as I tried to
 capture in the pictures below.</p>
-<img alt="Missoula letter on the mountain." src="../img/130609-montana-pictures/missoula-letter.jpg" />
-<p>M for Missoula. Every city in Montana had one of these from ... 
+<img alt="Missoula letter on the mountain." src="../img/130609-montana-pictures/missoula-letter.jpg" style="width: 100%;" />
+<p>M for Missoula. Every city in Montana ... 
             (<a href="montana-pictures.html">read more</a>)
           </div>
                                               <div class="blog-post">
@@ -289,8 +260,8 @@ capture in the pictures below.</p>
             <p>These are the best pictures I took from my time in downtown Seattle. It's
 a beautiful city and fortunately I had amazing weather during most of
 my time in town (the clouds in this first picture are the exception).</p>
-<img alt="The Seattle Space Needle reflected against the Science Fiction museum." src="../img/130603-seattle-pictures/space-needle-reflection.jpg" />
-<p>The Seattle Space Needle ... 
+<img alt="The Seattle Space Needle reflected against the Science Fiction museum." src="../img/130603-seattle-pictures/space-needle-reflection.jpg" style="width: 100%;" />
+<p>The ... 
             (<a href="seattle-city-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -299,8 +270,8 @@ my time in town (the clouds in this first picture are the exception).</p>
 a few pictures from that trip about 30 miles East of the city. There are
 also a few pictures of the sun setting over the Pacific Ocean at the end
 of the day.</p>
-<img alt="Looking up at the mountain peak." src="../img/130602-seattle-hiking-pictures/mountain-peak.jpg" />
-<p>Looking up at the mountain peak at the start of ... 
+<img alt="Looking up at the mountain peak." src="../img/130602-seattle-hiking-pictures/mountain-peak.jpg" style="width: 100%;" />
+<p>Looking up at the mountain ... 
             (<a href="seattle-hiking-pictures.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -308,8 +279,8 @@ of the day.</p>
             <p>While in Seattle I luckily had a University of Washington alum show me around
 their campus. UW is a beautiful place and the school has one of the top
 computer science programs in the country.</p>
-<img alt="University of Washington logo at the entrance to their campus." src="../img/130601-uw-pictures/uw-logo.jpg" />
-<p>The University of Washington logo statue at the entrance of their ... 
+<img alt="University of Washington logo at the entrance to their campus." src="../img/130601-uw-pictures/uw-logo.jpg" style="width: 100%;" />
+<p>The University of Washington logo statue at the ... 
             (<a href="university-of-washington-pictures.html">read more</a>)
           </div>
                                               <div class="blog-post">
@@ -318,18 +289,18 @@ computer science programs in the country.</p>
 on my meetings substantially so I could write the initial text for my
 book. Portland has a great tech scene. It'll be a good spot to check it out
 again in the future.</p>
-<img alt="Portland Oregon sign." src="../img/130528-portland-oregon-photography/portland-oregon.jpg" />
-<p>Portland, Oregon sign from the Burnside ... 
+<img alt="Portland Oregon sign." src="../img/130528-portland-oregon-photography/portland-oregon.jpg" style="width: 100%;" />
+<p>Portland, Oregon sign from ... 
             (<a href="portland-oregon-pictures.html">read more</a>)
           </div>
                                               <div class="blog-post">
             <h2><a href="eugene-oregon-pictures.html">Eugene Pictures</a></h2>
-            <p>Eugene is a beautiful mix of eclectic, hipster, and quaint attributes.
-The downtown area offices house most of the tech companies. Eugene is
-branding itself &quot;Silicon Shire&quot; to distinguish it from its northern
+            <p>Eugene is a beautiful town of eclectic and hipster scenes.
+The downtown area offices house most of the tech companies. Eugene
+brands itself &quot;Silicon Shire&quot; to distinguish it from its northern
 neighbor, &quot;Silicon Forest&quot; (Portland).</p>
-<img alt="Wall art on the side of a building." src="../img/130519-eugene-or-pictures/building-art.jpg" />
-<p>Wall art on the ... 
+<img alt="Wall art on the side of a building." src="../img/130519-eugene-or-pictures/building-art.jpg" style="width: 100%;" />
+<p>Wall art on ... 
             (<a href="eugene-oregon-pictures.html">read more</a>)
           </div>
                                               <div class="blog-post">
@@ -338,8 +309,8 @@ neighbor, &quot;Silicon Forest&quot; (Portland).</p>
 walk through the computing timeline. The exhibits range from 17th
 century calculators to the iconic Cray Supercomputer featured in Jurassic
 Park.</p>
-<img alt="Revolution. The current theme for the Computer History Museum." src="../img/130516-computer-history-museum/revolution.jpg" />
-<p>Revolution. Current branding ... 
+<img alt="Revolution. The current theme for the Computer History Museum." src="../img/130516-computer-history-museum/revolution.jpg" style="width: 100%;" />
+<p>Revolution. ... 
             (<a href="computer-history-museum-mountain-view-ca.html">read more</a>)
           </div>
                                               <div class="blog-post">
@@ -355,76 +326,75 @@ topics I've been thinking about for ...
                                 <div class="blog-post">
             <h2><a href="adobe-max-2013.html">Adobe MAX 2013</a></h2>
             <p>I'm at Adobe MAX 2013 in Los Angeles, CA for the next three days.</p>
-<img alt="Adobe MAX banner at registration" src="/img/130506-adobe-max-2013/adobe-max-banner.jpg" />
+<img alt="Adobe MAX banner at registration" src="/img/130506-adobe-max-2013/adobe-max-banner.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>There should be some product unveilings as well as updates to the Creative
 Cloud Suite, which includes Photoshop, Illustrator, Indesign, Edge Reflow,
-and many other tools used by graphic and web ... 
+and many other tools used ... 
             (<a href="adobe-max-2013.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="las-vegas-nevada-pictures.html">Las Vegas Pictures</a></h2>
-            <p>I spent three nights in Las Vegas, Nevada from April 28 until May 1st. Most
-of my time was spent at <a class="reference external" href="/microconf-2013-las-vegas.html">Microconf 2013</a>.
-I also checked out the <a class="reference external" href="http://downtownproject.com/">Downtown Project</a>
-and met a couple of fun girls from (where else other than) Austin, Texas,
-Carolina (<a ... 
+            <p>I spent three nights in Las Vegas, Nevada from April 28 until May 1st
+between stops in San Diego and Los Angeles. These are some pictures from the
+Vegas Strip, downtown, and a view of the city from Downtown Project.</p>
+<img alt="The original Las Vegas strip sign" src="../img/130501-las-vegas-pictures/las-vegas-original-sign.jpg" style="width: 100%;" />
+<p>The original Las Vegas Strip sign ... 
             (<a href="las-vegas-nevada-pictures.html">read more</a>)
           </div>
-                                              <div class="blog-post">
+                                                            <div class="blog-post">
             <h2><a href="microconf-2013-las-vegas.html">MicroConf 2013</a></h2>
             <p>I'm in Las Vegas, Nevada for MicroConf 2013 today and tomorrow.</p>
-<img alt="Microconf 2013 projected on the main screen of the conference room" src="../img/130429-microconf-2013/microconf-2013-on-screen.jpg" />
+<img alt="Microconf 2013 projected on the main screen of the conference room" src="../img/130429-microconf-2013/microconf-2013-on-screen.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>MicroConf is a conference focused on bootstrapped startups and single founder
 software companies.</p>
-<p>The conference organizers' perspectives is one of ... 
+<p>The conference organizers' ... 
             (<a href="microconf-2013-las-vegas.html">read more</a>)
           </div>
                                               <div class="blog-post">
-            <h2><a href="san-diego-to-las-vegas.html">San Diego to Las Vegas</a></h2>
-            <p>I am heading up to Las Vegas after spending just over a week in San Diego.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/2RmA0"><img alt="The drive from San Diego, CA to Las Vegas, NV" src="../img/130428-san-diego-to-las-vegas/san-diego-to-las-vegas.jpg" /></a>
-<p>The drive from San Diego, CA to Las Vegas, NV.</p>
+            <h2><a href="coding-across-america-at-evonexus.html">Coding Across America &#64; EvoNexus</a></h2>
+            <p>I gave a talk about relevant topics on startups and startup ecosystems on
+Friday afternoon at <a class="reference external" href="../evonexus-san-diego-ca.html">EvoNexus</a>.</p>
+<img alt="Matt Makai talking at EvoNexus on Friday afternoon" src="../img/130426-caa-evonexus/caa-evonexus-talk.jpg" style="width: 100%;" />
 <hr class="docutils" />
-<p>In Las Vegas I will be ... 
-            (<a href="san-diego-to-las-vegas.html">read more</a>)
+<p>I spent a few minutes showing some pictures and ... 
+            (<a href="coding-across-america-at-evonexus.html">read more</a>)
           </div>
-                                              <div class="blog-post">
+                                <div class="blog-post">
             <h2><a href="forwardmetrics-san-diego-ca.html">ForwardMetrics</a></h2>
             <p>ForwardMetrics is a San Diego-based startup about to launch its new strategic
 planning web application, FM Navigator.</p>
-<img alt="ForwardMetrics' logo" src="../img/130425-forwardmetrics/forwardmetrics-logo.jpg" />
+<img alt="ForwardMetrics' logo" src="../img/130425-forwardmetrics/forwardmetrics-logo.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>ForwardMetrics is located about thirty minutes of downtown San Diego in
-Encinitas, CA. The San Diego startup scene has loosely-affiliated ... 
+Encinitas, CA. The San Diego startup scene has ... 
             (<a href="forwardmetrics-san-diego-ca.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="san-diego-scenery.html">San Diego Scenery</a></h2>
-            <p>The following are some initial pictures from San Diego to continue this
-theme after the overwhelmingly positive response to my Los Alamos and Moab
-pictures. I am in San Diego until Sunday so I'll probably have more pictures
-to post at some point.</p>
-<img alt="View of the area 70 miles outside San Diego" src="../img/130424-san-diego-scenery/70-miles-outside-sd.jpg" />
-<p>Stopped to put the top ... 
+            <p>The following are some initial pictures from driving to and walking around
+San Diego. I am in San Diego until Sunday so I will probably have more
+pictures to post at some point.</p>
+<img alt="View of the area 70 miles outside San Diego" src="../img/130424-san-diego-scenery/70-miles-outside-sd.jpg" style="width: 100%;" />
+<p>I stopped to put the top down on the S2000 while 70 miles outside ... 
             (<a href="san-diego-scenery.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="evonexus-san-diego-ca.html">EvoNexus</a></h2>
             <p>EvoNexus is a startup incubator located in downtown San Diego.</p>
-<img alt="EvoNexus logo on their wall of their incubator space" src="../img/130424-evo-nexus/evonexus-logo.jpg" />
+<img alt="EvoNexus logo on their wall of their incubator space" src="../img/130424-evo-nexus/evonexus-logo.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>EvoNexus is the incubator under the umbrella organization CommNexus, a
 non-profit focused on increasing the prevalence of high tech startups in
-San Diego. Companies in EvoNexus obtain ... 
+San Diego. Companies ... 
             (<a href="evonexus-san-diego-ca.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="antengo-san-diego-ca.html">Antengo</a></h2>
             <p>Antengo is a location-based classified ads mobile app startup located in
 San Diego, California.</p>
-<img alt="Antengo logo on one of their posters in the office" src="../img/130423-antengo-san-diego-ca/antengo-logo.jpg" />
+<img alt="Antengo logo on one of their posters in the office" src="../img/130423-antengo-san-diego-ca/antengo-logo.jpg" style="width: 100%;" />
 <p>Antengo logo in their office.</p>
 <hr class="docutils" />
 <p>In July 2010, Marcus Wandell (<a class="reference external" ... 
@@ -433,90 +403,62 @@ San Diego, California.</p>
                                 <div class="blog-post">
             <h2><a href="add-kansas-city-missouri.html">Add Kansas City, Missouri</a></h2>
             <p>I'm officially adding Kansas City, Missouri to my destinations list.</p>
-<img alt="Kansas City, Missouri downtown" src="../img/130423-add-kansas-city-mo/kansas-city-downtown.jpg" />
+<img alt="Kansas City, Missouri downtown" src="../img/130423-add-kansas-city-mo/kansas-city-downtown.jpg" style="width: 100%;" />
 <p>A picture of downtown Kansas City I took while in town last summer.</p>
 <hr class="docutils" />
 <p>I will be in KC from Tuesday, June 25 through Thursday, June 27 with the
-option to add an extra day before or ... 
+option to add an ... 
             (<a href="add-kansas-city-missouri.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="phoenix-to-san-diego.html">Phoenix to San Diego</a></h2>
-            <p>I'm driving to San Diego after my morning meeting with MistoBox.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/WNFqs"><img alt="The drive from Phoenix, AZ to San Diego, CA." src="../img/130418-phoenix-to-san-diego/phoenix-to-san-diego.jpg" /></a>
-<p>The drive from Phoenix to San Diego.</p>
-<hr class="docutils" />
-<p>In San Diego I will be attending the San Diego ... 
-            (<a href="phoenix-to-san-diego.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="misto-box-phoenix-az.html">MistoBox</a></h2>
             <p>MistoBox is a curated coffee delivery subscription service based in Phoenix,
 Arizona.</p>
-<img alt="MistoBox logo on an item in their office" src="../img/130418-misto-box-phoenix-az/misto-box-logo.jpg" />
+<img alt="MistoBox logo on an item in their office" src="../img/130418-misto-box-phoenix-az/misto-box-logo.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>MistoBox started as a University of Arizona Entrepreneurship Program project
-during the founders' senior years. The founders, Samantha Meis and Connor
-Riley, ... 
+during the founders' senior years. The founders, Samantha Meis and ... 
             (<a href="misto-box-phoenix-az.html">read more</a>)
           </div>
                                               <div class="blog-post">
             <h2><a href="co-hoots-phoenix-az.html">CO+HOOTS</a></h2>
             <p>CO+HOOTS is a co-working space located in downtown Phoenix, Arizona.</p>
-<img alt="CO+HOOTS letters on their wall." src="../img/130417-co-hoots-phoenix-az/co-hoots-logo.jpg" />
+<img alt="CO+HOOTS letters on their wall." src="../img/130417-co-hoots-phoenix-az/co-hoots-logo.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>CO+HOOTS was started by <a class="reference external" href="https://twitter.com/poondingo">Jenny Poon</a> about
-three years ago. Before starting her co-working space, Jenny worked ... 
+three years ago. Before starting her co-working space, ... 
             (<a href="co-hoots-phoenix-az.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="seed-spot-phoenix-az.html">Seed Spot</a></h2>
             <p>Seed Spot is a nonprofit incubator located in downtown Phoenix, Arizona. The
 incubator supports startups focused on social applications.</p>
-<img alt="Seed Spot logo on their office entrance wall." src="../img/130417-seed-spot-phoenix-az/seed-spot-logo.jpg" />
+<img alt="Seed Spot logo on their office entrance wall." src="../img/130417-seed-spot-phoenix-az/seed-spot-logo.jpg" style="width: 100%;" />
 <p>Seed Spot's logo at the entrance to their office.</p>
 <hr class="docutils" />
-<p>In 2012, Seed Spot accepted sixteen organizations ... 
+<p>In 2012, Seed Spot accepted ... 
             (<a href="seed-spot-phoenix-az.html">read more</a>)
           </div>
                                               <div class="blog-post">
             <h2><a href="startup-america-artwork.html">Startup America Artwork</a></h2>
             <p>At the afternoon sessions on April 16 during the Startup America Regional
-Summit in Phoenix, Arizona, Autumn Farrell (
-<a class="reference external" href="https://twitter.com/autumndawnf">&#64;autumndawnf</a>) drew artwork to
+Summit in Phoenix, Arizona, Autumn Farrell
+(<a class="reference external" href="https://twitter.com/autumndawnf">&#64;autumndawnf</a>) drew artwork to
 visually capture the advice from panelists throughout the afternoon.</p>
 <p>Autumn drew each concept with her own flair as the panelists discussed how
 to hire people ... 
             (<a href="startup-america-artwork.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="moab-to-phoenix.html">Moab to Phoenix</a></h2>
-            <p>I'm heading down to Phoenix after camping in Moab for the weekend.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/BcjAV"><img alt="The drive from Moab, UT to Phoenix, AZ." src="../img/130414-moab-to-phoenix/moab-to-phoenix.jpg" /></a>
-<p>The drive from Moab, UT to Phoenix, AZ.</p>
-<hr class="docutils" />
-<p>During my time in Phoenix I will participate in the ... 
-            (<a href="moab-to-phoenix.html">read more</a>)
-          </div>
-                                <div class="blog-post">
             <h2><a href="moab-scenery.html">Moab Scenery</a></h2>
             <p>I spent a couple of days in Moab, Utah over the weekend for mountain biking
 and camping. The contrast between the red rocks in Moab and the snow-capped
 mountains in the background was amazing. See these pictures below.</p>
-<img alt="The view during part of the drive up to Moab." src="../img/130414-moab-scenery/drive-1.jpg" />
-<p>A snapshot of the drive through the mountains during the trip ... 
+<img alt="The view during part of the drive up to Moab." src="../img/130414-moab-scenery/drive-1.jpg" style="width: 100%;" />
+<p>A snapshot of the drive through the ... 
             (<a href="moab-scenery.html">read more</a>)
           </div>
-                                              <div class="blog-post">
-            <h2><a href="los-alamos-to-moab.html">Los Alamos to Moab</a></h2>
-            <p>I am driving to Moab, Utah after a short stint in Los Alamos.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/XFn1m"><img alt="The drive from Los Alamos, NM to Moab, UT." src="../img/130412-los-alamos-to-moab/los-alamos-to-moab.jpg" /></a>
-<p>The drive from Los Alamos, NM to Moab, UT.</p>
-<hr class="docutils" />
-<p>In Moab I will be biking and camping while there ... 
-            (<a href="los-alamos-to-moab.html">read more</a>)
-          </div>
-                                              <div class="blog-post">
+                                                            <div class="blog-post">
             <h2><a href="why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a></h2>
             <p>I've spent the past few days in Los Alamos, New Mexico (population 12k) and
 before that Lubbock, Texas (pop. 234k, 83rd in the country for cities). I'm
@@ -531,21 +473,11 @@ Phoenix, Arizona.</p>
             <p>I am spending a few days in Los Alamos, New Mexico and then Moab, Utah
 to catch my breath. It's beautiful here. Here are some photos I took during
 my drive up from Lubbock, Texas and while walking around town in Los Alamos.</p>
-<img alt="The open road." src="../img/130411-los-alamos-is-beautiful/open-road.jpg" />
-<p>The open road ahead. Insert metaphysical hand-wavy quote here about ... 
+<img alt="The open road." src="../img/130411-los-alamos-is-beautiful/open-road.jpg" style="width: 100%;" />
+<p>The open road ahead. Insert metaphysical hand-wavy quote ... 
             (<a href="los-alamos-new-mexico-is-beautiful.html">read more</a>)
           </div>
-                                                            <div class="blog-post">
-            <h2><a href="lubbock-to-los-alamos.html">Lubbock to Los Alamos</a></h2>
-            <p>The temperature is 25 degrees in Lubbock this morning. I didn't
-expect to wake up to snow in April.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/7Dv6z"><img alt="The drive from Lubbock, TX to Los Alamos, NM" src="../img/130410-lubbock-to-los-alamos/lubbock-to-los-alamos.jpg" /></a>
-<p>The drive from Lubbock, TX to Los Alamos, NM.</p>
-<hr class="docutils" />
-<p>I ... 
-            (<a href="lubbock-to-los-alamos.html">read more</a>)
-          </div>
-                                <div class="blog-post">
+                                              <div class="blog-post">
             <h2><a href="month-meeting-startups.html">A Month of Meeting Startups</a></h2>
             <p>I have been on the road for one month meeting with startups, software
 developers, and organizations dedicated to creating a greater entrepreneurial
@@ -555,23 +487,14 @@ ecosystem in the United States.</p>
 totals. This post contains my initial thoughts and ... 
             (<a href="month-meeting-startups.html">read more</a>)
           </div>
-                                <div class="blog-post">
-            <h2><a href="austin-to-lubbock.html">Austin to Lubbock</a></h2>
-            <p>It is really tough to leave Austin.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/xtUPV"><img alt="The drive from Austin, TX to Lubbock, TX." src="../img/130407-austin-to-lubbock/austin-to-lubbock.jpg" /></a>
-<p>The drive from Austin, TX to Lubbock, TX.</p>
-<hr class="docutils" />
-<p>Nothing against Lubbock. Austin is just an amazing city with great ... 
-            (<a href="austin-to-lubbock.html">read more</a>)
-          </div>
                                               <div class="blog-post">
             <h2><a href="capital-factory-austin-tx.html">Capital Factory</a></h2>
             <p>Capital Factory is Austin's premiere startup incubation space and seed stage
 mentoring program.</p>
-<img alt="The logo for Capital Factory on the floor of their working space" src="../img/130403-capital-factory/capital-factory-logo.jpg" />
+<img alt="The logo for Capital Factory on the floor of their working space" src="../img/130403-capital-factory/capital-factory-logo.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <p>Capital Factory started in January 2009 and has been at the forefront of
-Austin's momentum as Texas' startup hub. The incubation ... 
+Austin's momentum as Texas' startup ... 
             (<a href="capital-factory-austin-tx.html">read more</a>)
           </div>
                                 <div class="blog-post">
@@ -583,17 +506,8 @@ by Garrett Dimon. At $99 for the book plus spreadsheet it is quite a bit
 more expensive than the other books I have picked up ... 
             (<a href="starting-sustaining-book.html">read more</a>)
           </div>
-                                              <div class="blog-post">
-            <h2><a href="dallas-to-austin.html">Dallas to Austin</a></h2>
-            <p>After a morning meeting with Tech Wildcatters I head to Austin, Texas.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/Xw2FY"><img alt="The drive from Dallas, TX to Austin, TX" src="../img/130401-dallas-to-austin/dallas-to-austin.jpg" /></a>
-<p>The drive from Dallas, TX to Austin, TX.</p>
-<hr class="docutils" />
-<p>I will hopefully avoid most of the city-to-city ... 
-            (<a href="dallas-to-austin.html">read more</a>)
-          </div>
-                                              <div class="blog-post">
-            <h2><a href="gravity-center-dallas-tx.html">The Gravity Center in Plano, TX</a></h2>
+                                                            <div class="blog-post">
+            <h2><a href="gravity-center-dallas-tx.html">The Gravity Center</a></h2>
             <p><a class="reference external" href="http://gravitycentredallas.com/">The Gravity Center</a>
 (<a class="reference external" href="https://twitter.com/gravity_centre">&#64;gravity_centre</a>)
 in Plano, Texas is an early stage incubator funded by Alcatel-Lucent
@@ -606,20 +520,9 @@ The incubator's space north of Dallas provides ...
             <p>Memphis was my fourth stop on my trip and one of the most memorable.
 My four day stay was highlighted by amazingly welcoming hosts, great food,
 live music, and an exciting whirlwind tour through the city.</p>
-<img alt="Memphis BB King's Blues sign" src="../img/130328-memphis-pictures/memphis-blues-club.jpg" />
-<p>BB King's Blues Club on Beale Street in Memphis, Tennessee.</p>
-<hr ... 
+<img alt="Memphis BB King's Blues sign" src="../img/130328-memphis-pictures/memphis-blues-club.jpg" style="width: 100%;" />
+<p>BB King's Blues Club on Beale Street in Memphis, ... 
             (<a href="memphis-tennessee-pictures.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="memphis-to-dallas.html">Memphis to Dallas</a></h2>
-            <p>I am on the road to Dallas early today.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/oI6A9"><img alt="The drive from Memphis, TN to Dallas, TX" src="../img/130328-memphis-to-dallas/memphis-to-dallas.jpg" /></a>
-<p>The drive from Memphis, TN to Dallas, TX.</p>
-<hr class="docutils" />
-<p>The seven hour drive from Memphis to Dallas is a bit longer than the trek
-from ... 
-            (<a href="memphis-to-dallas.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="memphis-mempy-talk.html">MemPy</a></h2>
@@ -631,17 +534,7 @@ The venue, the Fedex Institute of Technology, at University of Memphis was
 great. The turnout was fantastic with about ... 
             (<a href="memphis-mempy-talk.html">read more</a>)
           </div>
-                                              <div class="blog-post">
-            <h2><a href="heading-to-memphis.html">New Orleans to Memphis</a></h2>
-            <p>After a great week in New Orleans, I'm heading up to Memphis, Tennessee
-for a four day visit.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/60Yjo"><img alt="The drive from New Orleans, LA to Memphis, TN." src="../img/130324-heading-to-memphis/nola-to-memphis.jpg" /></a>
-<p>The drive from New Orleans, LA to Memphis, TN.</p>
-<hr class="docutils" />
-<p>Memphis is ... 
-            (<a href="heading-to-memphis.html">read more</a>)
-          </div>
-                                              <div class="blog-post">
+                                                            <div class="blog-post">
             <h2><a href="how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In To New Orleans' Growing Entrepreneurship Scene</a></h2>
             <p>I just spent the past week in New Orleans (NOLA) at IdeaVillage's
 <a class="reference external" href="http://www.noew.org/">New Orleans Entrepreneurship Week</a> (NOEW). This is
@@ -675,11 +568,11 @@ value for the entrepreneurs. This ...
             <p>This afternoon was pitch day for companies in the 4.0 Schools' incubator.
 Matt Candler provided a great introduction for why these companies matter
 to the learning community.</p>
-<img alt="Matt Candler, the founder of 4.0Schools, introducing the pitch session" src="../img/130321-noew-4pt0schools-pitches/matt-chandler-4pt0schools.jpg" />
-<p>Matt Candler, founder of 4.0 Schools, introducing the ... 
+<img alt="Matt Candler, the founder of 4.0Schools, introducing the pitch session" src="../img/130321-noew-4pt0schools-pitches/matt-chandler-4pt0schools.jpg" style="width: 100%;" />
+<p>Matt Candler, founder of 4.0 ... 
             (<a href="noew-4pt0-schools-companies-pitches.html">read more</a>)
           </div>
-                                              <div class="blog-post">
+                                <div class="blog-post">
             <h2><a href="walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a></h2>
             <p>New Orleans native <a class="reference external" href="https://twitter.com/WalterIsaacson">Walter Isaacson</a>
 gave a keynote speech this evening at the
@@ -690,23 +583,11 @@ provided historical context for the two ...
           </div>
                                 <div class="blog-post">
             <h2><a href="new-orleans-entrepreneurship-week.html">New Orleans Entrepreneurship Week</a></h2>
-            <img alt="New Orleans' skyline on March 18, 2013" src="../img/130318-new-orleans/morning-skyline.jpg" />
-<p>New Orleans' skyline at 630am in the morning the day after my arrival.</p>
-<hr class="docutils" />
-<p>Yesterday I arrived in <a class="reference external" href="../new-orleans-la.html">New Orleans</a>, Louisiana
+            <p>Yesterday I arrived in <a class="reference external" href="../new-orleans-la.html">New Orleans</a>, Louisiana
 after a long twelve hour drive down from Charlotte, North Carolina.</p>
-<p>I am ... 
+<p>I am here participating in <a class="reference external" href="http://ideavillage.org/">IdeaVillage</a>'s
+<a class="reference external" href="http://ideavillage.org/how_it_works/noew/">New Orleans ... 
             (<a href="new-orleans-entrepreneurship-week.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="charlotte-to-new-orleans.html">Charlotte to New Orleans</a></h2>
-            <p>Several days of catching up with friends and writing in Charlotte
-gives way for a week in New Orleans.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/dmr1S"><img alt="The drive from Charlotte, NC to New Orleans, LA" src="../img/130318-charlotte-to-nola/charlotte-to-nola.jpg" /></a>
-<p>The drive from Charlotte, NC to New Orleans, LA</p>
-<hr class="docutils" />
-<p>New ... 
-            (<a href="charlotte-to-new-orleans.html">read more</a>)
           </div>
                                                             <div class="blog-post">
             <h2><a href="hey-pycon.html">PyCon</a></h2>
@@ -758,21 +639,13 @@ When you reach that point please email me ...
           </div>
                                               <div class="blog-post">
             <h2><a href="day-one-coding-across-america.html">Day One</a></h2>
-            <img alt="Driving to Charlottesville, Virginia from Washington, DC" src="../img/driving-pictures/130309-day-one.jpg" />
+            <img alt="Driving to Charlottesville, Virginia from Washington, DC" src="../img/driving-pictures/130309-day-one.jpg" style="width: 100%;" />
 <p>A detour on my drive down from Washington, DC to Charlottesville, Virginia.</p>
 <hr class="docutils" />
 <p>Today I left Washington, DC to drive to Charlottesville, Virginia. The
 drive is about two hours, Route 66 West to 29 South. I managed to fit all
-my stuff in my car - ... 
+my ... 
             (<a href="day-one-coding-across-america.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="washington-dc-to-charlottesville-va.html">Washington, DC to Charlottesville</a></h2>
-            <p>Coding Across America begins with a short two hour trek from Washington, DC
-to Charlottesville, Virginia.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/WEJgr"><img alt="The drive from Washington, DC to Charlottesville, VA" src="../img/130309-washington-dc-to-charlottesville/washington-dc-to-charlottesville.jpg" /></a>
-<p>The drive from Washington, DC to ... 
-            (<a href="washington-dc-to-charlottesville-va.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="uppidy-washington-dc.html">Uppidy</a></h2>
@@ -795,15 +668,6 @@ during the pregancy of their first ...
             (<a href="wisertogether-washington-dc.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="schedule-curveball.html">Schedule Curveball</a></h2>
-            <p>My schedule is shifting slightly before I hit the road in less than two
-weeks. I have an opportunity to observe and assist at
-<a class="reference external" href="http://ideavillage.org/">IdeaVillage</a>'s
-<a class="reference external" href="http://ideavillage.org/how_it_works/noew/">New Orleans Entrepreneurship Week</a> (NOEW)
-from March 16th through the 22nd. That is a week earlier than I ... 
-            (<a href="schedule-curveball.html">read more</a>)
-          </div>
-                                <div class="blog-post">
             <h2><a href="human-geo-washington-dc.html">HumanGeo</a></h2>
             <p>Is there a better model for building certain types of software products
 used by the federal government? With billions of dollars* in
@@ -823,16 +687,6 @@ as part of the greater Technology &amp; Innovation ...
             (<a href="tim-oreilly-open-government.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="less-than-one-month-to-go.html">(Less Than) One Month to Go</a></h2>
-            <p>Now things get interesting. There are only twenty two days remaining until
-I hit the road on March 9th. In the next few days I will publish a post about
-Tim O'Reilly's fascinating talk about open government yesterday at one
-of my clients - the Consumer Financial Protection Bureau (CFPB). Tim
-discussed a range of topics, including how CFPB can continue to set an
-example for transparency and ... 
-            (<a href="less-than-one-month-to-go.html">read more</a>)
-          </div>
-                                <div class="blog-post">
             <h2><a href="dc-python-group-coding.html">DC Python Group Coding</a></h2>
             <p>Washington, DC is most commonly associated with politics but it has
 quite a technology scene as well. I'm taking advantage of as many of the
@@ -840,16 +694,6 @@ events I can attend before hitting the road in March. Today is DC Python's
 group coding session at <a class="reference external" href="http://www.socialcode.com/">SocialCode</a>.</p>
 <p>Developers are working on projects such as scientific and numeric ... 
             (<a href="dc-python-group-coding.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="comments.html">Comments</a></h2>
-            <p>I <em>finally</em> got around to adding a <a class="reference external" href="http://disqus.com/">Disqus</a>-based
-comments system to this site. Currently all blog posts and the city
-research pages have an area for comments at the bottom.</p>
-<p>The comment system needs to be tweaked. I'll probably modify it to
-allow anonymous posts. There are probably other settings I can change
-that will be ... 
-            (<a href="comments.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="wikivoyage-and-bonus-city.html">Wikivoyage and a Bonus City</a></h2>
@@ -868,7 +712,7 @@ communicating with tech groups and companies and I'll be meeting on the road.</p
 be in - that should take me through sometime in April. ... 
             (<a href="two-months-to-go.html">read more</a>)
           </div>
-                                                                                                                                                                                                        <div class="blog-post">
+                                                                                                                                                                                                                                                                                                                        <div class="blog-post">
             <h2><a href="convictions.html">Convictions</a></h2>
             <p><strong>&quot;Some convictions are so strong that the world must break to
 accommodate them.&quot;</strong></p>
@@ -878,17 +722,6 @@ accommodate them.&quot;</strong></p>
 delivering amazing new work to end users every day, you're doing it wrong</li>
 <li>More young people need to be inspired to go into software ... 
             (<a href="convictions.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="research.html">Research</a></h2>
-            <p>I have not posted on this blog in a few weeks but work continues on
-researching my thirty destinations. I constantly add potential tech
-companies to their respective city pages as well as meet up groups and
-interesting spots to visit.</p>
-<p>I already have a great group of both large and small tech companies with
-confirmed visit dates in various cities. Once I get a little closer to my
-launch ... 
-            (<a href="research.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="30-in-5.html">30 in 5</a></h2>
@@ -902,66 +735,6 @@ individual days when I ...
             (<a href="30-in-5.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="why-san-francisco-ca.html">Why San Francisco, CA?</a></h2>
-            <p>Why not San Francisco? Technically this stop is a combination of
-the areas in and around San Francisco, Palo Alto, and San Jose. There are
-so many interesting start ups, venture capital firms, and technology
-meetups it's difficult to know where to start.</p>
-<p>I've never been to San Francisco (or CA before this trip). These will
-be ten very busy days talking to companies, other software ... 
-            (<a href="why-san-francisco-ca.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-los-angeles-ca.html">Why Los Angeles, CA?</a></h2>
-            <p>I have never been to Los Angeles before. The stories I hear about LA's
-massive traffic jams and major suburban sprawl remind me of Northern
-Virginia - only worse. A trip up the West Coast just wouldn't seem complete
-though without a stop in LA. And it'll a comparison point for what I see
-in San Diego, San Francisco, and Seattle's start up scenes.</p>
-<p>Los Angeles is stop number twelve out of ... 
-            (<a href="why-los-angeles-ca.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-san-diego-ca.html">Why San Diego, CA?</a></h2>
-            <p>San Diego was a late addition to my slate of destinations. I added San Diego
-for a couple of reasons. First, I ran into an old friend in DC who was
-back in town visiting from San Diego. She loves living in San Diego,
-asked me &quot;why not visit?&quot; and I didn't have a good answer for why I
-wasn't going. So that got me started thinking about it. Second, my
-brother hung out in San Diego for ... 
-            (<a href="why-san-diego-ca.html">read more</a>)
-          </div>
-                                              <div class="blog-post">
-            <h2><a href="why-moab-ut.html">Why Moab, Utah?</a></h2>
-            <p>I recently added Moab to my list of destinations after a couple of
-recommendations from people I randomly met. Moab looks amazing from photos
-but apparently none of them do it justice. &quot;You have to see it in person&quot;
-I'm told. So with that Moab will be destination number nine.</p>
-<p>I expect that this will be the third stop in the leg of my trip that takes
-me out of the tech scene ... 
-            (<a href="why-moab-ut.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-los-alamos-nm.html">Why Los Alamos, New Mexico?</a></h2>
-            <p>Los Alamos, New Mexico is another one of those destinations that leaves
-people wondering &quot;what does that have to do with tech&quot;? It is definitely
-not a town that people associate with startups like Palo Alto, Seattle,
-Boulder, or Austin. Still there is a lot of advanced research going on here
-although it's not well publicized outside of academic circles. Some of the
-work is classified ... 
-            (<a href="why-los-alamos-nm.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-lubbock-tx.html">Why Lubbock, Texas?</a></h2>
-            <p>Lubbock is home to the Red Raiders of Texas Tech University and is about
-seven hours Northwest of Austin, Texas. Lubbock will be the seventh city
-I visit during Coding Across America. This stop begins the leg of my trip
-that will take me to some remote place in the Southwest United States,
-including Los Alamos, Moab, and Flagstaff.</p>
-<p>It will be difficult to find technology-related ... 
-            (<a href="why-lubbock-tx.html">read more</a>)
-          </div>
-                                <div class="blog-post">
             <h2><a href="diminishing-marginal-utility-stuff.html">Diminishing Marginal Utility of &quot;Stuff&quot;</a></h2>
             <p>I found this post on the <a class="reference external" href="http://www.antipope.org/charlie/blog-static/2012/09/on-the-diminishing-marginal-ut.html">diminishing marginal utility of stuff</a>
 climbing Hacker News yesterday morning and it resonated with me both in
@@ -969,16 +742,6 @@ general and for my trip.</p>
 <p>Particular lifestyles more easily lend themselves to having less things.
 For example, computer ... 
             (<a href="diminishing-marginal-utility-stuff.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-austin-tx.html">Why Austin, Texas?</a></h2>
-            <p>Austin was the first city I put on the map during my road trip planning.
-I knew there was no way I was going to skip it or just spend a couple of days
-there. Nothing less than a full week will suffice. In fact, much of my early
-planning and building of this website was done while visiting Austin for a
-week in June 2012.</p>
-<p>I've been to Austin three times previously. Every time has been ... 
-            (<a href="why-austin-tx.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="staying-in-shape-on-the-road.html">Staying In Shape On The Road</a></h2>
@@ -991,53 +754,12 @@ I travel from one city to another.</p>
             (<a href="staying-in-shape-on-the-road.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="why-new-orleans-la.html">Why New Orleans, Louisiana?</a></h2>
-            <p>New Orleans has a strong, unique city culture. I previously traveled to
-New Orleans in 2010 although I was there for only a few short days. I have
-a couple of reasons for returning and making New Orleans the fifth destination
-on my trip.</p>
-<p>First, one of the <a class="reference external" href="http://www.excella.com/">Excella Consulting</a> founding
-partners, Burton White, is from
-New ... 
-            (<a href="why-new-orleans-la.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-memphis-tennessee.html">Why Memphis, Tennessee?</a></h2>
-            <p>Several of my DC friends previously lived in Memphis and recommended that
-I visit the city while I am travelling through Tennessee. There's great
-BBQ, high recommendations for
-<a class="reference external" href="http://www.bealestreet.com/wordpress/">Beale Street</a>, and a different
-Midwestern culture that an East Coast kid like me should find interesting.
-Memphis is only three and a half ... 
-            (<a href="why-memphis-tennessee.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="djangonauts-org.html">Djangonauts.org</a></h2>
-            <p><a class="reference external" href="http://djangonauts.org/">djangonauts.org</a> is a well done centralized
-website for Django meetups across the United States. The Chicago Users Group
-originally registered the domain name for their own purposes but then
-realized it would be of benefit to the greater Django community to have
-a centralized location for all users groups.</p>
-<p>I found out about ... 
-            (<a href="djangonauts-org.html">read more</a>)
-          </div>
-                                <div class="blog-post">
             <h2><a href="living-out-of-your-car.html">Living Out of Your Car</a></h2>
             <p>I am not planning to live out of my car while on my five month road trip like
 <a class="reference external" href="http://www.quora.com/Would-becoming-homeless-be-a-good-strategy-to-cut-costs-1">this guy did while bootstrapping his start up</a>. But his determination
 to spend as little money as possible to start his company is impressive
 in a weird way. His Quora write up includes a bunch of ... 
             (<a href="living-out-of-your-car.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-nashville-tn.html">Why Nashville, Tennessee?</a></h2>
-            <p>I have never been to Nashville before, so image I have in my head of what it's
-like is a gross generalization of what I am sure it actually is. I mainly
-envision country music, a South/Midwestern sort of pride by the people that
-reside there, and very little focus on new technology. I am probably wrong
-about those three generalizations.</p>
-<p>I was pleasantly surprised once I began looking ... 
-            (<a href="why-nashville-tn.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="archetypal-days.html">Archetypal Days</a></h2>
@@ -1060,7 +782,7 @@ easy to ascribe attributes and reasons to those events afterwards.
 The human mind works this way naturally. Ascribing reasons to ... 
             (<a href="causal-attribution.html">read more</a>)
           </div>
-                                              <div class="blog-post">
+                                <div class="blog-post">
             <h2><a href="quiet.html">Quiet</a></h2>
             <p>I'm writing this post from Kansas City, Missouri. One of the
 things I find so striking here is how quiet it is downtown during the day
@@ -1081,14 +803,15 @@ should look next to ...
             (<a href="breadth-versus-depth.html">read more</a>)
           </div>
                                 <div class="blog-post">
-            <h2><a href="why-charlottesville-va.html">Why Charlottesville, Virginia?</a></h2>
-            <div class="section" id="charlottesville-virginia">
+            <h2><a href="thoughts-on-some-destinations.html">Thoughts On Some Destinations</a></h2>
+            <p>I originally began writing posts for every city I planned to visit but
+halfway through I felt like I got out of the exercise what I wanted. These
+are the condensed and cleaned up versions of the original posts by city.</p>
+<div class="section" id="charlottesville-virginia">
 <h2>Charlottesville, Virginia</h2>
-<img alt="Charlottesville Downtown Mall looking at the ampitheatre" src="../img/charlottesville-va-2.jpg" />
 <p>I lived in Charlottesville, VA from 2007-09. Charlottesville's distance
-between DC and Charlotte makes it a good spot to spend a couple of days before
-heading South. Charlottesville is one of those ... 
-            (<a href="why-charlottesville-va.html">read more</a>)
+between DC ... 
+            (<a href="thoughts-on-some-destinations.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="camera.html">Camera</a></h2>
@@ -1139,16 +862,6 @@ I've lived in Virginia for the past eleven years (4 &#64; JMU, 2 in Arlington,
 a trap of taking things for granted when you know you always have them at
 your disposal. For ... 
             (<a href="jump-forward-one-year.html">read more</a>)
-          </div>
-                                <div class="blog-post">
-            <h2><a href="why-charlotte-nc.html">Why Charlotte, North Carolina?</a></h2>
-            <p>Charlotte, North Carolina is the first destination on my trip outside of
-Washington, DC. Charlotte is approximately 400 miles from DC (about 7 hours)
-and several people I know have moved to Charlotte to escape the
-government-centric DC area for careers focused on commercial business.
-Charlotte is also the largest city in North Carolina, and the second largest
-banking center in the US. This is ... 
-            (<a href="why-charlotte-nc.html">read more</a>)
           </div>
                                 <div class="blog-post">
             <h2><a href="possessions.html">Possessions</a></h2>
@@ -1203,11 +916,11 @@ well-traveled even within the ...
           </div>
                   </div>
     </div>
-    <div class="offset1 span3">
+    <div class="col-md-offset-1 col-md-3">
       <h3>Updates</h3>
       <a href="http://twitter.com/mattmakai/"><img src="/img/twitter-icon.png" style="border: none; margin-top: 5px;" height="28" width="28" /></a>
 <a href="/feeds/post.atom.xml"><img src="/img/feed-icon.png" height="28" width="28" style="border: none; margin-top: 5px;" /></a>      <hr/>
-      <h3>Posts By Title</h3>
+      <h3>All Stories By Title</h3>
       <ul class="post-list">
                               <li><a href="fletcher-heisler-real-python-trackmaven.html">Fletcher Heisler, Author of Real Python and Developer at TrackMaven</a></li>
                                         <li><a href="chicago-round-2-part-2-pictures.html">Chicago Round Two Pictures (Part Two)</a></li>
@@ -1215,17 +928,16 @@ well-traveled even within the ...
                                         <li><a href="djangocon-2013-pictures.html">DjangoCon 2013 Pictures</a></li>
                                         <li><a href="chicago-wicker-park-pictures.html">Chicago Wicker Park Pictures</a></li>
                                         <li><a href="djangocon-2013-go.html">DjangoCon 2013... Go!</a></li>
-                                        <li><a href="autoworkers-our-generation.html">The Debate on the &quot;Autoworkers&quot; of Our Generation</a></li>
+                                        <li><a href="autoworkers-our-generation.html">Debate on the &quot;Autoworkers&quot; of Our Generation</a></li>
                                         <li><a href="commissary-washington-dc.html">Commissary in Washington, D.C.</a></li>
                                         <li><a href="busboys-poets-washington-dc.html">Busboys and Poets in Washington, D.C.</a></li>
                                         <li><a href="vigilante-coffee-washington-dc.html">Vigilante Coffee in Washington, D.C.</a></li>
                                         <li><a href="dc-offer.html">An Offer to Developers Visiting D.C.</a></li>
                                         <li><a href="thank-you.html">Thank You!</a></li>
-                                                                            <li><a href="four-types-startup-tech-cities.html">Four Types of Software Developer Communities for Startups</a></li>
+                                                          <li><a href="four-types-startup-tech-cities.html">Four Types of Software Developer Communities for Startups</a></li>
                                         <li><a href="central-park-nyc-pictures.html">Central Park NYC Pictures</a></li>
-                                                                            <li><a href="django-boston-talk.html">Django Boston Talk</a></li>
-                                                          <li><a href="pictures-compilation.html">Pictures Compilation</a></li>
-                                                          <li><a href="detroit-pictures.html">Detroit Pictures</a></li>
+                                                          <li><a href="django-boston-talk.html">Django Boston Talk</a></li>
+                                                                            <li><a href="detroit-pictures.html">Detroit Pictures</a></li>
                                                           <li><a href="chicago-pictures.html">Chicago Pictures</a></li>
                                                                                                                                   <li><a href="colorado-hiking-pictures.html">Colorado Hiking Pictures</a></li>
                                         <li><a href="hacker-houses-underused-resource.html">Hacker Houses Are An Underused Concept</a></li>
@@ -1240,86 +952,60 @@ well-traveled even within the ...
                                                           <li><a href="thoughts-after-two-months.html">Thoughts After Two Months</a></li>
                                         <li><a href="adobe-max-2013.html">Adobe MAX 2013</a></li>
                                         <li><a href="las-vegas-nevada-pictures.html">Las Vegas Pictures</a></li>
-                                                          <li><a href="microconf-2013-las-vegas.html">MicroConf 2013</a></li>
-                                                          <li><a href="san-diego-to-las-vegas.html">San Diego to Las Vegas</a></li>
-                                                          <li><a href="forwardmetrics-san-diego-ca.html">ForwardMetrics</a></li>
+                                                                            <li><a href="microconf-2013-las-vegas.html">MicroConf 2013</a></li>
+                                                          <li><a href="coding-across-america-at-evonexus.html">Coding Across America &#64; EvoNexus</a></li>
+                                        <li><a href="forwardmetrics-san-diego-ca.html">ForwardMetrics</a></li>
                                         <li><a href="san-diego-scenery.html">San Diego Scenery</a></li>
                                         <li><a href="evonexus-san-diego-ca.html">EvoNexus</a></li>
                                         <li><a href="antengo-san-diego-ca.html">Antengo</a></li>
                                         <li><a href="add-kansas-city-missouri.html">Add Kansas City, Missouri</a></li>
-                                        <li><a href="phoenix-to-san-diego.html">Phoenix to San Diego</a></li>
                                         <li><a href="misto-box-phoenix-az.html">MistoBox</a></li>
                                                           <li><a href="co-hoots-phoenix-az.html">CO+HOOTS</a></li>
                                         <li><a href="seed-spot-phoenix-az.html">Seed Spot</a></li>
                                                           <li><a href="startup-america-artwork.html">Startup America Artwork</a></li>
-                                        <li><a href="moab-to-phoenix.html">Moab to Phoenix</a></li>
                                         <li><a href="moab-scenery.html">Moab Scenery</a></li>
-                                                          <li><a href="los-alamos-to-moab.html">Los Alamos to Moab</a></li>
-                                                          <li><a href="why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a></li>
+                                                                            <li><a href="why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a></li>
                                         <li><a href="los-alamos-new-mexico-is-beautiful.html">Los Alamos is Beautiful</a></li>
-                                                                            <li><a href="lubbock-to-los-alamos.html">Lubbock to Los Alamos</a></li>
-                                        <li><a href="month-meeting-startups.html">A Month of Meeting Startups</a></li>
-                                        <li><a href="austin-to-lubbock.html">Austin to Lubbock</a></li>
+                                                          <li><a href="month-meeting-startups.html">A Month of Meeting Startups</a></li>
                                                           <li><a href="capital-factory-austin-tx.html">Capital Factory</a></li>
                                         <li><a href="starting-sustaining-book.html">Doers Help Doers</a></li>
-                                                          <li><a href="dallas-to-austin.html">Dallas to Austin</a></li>
-                                                          <li><a href="gravity-center-dallas-tx.html">The Gravity Center in Plano, TX</a></li>
+                                                                            <li><a href="gravity-center-dallas-tx.html">The Gravity Center</a></li>
                                                                             <li><a href="memphis-tennessee-pictures.html">Memphis Pictures</a></li>
-                                        <li><a href="memphis-to-dallas.html">Memphis to Dallas</a></li>
                                         <li><a href="memphis-mempy-talk.html">MemPy</a></li>
-                                                          <li><a href="heading-to-memphis.html">New Orleans to Memphis</a></li>
-                                                          <li><a href="how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In To New Orleans' Growing Entrepreneurship Scene</a></li>
+                                                                            <li><a href="how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In To New Orleans' Growing Entrepreneurship Scene</a></li>
                                         <li><a href="4pt0schools-coder-couch-nola.html">4.0 Schools' Coder Couch in NOLA</a></li>
                                         <li><a href="noew-ideacorps-pitch-challenge.html">NOEW IDEAcorps Pitch Challenge</a></li>
                                         <li><a href="noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools' Companies Pitches</a></li>
-                                                          <li><a href="walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a></li>
+                                        <li><a href="walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a></li>
                                         <li><a href="new-orleans-entrepreneurship-week.html">New Orleans Entrepreneurship Week</a></li>
-                                        <li><a href="charlotte-to-new-orleans.html">Charlotte to New Orleans</a></li>
                                                                             <li><a href="hey-pycon.html">PyCon</a></li>
                                         <li><a href="charlottesville-virginia-day-one-through-five.html">Charlottesville, VA Pictures</a></li>
                                                           <li><a href="willowtree-apps-charlottesville-va.html">WillowTree Apps</a></li>
                                         <li><a href="agilityfeat-charlottesville-va.html">AgilityFeat</a></li>
                                         <li><a href="to-prospective-organizations.html">To Prospective Organizations</a></li>
                                                           <li><a href="day-one-coding-across-america.html">Day One</a></li>
-                                        <li><a href="washington-dc-to-charlottesville-va.html">Washington, DC to Charlottesville</a></li>
                                         <li><a href="uppidy-washington-dc.html">Uppidy</a></li>
                                         <li><a href="wisertogether-washington-dc.html">WiserTogether</a></li>
-                                        <li><a href="schedule-curveball.html">Schedule Curveball</a></li>
                                         <li><a href="human-geo-washington-dc.html">HumanGeo</a></li>
                                         <li><a href="tim-oreilly-open-government.html">Tim O'Reilly on Open Government</a></li>
-                                        <li><a href="less-than-one-month-to-go.html">(Less Than) One Month to Go</a></li>
                                         <li><a href="dc-python-group-coding.html">DC Python Group Coding</a></li>
-                                        <li><a href="comments.html">Comments</a></li>
                                         <li><a href="wikivoyage-and-bonus-city.html">Wikivoyage and a Bonus City</a></li>
                                         <li><a href="two-months-to-go.html">Two Months To Go</a></li>
-                                                                                                                                                                                                                                                                <li><a href="convictions.html">Convictions</a></li>
-                                        <li><a href="research.html">Research</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                <li><a href="convictions.html">Convictions</a></li>
                                         <li><a href="30-in-5.html">30 in 5</a></li>
-                                        <li><a href="why-san-francisco-ca.html">Why San Francisco, CA?</a></li>
-                                        <li><a href="why-los-angeles-ca.html">Why Los Angeles, CA?</a></li>
-                                        <li><a href="why-san-diego-ca.html">Why San Diego, CA?</a></li>
-                                                          <li><a href="why-moab-ut.html">Why Moab, Utah?</a></li>
-                                        <li><a href="why-los-alamos-nm.html">Why Los Alamos, New Mexico?</a></li>
-                                        <li><a href="why-lubbock-tx.html">Why Lubbock, Texas?</a></li>
                                         <li><a href="diminishing-marginal-utility-stuff.html">Diminishing Marginal Utility of &quot;Stuff&quot;</a></li>
-                                        <li><a href="why-austin-tx.html">Why Austin, Texas?</a></li>
                                         <li><a href="staying-in-shape-on-the-road.html">Staying In Shape On The Road</a></li>
-                                        <li><a href="why-new-orleans-la.html">Why New Orleans, Louisiana?</a></li>
-                                        <li><a href="why-memphis-tennessee.html">Why Memphis, Tennessee?</a></li>
-                                        <li><a href="djangonauts-org.html">Djangonauts.org</a></li>
                                         <li><a href="living-out-of-your-car.html">Living Out of Your Car</a></li>
-                                        <li><a href="why-nashville-tn.html">Why Nashville, Tennessee?</a></li>
                                         <li><a href="archetypal-days.html">Archetypal Days</a></li>
                                         <li><a href="causal-attribution.html">Causal Attribution</a></li>
-                                                          <li><a href="quiet.html">Quiet</a></li>
+                                        <li><a href="quiet.html">Quiet</a></li>
                                         <li><a href="breadth-versus-depth.html">Breadth Versus Depth</a></li>
-                                        <li><a href="why-charlottesville-va.html">Why Charlottesville, Virginia?</a></li>
+                                        <li><a href="thoughts-on-some-destinations.html">Thoughts On Some Destinations</a></li>
                                         <li><a href="camera.html">Camera</a></li>
                                         <li><a href="projects.html">Projects</a></li>
                                         <li><a href="the-conversations.html">The Conversations</a></li>
                                         <li><a href="estimating-budget.html">Estimating A Budget</a></li>
                                         <li><a href="jump-forward-one-year.html">Jump Forward One Year</a></li>
-                                        <li><a href="why-charlotte-nc.html">Why Charlotte, North Carolina?</a></li>
                                         <li><a href="possessions.html">Possessions</a></li>
                                         <li><a href="contributions.html">Contributions</a></li>
                                         <li><a href="what-to-do-in-each-city.html">What To Do In Each City</a></li>
@@ -1327,25 +1013,26 @@ well-traveled even within the ...
                                         <li><a href="why-coding-across-america.html">Why?</a></li>
                         </ul>
     </div>
-</div>      <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
+</div>      <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
     </div>
-  </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-            });
-  </script>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+                    });
+    </script>
 </body>
 </html>

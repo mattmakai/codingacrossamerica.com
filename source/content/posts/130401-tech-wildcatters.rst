@@ -10,6 +10,7 @@ accelerator focused on early stage business-to-business (B2B) companies.
 
 .. image:: ../img/130401-tech-wildcatters/outside.jpg
   :alt: The outside of Tech Wildcatter's space in the Uptown area of Dallas
+  :width: 100%
 
 ----
 
@@ -21,6 +22,7 @@ and other publications.
 
 .. image:: ../img/130401-tech-wildcatters/current-founder-class.jpg
   :alt: Tech Wildcatters' current founders class
+  :width: 100%
 
 Tech Wildcatters' current founders class
 

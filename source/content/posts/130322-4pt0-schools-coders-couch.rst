@@ -2,6 +2,7 @@
 ================================
 
 :category: post
+:post_type: coding_spot
 :slug: 4pt0schools-coder-couch-nola
 :date: 2013-03-22 14:00
 
@@ -22,6 +23,7 @@ space and wifi throughout my time here.
 
 .. image:: ../img/130322-coder-couch/coder-couch-and-4pt0-office.jpg
   :alt: 4.0 Schools coder couch and office
+  :width: 100%
 
 4.0 Schools coder couch and office
 

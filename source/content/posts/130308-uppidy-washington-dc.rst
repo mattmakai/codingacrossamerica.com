@@ -2,6 +2,7 @@ Uppidy
 ======
 
 :category: post
+:post_type: startup
 :slug: uppidy-washington-dc
 :date: 2013-03-08 16:30
 
@@ -30,6 +31,7 @@ Uppidy in Washington, DC
 
 .. image:: ../img/130319-uppidy/uppidy-logo.png
   :alt: Uppidy, currently located in Tyson's Corner, Virignia
+  :width: 100%
 
 ----
 
@@ -52,6 +54,7 @@ The app then provides you a window into the stored data at your convenience.
 
 .. image:: ../img/130319-uppidy/uppidy-washington-dc-location.jpg
   :alt: Uppidy, currently located in Tyson's Corner, Virignia
+  :width: 100%
   :target: http://goo.gl/maps/zu3SZ
 
 ----

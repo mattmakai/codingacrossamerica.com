@@ -6,6 +6,7 @@ Thoughts After Two Months
 :category: post
 :author: Matt Makai
 :tag: opinion
+:post_type: opinion
 
 I've been on the road for two months today. Here are a few of my thoughts to 
 date. 
@@ -78,12 +79,4 @@ system preventing any sort of positive change. We're all to blame for this
 incredible failing in our society. It's sad. We're failing the next 
 generation even though everyone wants to talk endless how much we supposedly
 care about our children.
-
-
-This Website Design Sucks
--------------------------
-I'm going to change the design. The blog format is stale and I have plenty 
-of ideas for making it good now that I have some decent content.
-
-
 

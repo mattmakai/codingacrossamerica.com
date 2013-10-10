@@ -4,6 +4,7 @@ An Offer to Developers Visiting D.C.
 :slug: dc-offer
 :date: 2013-08-19
 :category: post
+:post_type: opinion
 :author: Matt Makai
 :tag: opinion
 
@@ -23,6 +24,7 @@ and the widely generous software development community across the U.S.
 
 .. image:: ../img/130819-dc-offer/metro.jpg
   :alt: A view inside the Courthouse Metro station.
+  :width: 100%
 
 A view from inside the Arlington Courthouse metro station.
 

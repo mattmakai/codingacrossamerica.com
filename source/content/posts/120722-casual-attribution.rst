@@ -3,6 +3,7 @@ Causal Attribution
 
 :category: post
 :slug: causal-attribution
+:post_type: opinion
 :date: 2012-07-22
 :tag: opinion
 

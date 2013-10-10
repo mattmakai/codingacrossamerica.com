@@ -2,6 +2,7 @@ Plug In To New Orleans' Growing Entrepreneurship Scene
 ======================================================
 
 :category: post
+:post_type: opinion 
 :date: 2013-03-23
 :slug: how-to-plug-into-growing-new-orleans-entrepreneurship-scene
 
@@ -15,6 +16,7 @@ can plug into the growing entrepreneurship and tech scene.
 
 .. image:: ../img/130323-plug-in-to-nola-entrepreneurship/noew-judges-panel.jpg
   :alt: Judges panel at NOEW
+  :width: 100%
 
 NOEW Judges' panel, including investor 
 `Jim Coulter <http://en.wikipedia.org/wiki/James_Coulter_(financier)>`_ 

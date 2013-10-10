@@ -3,6 +3,7 @@ Two Months To Go
 
 :category: post
 :slug: two-months-to-go
+:post_type: opinion
 :date: 2013-01-09
 
 With exactly two months until I hit the road my focus has now shifted to 

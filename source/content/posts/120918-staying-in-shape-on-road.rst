@@ -2,6 +2,7 @@ Staying In Shape On The Road
 ============================
 
 :category: post
+:post_type: opinion
 :slug: staying-in-shape-on-the-road
 :date: 2012-09-18
 

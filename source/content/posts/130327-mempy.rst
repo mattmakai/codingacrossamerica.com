@@ -2,6 +2,7 @@ MemPy
 =====
 
 :category: post
+:post_type: tech_event
 :date: 2013-03-27 12:05
 :slug: memphis-mempy-talk
 
@@ -15,6 +16,7 @@ happy with how the talk went.
 
 .. image:: ../img/130327-mempy/github-individual-repos.jpg
   :alt: A slide from my talk on Git repositories
+  :width: 100%
   :target: http://www.mattmakai.com/static/presentations/memphis-python-github-workflows.html#slide-20
 
 A slide from my talk on one possible arrangement for multiple Git repositories
@@ -31,6 +33,7 @@ Here are a few pictures from the event, thanks for taking them Douglas!
 
 .. image:: ../img/130327-mempy/matt-makai-mempy-talk.jpg
   :alt: Picture of Matt Makai setting up for MemPy talk
+  :width: 100%
 
 Setting up for my talk. I promise I don't always look this serious.
 
@@ -39,11 +42,13 @@ Setting up for my talk. I promise I don't always look this serious.
 
 .. image:: ../img/130327-mempy/matt-makai-mempy-talk-2.jpg
   :alt: Picture of Matt Makai during MemPy talk
+  :width: 100%
 
 ----
 
 .. image:: ../img/130327-mempy/matt-makai-mempy-audience.jpg
   :alt: Snapshot of the crowd from MemPy March meetup
+  :width: 100%
 
 
 

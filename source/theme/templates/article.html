@@ -1,8 +1,22 @@
-{% extends 'old-base.html' %}
+{% extends 'base.html' %}
 
 {% block content %}
   {% if article.category == 'cities' %}
     {% include 'cities_list.html' %}
+  {% elif article.category == 'pictures' %}
+    {% include 'pictures.html' %}
+  {% elif article.category == 'contact' %}
+    {% include 'contact.html' %}
+  {% elif article.category == 'startups' %}
+    {% include 'startups.html' %}
+  {% elif article.category == 'interviews' %}
+    {% include 'interviews.html' %}
+  {% elif article.category == 'coding_spots' %}
+    {% include 'coding_spots.html' %}
+  {% elif article.category == 'opinions' %}
+    {% include 'opinions.html' %}
+  {% elif article.category == 'tech_events' %}
+    {% include 'tech_events.html' %}
   {% elif article.category == 'city' %}
     {% include 'city.html' %}
   {% elif article.category == 'contributors' %}

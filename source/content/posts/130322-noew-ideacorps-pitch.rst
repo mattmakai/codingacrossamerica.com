@@ -3,6 +3,7 @@ NOEW IDEAcorps Pitch Challenge
 
 :date: 2013-03-22 11:00
 :category: post
+:post_type: tech-event
 :slug: noew-ideacorps-pitch-challenge
 
 Eight MBA teams worked with local entrepreneurs during New Orleans 
@@ -29,6 +30,7 @@ Sara Thomas and Tim Williamson of IdeaVillage provided an introduction.
 
 .. image:: ../img/130322-ideapitch/tim-williamson.jpg
   :alt: Tim Williamson introducing IdeaPitch
+  :width: 100%
 
 ----
 
@@ -43,6 +45,7 @@ benefit from the credits.
 
 .. image:: ../img/130322-ideapitch/tulane-etax-credit-exchange.jpg
   :alt: Tulane University pitching eTax Credit Exchange
+  :width: 100%
 
 Tulane University pitching eTax Credit Exchange.
 
@@ -53,6 +56,7 @@ takes place on the platform.
 
 .. image:: ../img/130322-ideapitch/full-tulane-team.jpg
   :alt: The Tulane University team.
+  :width: 100%
 
 The Tulane University team, from left to right: 
 Gustavo Baptista, Kumar Doraijav, Adran Mendez, Heath Gardenhire, 
@@ -71,6 +75,7 @@ position itself to best solve the problems around hiring hourly employees.
 
 .. image:: ../img/130322-ideapitch/harvard-gotointerview-com.jpg
   :alt: Harvard University pitching Gotointerview.com
+  :width: 100%
 
 Harvard University pitching Gotointerview.com.
 
@@ -82,6 +87,7 @@ based on growth of the platform.
 
 .. image:: ../img/130322-ideapitch/full-harvard-team.jpg
   :alt: The Harvard University team.
+  :width: 100%
 
 The Harvard University team.
 
@@ -98,6 +104,7 @@ lawyers in the process.
 
 .. image:: ../img/130322-ideapitch/columbia-zlien.jpg
   :alt: Columbia University pitching Zlien
+  :width: 100%
 
 Columbia University pitching Zlien.
 
@@ -108,6 +115,7 @@ transaction, similar to how payday loans work.
 
 .. image:: ../img/130322-ideapitch/full-columbia-team.jpg
   :alt: The Columbia University team.
+  :width: 100%
 
 The Columbia University team.
 
@@ -125,6 +133,7 @@ for accurate accounting going forward.
 
 .. image:: ../img/130322-ideapitch/cornell-bissap-breeze.jpg
   :alt: Cornell University pitching Bissap Breeze. 
+  :width: 100%
 
 Cornell University pitching Bissap Breeze.
 
@@ -136,6 +145,7 @@ cost to create a profit.
 
 .. image:: ../img/130322-ideapitch/full-cornell-team.jpg
   :alt: Cornell University pitching Bissap Breeze. 
+  :width: 100%
 
 The Cornell University team.
 
@@ -153,6 +163,7 @@ efficiently than paper-based purchase orders.
 
 .. image:: ../img/130322-ideapitch/dartmouth-clothes-line.jpg
   :alt: Dartmouth College pitching Clothes Line.
+  :width: 100%
 
 Dartmouth pitching Clothes Line.
 
@@ -164,6 +175,7 @@ percentage fee based on each transaction conducted through the software.
 
 .. image:: ../img/130322-ideapitch/full-dartmouth-team.jpg
   :alt: Dartmouth team
+  :width: 100%
 
 The Dartmouth team.
 
@@ -180,6 +192,7 @@ area of shoreline.
 
 .. image:: ../img/130322-ideapitch/loyola-pierce-industries.jpg
   :alt: Loyola University pitching Pierce Industries' Wave Robber.
+  :width: 100%
 
 Loyola University pitching Pierce Industries' Wave Robber.
 
@@ -191,6 +204,7 @@ major land owners.
 
 .. image:: ../img/130322-ideapitch/full-loyola-team.jpg
   :alt: The Loyola University team.
+  :width: 100%
 
 The Loyola University team.
 
@@ -208,6 +222,7 @@ results.
 
 .. image:: ../img/130322-ideapitch/stanford-education-everytime.jpg
   :alt: Stanford University pitching Education Everytime.
+  :width: 100%
 
 Stanford University pitching Education Everytime.
 
@@ -220,6 +235,7 @@ on a beta program later in fall 2013.
 
 .. image:: ../img/130322-ideapitch/full-stanford-team.jpg
   :alt: The Stanford University team.
+  :width: 100%
 
 The Stanford University team.
 
@@ -241,6 +257,7 @@ a low cost model.
 
 .. image:: ../img/130322-ideapitch/yale-your-nutrition-delivered.jpg
   :alt: Yale University pitching Your Nutrition Delivered
+  :width: 100%
 
 Yale University pitching Your Nutrition Delivered.
 
@@ -250,6 +267,7 @@ The revenue model is based on selling a subscription to customers.
 
 .. image:: ../img/130322-ideapitch/full-yale-team.jpg
   :alt: The Yale University team.
+  :width: 100%
 
 The Yale University team.
 

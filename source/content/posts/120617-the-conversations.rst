@@ -2,6 +2,7 @@ The Conversations
 =================
 
 :category: post
+:post_type: opinion
 :date: 2012-06-17
 :slug: the-conversations
 

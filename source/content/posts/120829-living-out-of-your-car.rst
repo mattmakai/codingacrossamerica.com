@@ -3,6 +3,7 @@ Living Out of Your Car
 
 :category: post
 :date: 2012-08-29
+:post_type: opinion
 :slug: living-out-of-your-car
 
 I am not planning to live out of my car while on my five month road trip like

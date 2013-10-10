@@ -3,6 +3,7 @@ DC Python Group Coding
 
 :category: post
 :slug: dc-python-group-coding
+:post_type: tech_event
 :date: 2013-01-26
 
 Washington, DC is most commonly associated with politics but it has
@@ -23,6 +24,7 @@ Here are some pictures from the event.
 
 .. image:: ../img/130126-dc-python-coding/group_hacking.jpg
   :alt: Group hacking on Jenkins project
+  :width: 100%
 
 Group hacking on a Jenkins software-as-a-service project.
 
@@ -30,6 +32,7 @@ Group hacking on a Jenkins software-as-a-service project.
 
 .. image:: ../img/130126-dc-python-coding/whiteboard.jpg
   :alt: Whiteboarding the Jenkins project
+  :width: 100%
 
 Whiteboarding the Jenkins project user interface.
 
@@ -37,6 +40,7 @@ Whiteboarding the Jenkins project user interface.
 
 .. image:: ../img/130126-dc-python-coding/group_hacking2.jpg
   :alt: Working with NumPy and SciPy
+  :width: 100%
 
 Groups discussing their projects.
 
@@ -44,6 +48,7 @@ Groups discussing their projects.
 
 .. image:: ../img/130126-dc-python-coding/documentation_onscreen.jpg
   :alt: Working with NumPy and SciPy
+  :width: 100%
 
 Displaying and discussing documentation for scientific and data analysis.
 
@@ -51,6 +56,7 @@ Displaying and discussing documentation for scientific and data analysis.
 
 .. image:: ../img/130126-dc-python-coding/josh_and_ryan.jpg
   :alt: Josh and Ryan in the kitchen area of SocialCode's office
+  :width: 100%
 
 Josh and Ryan.
 

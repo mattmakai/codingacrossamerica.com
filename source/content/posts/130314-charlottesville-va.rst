@@ -3,6 +3,7 @@ Charlottesville, VA Pictures
 
 :date: 2013-03-14
 :category: picture-post
+:post_type: picture_post
 :slug: charlottesville-virginia-day-one-through-five
 
 Here are a few "rear of the car"-perspective pictures from the first five 
@@ -19,6 +20,7 @@ coming soon.
 
 .. image:: ../img/driving-pictures/130310-day-two.jpg
   :alt: Side of the road near Shenandoah Crossing Resort
+  :width: 100%
 
 Pulled over near `Shenandoah Crossing Resort <http://www.bluegreenonline.com/explore/resortDetail.aspx?ResortID=4>`_ where I stayed during my time
 near Charlottesville.
@@ -27,6 +29,7 @@ near Charlottesville.
 
 .. image:: ../img/driving-pictures/130311-day-three.jpg
   :alt: Entrance to Horton Vineyards
+  :width: 100%
 
 Entrance to `Horton Vineyard <http://hortonwine.com/>`_ in Gordonsville, 
 Virginia. Sadly I did not have time to stop and drink wine but I thought 
@@ -36,6 +39,7 @@ their buildings architecture was interesting.
 
 .. image:: ../img/driving-pictures/130312-day-four.jpg
   :alt: The Rotunda at the University of Virginia
+  :width: 100%
 
 The Rotunda at the University of Virginia, where I went to grad school
 for an 
@@ -48,11 +52,13 @@ on the program a few months after I finished.
 
 .. image:: ../img/driving-pictures/130313-day-five.jpg
   :alt: Interesting historic marker from the Revolutionary War in Virginia
+  :width: 100%
 
 A sign marking the history of the area from the Revolutionary War.
 
 .. image:: ../img/driving-pictures/130313-day-five-2.jpg
   :alt: Closer view of the historic marker
+  :width: 100%
 
 A closer view of the sign.
 

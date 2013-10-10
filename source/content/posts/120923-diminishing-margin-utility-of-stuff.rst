@@ -2,6 +2,7 @@ Diminishing Marginal Utility of "Stuff"
 =======================================
 
 :category: post
+:post_type: opinion
 :slug: diminishing-marginal-utility-stuff
 :date: 2012-09-23
 

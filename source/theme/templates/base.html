@@ -4,21 +4,42 @@
     <title>Coding Across America</title>
     <meta name="author" content="Matt Makai">
     <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
     {% block css_head %}{% endblock %}
     <link rel="icon" type="image/png" href="/img/favicon.png">
-    <!--[if lte IE 8]>
-        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
-<![endif]-->
-  <script type="text/javascript">
+    <script type="text/javascript">
       var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
       _gaq.push(['_trackPageview']);
       (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-  </script>
+    </script>
 </head>
 <body>
-
+    {% include "nav.html" %}
     {% block content %}{% endblock %}
+    <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
     {% block javascript_body %}{% endblock %}
-
+    <script type="text/javascript">
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+            {% block js_ready %}{% endblock %}
+        });
+    </script>
 </body>
 </html>

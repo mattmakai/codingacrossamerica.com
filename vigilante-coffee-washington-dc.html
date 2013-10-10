@@ -1,77 +1,59 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/caa.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
+    <div class="white-out" style="margin-top: 10px;">
     <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li class="active">
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-      </ul>
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li ><a href="/cities.html">Map</a></li>
+                  <li ><a href="/contributors.html">Contributors</a></li>
+                  <li ><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>  <div class="container">
-            <h1>Vigilante Coffee in Washington, D.C.</h1>
+</div>          <div class="container">
+<h1>Vigilante Coffee in Washington, D.C.</h1>
   <div>
     By 
     <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
     08.25.2013. Tags: coding spot, coffee  </div>
   <div class="row">
-    <div class="span7">
-      <hr/>
+    <div class="col-md-10 article-font">
       <p>Vigilante Coffee is a pop up cafe on 7th Street Northwest in Washington,
 D.C.</p>
-<img alt="Sign outside Vigilante Coffee" src="../img/130825-vigilante-coffee/vigilante-coffee-sign.jpg" />
+<img alt="Sign outside Vigilante Coffee" src="../img/130825-vigilante-coffee/vigilante-coffee-sign.jpg" style="width: 100%;" />
 <p>Vigilante Coffee pop up cafe sign.</p>
 <hr class="docutils" />
 <p>The place feels similar
@@ -87,17 +69,17 @@ you can have your screen brightness low to conserve battery power.</p>
 <p>I was able to jump on a password-less wifi connection easily enough while
 there. Next time I stop by I'll make sure that's actually their Internet
 though.</p>
-<a class="reference external image-reference" href="http://goo.gl/maps/nOgsd"><img alt="Map with the location of Vigilante Coffee pop up cafe." src="../img/130825-vigilante-coffee/map.jpg" /></a>
+<a class="reference external image-reference" href="http://goo.gl/maps/nOgsd"><img alt="Map with the location of Vigilante Coffee pop up cafe." src="../img/130825-vigilante-coffee/map.jpg" style="width: 100%;" /></a>
 <p>1017 7th St NW, Washington, D.C.</p>
 <hr class="docutils" />
-<img alt="A view of 7th Street where Vigilante Coffee is located." src="../img/130825-vigilante-coffee/7th-street.jpg" />
+<img alt="A view of 7th Street where Vigilante Coffee is located." src="../img/130825-vigilante-coffee/7th-street.jpg" style="width: 100%;" />
 <p>7th Street outside Vigilante Coffee.</p>
 <hr class="docutils" />
-<img alt="Inside Vigilante Coffee." src="../img/130825-vigilante-coffee/inside.jpg" />
+<img alt="Inside Vigilante Coffee." src="../img/130825-vigilante-coffee/inside.jpg" style="width: 100%;" />
 <hr class="docutils" />
-<img alt="Arrow on the wall at Vigilante Coffee." src="../img/130825-vigilante-coffee/red-arrow.jpg" />
+<img alt="Arrow on the wall at Vigilante Coffee." src="../img/130825-vigilante-coffee/red-arrow.jpg" style="width: 100%;" />
 <hr class="docutils" />
-<img alt="Back room of Vigilante Coffee" src="../img/130825-vigilante-coffee/back-room.jpg" />
+<img alt="Back room of Vigilante Coffee" src="../img/130825-vigilante-coffee/back-room.jpg" style="width: 100%;" />
 <p>The back room of Vigilante Coffee.</p>
 <hr class="docutils" />
 <p>For more information on this spot check out
@@ -106,9 +88,8 @@ though.</p>
 my perspectives on
 <a class="reference external" href="/four-types-startup-tech-cities.html">the four types of software development communities for startups</a>.</p>
 
-
-        <p>
-      If you want to keep up with my travels as a developer around the US, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
+      <p>
+      If you're interested in software development and learning more about tech startups, <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
       </p>
         <div id="disqus_thread" style="margin-top: 25px;"></div>
         <script type="text/javascript">
@@ -121,150 +102,29 @@ my perspectives on
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">Return to the blog</a>
-    </div>
-    <div class="offset1 span3">
-      <hr/>
-      <h3>Posts By Date</h3>
-      <ul class="post-list">
-                              <li><a href="fletcher-heisler-real-python-trackmaven.html">Fletcher Heisler, Author of Real Python and Developer at TrackMaven</a></li>
-                                        <li><a href="chicago-round-2-part-2-pictures.html">Chicago Round Two Pictures (Part Two)</a></li>
-                                        <li><a href="chicago-round-2-pictures.html">Chicago Round Two Pictures</a></li>
-                                        <li><a href="djangocon-2013-pictures.html">DjangoCon 2013 Pictures</a></li>
-                                        <li><a href="chicago-wicker-park-pictures.html">Chicago Wicker Park Pictures</a></li>
-                                        <li><a href="djangocon-2013-go.html">DjangoCon 2013... Go!</a></li>
-                                        <li><a href="autoworkers-our-generation.html">The Debate on the &quot;Autoworkers&quot; of Our Generation</a></li>
-                                        <li><a href="commissary-washington-dc.html">Commissary in Washington, D.C.</a></li>
-                                        <li><a href="busboys-poets-washington-dc.html">Busboys and Poets in Washington, D.C.</a></li>
-                                        <li><a href="vigilante-coffee-washington-dc.html">Vigilante Coffee in Washington, D.C.</a></li>
-                                        <li><a href="dc-offer.html">An Offer to Developers Visiting D.C.</a></li>
-                                        <li><a href="thank-you.html">Thank You!</a></li>
-                                                                            <li><a href="four-types-startup-tech-cities.html">Four Types of Software Developer Communities for Startups</a></li>
-                                        <li><a href="central-park-nyc-pictures.html">Central Park NYC Pictures</a></li>
-                                                                            <li><a href="django-boston-talk.html">Django Boston Talk</a></li>
-                                                          <li><a href="pictures-compilation.html">Pictures Compilation</a></li>
-                                                          <li><a href="detroit-pictures.html">Detroit Pictures</a></li>
-                                                          <li><a href="chicago-pictures.html">Chicago Pictures</a></li>
-                                                                                                                                  <li><a href="colorado-hiking-pictures.html">Colorado Hiking Pictures</a></li>
-                                        <li><a href="hacker-houses-underused-resource.html">Hacker Houses Are An Underused Concept</a></li>
-                                                          <li><a href="wyoming-photography.html">Wyoming Photograpy</a></li>
-                                                          <li><a href="montana-pictures.html">Montana Pictures</a></li>
-                                                          <li><a href="seattle-city-pictures.html">Seattle City Pictures</a></li>
-                                        <li><a href="seattle-hiking-pictures.html">Seattle Hiking Pictures</a></li>
-                                        <li><a href="university-of-washington-pictures.html">University of Washington Pictures</a></li>
-                                                          <li><a href="portland-oregon-pictures.html">Portland, Oregon Pictures</a></li>
-                                                          <li><a href="eugene-oregon-pictures.html">Eugene Pictures</a></li>
-                                                          <li><a href="computer-history-museum-mountain-view-ca.html">Computer History Museum in Mountain View, CA</a></li>
-                                                          <li><a href="thoughts-after-two-months.html">Thoughts After Two Months</a></li>
-                                        <li><a href="adobe-max-2013.html">Adobe MAX 2013</a></li>
-                                        <li><a href="las-vegas-nevada-pictures.html">Las Vegas Pictures</a></li>
-                                                          <li><a href="microconf-2013-las-vegas.html">MicroConf 2013</a></li>
-                                                          <li><a href="san-diego-to-las-vegas.html">San Diego to Las Vegas</a></li>
-                                                          <li><a href="forwardmetrics-san-diego-ca.html">ForwardMetrics</a></li>
-                                        <li><a href="san-diego-scenery.html">San Diego Scenery</a></li>
-                                        <li><a href="evonexus-san-diego-ca.html">EvoNexus</a></li>
-                                        <li><a href="antengo-san-diego-ca.html">Antengo</a></li>
-                                        <li><a href="add-kansas-city-missouri.html">Add Kansas City, Missouri</a></li>
-                                        <li><a href="phoenix-to-san-diego.html">Phoenix to San Diego</a></li>
-                                        <li><a href="misto-box-phoenix-az.html">MistoBox</a></li>
-                                                          <li><a href="co-hoots-phoenix-az.html">CO+HOOTS</a></li>
-                                        <li><a href="seed-spot-phoenix-az.html">Seed Spot</a></li>
-                                                          <li><a href="startup-america-artwork.html">Startup America Artwork</a></li>
-                                        <li><a href="moab-to-phoenix.html">Moab to Phoenix</a></li>
-                                        <li><a href="moab-scenery.html">Moab Scenery</a></li>
-                                                          <li><a href="los-alamos-to-moab.html">Los Alamos to Moab</a></li>
-                                                          <li><a href="why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a></li>
-                                        <li><a href="los-alamos-new-mexico-is-beautiful.html">Los Alamos is Beautiful</a></li>
-                                                                            <li><a href="lubbock-to-los-alamos.html">Lubbock to Los Alamos</a></li>
-                                        <li><a href="month-meeting-startups.html">A Month of Meeting Startups</a></li>
-                                        <li><a href="austin-to-lubbock.html">Austin to Lubbock</a></li>
-                                                          <li><a href="capital-factory-austin-tx.html">Capital Factory</a></li>
-                                        <li><a href="starting-sustaining-book.html">Doers Help Doers</a></li>
-                                                          <li><a href="dallas-to-austin.html">Dallas to Austin</a></li>
-                                                          <li><a href="gravity-center-dallas-tx.html">The Gravity Center in Plano, TX</a></li>
-                                                                            <li><a href="memphis-tennessee-pictures.html">Memphis Pictures</a></li>
-                                        <li><a href="memphis-to-dallas.html">Memphis to Dallas</a></li>
-                                        <li><a href="memphis-mempy-talk.html">MemPy</a></li>
-                                                          <li><a href="heading-to-memphis.html">New Orleans to Memphis</a></li>
-                                                          <li><a href="how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In To New Orleans' Growing Entrepreneurship Scene</a></li>
-                                        <li><a href="4pt0schools-coder-couch-nola.html">4.0 Schools' Coder Couch in NOLA</a></li>
-                                        <li><a href="noew-ideacorps-pitch-challenge.html">NOEW IDEAcorps Pitch Challenge</a></li>
-                                        <li><a href="noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools' Companies Pitches</a></li>
-                                                          <li><a href="walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a></li>
-                                        <li><a href="new-orleans-entrepreneurship-week.html">New Orleans Entrepreneurship Week</a></li>
-                                        <li><a href="charlotte-to-new-orleans.html">Charlotte to New Orleans</a></li>
-                                                                            <li><a href="hey-pycon.html">PyCon</a></li>
-                                        <li><a href="charlottesville-virginia-day-one-through-five.html">Charlottesville, VA Pictures</a></li>
-                                                          <li><a href="willowtree-apps-charlottesville-va.html">WillowTree Apps</a></li>
-                                        <li><a href="agilityfeat-charlottesville-va.html">AgilityFeat</a></li>
-                                        <li><a href="to-prospective-organizations.html">To Prospective Organizations</a></li>
-                                                          <li><a href="day-one-coding-across-america.html">Day One</a></li>
-                                        <li><a href="washington-dc-to-charlottesville-va.html">Washington, DC to Charlottesville</a></li>
-                                        <li><a href="uppidy-washington-dc.html">Uppidy</a></li>
-                                        <li><a href="wisertogether-washington-dc.html">WiserTogether</a></li>
-                                        <li><a href="schedule-curveball.html">Schedule Curveball</a></li>
-                                        <li><a href="human-geo-washington-dc.html">HumanGeo</a></li>
-                                        <li><a href="tim-oreilly-open-government.html">Tim O'Reilly on Open Government</a></li>
-                                        <li><a href="less-than-one-month-to-go.html">(Less Than) One Month to Go</a></li>
-                                        <li><a href="dc-python-group-coding.html">DC Python Group Coding</a></li>
-                                        <li><a href="comments.html">Comments</a></li>
-                                        <li><a href="wikivoyage-and-bonus-city.html">Wikivoyage and a Bonus City</a></li>
-                                        <li><a href="two-months-to-go.html">Two Months To Go</a></li>
-                                                                                                                                                                                                                                                                <li><a href="convictions.html">Convictions</a></li>
-                                        <li><a href="research.html">Research</a></li>
-                                        <li><a href="30-in-5.html">30 in 5</a></li>
-                                        <li><a href="why-san-francisco-ca.html">Why San Francisco, CA?</a></li>
-                                        <li><a href="why-los-angeles-ca.html">Why Los Angeles, CA?</a></li>
-                                        <li><a href="why-san-diego-ca.html">Why San Diego, CA?</a></li>
-                                                          <li><a href="why-moab-ut.html">Why Moab, Utah?</a></li>
-                                        <li><a href="why-los-alamos-nm.html">Why Los Alamos, New Mexico?</a></li>
-                                        <li><a href="why-lubbock-tx.html">Why Lubbock, Texas?</a></li>
-                                        <li><a href="diminishing-marginal-utility-stuff.html">Diminishing Marginal Utility of &quot;Stuff&quot;</a></li>
-                                        <li><a href="why-austin-tx.html">Why Austin, Texas?</a></li>
-                                        <li><a href="staying-in-shape-on-the-road.html">Staying In Shape On The Road</a></li>
-                                        <li><a href="why-new-orleans-la.html">Why New Orleans, Louisiana?</a></li>
-                                        <li><a href="why-memphis-tennessee.html">Why Memphis, Tennessee?</a></li>
-                                        <li><a href="djangonauts-org.html">Djangonauts.org</a></li>
-                                        <li><a href="living-out-of-your-car.html">Living Out of Your Car</a></li>
-                                        <li><a href="why-nashville-tn.html">Why Nashville, Tennessee?</a></li>
-                                        <li><a href="archetypal-days.html">Archetypal Days</a></li>
-                                        <li><a href="causal-attribution.html">Causal Attribution</a></li>
-                                                          <li><a href="quiet.html">Quiet</a></li>
-                                        <li><a href="breadth-versus-depth.html">Breadth Versus Depth</a></li>
-                                        <li><a href="why-charlottesville-va.html">Why Charlottesville, Virginia?</a></li>
-                                        <li><a href="camera.html">Camera</a></li>
-                                        <li><a href="projects.html">Projects</a></li>
-                                        <li><a href="the-conversations.html">The Conversations</a></li>
-                                        <li><a href="estimating-budget.html">Estimating A Budget</a></li>
-                                        <li><a href="jump-forward-one-year.html">Jump Forward One Year</a></li>
-                                        <li><a href="why-charlotte-nc.html">Why Charlotte, North Carolina?</a></li>
-                                        <li><a href="possessions.html">Possessions</a></li>
-                                        <li><a href="contributions.html">Contributions</a></li>
-                                        <li><a href="what-to-do-in-each-city.html">What To Do In Each City</a></li>
-                                        <li><a href="goals.html">Goals</a></li>
-                                        <li><a href="why-coding-across-america.html">Why?</a></li>
-                        </ul>
-    </div>
-    <hr/>
-  </div>      <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
+      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">View all stories</a>
     </div>
   </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-            });
-  </script>
+</div>      <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+                    });
+    </script>
 </body>
 </html>

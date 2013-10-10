@@ -2,23 +2,27 @@ New Orleans Entrepreneurship Week
 =================================
 
 :category: post
+:post_type: tech_event
 :slug: new-orleans-entrepreneurship-week
 :date: 2013-03-18 06:45
 
-
-.. image:: ../img/130318-new-orleans/morning-skyline.jpg
-  :alt: New Orleans' skyline on March 18, 2013
-
-New Orleans' skyline at 630am in the morning the day after my arrival.
-
-----
 
 Yesterday I arrived in `New Orleans <../new-orleans-la.html>`_, Louisiana 
 after a long twelve hour drive down from Charlotte, North Carolina.
 
 I am here participating in `IdeaVillage <http://ideavillage.org/>`_'s 
 `New Orleans Entrepreneurship Week <http://ideavillage.org/how_it_works/noew/>`_ 
-(NOEW). There are teams of MBA students helping local entrepreneurs work on
+(NOEW).
+
+.. image:: ../img/130318-new-orleans/morning-skyline.jpg
+  :alt: New Orleans' skyline on March 18, 2013
+  :width: 100%
+
+New Orleans' skyline at 630am in the morning the day after my arrival.
+
+----
+
+There are teams of MBA students helping local entrepreneurs work on
 their business ideas. I will be assisting the groups, including one this
 afternoon. Keynote speakers will give their input throughout the week, 
 including

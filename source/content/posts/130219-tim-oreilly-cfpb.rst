@@ -4,6 +4,7 @@ Tim O'Reilly on Open Government
 :date: 2013-02-19
 :slug: tim-oreilly-open-government
 :category: post
+:post_type: tech_event
 
 
 `Tim O'Reilly <https://twitter.com/timoreilly>`_ came to the
@@ -24,6 +25,7 @@ omissions are mine.
 
 .. image:: ../img/130219-tim-oreilly-cfpb/cfpb_logo.jpg
   :alt: CFPB logo outside the building
+  :width: 100%
 
 ----
 
@@ -52,6 +54,7 @@ of them (they are written in `Python <http://www.python.org/>`_ and
 
 .. image:: ../img/130219-tim-oreilly-cfpb/tim_oreilly.jpg
   :alt: Tim O'Reilly speaking in the auditorium in Washington, DC
+  :width: 100%
 
 ----
 

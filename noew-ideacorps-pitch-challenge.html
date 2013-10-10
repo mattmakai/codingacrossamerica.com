@@ -1,74 +1,56 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/caa.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
+    <div class="white-out" style="margin-top: 10px;">
     <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li class="active">
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-      </ul>
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li ><a href="/cities.html">Map</a></li>
+                  <li ><a href="/contributors.html">Contributors</a></li>
+                  <li ><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>  <div class="container">
-            <h1>NOEW IDEAcorps Pitch Challenge</h1>
+</div>          <div class="container">
+<h1>NOEW IDEAcorps Pitch Challenge</h1>
   <div>
     By 
     <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
     03.22.2013.   </div>
   <div class="row">
-    <div class="span7">
-      <hr/>
+    <div class="col-md-10 article-font">
       <p>Eight MBA teams worked with local entrepreneurs during New Orleans
 Entrepreneurship Week. The teams were advised by employees from Google,
 Salesforce, Silverline, and Excella Consulting on subjects where they had
@@ -89,7 +71,7 @@ venture capital firms.</p>
 <li>Yale - Your Nutrition Delivered</li>
 </ol>
 <p>Sara Thomas and Tim Williamson of IdeaVillage provided an introduction.</p>
-<img alt="Tim Williamson introducing IdeaPitch" src="../img/130322-ideapitch/tim-williamson.jpg" />
+<img alt="Tim Williamson introducing IdeaPitch" src="../img/130322-ideapitch/tim-williamson.jpg" style="width: 100%;" />
 <hr class="docutils" />
 <div class="section" id="tulane-university">
 <h2>Tulane University</h2>
@@ -98,12 +80,12 @@ tax credits. The tax credit exchanges can occur both within a single state
 and across multiple states. eTax Credit Exchange hopes to bring liquidity to
 the tax credit market which is currently underused by organizations that can
 benefit from the credits.</p>
-<img alt="Tulane University pitching eTax Credit Exchange" src="../img/130322-ideapitch/tulane-etax-credit-exchange.jpg" />
+<img alt="Tulane University pitching eTax Credit Exchange" src="../img/130322-ideapitch/tulane-etax-credit-exchange.jpg" style="width: 100%;" />
 <p>Tulane University pitching eTax Credit Exchange.</p>
 <hr class="docutils" />
 <p>The revenue model is based on taking a percentage of each transaction that
 takes place on the platform.</p>
-<img alt="The Tulane University team." src="../img/130322-ideapitch/full-tulane-team.jpg" />
+<img alt="The Tulane University team." src="../img/130322-ideapitch/full-tulane-team.jpg" style="width: 100%;" />
 <p>The Tulane University team, from left to right:
 Gustavo Baptista, Kumar Doraijav, Adran Mendez, Heath Gardenhire,
 David Bode, Erynn Bell, Conor Aucoin.</p>
@@ -116,13 +98,13 @@ seeking candidates for prospective employers. The Harvard Business School
 team posited and tested hypotheses about the pain employers and prospective
 employees feel. The team then determined how Gotointerview.com could
 position itself to best solve the problems around hiring hourly employees.</p>
-<img alt="Harvard University pitching Gotointerview.com" src="../img/130322-ideapitch/harvard-gotointerview-com.jpg" />
+<img alt="Harvard University pitching Gotointerview.com" src="../img/130322-ideapitch/harvard-gotointerview-com.jpg" style="width: 100%;" />
 <p>Harvard University pitching Gotointerview.com.</p>
 <hr class="docutils" />
 <p>The revenue model is based on charging employers a fee when job candidates
 are hired. Other revenue streams are being considered as well but would be
 based on growth of the platform.</p>
-<img alt="The Harvard University team." src="../img/130322-ideapitch/full-harvard-team.jpg" />
+<img alt="The Harvard University team." src="../img/130322-ideapitch/full-harvard-team.jpg" style="width: 100%;" />
 <p>The Harvard University team.</p>
 </div>
 <hr class="docutils" />
@@ -132,12 +114,12 @@ based on growth of the platform.</p>
 a simplified online platform. Each state has different regulations for
 mechanics liens so Zlien eliminates the necessity for contractors to involve
 lawyers in the process.</p>
-<img alt="Columbia University pitching Zlien" src="../img/130322-ideapitch/columbia-zlien.jpg" />
+<img alt="Columbia University pitching Zlien" src="../img/130322-ideapitch/columbia-zlien.jpg" style="width: 100%;" />
 <p>Columbia University pitching Zlien.</p>
 <hr class="docutils" />
 <p>The revenue model for Zlien is based on taking a percentage of each
 transaction, similar to how payday loans work.</p>
-<img alt="The Columbia University team." src="../img/130322-ideapitch/full-columbia-team.jpg" />
+<img alt="The Columbia University team." src="../img/130322-ideapitch/full-columbia-team.jpg" style="width: 100%;" />
 <p>The Columbia University team.</p>
 </div>
 <hr class="docutils" />
@@ -149,12 +131,12 @@ with Whole Foods and Rousses. Unfortunately, Bissap then found itself with
 unsold inventory from premature scaling, which created monthly losses. The
 Cornell team helped stablize Bissap's finances and put in place structure
 for accurate accounting going forward.</p>
-<img alt="Cornell University pitching Bissap Breeze." src="../img/130322-ideapitch/cornell-bissap-breeze.jpg" />
+<img alt="Cornell University pitching Bissap Breeze." src="../img/130322-ideapitch/cornell-bissap-breeze.jpg" style="width: 100%;" />
 <p>Cornell University pitching Bissap Breeze.</p>
 <hr class="docutils" />
 <p>The revenue model for Bissap Breeze is a traditional markup over product
 cost to create a profit.</p>
-<img alt="Cornell University pitching Bissap Breeze." src="../img/130322-ideapitch/full-cornell-team.jpg" />
+<img alt="Cornell University pitching Bissap Breeze." src="../img/130322-ideapitch/full-cornell-team.jpg" style="width: 100%;" />
 <p>The Cornell University team.</p>
 </div>
 <hr class="docutils" />
@@ -166,13 +148,13 @@ current process is error prone. The order amounts written can be incorrect.
 There can be insufficient product by vendors to fulfill orders. Clothes Line
 software creates virtual purchase orders that can be processed more
 efficiently than paper-based purchase orders.</p>
-<img alt="Dartmouth College pitching Clothes Line." src="../img/130322-ideapitch/dartmouth-clothes-line.jpg" />
+<img alt="Dartmouth College pitching Clothes Line." src="../img/130322-ideapitch/dartmouth-clothes-line.jpg" style="width: 100%;" />
 <p>Dartmouth pitching Clothes Line.</p>
 <hr class="docutils" />
 <p>The Dartmouth team recommended a rebranding to minimize confusion over the
 Clothes Line name. The revenue model is based on charging vendors a
 percentage fee based on each transaction conducted through the software.</p>
-<img alt="Dartmouth team" src="../img/130322-ideapitch/full-dartmouth-team.jpg" />
+<img alt="Dartmouth team" src="../img/130322-ideapitch/full-dartmouth-team.jpg" style="width: 100%;" />
 <p>The Dartmouth team.</p>
 </div>
 <hr class="docutils" />
@@ -183,13 +165,13 @@ from waves that can be used to rebuild shorelines. Wave Robber works through
 the energy of the waves and does not require an external power source. Many
 modular Wave Robbers can be placed and hooked together to cover a large
 area of shoreline.</p>
-<img alt="Loyola University pitching Pierce Industries' Wave Robber." src="../img/130322-ideapitch/loyola-pierce-industries.jpg" />
+<img alt="Loyola University pitching Pierce Industries' Wave Robber." src="../img/130322-ideapitch/loyola-pierce-industries.jpg" style="width: 100%;" />
 <p>Loyola University pitching Pierce Industries' Wave Robber.</p>
 <hr class="docutils" />
 <p>The revenue model for the Wave Robber is to sell the product at a profit to
 private landowners, state governments, and oil and gas companies that are
 major land owners.</p>
-<img alt="The Loyola University team." src="../img/130322-ideapitch/full-loyola-team.jpg" />
+<img alt="The Loyola University team." src="../img/130322-ideapitch/full-loyola-team.jpg" style="width: 100%;" />
 <p>The Loyola University team.</p>
 </div>
 <hr class="docutils" />
@@ -201,14 +183,14 @@ used by the founder to improve his own classroom during his stint at
 Teach for America. Education Everytime is now in use in classrooms in New
 Orleans to help classroom management and prove the product creates positive
 results.</p>
-<img alt="Stanford University pitching Education Everytime." src="../img/130322-ideapitch/stanford-education-everytime.jpg" />
+<img alt="Stanford University pitching Education Everytime." src="../img/130322-ideapitch/stanford-education-everytime.jpg" style="width: 100%;" />
 <p>Stanford University pitching Education Everytime.</p>
 <hr class="docutils" />
 <p>The distribution and sales strategy for Education Everytime is to
 directly target and sell to teachers. The revenue model is to profit from
 each sale to teachers for the product. The pricing will be determined based
 on a beta program later in fall 2013.</p>
-<img alt="The Stanford University team." src="../img/130322-ideapitch/full-stanford-team.jpg" />
+<img alt="The Stanford University team." src="../img/130322-ideapitch/full-stanford-team.jpg" style="width: 100%;" />
 <p>The Stanford University team.</p>
 </div>
 <hr class="docutils" />
@@ -223,11 +205,11 @@ about what is healthy to lose weight. The core business service is provided
 through home delivery and a catering service, instead of vending machines.
 The service is positioned as a high-end differentiated service instead of
 a low cost model.</p>
-<img alt="Yale University pitching Your Nutrition Delivered" src="../img/130322-ideapitch/yale-your-nutrition-delivered.jpg" />
+<img alt="Yale University pitching Your Nutrition Delivered" src="../img/130322-ideapitch/yale-your-nutrition-delivered.jpg" style="width: 100%;" />
 <p>Yale University pitching Your Nutrition Delivered.</p>
 <hr class="docutils" />
 <p>The revenue model is based on selling a subscription to customers.</p>
-<img alt="The Yale University team." src="../img/130322-ideapitch/full-yale-team.jpg" />
+<img alt="The Yale University team." src="../img/130322-ideapitch/full-yale-team.jpg" style="width: 100%;" />
 <p>The Yale University team.</p>
 <hr class="docutils" />
 <p>All the business school groups did a great job, especially considering
@@ -239,9 +221,8 @@ with Education Everytime and
 with The Clothes Line. Congratulations to both teams!</p>
 </div>
 
-
-        <p>
-      If you want to keep up with my travels as a developer around the US, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
+      <p>
+      If you're interested in software development and learning more about tech startups, <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
       </p>
         <div id="disqus_thread" style="margin-top: 25px;"></div>
         <script type="text/javascript">
@@ -254,150 +235,29 @@ with The Clothes Line. Congratulations to both teams!</p>
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">Return to the blog</a>
-    </div>
-    <div class="offset1 span3">
-      <hr/>
-      <h3>Posts By Date</h3>
-      <ul class="post-list">
-                              <li><a href="fletcher-heisler-real-python-trackmaven.html">Fletcher Heisler, Author of Real Python and Developer at TrackMaven</a></li>
-                                        <li><a href="chicago-round-2-part-2-pictures.html">Chicago Round Two Pictures (Part Two)</a></li>
-                                        <li><a href="chicago-round-2-pictures.html">Chicago Round Two Pictures</a></li>
-                                        <li><a href="djangocon-2013-pictures.html">DjangoCon 2013 Pictures</a></li>
-                                        <li><a href="chicago-wicker-park-pictures.html">Chicago Wicker Park Pictures</a></li>
-                                        <li><a href="djangocon-2013-go.html">DjangoCon 2013... Go!</a></li>
-                                        <li><a href="autoworkers-our-generation.html">The Debate on the &quot;Autoworkers&quot; of Our Generation</a></li>
-                                        <li><a href="commissary-washington-dc.html">Commissary in Washington, D.C.</a></li>
-                                        <li><a href="busboys-poets-washington-dc.html">Busboys and Poets in Washington, D.C.</a></li>
-                                        <li><a href="vigilante-coffee-washington-dc.html">Vigilante Coffee in Washington, D.C.</a></li>
-                                        <li><a href="dc-offer.html">An Offer to Developers Visiting D.C.</a></li>
-                                        <li><a href="thank-you.html">Thank You!</a></li>
-                                                                            <li><a href="four-types-startup-tech-cities.html">Four Types of Software Developer Communities for Startups</a></li>
-                                        <li><a href="central-park-nyc-pictures.html">Central Park NYC Pictures</a></li>
-                                                                            <li><a href="django-boston-talk.html">Django Boston Talk</a></li>
-                                                          <li><a href="pictures-compilation.html">Pictures Compilation</a></li>
-                                                          <li><a href="detroit-pictures.html">Detroit Pictures</a></li>
-                                                          <li><a href="chicago-pictures.html">Chicago Pictures</a></li>
-                                                                                                                                  <li><a href="colorado-hiking-pictures.html">Colorado Hiking Pictures</a></li>
-                                        <li><a href="hacker-houses-underused-resource.html">Hacker Houses Are An Underused Concept</a></li>
-                                                          <li><a href="wyoming-photography.html">Wyoming Photograpy</a></li>
-                                                          <li><a href="montana-pictures.html">Montana Pictures</a></li>
-                                                          <li><a href="seattle-city-pictures.html">Seattle City Pictures</a></li>
-                                        <li><a href="seattle-hiking-pictures.html">Seattle Hiking Pictures</a></li>
-                                        <li><a href="university-of-washington-pictures.html">University of Washington Pictures</a></li>
-                                                          <li><a href="portland-oregon-pictures.html">Portland, Oregon Pictures</a></li>
-                                                          <li><a href="eugene-oregon-pictures.html">Eugene Pictures</a></li>
-                                                          <li><a href="computer-history-museum-mountain-view-ca.html">Computer History Museum in Mountain View, CA</a></li>
-                                                          <li><a href="thoughts-after-two-months.html">Thoughts After Two Months</a></li>
-                                        <li><a href="adobe-max-2013.html">Adobe MAX 2013</a></li>
-                                        <li><a href="las-vegas-nevada-pictures.html">Las Vegas Pictures</a></li>
-                                                          <li><a href="microconf-2013-las-vegas.html">MicroConf 2013</a></li>
-                                                          <li><a href="san-diego-to-las-vegas.html">San Diego to Las Vegas</a></li>
-                                                          <li><a href="forwardmetrics-san-diego-ca.html">ForwardMetrics</a></li>
-                                        <li><a href="san-diego-scenery.html">San Diego Scenery</a></li>
-                                        <li><a href="evonexus-san-diego-ca.html">EvoNexus</a></li>
-                                        <li><a href="antengo-san-diego-ca.html">Antengo</a></li>
-                                        <li><a href="add-kansas-city-missouri.html">Add Kansas City, Missouri</a></li>
-                                        <li><a href="phoenix-to-san-diego.html">Phoenix to San Diego</a></li>
-                                        <li><a href="misto-box-phoenix-az.html">MistoBox</a></li>
-                                                          <li><a href="co-hoots-phoenix-az.html">CO+HOOTS</a></li>
-                                        <li><a href="seed-spot-phoenix-az.html">Seed Spot</a></li>
-                                                          <li><a href="startup-america-artwork.html">Startup America Artwork</a></li>
-                                        <li><a href="moab-to-phoenix.html">Moab to Phoenix</a></li>
-                                        <li><a href="moab-scenery.html">Moab Scenery</a></li>
-                                                          <li><a href="los-alamos-to-moab.html">Los Alamos to Moab</a></li>
-                                                          <li><a href="why-hell-you-in-small-city.html">Why the Hell Are You In [small city]?</a></li>
-                                        <li><a href="los-alamos-new-mexico-is-beautiful.html">Los Alamos is Beautiful</a></li>
-                                                                            <li><a href="lubbock-to-los-alamos.html">Lubbock to Los Alamos</a></li>
-                                        <li><a href="month-meeting-startups.html">A Month of Meeting Startups</a></li>
-                                        <li><a href="austin-to-lubbock.html">Austin to Lubbock</a></li>
-                                                          <li><a href="capital-factory-austin-tx.html">Capital Factory</a></li>
-                                        <li><a href="starting-sustaining-book.html">Doers Help Doers</a></li>
-                                                          <li><a href="dallas-to-austin.html">Dallas to Austin</a></li>
-                                                          <li><a href="gravity-center-dallas-tx.html">The Gravity Center in Plano, TX</a></li>
-                                                                            <li><a href="memphis-tennessee-pictures.html">Memphis Pictures</a></li>
-                                        <li><a href="memphis-to-dallas.html">Memphis to Dallas</a></li>
-                                        <li><a href="memphis-mempy-talk.html">MemPy</a></li>
-                                                          <li><a href="heading-to-memphis.html">New Orleans to Memphis</a></li>
-                                                          <li><a href="how-to-plug-into-growing-new-orleans-entrepreneurship-scene.html">Plug In To New Orleans' Growing Entrepreneurship Scene</a></li>
-                                        <li><a href="4pt0schools-coder-couch-nola.html">4.0 Schools' Coder Couch in NOLA</a></li>
-                                        <li><a href="noew-ideacorps-pitch-challenge.html">NOEW IDEAcorps Pitch Challenge</a></li>
-                                        <li><a href="noew-4pt0-schools-companies-pitches.html">NOEW 4.0 Schools' Companies Pitches</a></li>
-                                                          <li><a href="walter-isaacson-diversity-nutures-entrepreneurship.html">Walter Isaacson: Diversity Nutures Entrepreneurship</a></li>
-                                        <li><a href="new-orleans-entrepreneurship-week.html">New Orleans Entrepreneurship Week</a></li>
-                                        <li><a href="charlotte-to-new-orleans.html">Charlotte to New Orleans</a></li>
-                                                                            <li><a href="hey-pycon.html">PyCon</a></li>
-                                        <li><a href="charlottesville-virginia-day-one-through-five.html">Charlottesville, VA Pictures</a></li>
-                                                          <li><a href="willowtree-apps-charlottesville-va.html">WillowTree Apps</a></li>
-                                        <li><a href="agilityfeat-charlottesville-va.html">AgilityFeat</a></li>
-                                        <li><a href="to-prospective-organizations.html">To Prospective Organizations</a></li>
-                                                          <li><a href="day-one-coding-across-america.html">Day One</a></li>
-                                        <li><a href="washington-dc-to-charlottesville-va.html">Washington, DC to Charlottesville</a></li>
-                                        <li><a href="uppidy-washington-dc.html">Uppidy</a></li>
-                                        <li><a href="wisertogether-washington-dc.html">WiserTogether</a></li>
-                                        <li><a href="schedule-curveball.html">Schedule Curveball</a></li>
-                                        <li><a href="human-geo-washington-dc.html">HumanGeo</a></li>
-                                        <li><a href="tim-oreilly-open-government.html">Tim O'Reilly on Open Government</a></li>
-                                        <li><a href="less-than-one-month-to-go.html">(Less Than) One Month to Go</a></li>
-                                        <li><a href="dc-python-group-coding.html">DC Python Group Coding</a></li>
-                                        <li><a href="comments.html">Comments</a></li>
-                                        <li><a href="wikivoyage-and-bonus-city.html">Wikivoyage and a Bonus City</a></li>
-                                        <li><a href="two-months-to-go.html">Two Months To Go</a></li>
-                                                                                                                                                                                                                                                                <li><a href="convictions.html">Convictions</a></li>
-                                        <li><a href="research.html">Research</a></li>
-                                        <li><a href="30-in-5.html">30 in 5</a></li>
-                                        <li><a href="why-san-francisco-ca.html">Why San Francisco, CA?</a></li>
-                                        <li><a href="why-los-angeles-ca.html">Why Los Angeles, CA?</a></li>
-                                        <li><a href="why-san-diego-ca.html">Why San Diego, CA?</a></li>
-                                                          <li><a href="why-moab-ut.html">Why Moab, Utah?</a></li>
-                                        <li><a href="why-los-alamos-nm.html">Why Los Alamos, New Mexico?</a></li>
-                                        <li><a href="why-lubbock-tx.html">Why Lubbock, Texas?</a></li>
-                                        <li><a href="diminishing-marginal-utility-stuff.html">Diminishing Marginal Utility of &quot;Stuff&quot;</a></li>
-                                        <li><a href="why-austin-tx.html">Why Austin, Texas?</a></li>
-                                        <li><a href="staying-in-shape-on-the-road.html">Staying In Shape On The Road</a></li>
-                                        <li><a href="why-new-orleans-la.html">Why New Orleans, Louisiana?</a></li>
-                                        <li><a href="why-memphis-tennessee.html">Why Memphis, Tennessee?</a></li>
-                                        <li><a href="djangonauts-org.html">Djangonauts.org</a></li>
-                                        <li><a href="living-out-of-your-car.html">Living Out of Your Car</a></li>
-                                        <li><a href="why-nashville-tn.html">Why Nashville, Tennessee?</a></li>
-                                        <li><a href="archetypal-days.html">Archetypal Days</a></li>
-                                        <li><a href="causal-attribution.html">Causal Attribution</a></li>
-                                                          <li><a href="quiet.html">Quiet</a></li>
-                                        <li><a href="breadth-versus-depth.html">Breadth Versus Depth</a></li>
-                                        <li><a href="why-charlottesville-va.html">Why Charlottesville, Virginia?</a></li>
-                                        <li><a href="camera.html">Camera</a></li>
-                                        <li><a href="projects.html">Projects</a></li>
-                                        <li><a href="the-conversations.html">The Conversations</a></li>
-                                        <li><a href="estimating-budget.html">Estimating A Budget</a></li>
-                                        <li><a href="jump-forward-one-year.html">Jump Forward One Year</a></li>
-                                        <li><a href="why-charlotte-nc.html">Why Charlotte, North Carolina?</a></li>
-                                        <li><a href="possessions.html">Possessions</a></li>
-                                        <li><a href="contributions.html">Contributions</a></li>
-                                        <li><a href="what-to-do-in-each-city.html">What To Do In Each City</a></li>
-                                        <li><a href="goals.html">Goals</a></li>
-                                        <li><a href="why-coding-across-america.html">Why?</a></li>
-                        </ul>
-    </div>
-    <hr/>
-  </div>      <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
+      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">View all stories</a>
     </div>
   </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-            });
-  </script>
+</div>      <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+                    });
+    </script>
 </body>
 </html>

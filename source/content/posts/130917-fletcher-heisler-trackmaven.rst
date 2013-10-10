@@ -4,6 +4,7 @@ Fletcher Heisler, Author of Real Python and Developer at TrackMaven
 :slug: fletcher-heisler-real-python-trackmaven
 :date: 2013-09-17
 :category: post
+:post_type: interview
 :author: Matt Makai
 :tag: software developer, interview, trackmaven, python, django
 
@@ -13,6 +14,7 @@ based in Dupont Circle, Washington, D.C.
 
 .. image:: ../img/130917-fletcher-heisler-interview/fletcher.jpg
   :alt: Fletcher Heisler, author of Real Python lessons
+  :width: 100%
 
 Fletcher Heisler while out to lunch in Dupont Circle at 
 `Raku <http://www.rakuasiandining.com/>`_.

@@ -4,12 +4,14 @@ EvoNexus
 :date: 2013-04-24 08:00
 :slug: evonexus-san-diego-ca
 :category: post
+:post_type: startup
 :author: Matt Makai
 
 EvoNexus is a startup incubator located in downtown San Diego.
 
 .. image:: ../img/130424-evo-nexus/evonexus-logo.jpg
   :alt: EvoNexus logo on their wall of their incubator space
+  :width: 100%
 
 ----
 
@@ -26,6 +28,7 @@ and `graduated alumni <http://www.commnexus.org/incubator/incubator-companies/al
 
 .. image:: ../img/130424-evo-nexus/evonexus-workspace.jpg
   :alt: One of many workspace areas for EvoNexus companies
+  :width: 100%
 
 ----
 
@@ -35,11 +38,13 @@ in Austin and `Seed Spot <../seed-spot-phoenix-az.html>`_ in Phoenix.
 
 .. image:: ../img/130424-evo-nexus/evonexus-outdoors.jpg
   :alt: Outdoor table on the balcony at EvoNexus
+  :width: 100%
 
 ----
 
 .. image:: ../img/130424-evo-nexus/evonexus-kitchen.jpg
   :alt: Kitchen and more workspace for EvoNexus
+  :width: 100%
 
 ----
 

@@ -9,12 +9,12 @@ Boston, MA
 
 .. image:: ../img/boston-ma.jpg
   :alt: Dusk view of Boston, Massachusetts
+  :width: 100%
 
 ----
 
 Basic stats
 -----------
-* Why Boston, Massachusetts? (blog post coming soon)
 * City population: 4m, Metro population: 4.5m
 * Approximate distance driven on trip: `8700 miles <http://bit.ly/URaaxq>`_
 * `Google Maps: Boston <http://goo.gl/maps/x2XIi>`_

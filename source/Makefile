@@ -1,7 +1,6 @@
 run:
-	lessc --compress ./theme/less/caa.less > ./theme/static/css/caa.css
 	mkdir ./output
-	cp -R theme/static/css theme/static/js theme/static/img output/
+	cp -R theme/static/css theme/static/js theme/static/img theme/static/fonts output/
 	cp -R static-html/* output/
 	pelican -t theme -s settings.py content
 	cp -R output/* ..

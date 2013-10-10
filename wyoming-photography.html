@@ -1,197 +1,184 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/caa.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
+    <div class="white-out" style="margin-top: 10px;">
     <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li class="active">
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-      </ul>
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li ><a href="/cities.html">Map</a></li>
+                  <li ><a href="/contributors.html">Contributors</a></li>
+                  <li ><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>  <div class="container">
-            <h1>Wyoming Photograpy</h1>
-  <div>
-    By 
-    <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
-    06.11.2013.
-  </div>
-  <div class="row">
-    <div class="span12">
-      <hr/>
-      <p>Buffalo, Wyoming is one of my stops to hang out for a few days
-on the long trek from Seattle to Boulder. Luckily the weather has been
-clear here so I could snap these great pictures. The photos are
+</div>          <div class="container wide-picture-container">
+    <h1>Wyoming Photograpy</h1>
+      <div>
+        By 
+        <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
+        06.11.2013.
+      </div>
+          <hr/>
+          <div class="big-picture">
+              <p>Buffalo, Wyoming is one of my stops to hang out for a few days
+on the trek from Seattle to Boulder. The weather has been
+beautiful here so I snapped these great pictures. The photos are
 from a combination of driving through the mountains and walking around
-and Buffalo.</p>
-<img alt="Driving through Wyoming" src="../img/130611-wyoming-photography/driving.jpg" />
+Buffalo.</p>
+<img alt="Driving through Wyoming" src="../img/130611-wyoming-photography/driving.jpg" style="width: 100%;" />
 <p>Driving through Wyoming.</p>
 <hr class="docutils" />
-<img alt="Mountains in Wyoming" src="../img/130611-wyoming-photography/mountains.jpg" />
+<img alt="Mountains in Wyoming" src="../img/130611-wyoming-photography/mountains.jpg" style="width: 100%;" />
 <p>Mountains in Wyoming. I'm about to go over them.</p>
 <hr class="docutils" />
-<img alt="Mountains in Wyoming from my car" src="../img/130611-wyoming-photography/mountains-car.jpg" />
+<img alt="Mountains in Wyoming from my car" src="../img/130611-wyoming-photography/mountains-car.jpg" style="width: 100%;" />
 <p>Oblig &quot;from the car&quot; picture.</p>
 <hr class="docutils" />
-<img alt="Small town in Wyoming" src="../img/130611-wyoming-photography/wyoming-town.jpg" />
+<img alt="Small town in Wyoming" src="../img/130611-wyoming-photography/wyoming-town.jpg" style="width: 100%;" />
 <p>Small town in Wyoming I drove through.</p>
 <hr class="docutils" />
-<img alt="Small town in Wyoming" src="../img/130611-wyoming-photography/small-wyoming-town.jpg" />
+<img alt="Small town in Wyoming" src="../img/130611-wyoming-photography/small-wyoming-town.jpg" style="width: 100%;" />
 <p>Another shot of the town.</p>
 <hr class="docutils" />
-<img alt="Wyoming scenery" src="../img/130611-wyoming-photography/wyoming-scenery.jpg" />
+<img alt="Wyoming scenery" src="../img/130611-wyoming-photography/wyoming-scenery.jpg" style="width: 100%;" />
 <p>Scenery on the way to the mountains.</p>
 <hr class="docutils" />
-<img alt="Abandoned buildings" src="../img/130611-wyoming-photography/abandoned-buildings.jpg" />
+<img alt="Abandoned buildings" src="../img/130611-wyoming-photography/abandoned-buildings.jpg" style="width: 100%;" />
 <p>Abandoned buildings that must have been used somehow during the mining
 process back in the day.</p>
 <hr class="docutils" />
-<img alt="View from Big Horn National Park almost 10k feet up" src="../img/130611-wyoming-photography/view-from-10k-feet.jpg" />
+<img alt="View from Big Horn National Park almost 10k feet up" src="../img/130611-wyoming-photography/view-from-10k-feet.jpg" style="width: 100%;" />
 <p>View from Big Horn National Park almost 10,000 feet up. This picture
 sadly does not do it justice. You absolutely have to see it in person.
 This actually beat the scenery on the Pacific Coast Highway for me.</p>
 <hr class="docutils" />
-<img alt="View from Big Horn National Park almost 10k feet up" src="../img/130611-wyoming-photography/10k-feet-up.jpg" />
+<img alt="View from Big Horn National Park almost 10k feet up" src="../img/130611-wyoming-photography/10k-feet-up.jpg" style="width: 100%;" />
 <p>Another view from almost 10,000 feet up.</p>
 <hr class="docutils" />
-<img alt="Another view from Big Horn National Park almost 10k feet up" src="../img/130611-wyoming-photography/10k-feet-up-2.jpg" />
+<img alt="Another view from Big Horn National Park almost 10k feet up" src="../img/130611-wyoming-photography/10k-feet-up-2.jpg" style="width: 100%;" />
 <p>Clear blue sky.</p>
 <hr class="docutils" />
-<img alt="Snow near the top." src="../img/130611-wyoming-photography/snow-caps.jpg" />
+<img alt="Snow near the top." src="../img/130611-wyoming-photography/snow-caps.jpg" style="width: 100%;" />
 <p>Snow near the top. There are higher peaks to this mountain range but
 this was the one route 14 took me over.</p>
 <hr class="docutils" />
-<img alt="Big Horn Basin sign." src="../img/130611-wyoming-photography/big-horn-basin.jpg" />
+<img alt="Big Horn Basin sign." src="../img/130611-wyoming-photography/big-horn-basin.jpg" style="width: 100%;" />
 <p>Sign by the road for Big Horn Basin.</p>
 <hr class="docutils" />
-<img alt="About 9,000 feet up on the other side of the mountain." src="../img/130611-wyoming-photography/10k-feet-up-other-side.jpg" />
+<img alt="About 9,000 feet up on the other side of the mountain." src="../img/130611-wyoming-photography/10k-feet-up-other-side.jpg" style="width: 100%;" />
 <p>About 9,000 feet up on the other side of the mountain.</p>
 <hr class="docutils" />
-<img alt="Occidental Hotel picture from the outside." src="../img/130611-wyoming-photography/hotel.jpg" />
+<img alt="Occidental Hotel picture from the outside." src="../img/130611-wyoming-photography/hotel.jpg" style="width: 100%;" />
 <p>The Occidental Hotel, where I stayed for a few nights in Buffalo, Wyoming.</p>
 <hr class="docutils" />
-<img alt="Deer head inside the Occidental Hotel." src="../img/130611-wyoming-photography/deer-head.jpg" />
+<img alt="Deer head inside the Occidental Hotel." src="../img/130611-wyoming-photography/deer-head.jpg" style="width: 100%;" />
 <p>Nice stuffed head. This hotel is basically a museum for ecclectic historic
 items.</p>
 <hr class="docutils" />
-<img alt="Creek outside the hotel in Buffalo, WY." src="../img/130611-wyoming-photography/creek.jpg" />
+<img alt="Creek outside the hotel in Buffalo, WY." src="../img/130611-wyoming-photography/creek.jpg" style="width: 100%;" />
 <p>Creek outside the hotel in Buffalo, WY.</p>
 <hr class="docutils" />
-<img alt="Statues in Buffalo, Wyoming." src="../img/130611-wyoming-photography/statues.jpg" />
+<img alt="Statues in Buffalo, Wyoming." src="../img/130611-wyoming-photography/statues.jpg" style="width: 100%;" />
 <p>Statues in downtown Buffalo, WY.</p>
 <hr class="docutils" />
-<img alt="Broken windows in an empty building." src="../img/130611-wyoming-photography/empty-buildings.jpg" />
+<img alt="Broken windows in an empty building." src="../img/130611-wyoming-photography/empty-buildings.jpg" style="width: 100%;" />
 <p>Numerous empty old buildings line downtown.</p>
 <hr class="docutils" />
-<img alt="Blacksmith in Buffalo, Wyoming." src="../img/130611-wyoming-photography/blacksmith.jpg" />
+<img alt="Blacksmith in Buffalo, Wyoming." src="../img/130611-wyoming-photography/blacksmith.jpg" style="width: 100%;" />
 <p>Buffalo, Wyoming has a blacksmith. Buffalo: 1, Washington, D.C.: 0.</p>
 <hr class="docutils" />
-<img alt="Crazy Woman Square." src="../img/130611-wyoming-photography/crazy-woman-square.jpg" />
+<img alt="Crazy Woman Square." src="../img/130611-wyoming-photography/crazy-woman-square.jpg" style="width: 100%;" />
 <p>So this is Crazy Woman Square...</p>
 <hr class="docutils" />
-<img alt="War Memorial for fallen soldiers." src="../img/130611-wyoming-photography/war-memorial.jpg" />
+<img alt="War Memorial for fallen soldiers." src="../img/130611-wyoming-photography/war-memorial.jpg" style="width: 100%;" />
 <p>War Memorial for fallen soldiers in Buffalo, WY.</p>
 <hr class="docutils" />
-<img alt="This is a bad ass statue." src="../img/130611-wyoming-photography/badass-statue.jpg" />
+<img alt="This is a bad ass statue." src="../img/130611-wyoming-photography/badass-statue.jpg" style="width: 100%;" />
 <p>Awesome statue!</p>
 <hr class="docutils" />
-<img alt="This is a bad ass statue, from another view." src="../img/130611-wyoming-photography/badass-statue-2.jpg" />
+<img alt="This is a bad ass statue, from another view." src="../img/130611-wyoming-photography/badass-statue-2.jpg" style="width: 100%;" />
 <p>Another view of the statue.</p>
 <hr class="docutils" />
-<img alt="Virginian Restaurant sign." src="../img/130611-wyoming-photography/virginian-restaurant.jpg" />
+<img alt="Virginian Restaurant sign." src="../img/130611-wyoming-photography/virginian-restaurant.jpg" style="width: 100%;" />
 <p>The Virginian Restaraunt sign. Everyone loves Virginia, even in Wyoming.</p>
 <hr class="docutils" />
 <p>If you liked this post you should check out my pictures from
 <a class="reference external" href="/los-alamos-new-mexico-is-beautiful.html">Los Alamos</a> and
 <a class="reference external" href="/moab-scenery.html">Moab</a>.</p>
 
+          </div>
 
-        <p>
-      If you want to keep up with my trip, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
-      </p>
-        <div id="disqus_thread" style="margin-top: 25px;"></div>
+        <div class="row">
+            <div class="col-md-8">
+            <p>
+          If you want to keep up with my trip, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
+          </p>
+            <div id="disqus_thread" style="margin-top: 25px;"></div>
+            <script type="text/javascript">
+                var disqus_shortname = 'codingacrossamerica';
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          <a href="/pictures.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">View all picture posts</a>
+       </div>
+   </div>
+</div>      <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
         <script type="text/javascript">
-            var disqus_shortname = 'codingacrossamerica';
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">Return to the blog</a>
-    </div>
-  </div>      <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
-    </div>
-  </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-            });
-  </script>
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+                    });
+    </script>
 </body>
 </html>

@@ -4,12 +4,14 @@ Add Kansas City, Missouri
 :date: 2013-04-23 14:00
 :category: post
 :slug: add-kansas-city-missouri
+:post_type: opinion
 :author: Matt Makai
 
 I'm officially adding Kansas City, Missouri to my destinations list. 
 
 .. image:: ../img/130423-add-kansas-city-mo/kansas-city-downtown.jpg
   :alt: Kansas City, Missouri downtown
+  :width: 100%
 
 A picture of downtown Kansas City I took while in town last summer.
 

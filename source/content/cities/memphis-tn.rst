@@ -14,7 +14,6 @@ Memphis, TN
 
 About
 -----
-* `Why Memphis, Tennessee? <../why-memphis-tennessee.html>`_
 * City population: 662k, Metro population: 1.3m
 * Approximate distance driven on trip: `1000 miles <http://goo.gl/maps/w56my>`_
 * `Google Maps: Memphis <http://goo.gl/maps/JKriK>`_

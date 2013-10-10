@@ -2,6 +2,7 @@ Projects
 ========
 
 :category: post
+:post_type: opinion
 :date: 2012-06-18
 :slug: projects
 

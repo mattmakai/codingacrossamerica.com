@@ -5,11 +5,13 @@ MicroConf 2013
 :slug: microconf-2013-las-vegas
 :category: post
 :author: Matt Makai
+:post_type: tech_event
 
 I'm in Las Vegas, Nevada for MicroConf 2013 today and tomorrow. 
 
 .. image:: ../img/130429-microconf-2013/microconf-2013-on-screen.jpg
   :alt: Microconf 2013 projected on the main screen of the conference room
+  :width: 100%
 
 ----
 

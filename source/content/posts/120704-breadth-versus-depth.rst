@@ -2,6 +2,7 @@ Breadth Versus Depth
 ====================
 
 :category: post
+:post_type: opinion
 :date: 2012-07-04
 :slug: breadth-versus-depth
 
@@ -31,11 +32,8 @@ in my depth in the JVM stack (although I still find
 `Clojure <http://clojure.org/>`_ very interesting) for a depth in the
 Python ecosystem.
 
-----
-
 .. image:: ../img/breadth-versus-depth.jpg
-  :width: 640px
-  :height: 480px
+  :width: 100%
   :alt: Bad attempt at visualizing what I'm writing in this post
 
 *Above image: A really poor attempt at drawing what I'm writing about in

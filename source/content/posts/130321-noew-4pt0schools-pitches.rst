@@ -2,6 +2,7 @@ NOEW 4.0 Schools' Companies Pitches
 ===================================
 
 :category: post
+:post_type: tech_event
 :date: 2013-03-21
 :slug: noew-4pt0-schools-companies-pitches
 
@@ -12,6 +13,7 @@ to the learning community.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/matt-chandler-4pt0schools.jpg
   :alt: Matt Candler, the founder of 4.0Schools, introducing the pitch session
+  :width: 100%
 
 Matt Candler, founder of 4.0 Schools, introducing the pitch session.
 
@@ -35,6 +37,7 @@ teacher placements or an annual subscription fee.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/haystackedu-pitch.jpg
   :alt: Founder of Haystack EDU
+  :width: 100%
 
 The founder of Haystack EDU, Tom Hayes, pitching his startup.
 
@@ -53,6 +56,7 @@ customer.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/overgrad-pitch.jpg
   :alt: Founder of Overgrad, Ryan Hoch pitching at NOEW 2013.
+  :width: 100%
 
 Ryan Hock, the founder of Overgrad pitching his startup.
 
@@ -69,6 +73,7 @@ with an annual subscription fee for access to the site.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/enriched-pitch.jpg
   :alt: Founder of Overgrad, Andre Feigler pitching at NOEW 2013.
+  :width: 100%
 
 The founder of enrichED, Andre Feigler, pitching her startup.
 
@@ -85,6 +90,7 @@ launched.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/read-nimble-pitch.jpg
   :alt: The founders of read nimble, pitching their startup.
+  :width: 100%
 
 The founders of read nimble, pitching their startup.
 
@@ -103,6 +109,7 @@ accredited institutions to pay for the services provided.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/mschool-pitch.jpg
   :alt: Founder of Overgrad, Ryan Hoch pitching at NOEW 2013.
+  :width: 100%
 
 Elliot Sanchez, the founder of mSchool, pitching his startup.
 
@@ -118,6 +125,7 @@ their children to use.
 
 .. image:: ../img/130321-noew-4pt0schools-pitches/imagilabs-pitch.jpg
   :alt: Founder of imagiLabs, pitching his startup.
+  :width: 100%
 
 Founder of imagiLabs, pitching his startup.  
 

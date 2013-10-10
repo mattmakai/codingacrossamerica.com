@@ -5,6 +5,7 @@ Hacker Houses Are An Underused Concept
 :date: 2013-06-13
 :category: post
 :author: Matt Makai
+:post_type: opinion
 :tag: opinion
 
 I have often been asked during my Coding Across America project if I
@@ -17,7 +18,7 @@ suffer from the same issue.
 
 Hacker houses, such as 
 `Chez JJ in San Francisco <https://www.airbnb.com/rooms/470096>`_ and
-`Ben Barreth’s Hacker House in Kansas City <http://www.siliconprairienews.com/2013/06/take-a-stroll-through-ben-barreth-s-hacker-house-in-kansas-city>`_ 
+`Ben Barreth's Hacker House in Kansas City <http://www.siliconprairienews.com/2013/06/take-a-stroll-through-ben-barreth-s-hacker-house-in-kansas-city>`_ 
 are an underused concept for attracting software developers to a city.
 It's surprising that I have not seen groups of tech companies band together
 to create hacker houses and market them to developers outside their
@@ -26,6 +27,7 @@ communities.
 
 .. image:: ../img/130613-hacker-houses/jj-chez-hacker-house.jpg
   :alt: A picture of the JJ Chez hacker house in San Francisco.
+  :width: 100%
 
 A picture of the bunk beds in one room of the 
 `JJ Chez San Francisco Hacker House <https://www.airbnb.com/s?host_id=2301071>`_ 

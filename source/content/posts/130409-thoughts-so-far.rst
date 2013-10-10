@@ -4,6 +4,7 @@ A Month of Meeting Startups
 :slug: month-meeting-startups
 :category: post
 :date: 2013-04-09
+:post_type: opinion
 :tag: opinion
 
 I have been on the road for one month meeting with startups, software 

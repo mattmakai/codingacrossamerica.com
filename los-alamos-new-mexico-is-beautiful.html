@@ -1,178 +1,165 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
-
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="language" content="English" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-  <title>Coding Across America</title>
-  <meta name="description" content="Coding Across America is the story about the people building amazing software around the US.">
-  <meta name="author" content="Matt Makai">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/css/caa.css" />
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
-  <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png">
-  <script src="/js/modernizr-2.0.6.min.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/dhj2fjb.js">
-  </script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19910497-6']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-  </script>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </script>
 </head>
-
 <body>
-  <div class="navbar">
-  <div class="navbar-inner">
+    <div class="white-out" style="margin-top: 10px;">
     <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li class="active">
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li >
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li >
-          <a href="/contributors.html">Contributors</a>
-        </li>
-      </ul>
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li ><a href="/cities.html">Map</a></li>
+                  <li ><a href="/contributors.html">Contributors</a></li>
+                  <li ><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>  <div class="container">
-            <h1>Los Alamos is Beautiful</h1>
-  <div>
-    By 
-    <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
-    04.11.2013.
-  </div>
-  <div class="row">
-    <div class="span12">
-      <hr/>
-      <p>I am spending a few days in Los Alamos, New Mexico and then Moab, Utah
+</div>          <div class="container wide-picture-container">
+    <h1>Los Alamos is Beautiful</h1>
+      <div>
+        By 
+        <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
+        04.11.2013.
+      </div>
+          <hr/>
+          <div class="big-picture">
+              <p>I am spending a few days in Los Alamos, New Mexico and then Moab, Utah
 to catch my breath. It's beautiful here. Here are some photos I took during
 my drive up from Lubbock, Texas and while walking around town in Los Alamos.</p>
-<img alt="The open road." src="../img/130411-los-alamos-is-beautiful/open-road.jpg" />
+<img alt="The open road." src="../img/130411-los-alamos-is-beautiful/open-road.jpg" style="width: 100%;" />
 <p>The open road ahead. Insert metaphysical hand-wavy quote here about the
 winding road being an embodiment of my five month journey.</p>
 <hr class="docutils" />
-<img alt="Open landscape behind my car." src="../img/130411-los-alamos-is-beautiful/open-road-2.jpg" />
+<img alt="Open landscape behind my car." src="../img/130411-los-alamos-is-beautiful/open-road-2.jpg" style="width: 100%;" />
 <p>Same location shot from another angle. She's gettin' a little dirty.</p>
 <hr class="docutils" />
-<img alt="Landscape shifts from flat to hilly." src="../img/130411-los-alamos-is-beautiful/open-road-3.jpg" />
+<img alt="Landscape shifts from flat to hilly." src="../img/130411-los-alamos-is-beautiful/open-road-3.jpg" style="width: 100%;" />
 <p>The landscape shifts from completely flat in the Texas Panhandle to starting
 to have some hills. A little difficult to see in this shot.</p>
 <hr class="docutils" />
-<img alt="Landscape shot while driving through the Texas Panhandle" src="../img/130411-los-alamos-is-beautiful/landscape.jpg" />
+<img alt="Landscape shot while driving through the Texas Panhandle" src="../img/130411-los-alamos-is-beautiful/landscape.jpg" style="width: 100%;" />
 <p>Landscape shot while driving through the Texas Panhandle.</p>
 <hr class="docutils" />
-<img alt="Landscape shot from out the side window in New Mexico" src="../img/130411-los-alamos-is-beautiful/landscape-2.jpg" />
+<img alt="Landscape shot from out the side window in New Mexico" src="../img/130411-los-alamos-is-beautiful/landscape-2.jpg" style="width: 100%;" />
 <p>Landscape shot from out the side window in New Mexico.</p>
 <hr class="docutils" />
-<img alt="A beautiful day..." src="../img/130411-los-alamos-is-beautiful/beautiful-day.jpg" />
+<img alt="A beautiful day..." src="../img/130411-los-alamos-is-beautiful/beautiful-day.jpg" style="width: 100%;" />
 <p>A beautiful day...</p>
 <hr class="docutils" />
-<img alt="...shifted into an eerie, ominous day." src="../img/130411-los-alamos-is-beautiful/eerie-clouds.jpg" />
+<img alt="...shifted into an eerie, ominous day." src="../img/130411-los-alamos-is-beautiful/eerie-clouds.jpg" style="width: 100%;" />
 <p>...shifted suddenly into an eerie, ominous day. I thought I was going to find
 out if the S2000 still had the chops to outrun a tornado.</p>
 <hr class="docutils" />
-<img alt="The terrain became more varied here." src="../img/130411-los-alamos-is-beautiful/more-varied-terrain.jpg" />
+<img alt="The terrain became more varied here." src="../img/130411-los-alamos-is-beautiful/more-varied-terrain.jpg" style="width: 100%;" />
 <p>The terrain became noticeably different while in New Mexico. Flat land gave
 way to hills and mountainous areas in the distance.</p>
 <hr class="docutils" />
-<img alt="The weather became beautiful again." src="../img/130411-los-alamos-is-beautiful/beautiful-day-again.jpg" />
+<img alt="The weather became beautiful again." src="../img/130411-los-alamos-is-beautiful/beautiful-day-again.jpg" style="width: 100%;" />
 <p>After a little further on the drive the weather became beautiful again.</p>
 <hr class="docutils" />
-<img alt="My favorite shot from the drive to Los Alamos." src="../img/130411-los-alamos-is-beautiful/favorite-shot.jpg" />
+<img alt="My favorite shot from the drive to Los Alamos." src="../img/130411-los-alamos-is-beautiful/favorite-shot.jpg" style="width: 100%;" />
 <p>Just outside of Los Alamos I took my favorite shot of the trip so far.</p>
 <hr class="docutils" />
-<img alt="Amazing view outside of Los Alamos." src="../img/130411-los-alamos-is-beautiful/amazing-view.jpg" />
+<img alt="Amazing view outside of Los Alamos." src="../img/130411-los-alamos-is-beautiful/amazing-view.jpg" style="width: 100%;" />
 <p>Another shot of the amazing view.</p>
 <hr class="docutils" />
-<img alt="Shot of the S2000 and the guardrail." src="../img/130411-los-alamos-is-beautiful/good-thing-no-ice.jpg" />
+<img alt="Shot of the S2000 and the guardrail." src="../img/130411-los-alamos-is-beautiful/good-thing-no-ice.jpg" style="width: 100%;" />
 <p>Not pictured: steep drop into oblivion.</p>
 <p>Good thing it wasn't icy on the way up or I might not be around to snap
 these shots.</p>
 <hr class="docutils" />
-<img alt="Ashley Pond in Los Alamos." src="../img/130411-los-alamos-is-beautiful/los-alamos-ashley-pond.jpg" />
+<img alt="Ashley Pond in Los Alamos." src="../img/130411-los-alamos-is-beautiful/los-alamos-ashley-pond.jpg" style="width: 100%;" />
 <p>This is a shot from today at Ashley Pond in Los Alamos.</p>
 <hr class="docutils" />
-<img alt="Rock inscription at Ashley Pond in Los Alamos." src="../img/130411-los-alamos-is-beautiful/inscription-ashley-pond.jpg" />
+<img alt="Rock inscription at Ashley Pond in Los Alamos." src="../img/130411-los-alamos-is-beautiful/inscription-ashley-pond.jpg" style="width: 100%;" />
 <p>Rock inscription at Ashley Pond in Los Alamos.</p>
 <hr class="docutils" />
-<img alt="The mountains in the backdrop of Ashley Pond." src="../img/130411-los-alamos-is-beautiful/ashley-pond-background.jpg" />
+<img alt="The mountains in the backdrop of Ashley Pond." src="../img/130411-los-alamos-is-beautiful/ashley-pond-background.jpg" style="width: 100%;" />
 <p>Nice mountain backdrop at Ashley Pond.</p>
 <hr class="docutils" />
-<img alt="Asshole geese at Ashley Pond." src="../img/130411-los-alamos-is-beautiful/asshole-geese.jpg" />
+<img alt="Asshole geese at Ashley Pond." src="../img/130411-los-alamos-is-beautiful/asshole-geese.jpg" style="width: 100%;" />
 <p>Asshole geese were being loud.</p>
 <hr class="docutils" />
-<img alt="Native American ruins from 1225 in Los Alamos." src="../img/130411-los-alamos-is-beautiful/ruins-from-1225.jpg" />
+<img alt="Native American ruins from 1225 in Los Alamos." src="../img/130411-los-alamos-is-beautiful/ruins-from-1225.jpg" style="width: 100%;" />
 <p>Native American ruins from 1225 in Los Alamos.</p>
 <hr class="docutils" />
-<img alt="Dr. Oppenheimer statue." src="../img/130411-los-alamos-is-beautiful/dr-oppenheimer.jpg" />
+<img alt="Dr. Oppenheimer statue." src="../img/130411-los-alamos-is-beautiful/dr-oppenheimer.jpg" style="width: 100%;" />
 <p>Dr. Oppenheimer immortalized in a bronze statue.</p>
 <hr class="docutils" />
-<img alt="Beautiful view of the mountains." src="../img/130411-los-alamos-is-beautiful/beautiful-mountain-view.jpg" />
+<img alt="Beautiful view of the mountains." src="../img/130411-los-alamos-is-beautiful/beautiful-mountain-view.jpg" style="width: 100%;" />
 <p>If you live around the Rocky Mountains, I hope you never get tired of this
 view or take it for granted. Amazing.</p>
 
+          </div>
 
-        <p>
-      If you want to keep up with my trip, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
-      </p>
-        <div id="disqus_thread" style="margin-top: 25px;"></div>
+        <div class="row">
+            <div class="col-md-8">
+            <p>
+          If you want to keep up with my trip, please <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
+          </p>
+            <div id="disqus_thread" style="margin-top: 25px;"></div>
+            <script type="text/javascript">
+                var disqus_shortname = 'codingacrossamerica';
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          <a href="/pictures.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">View all picture posts</a>
+       </div>
+   </div>
+</div>      <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
         <script type="text/javascript">
-            var disqus_shortname = 'codingacrossamerica';
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">Return to the blog</a>
-    </div>
-  </div>      <hr/>
-    <div class="footer">
-      &copy; <a href="http://www.mattmakai.com/" class="underline">Matt Makai</a> 2013
-    </div>
-  </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0016/5846.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/d3.min.js" charset="utf-8"></script>
-  <script type="text/javascript">
-    $(document).ready(function() {
-            });
-  </script>
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+                    });
+    </script>
 </body>
 </html>

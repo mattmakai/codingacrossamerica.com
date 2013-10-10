@@ -3,6 +3,7 @@ Quiet
 
 :date: 2012-07-07
 :category: post
+:post_type: opinion
 :slug: quiet
 
 I'm writing this post from Kansas City, Missouri. One of the
@@ -16,11 +17,8 @@ have trouble hearing phone conversations while on the main roads when
 I walk around Arlington or DC. Here there is a sort of calm settled over
 the downtown area until night hits and the bar scene picks up.
 
-----
-
 .. image:: ../img/kansas-city-downtown.jpg
-  :width: 640px
-  :height: 480px
+  :width: 100%
   :alt: Downtown Kansas City, MO
 
 *Downtown Kansas City. Pretty quiet until the sun sets.*

@@ -4,12 +4,14 @@ Adobe MAX 2013
 :date: 2013-05-06
 :slug: adobe-max-2013
 :category: post
+:post_type: tech_event
 :author: Matt Makai
 
 I'm at Adobe MAX 2013 in Los Angeles, CA for the next three days.
 
 .. image:: /img/130506-adobe-max-2013/adobe-max-banner.jpg
   :alt: Adobe MAX banner at registration
+  :width: 100%
 
 ----
 
@@ -21,6 +23,7 @@ event.
 
 .. image:: /img/130506-adobe-max-2013/adobe-max-arena.jpg
   :alt: Adobe MAX arena before keynote presentation
+  :width: 100%
 
 Inside of the venue before the start of the Adobe MAX keynote on Monday
 morning.

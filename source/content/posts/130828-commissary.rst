@@ -5,6 +5,7 @@ Commissary in Washington, D.C.
 :date: 2013-08-28
 :category: post
 :author: Matt Makai
+:post_type: coding_spot
 :tags: coding spot, coffee, logan circle
 
 Commissary is a coffee shop, restaurant, and bar a half block from Logan
@@ -12,6 +13,7 @@ Circle on P Street NW in Washington, D.C.
 
 .. image:: ../img/130828-commissary/commissary-logo.jpg
   :alt: Commissary logo
+  :width: 100%
 
 Commissary's logo.
 
@@ -35,6 +37,7 @@ so you may want to look for an alternative location if that bothers you.
 
 .. image:: ../img/130828-commissary/map.jpg
   :alt: Map with the location of Commissary on P Street NW.
+  :width: 100%
   :target: http://goo.gl/maps/1fmkc
 
 Commissary, 1443 P Street Northwest, Washington, DC
@@ -44,6 +47,7 @@ Commissary, 1443 P Street Northwest, Washington, DC
 
 .. image:: ../img/130828-commissary/logan-circle-statue.jpg
   :alt: Logan Circle statue
+  :width: 100%
 
 Awesome statue just down the street in Logan Circle.
 
@@ -52,6 +56,7 @@ Awesome statue just down the street in Logan Circle.
 
 .. image:: ../img/130828-commissary/inside.jpg
   :alt: Inside view of Commissary
+  :width: 100%
 
 Inside view of Commissary. Picture came out a bit dark so I'll retake at
 a later date.
@@ -61,6 +66,7 @@ a later date.
 
 .. image:: ../img/130828-commissary/inside-2.jpg
   :alt: Another inside view of Commissary
+  :width: 100%
 
 Another inside view of Commissary. 
 
@@ -69,6 +75,7 @@ Another inside view of Commissary.
 
 .. image:: ../img/130828-commissary/outside.jpg
   :alt: Outside view of Commissary
+  :width: 100%
 
 Outside Commissary with view of P Street NW.
 

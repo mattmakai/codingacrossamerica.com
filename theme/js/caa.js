@@ -252,7 +252,7 @@ function drawCitiesMap() {
         mapHeight =
             (mapContainerHeight * .7) - mapMargin.top - mapMargin.bottom;
 
-    $("#map-container").height(mapHeight);
+    $("#map-container").height(600);
     
     var map = L.map('map-container', {'minZoom': 4}).setView([37.8, -96], 4);
 

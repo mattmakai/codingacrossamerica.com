@@ -5,6 +5,7 @@ Busboys and Poets in Washington, D.C.
 :date: 2013-08-27
 :category: post
 :author: Matt Makai
+:post_type: coding_spot
 :tags: coding spot, coffee
 
 Busboys and Poets is a large coffee shop, bar, and restaurant on the corner of
@@ -12,6 +13,7 @@ Busboys and Poets is a large coffee shop, bar, and restaurant on the corner of
 
 .. image:: ../img/130827-busboys-poets/busboys-sign.jpg
   :alt: Sign outside Busboys and Poets
+  :width: 100%
 
 Busboys & Poets sign outside their 5th and K Street NW location.
 
@@ -34,6 +36,7 @@ comfortable to sit and work for hours at a time.
 
 .. image:: ../img/130827-busboys-poets/map.jpg
   :alt: Map with the location of Busboys and Poets on 5th St Northwest
+  :width: 100%
   :target: http://goo.gl/maps/UzdZa
 
 Busboys and Poets, 5th Street Northwest, Washington, DC
@@ -42,6 +45,7 @@ Busboys and Poets, 5th Street Northwest, Washington, DC
 
 .. image:: ../img/130827-busboys-poets/busboys-outside.jpg
   :alt: View outside Busboys and Poets.
+  :width: 100%
 
 Outside the patio area at Busboys and Poets.
 
@@ -49,6 +53,7 @@ Outside the patio area at Busboys and Poets.
 
 .. image:: ../img/130827-busboys-poets/downstairs.jpg
   :alt: Downstairs at Busboys.
+  :width: 100%
 
 A view of downstairs inside Busboys.
 
@@ -56,6 +61,7 @@ A view of downstairs inside Busboys.
 
 .. image:: ../img/130827-busboys-poets/upstairs.jpg
   :alt: Upstairs at Busboys.
+  :width: 100%
 
 Upstairs bar, usually not manned during weekday regular hours.
 
@@ -63,6 +69,7 @@ Upstairs bar, usually not manned during weekday regular hours.
 
 .. image:: ../img/130827-busboys-poets/patio.jpg
   :alt: Patio seating outside Busboys.
+  :width: 100%
 
 Patio seating. Canopy cover allows you to work outside on a laptop easily
 if it's a cloudy or rainy day.

@@ -3,6 +3,7 @@ AgilityFeat
 
 :date: 2013-03-10
 :slug: agilityfeat-charlottesville-va
+:post_type: startup
 :category: post
 
 
@@ -49,6 +50,7 @@ model or optimize their team's existing agile workflow.
 
 .. image:: ../img/130310-agilityfeat/agilityfeat-logo.png
   :alt: AgilityFeat's logo
+  :width: 100%
 
 ----
 
@@ -60,6 +62,7 @@ to provide enough value to his clients to make it worthwhile.
 
 .. image:: ../img/130310-agilityfeat/arin-and-matt.jpg
   :alt: Arin, AgilityFeat's founder, and myself
+  :width: 100%
 
 Arin, AgilityFeat's founder, and myself at 
 `The Virginian <http://thevirginiancville.com/>`_ in Charlottesville.

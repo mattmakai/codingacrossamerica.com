@@ -3,7 +3,7 @@
 
 :category: future-post
 :slug: maximizing-value-99-designs-logo-contest
-:date: 2013-03-20
+:date: 2013-04-30
 
 The logo for `Coding Across America <http://www.codingacrossamerica.com/>`_
 came from a 

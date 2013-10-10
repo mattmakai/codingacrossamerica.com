@@ -14,7 +14,6 @@ New Orleans, LA
 
 Basic Stats
 -----------
-* `Why New Orleans, Louisiana? <../why-new-orleans-la.html>`_
 * City population: 345k, Metro population: 1.2m
 * Approximate distance driven on trip: `1400 miles <http://goo.gl/maps/eVcfo>`_
 * `Google Maps: New Orleans <http://goo.gl/maps/zyKXy>`_
@@ -50,6 +49,7 @@ Articles
 --------
 * `The Big Comeback: Is New Orleans America's Next Great Innovation Hub? <http://www.theatlantic.com/business/archive/2013/04/the-big-comeback-is-new-orleans-americas-next-great-innovation-hub/274591/>`_
 * `Silicon Bayou rising: New Orleans' drive to be the next great tech city <http://www.theverge.com/2013/6/6/4391280/silicon-bayou-rising-new-orleans-drive-to-be-the-next-great-tech-city>`_
+* `Why New Orleans Is the Coolest Start Up City in America <http://www.inc.com/articles/201104/why-new-orleans-is-the-coolest-start-up-city-in-america.html>`_
 
 Meetups
 -------

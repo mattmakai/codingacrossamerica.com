@@ -3,6 +3,7 @@ MistoBox
 
 :date: 2013-04-18 12:05 
 :slug: misto-box-phoenix-az
+:post_type: startup
 :category: post
 :author: Matt Makai
 
@@ -12,6 +13,7 @@ Arizona.
 
 .. image:: ../img/130418-misto-box-phoenix-az/misto-box-logo.jpg
   :alt: MistoBox logo on an item in their office
+  :width: 100%
 
 ----
 
@@ -29,6 +31,7 @@ just hired their first employee.
 
 .. image:: ../img/130418-misto-box-phoenix-az/misto-box-founders.jpg
   :alt: MistoBox's founders, Samantha Meis and Connor Riley
+  :width: 100%
 
 Connor and Samantha hard at work.
 
@@ -42,6 +45,7 @@ stadium.
 
 .. image:: ../img/130418-misto-box-phoenix-az/warehouse-entrance.jpg
   :alt: Entrance to the renovated warehouse where MistoBox currently works
+  :width: 100%
 
 The entrance to the renovated warehouse where MistoBox currently works.
 
@@ -49,6 +53,7 @@ The entrance to the renovated warehouse where MistoBox currently works.
 
 .. image:: ../img/130418-misto-box-phoenix-az/warehouse.jpg
   :alt: Interior of one of the warehouses
+  :width: 100%
 
 Interior of one of the warehouses.
 
@@ -62,7 +67,8 @@ entrepreneurial culture in Phoenix.
 
 
 .. image:: ../img/130418-misto-box-phoenix-az/sam-connor-startup-america-summit.jpg
-    :alt: Samantha speaking during Startup America Regional Summit breakfast.
+   :alt: Samantha speaking during Startup America Regional Summit breakfast.
+   :width: 100%
 
 Samantha speaking at the Startup America Regional Summit breakfast.
 

@@ -9,12 +9,12 @@ New York, NY
 
 .. image:: ../img/new-york-ny.jpg
   :alt: New York City, New York
+  :width: 100%
 
 ----
 
 Basic stats
 -----------
-* Why New York, New York? (blog post coming soon)
 * City population: 8.2m, Metro population: 18.9m
 * Approximate distance driven on trip: `8950 miles <http://bit.ly/SRCjmd>`_
 * `Google Maps: New York <http://goo.gl/maps/qA83z>`_

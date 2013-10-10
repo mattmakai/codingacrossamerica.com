@@ -2,6 +2,7 @@ Contributions
 =============
 
 :category: post
+:post_type: opinion
 :date: 2012-05-26
 :slug: contributions
 

@@ -5,6 +5,7 @@ Four Types of Software Developer Communities for Startups
 :date: 2013-08-08
 :category: post
 :author: Matt Makai
+:post_type: opinion
 :tag: opinion
 
 After traveling to 30 cities over the past 5 months as part of my 
@@ -38,6 +39,7 @@ size of New Orleans.
 
 .. image:: ../img/130808-four-types-cities/nola-morning-skyline.jpg
   :alt: Morning skyline in New Orleans.
+  :width: 100%
 
 Morning skyline in New Orleans.
 
@@ -80,6 +82,7 @@ type 3, next).
 
 .. image:: ../img/130808-four-types-cities/main-street-memphis.jpg
   :alt: Main Street in Memphis, TN.
+  :width: 100%
 
 Main Street in Memphis, Tennessee.
 
@@ -117,6 +120,7 @@ to deal with the high cost of living in D.C. and work at a tech startup.
 
 .. image:: ../img/130808-four-types-cities/washington-dc.jpg
   :alt: The shadow of a flag flying in Washington, DC.
+  :width: 100%
 
 Washington, DC.
 
@@ -143,6 +147,7 @@ the whole Bay Area), `Seattle </seattle-wa.html>`_,
 
 .. image:: ../img/130808-four-types-cities/new-york-skyline.jpg
   :alt: The New York City skyline view from the East Village.
+  :width: 100%
 
 New York City skyline viewed from the East Village.
 

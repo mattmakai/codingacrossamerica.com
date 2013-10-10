@@ -1,0 +1,28 @@
+<div class="container">
+<h2>All Coding Spot Posts</h2>
+<div class="row">
+    <div class="col-md-8">
+      {% for article in dates %}
+        {% if article.category == 'post' and article.post_type == 'coding_spot' %}
+          <div class="blog-post">
+            <h2><a href="{{ article.slug }}.html">{{ article.title }}</a></h2>
+            {{ article.content|truncate(400, False) }} 
+            (<a href="{{ article.slug }}.html">read more</a>)
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="col-md-offset-1 col-md-3">
+      <h3>Updates</h3>
+      {% include "feeds.html" %}
+      <hr/>
+      <h3>All Coding Spot Posts</h3> 
+      <ul class="post-list">
+        {% for article in dates %}
+          {% if article.category == 'post' and article.post_type == 'coding_spot' %}
+            <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+</div>

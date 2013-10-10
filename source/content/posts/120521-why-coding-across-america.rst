@@ -3,6 +3,7 @@ Why?
 
 :date: 2012-05-21
 :category: post
+:post_type: opinion
 :slug: why-coding-across-america
 :tag: opinion
 

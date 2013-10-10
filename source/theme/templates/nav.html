@@ -1,22 +1,29 @@
-<div class="navbar">
-  <div class="navbar-inner">
+<div class="white-out" style="margin-top: 10px;">
     <div class="container">
-      <ul class="nav">
-        <li>
-          <a href="/" class="logo" style="padding: 0;"><img src="../img/cam-logo-8.png" width="210" height="85" style="border: none; padding-bottom: 0px; width: 210px; height: 85px;"/></a>
-        </li>
-      </ul>
-      <ul class="nav right-nav" style="float: right;">
-        <li {% if article and (article.category == 'blog' or article.category == 'post' or article.category == 'picture-post') %}class="active"{% endif %}>
-          <a href="/blog.html">Blog</a>
-        </li>
-        <li {% if article and (article.category == 'cities' or article.category == 'city') %}class="active"{% endif %}>
-          <a href="/cities.html">Cities</a>
-        </li>
-        <li {% if article and article.category == 'contributors' %}class="active"{% endif %}>
-          <a href="/contributors.html">Contributors</a>
-        </li>
-      </ul>
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li {% if article and article.category == 'cities' %}class="active"{% endif %}><a href="/cities.html">Map</a></li>
+                  <li {% if article and article.category == 'contributors' %}class="active"{% endif %}><a href="/contributors.html">Contributors</a></li>
+                  <li {% if article and article.category == 'contact' %}class="active"{% endif %}><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
     </div>
-  </div>
 </div>

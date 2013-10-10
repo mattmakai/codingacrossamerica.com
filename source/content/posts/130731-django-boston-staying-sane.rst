@@ -4,6 +4,7 @@ Django Boston Talk
 :slug: django-boston-talk
 :date: 2013-07-31
 :category: post
+:post_type: tech_event
 :author: Matt Makai
 
 I was fortunate enough to be able to give a technical talk at 
@@ -21,6 +22,7 @@ This talk is based on a blog post I published which provides
 
 .. image:: ../img/130731-django-boston-talk/akamai.jpg
   :alt: Akamai office entrance.
+  :width: 100%
 
 Akamai office entrance where the talk was held. Nice venue!
 
@@ -29,6 +31,7 @@ Akamai office entrance where the talk was held. Nice venue!
 
 .. image:: ../img/130731-django-boston-talk/django-boston.jpg
   :alt: Django Boston presentation slides projected on the screen.
+  :width: 100%
 
 Title slide of my Django Boston presentation on how to take over an existing
 Django project codebase.
@@ -38,6 +41,7 @@ Django project codebase.
 
 .. image:: ../img/130731-django-boston-talk/talk-2.jpg
   :alt: Matt Makai talking about Django project structures.
+  :width: 100%
 
 Here I'm discussing the project structure variations between 1.3, 1.4+, and 
 customized projects.
@@ -47,6 +51,7 @@ customized projects.
 
 .. image:: ../img/130731-django-boston-talk/talk.jpg
   :alt: Matt Makai talking Django projects.
+  :width: 100%
 
 Awkward shot... I must talk with my hands a lot.
 
@@ -55,6 +60,7 @@ Awkward shot... I must talk with my hands a lot.
 
 .. image:: ../img/130731-django-boston-talk/t-shirt.jpg
   :alt: Django Boston t-shirt.
+  :width: 100%
 
 Thanks for the speaker t-shirt guys!
 

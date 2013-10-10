@@ -3,6 +3,7 @@ Antengo
 
 :date: 2013-04-23 18:00
 :slug: antengo-san-diego-ca
+:post_type: startup
 :category: post
 
 Antengo is a location-based classified ads mobile app startup located in 
@@ -11,6 +12,7 @@ San Diego, California.
 
 .. image:: ../img/130423-antengo-san-diego-ca/antengo-logo.jpg
   :alt: Antengo logo on one of their posters in the office
+  :width: 100%
 
 Antengo logo in their office.
 
@@ -38,6 +40,7 @@ with the mobile apps are built in PHP.
 
 .. image:: ../img/130423-antengo-san-diego-ca/matthew-wilberger-ant-head.jpg
   :alt: Matthew Wilberger rocking the Antengo Ant Head
+  :width: 100%
 
 Matthew Wilberger (`@mjwsd <https://twitter.com/mjwsd>`_) rocking the 
 Antengo Ant Head.
@@ -57,6 +60,7 @@ help Marcus build the app that became Antengo in exchange for equity.
 
 .. image:: ../img/130423-antengo-san-diego-ca/antengo-team.jpg
   :alt: Antengo founders and a couple of members of their team
+  :width: 100%
 
 Part of the Antengo team, from left to right,
 Matthew Wilberger (marketing), Marcus Wandell (founder), Hunter 
@@ -73,6 +77,7 @@ limited and should primarily be spent on building a great team.
 
 .. image:: ../img/130423-antengo-san-diego-ca/antengo-space.jpg
   :alt: Antengo team in their office space
+  :width: 100%
 
 The Antengo team at work in their corner of the EvoNexus space in downtown 
 San Diego.

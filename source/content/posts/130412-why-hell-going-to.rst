@@ -4,6 +4,7 @@ Why the Hell Are You In [small city]?
 :date: 2013-04-12
 :slug: why-hell-you-in-small-city
 :category: post
+:post_type: opinion
 :tag: opinion
 
 I've spent the past few days in Los Alamos, New Mexico (population 12k) and 
@@ -51,6 +52,7 @@ There are also some amazing things to see in America.
 
 .. image:: ../img/130412-why-going-there/los-alamos-ashley-pond.jpg
   :alt: A view of the mountains from Ashley Pond in Los Alamos.
+  :width: 100%
 
 It's a road trip. I don't want to miss awesome views like this one.
 

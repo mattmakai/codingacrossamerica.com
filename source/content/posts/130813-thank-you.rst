@@ -4,6 +4,7 @@ Thank You!
 :slug: thank-you
 :date: 2013-08-13
 :category: post
+:post_type: opinion
 :author: Matt Makai
 :tag: opinion
 

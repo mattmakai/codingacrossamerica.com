@@ -3,6 +3,7 @@ Vigilante Coffee in Washington, D.C.
 
 :slug: vigilante-coffee-washington-dc
 :date: 2013-08-25
+:post_type: coding_spot
 :category: post
 :author: Matt Makai
 :tags: coding spot, coffee
@@ -12,6 +13,7 @@ D.C.
 
 .. image:: ../img/130825-vigilante-coffee/vigilante-coffee-sign.jpg
   :alt: Sign outside Vigilante Coffee
+  :width: 100%
 
 Vigilante Coffee pop up cafe sign.
 
@@ -35,6 +37,7 @@ though.
 
 .. image:: ../img/130825-vigilante-coffee/map.jpg
   :alt: Map with the location of Vigilante Coffee pop up cafe.
+  :width: 100%
   :target: http://goo.gl/maps/nOgsd
 
 1017 7th St NW, Washington, D.C.
@@ -43,6 +46,7 @@ though.
 
 .. image:: ../img/130825-vigilante-coffee/7th-street.jpg
   :alt: A view of 7th Street where Vigilante Coffee is located.
+  :width: 100%
 
 7th Street outside Vigilante Coffee.
 
@@ -50,16 +54,19 @@ though.
 
 .. image:: ../img/130825-vigilante-coffee/inside.jpg
   :alt: Inside Vigilante Coffee.
+  :width: 100%
 
 ----
 
 .. image:: ../img/130825-vigilante-coffee/red-arrow.jpg
   :alt: Arrow on the wall at Vigilante Coffee.
+  :width: 100%
 
 ----
 
 .. image:: ../img/130825-vigilante-coffee/back-room.jpg
   :alt: Back room of Vigilante Coffee
+  :width: 100%
 
 The back room of Vigilante Coffee.
 

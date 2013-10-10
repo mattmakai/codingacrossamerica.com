@@ -1,8 +1,9 @@
 What To Do In Each City
 =======================
 
-:category: post
 :date: 2012-05-24
+:category: post
+:post_type: opinion
 :slug: what-to-do-in-each-city
 
 Here are the main places and events I intend to visit while on the road.

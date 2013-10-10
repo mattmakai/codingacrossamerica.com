@@ -5,6 +5,7 @@ DjangoCon 2013... Go!
 :date: 2013-09-03 10:00
 :category: post
 :author: Matt Makai
+:post_type: tech_event
 :tags: conference, travel, djangocon
 
 The main DjangoCon 2013 conference is kicking off this morning. Here's a quick
@@ -17,6 +18,7 @@ around this week!
 
 .. image:: ../img/130903-djangocon-2013-begin/conference-room.jpg
   :alt: Conference room while people are getting settled.
+  :width: 100%
 
 Main conference room before everyone got settled.
 
@@ -24,11 +26,13 @@ Main conference room before everyone got settled.
 
 .. image:: ../img/130903-djangocon-2013-begin/setting-up.jpg
   :alt: Conference room while people before getting set up.
+  :width: 100%
 
 ----
 
 .. image:: ../img/130903-djangocon-2013-begin/steve-holden.jpg
   :alt: Steve Holden kicking off the conference.
+  :width: 100%
 
 Steve Holden kicking off the conferene and introducing Russell Keith-Magee.
 
@@ -36,6 +40,7 @@ Steve Holden kicking off the conferene and introducing Russell Keith-Magee.
 
 .. image:: ../img/130903-djangocon-2013-begin/malcolm-tredinnick-memorial-award.jpg
   :alt: Russell Keith-Magee talking about the Malcolm Tredinnick Memorial Award.
+  :width: 100%
 
 Russell Keith-Magee introducing the upcoming Malcolm Tredinnick Memorial Award.
 

@@ -1,8 +1,9 @@
-The Gravity Center in Plano, TX
-===============================
+The Gravity Center
+==================
 
 :slug: gravity-center-dallas-tx
 :category: post
+:post_type: startup
 :date: 2013-03-29
 
 `The Gravity Center <http://gravitycentredallas.com/>`_ 
@@ -15,6 +16,7 @@ office downtown (known as "Uptown" in Dallas).
 
 .. image:: ../img/130329-the-gravity-center/att-foundry-sign.jpg
   :alt: AT&T foundry building
+  :width: 100%
 
 AT&T Foundry building, where The Gravity Center used to reside in, and is
 now next door to.
@@ -32,6 +34,7 @@ in 2010. Jennifer also started and runs the well-known
 
 .. image:: ../img/130329-the-gravity-center/gravity-center-location.jpg
   :alt: The Gravity Center's location in Plano, Texas
+  :width: 100%
   :target: http://goo.gl/maps/YFHsx
 
 ----
@@ -45,6 +48,7 @@ For founders who already live in Plano they can eliminate wasted hours
 traveling to and from downtown Dallas by working in Plano. 
 
 .. image:: ../img/130329-the-gravity-center/gravity-center-presentations.jpg
+  :width: 100%
   :alt: The Gravity Center's office
 
 ----

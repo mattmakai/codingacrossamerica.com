@@ -4,6 +4,7 @@ Doers Help Doers
 :date: 2013-04-03
 :slug: starting-sustaining-book
 :category: post
+:post_type: opinion
 :tag: opinion
 
 I've been catching up on reading my book backlog while traveling over these 

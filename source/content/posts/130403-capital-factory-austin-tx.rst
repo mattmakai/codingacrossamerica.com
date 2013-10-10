@@ -4,6 +4,7 @@ Capital Factory
 :date: 2013-04-03
 :slug: capital-factory-austin-tx
 :category: post
+:post_type: startup
 :author: Matt Makai
 
 Capital Factory is Austin's premiere startup incubation space and seed stage 
@@ -11,6 +12,7 @@ mentoring program.
 
 .. image:: ../img/130403-capital-factory/capital-factory-logo.jpg
   :alt: The logo for Capital Factory on the floor of their working space
+  :width: 100%
 
 ----
 
@@ -21,6 +23,7 @@ provides some amazing views of the surrounding Austin downtown.
 
 .. image:: ../img/130403-capital-factory/capital-factory-beanbag-view.jpg
   :alt: A beanbag and the view of downtown
+  :width: 100%
 
 ----
 
@@ -31,6 +34,7 @@ employees.
 
 .. image:: ../img/130403-capital-factory/capital-factory-wpengine.jpg
   :alt: Part of WPEngine's space in Capital Factory
+  :width: 100%
 
 Part of WPEngine's space in Capital Factory.
 
@@ -43,6 +47,7 @@ admission for starving startup founders.
 
 .. image:: ../img/130403-capital-factory/capital-factory-shared-space.jpg
   :alt: Shared space in Capital Factory
+  :width: 100%
 
 Shared space for co-working.
 
@@ -57,6 +62,7 @@ disaparate members of the Austin community.
 
 .. image:: ../img/130403-capital-factory/capital-factory-monitor.jpg
   :alt: Capital Factory on a monitor at their space
+  :width: 100%
 
 ----
 

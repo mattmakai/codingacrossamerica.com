@@ -4,6 +4,7 @@ Seed Spot
 :date: 2013-04-17 20:45
 :slug: seed-spot-phoenix-az
 :category: post
+:post_type: startup
 :author: Matt Makai
 
 Seed Spot is a nonprofit incubator located in downtown Phoenix, Arizona. The
@@ -11,6 +12,7 @@ incubator supports startups focused on social applications.
 
 .. image:: ../img/130417-seed-spot-phoenix-az/seed-spot-logo.jpg
   :alt: Seed Spot logo on their office entrance wall.
+  :width: 100%
 
 Seed Spot's logo at the entrance to their office.
 
@@ -27,6 +29,7 @@ Seed Spot's Downtown Location
 
 .. image:: ../img/130417-seed-spot-phoenix-az/seed-spot-location.jpg
   :alt: Seed Spot location on US map
+  :width: 100%
   :target: http://goo.gl/maps/wF0aw
 
 Seed Spot's office is located in Phoenix, Arizona.
@@ -40,6 +43,7 @@ Phoenix community by hosting events.
 
 .. image:: ../img/130417-seed-spot-phoenix-az/office-space.jpg
   :alt: Interior of Seed Spot's office in downtown Phoenix
+  :width: 100%
 
 ----
 
@@ -51,11 +55,13 @@ show.
 
 .. image:: ../img/130417-seed-spot-phoenix-az/balcony-view.jpg
   :alt: View from Seed Spot office balcony
+  :width: 100%
 
 ----
 
 .. image:: ../img/130417-seed-spot-phoenix-az/balcony-view-2.jpg
   :alt: Another view from Seed Spot office balcony
+  :width: 100%
 
 ----
 
@@ -75,6 +81,7 @@ their methods locally, then scale nationally.
 
 .. image:: ../img/130417-seed-spot-phoenix-az/courtney-chris-founders.jpg
   :alt: Courtney and Chris, Seed Spot's founders.
+  :width: 100%
 
 Courtney and Chris, Seed Spot's founders.
 
@@ -84,6 +91,4 @@ Courtney and Chris, Seed Spot's founders.
 Seed Spot's initial class of sixteen organizations will conclude their 
 official involvement in the program on May 17, 2013 at the first Seed Spot 
 `Demo Day <https://www.eventinterface.com/registration?eventid=aDU1cHZyYg%3D%3D&refer=seedspot.org/events/>`_.
-
-
 

@@ -4,6 +4,7 @@ CO+HOOTS
 :date: 2013-04-17 21:30
 :slug: co-hoots-phoenix-az
 :category: post
+:post_type: startup
 :author: Matt Makai
 
 CO+HOOTS is a co-working space located in downtown Phoenix, Arizona.
@@ -11,6 +12,7 @@ CO+HOOTS is a co-working space located in downtown Phoenix, Arizona.
 
 .. image:: ../img/130417-co-hoots-phoenix-az/co-hoots-logo.jpg
   :alt: CO+HOOTS letters on their wall.
+  :width: 100%
 
 ----
 
@@ -23,6 +25,7 @@ group of fellow entrepreneurs and started CO+HOOTS.
 
 .. image:: ../img/130417-co-hoots-phoenix-az/co-hoots-location.jpg
   :alt: Google Maps image of CO+HOOTS office location
+  :width: 100%
   :target: http://goo.gl/maps/PbULQ
 
 ----
@@ -35,6 +38,7 @@ work out of CO+HOOTS.
 
 .. image:: ../img/130417-co-hoots-phoenix-az/uber-team-at-co-hoots.jpg
   :alt: Uber team working at CO+HOOTS
+  :width: 100%
 
 The Phoenix Uber team working at CO+HOOTS.
 
@@ -45,6 +49,7 @@ shows, it's already filled up close to capacity.
 
 .. image:: ../img/130417-co-hoots-phoenix-az/co-hoots-space.jpg
   :alt: Interior of CO+HOOTS working space
+  :width: 100%
 
 ----
 
@@ -63,6 +68,7 @@ DC would benefit from having more co-working space like CO+HOOTS.
 
 .. image:: ../img/130417-co-hoots-phoenix-az/co-hoots-door-logo.jpg
   :alt: CO+HOOTS logo on its outside door
+  :width: 100%
 
 ----
 
