@@ -7705,10 +7705,11 @@ h6 {
 }
 
 h2.front-page {
+    font-size: 30px;
     margin-top: 10px;
     padding: 30px 0 30px 0;
     color: white;
-    line-height: 1.3em;
+    line-height: 1.25em;
 }
 
 .white-out {
