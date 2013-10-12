@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-17T00:00:00-04:00</updated><entry><title>Fletcher Heisler, Author of Real Python and Developer at TrackMaven</title><link href="http://www.codingacrossamerica.com/fletcher-heisler-real-python-trackmaven.html" rel="alternate"></link><updated>2013-09-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-17:fletcher-heisler-real-python-trackmaven.html</id><summary type="html">&lt;p&gt;Fletcher Heisler (&lt;a class="reference external" href="https://twitter.com/fheisler"&gt;&amp;#64;fheisler&lt;/a&gt;) is the author
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-10-12T00:00:00-04:00</updated><entry><title>Austin, Texas Pictures</title><link href="http://www.codingacrossamerica.com/austin-tx-pictures.html" rel="alternate"></link><updated>2013-10-12T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-12:austin-tx-pictures.html</id><summary type="html">&lt;p&gt;These are some pictures from my time in Austin for Startup Week. I spent
+most of my time downtown and just north of the Capitol Building so that's
+what these pictures focus on.&lt;/p&gt;
+&lt;img alt="Austin downtown skyline from a Rainey Street highrise" src="../img/131012-austin-tx-pictures/river-skyline.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Austin downtown skyline and the Colorado River viewed from a Rainey Street
+residential highrise.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Austin iconic architecture downtown" src="../img/131012-austin-tx-pictures/austin-architecture.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Austin architecture downtown.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Austin Capitol building at dusk" src="../img/131012-austin-tx-pictures/capitol-building-dusk.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Austin Capitol building at dusk.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Austin Capitol building at night" src="../img/131012-austin-tx-pictures/capitol-building-night.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Austin Capitol building at night.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Horseback riding statue next to the Captiol building." src="../img/131012-austin-tx-pictures/horserider.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Horseback riding statue next to the Captiol building.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Statue of George Washington overlooking the Austin Capitol building." src="../img/131012-austin-tx-pictures/gw-overlooking-capitol.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Statue of George Washington on University of Texas-Austin campus overlooking
+the Austin Capitol building.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Statue of Robert E. Lee on UT-Austin campus" src="../img/131012-austin-tx-pictures/robert-e-lee.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Statue of Robert E. Lee on UT-Austin campus.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Fountain statue with the UT-Austin Bell Tower in the background." src="../img/131012-austin-tx-pictures/belltower.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Fountain statue with the Texas Bell Tower in the background.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Another picture of the Colorado River and downtown skyline, at dusk." src="../img/131012-austin-tx-pictures/river-skyline-dusk.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Another picture of the Colorado River and downtown Austin skyline, this time
+at dusk.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked these pictures you should check out my photos from
+&lt;a class="reference external" href="/chicago-pictures.html"&gt;Chicago&lt;/a&gt;
+and
+&lt;a class="reference external" href="/seattle-city-pictures.html"&gt;Seattle&lt;/a&gt; during my road trip.&lt;/p&gt;
+</summary></entry><entry><title>Fletcher Heisler, Author of Real Python and Developer at TrackMaven</title><link href="http://www.codingacrossamerica.com/fletcher-heisler-real-python-trackmaven.html" rel="alternate"></link><updated>2013-09-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-17:fletcher-heisler-real-python-trackmaven.html</id><summary type="html">&lt;p&gt;Fletcher Heisler (&lt;a class="reference external" href="https://twitter.com/fheisler"&gt;&amp;#64;fheisler&lt;/a&gt;) is the author
 of the Real Python lessons and currently a Python developer at TrackMaven,
 based in Dupont Circle, Washington, D.C.&lt;/p&gt;
 &lt;img alt="Fletcher Heisler, author of Real Python lessons" src="../img/130917-fletcher-heisler-interview/fletcher.jpg" style="width: 100%;" /&gt;
