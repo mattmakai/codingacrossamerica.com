@@ -32,7 +32,7 @@ People of Immense Help Along the Way
   (`Uber <http://uber.com/>`_)
 
 * Austin: `Keith Casey <https://twitter.com/CaseySoftware>`_ 
-  (`Twilio <http://www.twilio.com/>`)
+  (`Twilio <http://www.twilio.com/>_`)
 
 * San Diego: `Matthew Wilberger <https://twitter.com/mjwsd>`_ 
   (`Growth Hack Labs <https://twitter.com/GrowthHackLabs>`_ & Antengo)
