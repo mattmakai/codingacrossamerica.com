@@ -1,7 +1,7 @@
 Austin, Texas Pictures
 ======================
 
-:date: 2013-10-12
+:date: 2013-10-12 09:00
 :slug: austin-tx-pictures
 :category: picture-post
 :post_type: pictures
