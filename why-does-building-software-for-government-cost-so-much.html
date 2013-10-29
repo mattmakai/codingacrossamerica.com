@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Coding Across America</title>
+    <meta name="author" content="Matt Makai">
+    <meta name="description" content="Coding Across America is a five month road trip to tell the stories about tech entrepreneurs building software in cities throughout the United States.">
+    <meta name="language" content="english" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/caa.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
+        <link rel="icon" type="image/png" href="/img/favicon.png">
+    <script type="text/javascript">
+      var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-19910497-6']);
+      _gaq.push(['_trackPageview']);
+      (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </script>
+</head>
+<body>
+    <div class="white-out" style="margin-top: 10px;">
+    <div class="container">
+        <div class="masthead">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="text-muted"><a href="/"><img src="../img/cam-logo-8.png" width="210" height="85"></a></h3>
+              </div>
+              <div class="col-md-9">
+                <ul class="nav nav-justified">
+                  <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Stories <b class="caret"></b></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/startups.html">Startups</a></li>
+                        <li><a href="/interviews.html">Interviews</a></li>
+                        <li><a href="/pictures.html">Pictures</a></li>
+                        <li><a href="/coding-spots.html">Coding Spots</a></li>
+                        <li><a href="/tech-events.html">Tech Events</a></li>
+                        <li><a href="/opinions.html">Opinions</a></li>
+                        <li><a href="/blog.html">All Stories</a></li>
+                      </ul>
+                  </li>
+                  <li ><a href="/cities.html">Map</a></li>
+                  <li ><a href="/contributors.html">Contributors</a></li>
+                  <li ><a href="/contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>          <div class="container">
+<h1>Why Does Building Software for the Government Cost So Much?</h1>
+  <div>
+    By 
+    <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
+    10.29.2013.   </div>
+  <div class="row">
+    <div class="col-md-10 article-font">
+      <p>The latest US government software project under the news media spotlight is
+the <a class="reference external" href="http://www.healthcare.gov/">healthcare.gov</a> website. The
+&quot;<a class="reference external" href="http://www.washingtonpost.com/blogs/fact-checker/wp/2013/10/24/how-much-did-healthcare-gov-cost/">at least $350 million</a>&quot;
+project has let few visitors complete the sign up process. When the
+sign up process actually is successful, the
+<a class="reference external" href="http://www.theverge.com/2013/10/18/4851998/healthcare-gov-is-sending-insurers-wrong-data">wrong data is often being sent to insurers</a>. The New York Times
+covered how technical issues turned into political difficulties:</p>
+<blockquote>
+<p>For the first time in history, a president has had to stand in the Rose
+Garden to apologize for a broken Web site. But HealthCare.gov is only the
+latest episode in a string of information technology debacles by the
+federal government.</p>
+<p><a class="reference external" href="http://www.nytimes.com/2013/10/25/opinion/getting-to-the-bottom-of-healthcaregovs-flop.html?pagewanted=all&amp;_r=0">Clay Johnson and Harper Reed NY Times Op-Ed</a></p>
+</blockquote>
+<p>Despite the current issues with healthcare.gov, at least the website
+launched on time. The same cannot be said for many expensive
+government projects, such as the
+<a class="reference external" href="http://www.washingtonpost.com/wp-dyn/content/article/2006/08/17/AR2006081701485.html">FBI's Virtual Case Management System</a>.</p>
+<p>Why are these high profile failures and massive cost overruns so common in
+government software development projects? This is a list of the most
+significant issues that arise on these projects from my personal experience
+in software development across several government agencies
+(<a class="reference external" href="http://www.pcb007.com/pages/zone.cgi?a=48412">US Army</a>,
+<a class="reference external" href="http://www.fiercegovernmentit.com/story/fbis-innovari-could-fail-says-ig/2010-08-09">FBI</a>,
+<a class="reference external" href="http://radar.oreilly.com/2012/04/open-source-government-cfpb.html">CFPB</a>)
+and commercial and non-profit organizations
+(<a class="reference external" href="http://www.marriott.com/">Marriott</a>,
+<a class="reference external" href="http://www.freddiemac.com/">Freddie Mac</a>,
+<a class="reference external" href="http://www.foolfunds.com/">The Motley Fool</a>,
+<a class="reference external" href="http://www.nti.org/">NTI</a>, <a class="reference external" href="http://www.gwu.edu/">GWU</a>).</p>
+<div class="section" id="those-holding-the-purse-strings-are-not-users">
+<h2>Those Holding the Purse Strings Are Not Users</h2>
+<p>The government has a formal title for the guy who's in charge of the contract
+and related financial decisions: Contracting Officer Representative (COR).
+The COR is generally not an actual user. In a worst case scenario there are
+multiple owners, none of whom will actually use the software, and everyone
+has to put their stamp on every decision. Non-users are inclined to approve
+flashy features and functionality that have no mission value but look good
+during a demo.</p>
+<p>There needs to be a better way to determine what value is provided to actual
+users. However, even in this case there are often problems. Many end users do
+not want a new software system. They sometimes do not want to retrain on a
+new system or are concerned that their jobs will be replaced once the new
+system is up and running.</p>
+</div>
+<div class="section" id="time-money-is-needed-to-justify-every-choice">
+<h2>Time (Money) Is Needed to Justify Every Choice</h2>
+<p>Justifying the use of common software libraries can often take multiple
+weeks over periods of several months. Software developers are often asked
+to create lengthy white papers and extensive documentation for simple code
+reuse scenarios. Often this culture discourages software developers from
+reusing proven, tested code because it would take longer to justify their
+choice of library, than to rewrite the code from scratch.</p>
+<p>In addition, the developer is accepts responsibility that if there are any
+future issues with that reused code, justified or not, she is to blame.
+Essentially the development process takes much longer than expected so that
+everyone can cover their ass with documentation in case of failure.</p>
+</div>
+<div class="section" id="budget-process">
+<h2>Budget Process</h2>
+<p>All budget must be requested up front, often in multi-year estimates. The
+software development estimation process is impossible on such long time
+scales. Projects literally set themselves up for failure and inaccurate
+budgets before they even begin.</p>
+<p>The flip side of this budget process situation is that even if a company
+believes it can solve a problem cheaply, they are incentivized to pad
+estimates because no further funding can be requested in the future.</p>
+</div>
+<div class="section" id="no-third-party-services">
+<h2>No Third Party Services</h2>
+<p>Third party services are <a class="reference external" href="http://www.youtube.com/watch?v=iGP8DQIqxXs&amp;list=SPtqtTJ4wP09YOFqm_lBCoQtmS6S0omW3J&amp;index=29">near and dear to my heart</a>
+because when properly leveraged developers can build applications
+orders of magnitudes faster than by building everything from scratch.</p>
+<p>The value proposition of third party services is clear. By paying
+<a class="reference external" href="http://newrelic.com/">New Relic</a> $24 a month for instantly
+integrated, powerful application-level monitoring, I don't have to rebuild
+that functionality myself. New Relic has invested millions of dollars
+into their platform. There's no reason for me to duplicate that functionality,
+or the features of other platforms like
+<a class="reference external" href="https://www.dropbox.com/">Dropbox</a>,
+<a class="reference external" href="https://www.twilio.com/">Twilio</a>,
+<a class="reference external" href="http://copperegg.com/">CopperEgg</a>,
+<a class="reference external" href="https://www.heroku.com/">Heroku</a>
+(the list goes on and on)
+<strong>except to comply with often arbitrary government data regulations and information assurance questionnaires</strong>.</p>
+<p>In some cases these regulations are justified. In other cases, there is no
+logical reason why data cannot be stored on an existing third party
+platform. Explaining why though goes back to the justification problem
+explained above.</p>
+</div>
+<div class="section" id="i-want-everything-or-nothing">
+<h2>&quot;I Want Everything, or Nothing&quot;</h2>
+<p>The culture around government projects remains skewed towards &quot;big bang&quot;
+project introductions. Gradually rolling out a new system to users is
+rare. The idea is that &quot;unless every piece of functionality is there,
+it is useless&quot; prevents systems from quickly getting into users' hands. Only
+when users are actually working with a system can they can determine what
+functionality is actually useful to them.</p>
+<p>Government project phases are not iterative because they are often several
+months or years long. Agile software engineering demands short feedback loops
+on the maximum timescale of several weeks between production deployments.</p>
+<p>In addition, government employee software developers and consultants
+often recommend reasonable approaches to solving problems iteratively
+but culturally there is significant resistance to those ideas.</p>
+</div>
+<div class="section" id="no-quick-fixes">
+<h2>No Quick Fixes</h2>
+<p>The above problems are difficult issues to solve. Anyone with a &quot;silver
+bullet&quot; for how government can easily build large complex software project
+is selling snake oil. Increasing success rates on major government software
+development projects will only come about through a combination of cultural
+changes, greater technical understanding (by everyone involved in projects,
+not just software developers), and a budget process that allows project
+funding on less expensive iterative engineering methods.</p>
+</div>
+
+      <p>
+      If you're interested in software development and learning more about tech startups, <a href="https://twitter.com/mattmakai">follow me on Twitter</a>.
+      </p>
+        <div id="disqus_thread" style="margin-top: 25px;"></div>
+        <script type="text/javascript">
+            var disqus_shortname = 'codingacrossamerica';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      <a href="/blog.html" class="btn btn-primary" style="text-decoration: none; margin-top: 20px;">View all stories</a>
+    </div>
+  </div>
+</div>      <div class="white-out">
+        <div class="container">
+            <hr/>
+            <div class="footer pull-right">
+                <p>&copy; <a href="http://www.mattmakai.com/">Matt Makai</a> 2013</p>
+            </div>
+        </div>
+    </div>
+    <script src="/js/jquery-2.0.3.min.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/d3.min.js" charset="utf-8"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+    <script src="/js/us-states.js"></script>
+    <script src="/js/caa.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+            if ($('#map-container').length > 0) {
+                drawCitiesMap();
+            }
+                    });
+    </script>
+</body>
+</html>

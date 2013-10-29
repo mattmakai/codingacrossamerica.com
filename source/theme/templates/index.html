@@ -29,6 +29,11 @@
     <div class="white-out">
         <div class="container">
           <div class="row">
+            <div class="col-lg-12">
+                <h3>Latest article: {% for article in articles %}{% if loop.first %}<a href="{{ article.slug }}.html">{{ article.title }}</a>{% endif %}{% endfor %}</h3>
+            </div>
+          </div>
+          <div class="row">
             <div class="col-lg-4">
               <h2>Startups</h2>
               {% set num_startup_posts = 0 %}

@@ -1,5 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-09-17T00:00:00-04:00</updated><entry><title>Fletcher Heisler, Author of Real Python and Developer at TrackMaven</title><link href="http://www.codingacrossamerica.com/fletcher-heisler-real-python-trackmaven.html" rel="alternate"></link><updated>2013-09-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-17:fletcher-heisler-real-python-trackmaven.html</id><summary type="html">&lt;p&gt;Fletcher Heisler (&lt;a class="reference external" href="https://twitter.com/fheisler"&gt;&amp;#64;fheisler&lt;/a&gt;) is the author
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/post.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-10-29T00:00:00-04:00</updated><entry><title>Why Does Building Software for the Government Cost So Much?</title><link href="http://www.codingacrossamerica.com/why-does-building-software-for-government-cost-so-much.html" rel="alternate"></link><updated>2013-10-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-29:why-does-building-software-for-government-cost-so-much.html</id><summary type="html">&lt;p&gt;The latest US government software project under the news media spotlight is
+the &lt;a class="reference external" href="http://www.healthcare.gov/"&gt;healthcare.gov&lt;/a&gt; website. The
+&amp;quot;&lt;a class="reference external" href="http://www.washingtonpost.com/blogs/fact-checker/wp/2013/10/24/how-much-did-healthcare-gov-cost/"&gt;at least $350 million&lt;/a&gt;&amp;quot;
+project has let few visitors complete the sign up process. When the
+sign up process actually is successful, the
+&lt;a class="reference external" href="http://www.theverge.com/2013/10/18/4851998/healthcare-gov-is-sending-insurers-wrong-data"&gt;wrong data is often being sent to insurers&lt;/a&gt;. The New York Times
+covered how technical issues turned into political difficulties:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the first time in history, a president has had to stand in the Rose
+Garden to apologize for a broken Web site. But HealthCare.gov is only the
+latest episode in a string of information technology debacles by the
+federal government.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.nytimes.com/2013/10/25/opinion/getting-to-the-bottom-of-healthcaregovs-flop.html?pagewanted=all&amp;amp;_r=0"&gt;Clay Johnson and Harper Reed NY Times Op-Ed&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Despite the current issues with healthcare.gov, at least the website
+launched on time. The same cannot be said for many expensive
+government projects, such as the
+&lt;a class="reference external" href="http://www.washingtonpost.com/wp-dyn/content/article/2006/08/17/AR2006081701485.html"&gt;FBI's Virtual Case Management System&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Why are these high profile failures and massive cost overruns so common in
+government software development projects? This is a list of the most
+significant issues that arise on these projects from my personal experience
+in software development across several government agencies
+(&lt;a class="reference external" href="http://www.pcb007.com/pages/zone.cgi?a=48412"&gt;US Army&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.fiercegovernmentit.com/story/fbis-innovari-could-fail-says-ig/2010-08-09"&gt;FBI&lt;/a&gt;,
+&lt;a class="reference external" href="http://radar.oreilly.com/2012/04/open-source-government-cfpb.html"&gt;CFPB&lt;/a&gt;)
+and commercial and non-profit organizations
+(&lt;a class="reference external" href="http://www.marriott.com/"&gt;Marriott&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.freddiemac.com/"&gt;Freddie Mac&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.foolfunds.com/"&gt;The Motley Fool&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.nti.org/"&gt;NTI&lt;/a&gt;, &lt;a class="reference external" href="http://www.gwu.edu/"&gt;GWU&lt;/a&gt;).&lt;/p&gt;
+&lt;div class="section" id="those-holding-the-purse-strings-are-not-users"&gt;
+&lt;h2&gt;Those Holding the Purse Strings Are Not Users&lt;/h2&gt;
+&lt;p&gt;The government has a formal title for the guy who's in charge of the contract
+and related financial decisions: Contracting Officer Representative (COR).
+The COR is generally not an actual user. In a worst case scenario there are
+multiple owners, none of whom will actually use the software, and everyone
+has to put their stamp on every decision. Non-users are inclined to approve
+flashy features and functionality that have no mission value but look good
+during a demo.&lt;/p&gt;
+&lt;p&gt;There needs to be a better way to determine what value is provided to actual
+users. However, even in this case there are often problems. Many end users do
+not want a new software system. They sometimes do not want to retrain on a
+new system or are concerned that their jobs will be replaced once the new
+system is up and running.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="time-money-is-needed-to-justify-every-choice"&gt;
+&lt;h2&gt;Time (Money) Is Needed to Justify Every Choice&lt;/h2&gt;
+&lt;p&gt;Justifying the use of common software libraries can often take multiple
+weeks over periods of several months. Software developers are often asked
+to create lengthy white papers and extensive documentation for simple code
+reuse scenarios. Often this culture discourages software developers from
+reusing proven, tested code because it would take longer to justify their
+choice of library, than to rewrite the code from scratch.&lt;/p&gt;
+&lt;p&gt;In addition, the developer is accepts responsibility that if there are any
+future issues with that reused code, justified or not, she is to blame.
+Essentially the development process takes much longer than expected so that
+everyone can cover their ass with documentation in case of failure.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="budget-process"&gt;
+&lt;h2&gt;Budget Process&lt;/h2&gt;
+&lt;p&gt;All budget must be requested up front, often in multi-year estimates. The
+software development estimation process is impossible on such long time
+scales. Projects literally set themselves up for failure and inaccurate
+budgets before they even begin.&lt;/p&gt;
+&lt;p&gt;The flip side of this budget process situation is that even if a company
+believes it can solve a problem cheaply, they are incentivized to pad
+estimates because no further funding can be requested in the future.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="no-third-party-services"&gt;
+&lt;h2&gt;No Third Party Services&lt;/h2&gt;
+&lt;p&gt;Third party services are &lt;a class="reference external" href="http://www.youtube.com/watch?v=iGP8DQIqxXs&amp;amp;list=SPtqtTJ4wP09YOFqm_lBCoQtmS6S0omW3J&amp;amp;index=29"&gt;near and dear to my heart&lt;/a&gt;
+because when properly leveraged developers can build applications
+orders of magnitudes faster than by building everything from scratch.&lt;/p&gt;
+&lt;p&gt;The value proposition of third party services is clear. By paying
+&lt;a class="reference external" href="http://newrelic.com/"&gt;New Relic&lt;/a&gt; $24 a month for instantly
+integrated, powerful application-level monitoring, I don't have to rebuild
+that functionality myself. New Relic has invested millions of dollars
+into their platform. There's no reason for me to duplicate that functionality,
+or the features of other platforms like
+&lt;a class="reference external" href="https://www.dropbox.com/"&gt;Dropbox&lt;/a&gt;,
+&lt;a class="reference external" href="https://www.twilio.com/"&gt;Twilio&lt;/a&gt;,
+&lt;a class="reference external" href="http://copperegg.com/"&gt;CopperEgg&lt;/a&gt;,
+&lt;a class="reference external" href="https://www.heroku.com/"&gt;Heroku&lt;/a&gt;
+(the list goes on and on)
+&lt;strong&gt;except to comply with often arbitrary government data regulations and information assurance questionnaires&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In some cases these regulations are justified. In other cases, there is no
+logical reason why data cannot be stored on an existing third party
+platform. Explaining why though goes back to the justification problem
+explained above.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="i-want-everything-or-nothing"&gt;
+&lt;h2&gt;&amp;quot;I Want Everything, or Nothing&amp;quot;&lt;/h2&gt;
+&lt;p&gt;The culture around government projects remains skewed towards &amp;quot;big bang&amp;quot;
+project introductions. Gradually rolling out a new system to users is
+rare. The idea is that &amp;quot;unless every piece of functionality is there,
+it is useless&amp;quot; prevents systems from quickly getting into users' hands. Only
+when users are actually working with a system can they can determine what
+functionality is actually useful to them.&lt;/p&gt;
+&lt;p&gt;Government project phases are not iterative because they are often several
+months or years long. Agile software engineering demands short feedback loops
+on the maximum timescale of several weeks between production deployments.&lt;/p&gt;
+&lt;p&gt;In addition, government employee software developers and consultants
+often recommend reasonable approaches to solving problems iteratively
+but culturally there is significant resistance to those ideas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="no-quick-fixes"&gt;
+&lt;h2&gt;No Quick Fixes&lt;/h2&gt;
+&lt;p&gt;The above problems are difficult issues to solve. Anyone with a &amp;quot;silver
+bullet&amp;quot; for how government can easily build large complex software project
+is selling snake oil. Increasing success rates on major government software
+development projects will only come about through a combination of cultural
+changes, greater technical understanding (by everyone involved in projects,
+not just software developers), and a budget process that allows project
+funding on less expensive iterative engineering methods.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Fletcher Heisler, Author of Real Python and Developer at TrackMaven</title><link href="http://www.codingacrossamerica.com/fletcher-heisler-real-python-trackmaven.html" rel="alternate"></link><updated>2013-09-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-17:fletcher-heisler-real-python-trackmaven.html</id><summary type="html">&lt;p&gt;Fletcher Heisler (&lt;a class="reference external" href="https://twitter.com/fheisler"&gt;&amp;#64;fheisler&lt;/a&gt;) is the author
 of the Real Python lessons and currently a Python developer at TrackMaven,
 based in Dupont Circle, Washington, D.C.&lt;/p&gt;
 &lt;img alt="Fletcher Heisler, author of Real Python lessons" src="../img/130917-fletcher-heisler-interview/fletcher.jpg" style="width: 100%;" /&gt;
