@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-10-29T00:00:00-04:00</updated><entry><title>Why Does Building Software for the Government Cost So Much?</title><link href="http://www.codingacrossamerica.com/why-does-building-software-for-government-cost-so-much.html" rel="alternate"></link><updated>2013-10-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-29:why-does-building-software-for-government-cost-so-much.html</id><summary type="html">&lt;p&gt;The latest US government software project under the news media spotlight is
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all-en.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-10-30T00:00:00-04:00</updated><entry><title>Andrew Baker, Python Developer at Excella and CFPB</title><link href="http://www.codingacrossamerica.com/andrew-baker-python-developer-excella-cfpb.html" rel="alternate"></link><updated>2013-10-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-30:andrew-baker-python-developer-excella-cfpb.html</id><summary type="html">&lt;p&gt;Andrew Baker (&lt;a class="reference external" href="https://twitter.com/andrewtorkbaker"&gt;&amp;#64;andrewtorkbaker&lt;/a&gt;) is
+a Python software developer at Excella Consulting currently assisting
+the Consumer Financial Protection Bureau.&lt;/p&gt;
+&lt;img alt="Andrew Tork Baker, Python software developer" src="../img/131030-andrew-baker-interview/andrew-tork-baker.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Andrew Baker while out to lunch in the Farragut West area of Washington,
+D.C. at &lt;a class="reference external" href="http://breadline.com/"&gt;Breadline&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="latest-technologies"&gt;
+&lt;h2&gt;Latest Technologies&lt;/h2&gt;
+&lt;p&gt;Andrew is currently working on the continuous deployment pipeline at
+the &lt;a class="reference external" href="http://www.consumerfinance.gov/"&gt;Consumer Financial Protection Bureau&lt;/a&gt;
+(CFPB). Significant technical debt accrued in CFPB's technical
+infrastructure over the past several years while standing up the agency.
+Reducing that debt and enabling future projects to deliver faster are
+the main goals for Andrew's most recent work.&lt;/p&gt;
+&lt;p&gt;Developers at CFPB are using several tools to figure out where the technical
+debt is located in their code and the development process. The CFPB team
+has &lt;a class="reference external" href="http://jenkins-ci.org/"&gt;Jenkins continuous integration&lt;/a&gt; set up to
+constantly check syntax with &lt;a class="reference external" href="https://pypi.python.org/pypi/pep8"&gt;pep8&lt;/a&gt;,
+perform static code analysis with &lt;a class="reference external" href="http://www.pylint.org/"&gt;pylint&lt;/a&gt;, and
+determine code complexity with &lt;a class="reference external" href="https://pypi.python.org/pypi/radon"&gt;radon&lt;/a&gt;.
+Andrew and the rest of the the team can then use the output of those tools to
+determine where to spend their efforts
+&lt;a class="reference external" href="http://www.refactoring.com/"&gt;refactoring&lt;/a&gt; the code to reduce the debt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="docker"&gt;
+&lt;h2&gt;Docker&lt;/h2&gt;
+&lt;p&gt;Andrew says he's recently had a lot of fun playing with
+&lt;a class="reference external" href="http://www.dockerio.com/"&gt;Docker&lt;/a&gt; on side projects. He found out about
+Docker through a
+&lt;a class="reference external" href="http://www.youtube.com/watch?v=_Q9YlJV-wgQ"&gt;talk he saw at DjangoCon&lt;/a&gt;
+given by
+&lt;a class="reference external" href="http://kencochrane.net/index.html"&gt;Ken Cochran&lt;/a&gt;
+(&lt;a class="reference external" href="https://twitter.com/KenCochrane"&gt;&amp;#64;KenCochrane&lt;/a&gt;). From there Andrew went
+through the Docker
+&lt;a class="reference external" href="http://www.docker.io/gettingstarted/"&gt;&amp;quot;Getting Started&amp;quot; tutorial&lt;/a&gt; and
+&lt;a class="reference external" href="http://docs.docker.io/en/latest/examples/python_web_app/"&gt;Python examples&lt;/a&gt;
+to get his own hands on experience with the software.&lt;/p&gt;
+&lt;p&gt;While there are still a few rough edges the software holds a lot of
+potential for opening up programmatic manipulation of lightweight
+virtualization to mainstream developers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="learning-to-program"&gt;
+&lt;h2&gt;Learning to Program&lt;/h2&gt;
+&lt;p&gt;While at the University of Virginia (UVA), Andrew double majored in Computer
+Science and Foreign Affairs. He also served as Editor-in-Chief of
+&lt;a class="reference external" href="http://www.cavalierdaily.com/"&gt;The Cavalier Daily&lt;/a&gt;, UVA's award-winning
+student-run newspaper. It was at The Cavalier Daily that Andrew was first
+exposed to &lt;a class="reference external" href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;, which at the time
+ran the newspaper's website (it was later migrated to a different tech stack).&lt;/p&gt;
+&lt;p&gt;After college Andrew worked for
+&lt;a class="reference external" href="http://www.accenture.com/us-en/pages/index.aspx"&gt;Accenture&lt;/a&gt;
+programming Java and SQL applications. That experience combined with his
+Computer Science degree from UVA allowed him to be successful programming
+with Python after moving to Excella Consulting. He now works with the Python
+stack full time as well as with most of him side projects such as his
+&lt;a class="reference external" href="http://www.andrewtorkbaker.com/"&gt;technical blog&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="cfpb-s-eregulations-and-regulations-parser"&gt;
+&lt;h2&gt;CFPB's eRegulations and Regulations Parser&lt;/h2&gt;
+&lt;p&gt;A quick plug for a couple of open source projects from CFPB:
+&lt;a class="reference external" href="http://eregs.github.io/eregulations/"&gt;eRegulations&lt;/a&gt; and the
+&lt;a class="reference external" href="https://github.com/cfpb/regulations-parser"&gt;regulations parser&lt;/a&gt;. While
+Andrew only indirectly supported these projects at CFPB he's been very
+impressed by the interest from the broader open source community so far.
+Great job by
+&lt;a class="reference external" href="http://skhandelwal.com/"&gt;Shashank Khandelwal&lt;/a&gt;
+and &lt;a class="reference external" href="http://cmlubinski.info/"&gt;C.M. Lubinski&lt;/a&gt; for their programming and
+their roles engaging with the broader open source community.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked this post you should check out my interview with
+&lt;a class="reference external" href="/fletcher-heisler-real-python-trackmaven.html"&gt;Fletcher Heisler of TrackMaven&lt;/a&gt;
+and my post on
+&lt;a class="reference external" href="/four-types-startup-tech-cities.html"&gt;the four types of cities' startup tech scenes&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Why Does Building Software for the Government Cost So Much?</title><link href="http://www.codingacrossamerica.com/why-does-building-software-for-government-cost-so-much.html" rel="alternate"></link><updated>2013-10-29T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-29:why-does-building-software-for-government-cost-so-much.html</id><summary type="html">&lt;p&gt;The latest US government software project under the news media spotlight is
 the &lt;a class="reference external" href="http://www.healthcare.gov/"&gt;healthcare.gov&lt;/a&gt; website. The
 &amp;quot;&lt;a class="reference external" href="http://www.washingtonpost.com/blogs/fact-checker/wp/2013/10/24/how-much-did-healthcare-gov-cost/"&gt;at least $350 million&lt;/a&gt;&amp;quot;
 project has let few visitors complete the sign up process. When the
@@ -5666,7 +5741,13 @@ skew the results towards a vision that isn't accurate (say, Palo Alto,
 Seattle, Austin, and Boulder for instance).&lt;/p&gt;
 </summary></entry><entry><title>Thoughts On Some Destinations</title><link href="http://www.codingacrossamerica.com/thoughts-on-some-destinations.html" rel="alternate"></link><updated>2012-06-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2012-06-30:thoughts-on-some-destinations.html</id><summary type="html">&lt;p&gt;I originally began writing posts for every city I planned to visit but
 halfway through I felt like I got out of the exercise what I wanted. These
-are the condensed and cleaned up versions of the original posts by city.&lt;/p&gt;
+are the condensed and cleaned up versions of the original posts by city.
+Some of the posts are quick summaries of why I wanted to visit there
+while others get more into what I know and want to find out about the
+software development scenes there.&lt;/p&gt;
+&lt;p&gt;The cities included in this post are Charlottesville, Charlotte, New Orleans,
+Memphis, Austin, Lubbock, Los Alamos, Moab, San Diego, Los Angeles, and
+San Francisco.&lt;/p&gt;
 &lt;div class="section" id="charlottesville-virginia"&gt;
 &lt;h2&gt;Charlottesville, Virginia&lt;/h2&gt;
 &lt;p&gt;I lived in Charlottesville, VA from 2007-09. Charlottesville's distance

@@ -9,6 +9,13 @@ Thoughts On Some Destinations
 I originally began writing posts for every city I planned to visit but
 halfway through I felt like I got out of the exercise what I wanted. These 
 are the condensed and cleaned up versions of the original posts by city.
+Some of the posts are quick summaries of why I wanted to visit there
+while others get more into what I know and want to find out about the
+software development scenes there.
+
+The cities included in this post are Charlottesville, Charlotte, New Orleans, 
+Memphis, Austin, Lubbock, Los Alamos, Moab, San Diego, Los Angeles, and 
+San Francisco.
 
 Charlottesville, Virginia
 -------------------------
