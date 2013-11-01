@@ -73,7 +73,7 @@ After college Andrew worked for
 programming Java and SQL applications. That experience combined with his
 Computer Science degree from UVA allowed him to be successful programming
 with Python after moving to Excella Consulting. He now works with the Python
-stack full time as well as with most of him side projects such as his
+stack full time as well as with side projects such as his
 `technical blog <http://www.andrewtorkbaker.com/>`_.
 
 
