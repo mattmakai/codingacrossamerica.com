@@ -3,7 +3,7 @@ CopperEgg
 
 :date: 2013-04-04
 :slug: copperegg-austin-tx
-:category: future-post
+:category: post
 :post_type: startup
 :author: Matt Makai
 
@@ -17,7 +17,40 @@ management.
 
 ----
 
-abc
+CopperEgg's service started as a product for analyzing network traffic. After
+the initial concept was built, the team realized they could apply similar
+methods to other infrastructure metrics such as CPU utilization, memory
+usage, and storage performance. 
+
+Monitoring server infrastructure is simple in theory, but becomes extremely
+complicated when scaling to hundreds or thousands of servers. CopperEgg is
+designed to solve that problem by giving continuous near real-time feedback 
+to systems administrators and DevOps teams. 
+
+One of the use cases we talked through is when development teams apply 
+infrastructure changes to their production environments. The teams can then
+immediately see the results of those changes through CopperEgg's metrics and
+understand the impact of those changes. Writing similar monitoring software 
+in-house would be an enormous undertaking which is why CopperEgg's 
+software-as-a-service value proposition is an easy justification in  
+infrastructure environments with many servers.
+
+.. image:: ../img/130404-copperegg/quarters.jpg
+  :alt: "Quarters" egg on the wall of CopperEgg's office
+  :width: 100%
+
+----
+
+While at first it would appear that CopperEgg's offering is similar to 
+`New Relic <http://newrelic.com/>`_'s platform, they are attacking monitoring
+from two different perspectives.
+
+
+.. image:: ../img/130404-copperegg/matt-makai-copperegg.jpg
+  :alt: Matt Makai holding "The Egg" next to CopperEgg's logo
+  :width: 100%
+
+Me next to CopperEgg's logo at their office while holding "The Egg"
 
 ----
 

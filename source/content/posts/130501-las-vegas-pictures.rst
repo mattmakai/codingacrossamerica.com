@@ -98,14 +98,6 @@ A view of the new Vegas Strip from Tony Hsieh's condo downtown.
 
 ----
 
-.. image:: ../img/130501-las-vegas-pictures/downtown-project-area-map.jpg
-  :alt: Downtown Project scope as shown on an area map.
-  :width: 100%
-
-Downtown Project scope as shown on an area map.
-
-----
-
 .. image:: ../img/130501-las-vegas-pictures/original-vegas-strip.jpg
   :alt: The original Las Vegas Strip.
   :width: 100%
