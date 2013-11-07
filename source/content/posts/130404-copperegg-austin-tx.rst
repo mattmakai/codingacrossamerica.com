@@ -3,7 +3,7 @@ CopperEgg
 
 :date: 2013-04-04
 :slug: copperegg-austin-tx
-:category: post
+:category: future-post
 :post_type: startup
 :author: Matt Makai
 
