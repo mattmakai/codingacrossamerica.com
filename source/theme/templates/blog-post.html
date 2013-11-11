@@ -2,7 +2,7 @@
 <h1>{{ article.title }}</h1>
   <div>
     By 
-    <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a> on
+    <a href="http://www.mattmakai.com/pages/about.html">Matt Makai</a>.
     {{ article.date.strftime('%m.%d.%Y') }}. {% if article.tags %}Tags: {% for t in article.tags %}{% if not loop.first %}, {% endif %}{{ t.name }}{% endfor %}{% endif %}
   </div>
   <div class="row">
