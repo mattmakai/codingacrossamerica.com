@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-10-30T00:00:00-04:00</updated><entry><title>Andrew Baker, Python Developer at Excella and CFPB</title><link href="http://www.codingacrossamerica.com/andrew-baker-python-developer-excella-cfpb.html" rel="alternate"></link><updated>2013-10-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-30:andrew-baker-python-developer-excella-cfpb.html</id><summary type="html">&lt;p&gt;Andrew Baker (&lt;a class="reference external" href="https://twitter.com/andrewtorkbaker"&gt;&amp;#64;andrewtorkbaker&lt;/a&gt;) is
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-11-11T00:00:00-05:00</updated><entry><title>San Francisco November Pictures</title><link href="http://www.codingacrossamerica.com/san-francisco-november-pictures.html" rel="alternate"></link><updated>2013-11-11T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-11:san-francisco-november-pictures.html</id><summary type="html">&lt;p&gt;I took a quick trip out to San Francisco on November 7-9. While I had some
+downtime I walked around a bit and took some pictures. Here are the best
+ones I snapped.&lt;/p&gt;
+&lt;img alt="Downtown skyline of San Francisco during the day" src="../img/131111-sf-pictures/downtown-skyline-day.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Downtown skyline of San Francisco during the day&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Looking up at one of the buildings from the park" src="../img/131111-sf-pictures/looking-up.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Looking up at one of the buildings from the park&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Artwork at the park" src="../img/131111-sf-pictures/park-artwork.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Artwork at the park&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Art billboard in the park" src="../img/131111-sf-pictures/art-billboard.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Art billboard in the park&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Art billboard in the park plus the building" src="../img/131111-sf-pictures/billboard-art-building.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Another shot of the billboard with the building for context&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Fauna at the park" src="../img/131111-sf-pictures/fauna-park.jpg" style="width: 100%;" /&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="People doing yoga at the park" src="../img/131111-sf-pictures/yoga-park.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;People doing yoga at the park&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="A church downtown" src="../img/131111-sf-pictures/church-downtown.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;A church downtown contrasted with residential and business buildings&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Looking up at downtown San Francisco buildings at dusk" src="../img/131111-sf-pictures/buildings-dusk.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Downtown San Francisco buildings at dusk&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Part of the downtown skyline of San Francisco at night" src="../img/131111-sf-pictures/downtown-night.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Part of the downtown skyline of San Francisco at night&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked these pictures you should check out my other photos from
+&lt;a class="reference external" href="/austin-tx-pictures.html"&gt;Austin&lt;/a&gt; as well as some of my pictures from
+&lt;a class="reference external" href="/portland-oregon-pictures.html"&gt;Portland&lt;/a&gt; my road trip.&lt;/p&gt;
+</summary></entry><entry><title>Andrew Baker, Python Developer at Excella and CFPB</title><link href="http://www.codingacrossamerica.com/andrew-baker-python-developer-excella-cfpb.html" rel="alternate"></link><updated>2013-10-30T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-30:andrew-baker-python-developer-excella-cfpb.html</id><summary type="html">&lt;p&gt;Andrew Baker (&lt;a class="reference external" href="https://twitter.com/andrewtorkbaker"&gt;&amp;#64;andrewtorkbaker&lt;/a&gt;) is
 a Python software developer at Excella Consulting currently assisting
 the Consumer Financial Protection Bureau.&lt;/p&gt;
 &lt;img alt="Andrew Tork Baker, Python software developer" src="../img/131030-andrew-baker-interview/andrew-tork-baker.jpg" style="width: 100%;" /&gt;
