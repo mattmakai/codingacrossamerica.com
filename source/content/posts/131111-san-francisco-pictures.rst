@@ -9,7 +9,7 @@ San Francisco November Pictures
 
 I took a quick trip out to San Francisco on November 7-9. While I had some
 downtime I walked around a bit and took some pictures. Here are the best
-ones I snapped.
+ones I snapped during my brief tour around downtown.
 
 
 .. image:: ../img/131111-sf-pictures/downtown-skyline-day.jpg
