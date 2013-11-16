@@ -2,7 +2,7 @@ Max Richman, Statistician and Data Scientist at GeoPoll
 =======================================================
 
 :slug: max-richman-statistician-data-scientist-geopoll
-:date: 2013-11-12
+:date: 2013-10-10
 :category: future-post
 :post_type: interview
 :author: Matt Makai
