@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-11-11T00:00:00-05:00</updated><entry><title>San Francisco November Pictures</title><link href="http://www.codingacrossamerica.com/san-francisco-november-pictures.html" rel="alternate"></link><updated>2013-11-11T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-11:san-francisco-november-pictures.html</id><summary type="html">&lt;p&gt;I took a quick trip out to San Francisco on November 7-9. While I had some
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-11-12T00:00:00-05:00</updated><entry><title>Max Richman, Statistician and Data Scientist at GeoPoll</title><link href="http://www.codingacrossamerica.com/max-richman-statistician-data-scientist-geopoll.html" rel="alternate"></link><updated>2013-11-12T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-12:max-richman-statistician-data-scientist-geopoll.html</id><summary type="html">&lt;p&gt;Max Richman (&lt;a class="reference external" href="https://twitter.com/richmanmax"&gt;&amp;#64;richmanmax&lt;/a&gt;) is a
+statistician and data scientist currently working with GeoPoll in
+Washington, D.C. and volunteering for DataKind.&lt;/p&gt;
+&lt;img alt="Max Richman, Python and R data scientist" src="../img/131115-interview-max-richman/max-richman.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Max Richman on &amp;quot;bowtie Thursdays&amp;quot; while out to lunch at Mai Thai in Dupont
+Circle, Washington, D.C.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;There's a wide spectrum of when software developers learn to program.
+At one extreme of the spectrum there are programmers who learn to use
+computers when they are very young. One the other end there are programmers
+who learn later in life out of necessity. Max's path into progamming begins
+closer to the second extreme while working on his Master's in statistics
+at the London School of Economics.&lt;/p&gt;
+&lt;div class="section" id="learning-to-program"&gt;
+&lt;h2&gt;Learning to Program&lt;/h2&gt;
+&lt;p&gt;Max's first exposure to programming came during undergrad with a course
+taught in Delphi Pascal, but it wasn't until his Master's degree program
+that he fully engaged with software development.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="latest-technologies"&gt;
+&lt;h2&gt;Latest Technologies&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="volunteering-for-datakind"&gt;
+&lt;h2&gt;Volunteering for DataKind&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.datakind.org/"&gt;DataKind&lt;/a&gt; is a volunteer organization based in
+New York City that pairs data scientists and non-profit organizations
+together to create data science solutions to problems those organizations
+face when working to achieve their missions.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked this post you should check out my interviews with
+&lt;a class="reference external" href="/andrew-baker-python-developer-excella-cfpb.html"&gt;Python software developer Andrew Baker&lt;/a&gt;
+and
+&lt;a class="reference external" href="/fletcher-heisler-real-python-trackmaven.html"&gt;Fletcher Heisler of TrackMaven&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>San Francisco November Pictures</title><link href="http://www.codingacrossamerica.com/san-francisco-november-pictures.html" rel="alternate"></link><updated>2013-11-11T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-11:san-francisco-november-pictures.html</id><summary type="html">&lt;p&gt;I took a quick trip out to San Francisco on November 7-9. While I had some
 downtime I walked around a bit and took some pictures. Here are the best
-ones I snapped.&lt;/p&gt;
+ones I snapped during my brief tour around downtown.&lt;/p&gt;
 &lt;img alt="Downtown skyline of San Francisco during the day" src="../img/131111-sf-pictures/downtown-skyline-day.jpg" style="width: 100%;" /&gt;
 &lt;p&gt;Downtown skyline of San Francisco during the day&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
