@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-11-11T00:00:00-05:00</updated><entry><title>San Francisco November Pictures</title><link href="http://www.codingacrossamerica.com/san-francisco-november-pictures.html" rel="alternate"></link><updated>2013-11-11T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-11:san-francisco-november-pictures.html</id><summary type="html">&lt;p&gt;I took a quick trip out to San Francisco on November 7-9. While I had some
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-11-15T00:00:00-05:00</updated><entry><title>Max Richman, Statistician and Data Scientist at GeoPoll</title><link href="http://www.codingacrossamerica.com/max-richman-statistician-data-scientist-geopoll.html" rel="alternate"></link><updated>2013-11-15T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-15:max-richman-statistician-data-scientist-geopoll.html</id><summary type="html">&lt;p&gt;Max Richman (&lt;a class="reference external" href="https://twitter.com/richmanmax"&gt;&amp;#64;richmanmax&lt;/a&gt;) is a
+statistician and data scientist currently working with GeoPoll in
+Washington, D.C. and volunteering for DataKind.&lt;/p&gt;
+&lt;img alt="Max Richman, Python and R data scientist" src="../img/131115-interview-max-richman/max-richman.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Max Richman on &amp;quot;bowtie Thursdays&amp;quot; while out to lunch at Mai Thai in Dupont
+Circle, Washington, D.C.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;There's a wide spectrum of when software developers learn to program.
+At one extreme of the spectrum there are programmers who learn to use
+computers when they are very young. One the other end there are programmers
+who learn later in life out of necessity. Max's path into progamming begins
+closer to the second extreme while working on his Master's degree in
+statistics.&lt;/p&gt;
+&lt;div class="section" id="learning-to-program"&gt;
+&lt;h2&gt;Learning to Program&lt;/h2&gt;
+&lt;p&gt;Max's first exposure to programming came during undergrad with a course
+taught in Delphi Pascal, but it wasn't until his Master's degree program
+at the London School of Economics (LSE) that he fully engaged with software
+development. At LSE Max did significant programming with SAS and other
+statistics-first languages. After the program he shifted into to the open
+source world of statistics languages, primarily
+&lt;a class="reference external" href="http://www.r-project.org/"&gt;R&lt;/a&gt;. Max also used Python for data processing
+and GIS software for mapping resulting data sets.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="latest-technologies"&gt;
+&lt;h2&gt;Latest Technologies&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="volunteering-for-datakind"&gt;
+&lt;h2&gt;Volunteering for DataKind&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.datakind.org/"&gt;DataKind&lt;/a&gt; is a volunteer organization based in
+New York City that pairs data scientists and non-profit organizations
+together to create data science solutions to problems those organizations
+face when working to achieve their missions.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked this post you should check out my interviews with
+&lt;a class="reference external" href="/andrew-baker-python-developer-excella-cfpb.html"&gt;Python software developer Andrew Baker&lt;/a&gt;
+and
+&lt;a class="reference external" href="/fletcher-heisler-real-python-trackmaven.html"&gt;Fletcher Heisler of TrackMaven&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>San Francisco November Pictures</title><link href="http://www.codingacrossamerica.com/san-francisco-november-pictures.html" rel="alternate"></link><updated>2013-11-11T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-11:san-francisco-november-pictures.html</id><summary type="html">&lt;p&gt;I took a quick trip out to San Francisco on November 7-9. While I had some
 downtime I walked around a bit and took some pictures. Here are the best
 ones I snapped during my brief tour around downtown.&lt;/p&gt;
 &lt;img alt="Downtown skyline of San Francisco during the day" src="../img/131111-sf-pictures/downtown-skyline-day.jpg" style="width: 100%;" /&gt;
@@ -301,40 +340,6 @@ at dusk.&lt;/p&gt;
 &lt;a class="reference external" href="/chicago-pictures.html"&gt;Chicago&lt;/a&gt;
 and
 &lt;a class="reference external" href="/seattle-city-pictures.html"&gt;Seattle&lt;/a&gt; during my road trip.&lt;/p&gt;
-</summary></entry><entry><title>Max Richman, Statistician and Data Scientist at GeoPoll</title><link href="http://www.codingacrossamerica.com/max-richman-statistician-data-scientist-geopoll.html" rel="alternate"></link><updated>2013-10-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-10-10:max-richman-statistician-data-scientist-geopoll.html</id><summary type="html">&lt;p&gt;Max Richman (&lt;a class="reference external" href="https://twitter.com/richmanmax"&gt;&amp;#64;richmanmax&lt;/a&gt;) is a
-statistician and data scientist currently working with GeoPoll in
-Washington, D.C. and volunteering for DataKind.&lt;/p&gt;
-&lt;img alt="Max Richman, Python and R data scientist" src="../img/131115-interview-max-richman/max-richman.jpg" style="width: 100%;" /&gt;
-&lt;p&gt;Max Richman on &amp;quot;bowtie Thursdays&amp;quot; while out to lunch at Mai Thai in Dupont
-Circle, Washington, D.C.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;p&gt;There's a wide spectrum of when software developers learn to program.
-At one extreme of the spectrum there are programmers who learn to use
-computers when they are very young. One the other end there are programmers
-who learn later in life out of necessity. Max's path into progamming begins
-closer to the second extreme while working on his Master's in statistics
-at the London School of Economics.&lt;/p&gt;
-&lt;div class="section" id="learning-to-program"&gt;
-&lt;h2&gt;Learning to Program&lt;/h2&gt;
-&lt;p&gt;Max's first exposure to programming came during undergrad with a course
-taught in Delphi Pascal, but it wasn't until his Master's degree program
-that he fully engaged with software development.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="latest-technologies"&gt;
-&lt;h2&gt;Latest Technologies&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="volunteering-for-datakind"&gt;
-&lt;h2&gt;Volunteering for DataKind&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.datakind.org/"&gt;DataKind&lt;/a&gt; is a volunteer organization based in
-New York City that pairs data scientists and non-profit organizations
-together to create data science solutions to problems those organizations
-face when working to achieve their missions.&lt;/p&gt;
-&lt;hr class="docutils" /&gt;
-&lt;p&gt;If you liked this post you should check out my interviews with
-&lt;a class="reference external" href="/andrew-baker-python-developer-excella-cfpb.html"&gt;Python software developer Andrew Baker&lt;/a&gt;
-and
-&lt;a class="reference external" href="/fletcher-heisler-real-python-trackmaven.html"&gt;Fletcher Heisler of TrackMaven&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
 </summary></entry><entry><title>Fletcher Heisler, Author of Real Python and Developer at TrackMaven</title><link href="http://www.codingacrossamerica.com/fletcher-heisler-real-python-trackmaven.html" rel="alternate"></link><updated>2013-09-17T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-09-17:fletcher-heisler-real-python-trackmaven.html</id><summary type="html">&lt;p&gt;Fletcher Heisler (&lt;a class="reference external" href="https://twitter.com/fheisler"&gt;&amp;#64;fheisler&lt;/a&gt;) is the author
 of the Real Python lessons and currently a Python developer at TrackMaven,
 based in Dupont Circle, Washington, D.C.&lt;/p&gt;
@@ -2349,6 +2354,43 @@ my time). I also skipped over the Pentium II for AMD's Athlon chips.&lt;/p&gt;
 &lt;p&gt;Learn more about the
 &lt;a class="reference external" href="http://www.computerhistory.org/"&gt;Computer History Museum&lt;/a&gt; and take
 the time to visit next time you are in the Bay Area.&lt;/p&gt;
+</summary></entry><entry><title>LA to SF Pacific Coast Highway Pictures</title><link href="http://www.codingacrossamerica.com/la-to-sf-pacific-coast-highway-pictures.html" rel="alternate"></link><updated>2013-05-10T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-10:la-to-sf-pacific-coast-highway-pictures.html</id><summary type="html">&lt;p&gt;I drove the iconic Pacific Coast Highway instead of taking the
+faster I5 route from Los Angeles to San Francisco. These are my best
+pictures from the drive that took over ten hours but was well worth
+the extra time.&lt;/p&gt;
+&lt;img alt="Pacific Coast Highway about an hour and a half outside of Los Angeles" src="../img/130510-la-to-sf-pch/pch-outside-la.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;The Pacific Coast Highway about an hour and a half outside of Los Angeles&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="View of the Pacific Ocean from behind my S2000" src="../img/130510-la-to-sf-pch/behind-s2000.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;View of the Pacific Ocean from behind my S2000&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Slightly inland of the Pacific Coast Highway near Hearst Castle" src="../img/130510-la-to-sf-pch/pacific-coast-inland.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Slightly inland of the Pacific Coast Highway near Hearst Castle&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Hearst Castle just off the Pacific Coast Highway" src="../img/130510-la-to-sf-pch/castle.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Hearst Castle just off the Pacific Coast Highway&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="The Pacific Coast in California" src="../img/130510-la-to-sf-pch/pacific-coast-water.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;The Pacific Coast in California&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="A shot of the beach on the Pacific coastline in California" src="../img/130510-la-to-sf-pch/pacific-coastline.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;A shot of the beach on the Pacific coastline in California&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Over the top of the S2000 shot while pulled over on the PCH" src="../img/130510-la-to-sf-pch/pch-car-view.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Over the top of the S2000 shot while pulled over on the PCH&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="The road ahead with the mountains and clouds in the distance" src="../img/130510-la-to-sf-pch/road-ahead.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Amazing picture of the road ahead with the mountains and clouds in
+the distance&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="The road ahead closer to the mountain" src="../img/130510-la-to-sf-pch/road-into-mountain.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Closer to the mountains&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="San Francisco view at night" src="../img/130510-la-to-sf-pch/san-francisco-night.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Finally arriving at my destination, San Francisco, with a nighttime view&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked these pictures, check out &lt;a class="reference external" href="../moab-scenery.html"&gt;Moab Scenery&lt;/a&gt;
+and &lt;a class="reference external" href="../los-alamos-new-mexico-is-beautiful.html"&gt;Los Alamos is Beautiful&lt;/a&gt;.&lt;/p&gt;
 </summary></entry><entry><title>San Francisco, CA</title><link href="http://www.codingacrossamerica.com/san-francisco-ca.html" rel="alternate"></link><updated>2013-05-09T00:00:00-04:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-05-09:san-francisco-ca.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="Downtown San Francisco, CA" src="../img/san-francisco-ca.jpg" /&gt;
 &lt;hr class="docutils" /&gt;
