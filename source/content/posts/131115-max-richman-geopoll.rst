@@ -56,6 +56,13 @@ through mobile devices. The mobile approach is particularly useful for
 collecting data from third-world countries where mobile phone penetration 
 is high but other infrastructure is sparse.
 
+Although mobile adoption rates are high in third world countries, many of 
+the phones are feature phones instead of smartphones. Therefore it is critical
+that surveys can be conducted through text messages and interactive voice 
+response (IVR). GeoPoll uses `Twilio <https://www.twilio.com/>`_'s 
+telecommunications platform combined with their custom software to collect
+survey results through text messages and IVR answers.
+
 
 Volunteering for DataKind
 -------------------------
