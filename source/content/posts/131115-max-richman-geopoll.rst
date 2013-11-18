@@ -28,22 +28,33 @@ who learn later in life out of necessity. Max's path into progamming begins
 closer to the second extreme while working on his Master's degree in 
 statistics.
 
+
 Learning to Program
 -------------------
-Max's first exposure to programming came during undergrad with a course 
-taught in Delphi Pascal, but it wasn't until his Master's degree program
-at the London School of Economics (LSE) that he fully engaged with software 
-development. At LSE Max did significant programming with SAS and other
-statistics-first languages. After the program he shifted into to the open
-source world of statistics languages, primarily 
-`R <http://www.r-project.org/>`_. Max also used Python for data processing
-and GIS software for mapping resulting data sets.
+Max's first exposure to programming came during undergrad at George Washington
+University with a course taught in Delphi Pascal, but it wasn't until his 
+Master's program at the London School of Economics (LSE) that he fully 
+engaged with software development. At LSE Max did significant programming 
+with SAS and other statistics-first languages. He also wrote web scrapers
+to collect unstructured data from the web before transforming the data into
+structured content. 
 
+After LSE, Max shifted into to the open source world of statistics languages, 
+primarily `R <http://www.r-project.org/>`_. Max also used Python for data 
+processing and geospatial mapping software such as Quantum GIS for displaying 
+resulting data sets. 
 
+Max now combines his statistics, geospatial information systems (GIS),
+and software development experience with his interest in emerging global
+markets for `GeoPoll <http://research.geopoll.com/>`_ and 
+`DataKind <http://www.datakind.org/>`_. 
 
-
-Latest Technologies
--------------------
+GeoPoll
+-------
+GeoPoll is Washington, D.C.-based research and firm that conducts surveys
+through mobile devices. The mobile approach is particularly useful for
+collecting data from third-world countries where mobile phone penetration 
+is high but other infrastructure is sparse.
 
 
 Volunteering for DataKind
