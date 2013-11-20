@@ -38,7 +38,7 @@ Master's program at the
 `London School of Economics <http://www.lse.ac.uk/home.aspx>`_ 
 (LSE) that he fully 
 engaged with software development. At LSE Max did significant programming 
-with SAS and other statistics-first languages. He also wrote 
+with Stata, SPSS, and other statistics-first languages. He also wrote 
 `web scrapers <http://en.wikipedia.org/wiki/Web_scraping>`_
 to collect unstructured data from the web.
 
