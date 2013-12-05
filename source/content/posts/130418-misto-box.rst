@@ -83,8 +83,9 @@ and
 about them. MistoBox was also recently on 
 `Shark Tank <http://abc.go.com/shows/shark-tank/episode-guide/episode-423>`_ 
 and received a $75,000 investment from Mark Cuban. 
-Also if you're a software developer in Phoenix, 
+
+If you're a software developer in Phoenix, 
 `get in touch <http://www.mistobox.com/Articles.asp?ID=265>`_ 
-with Samantha and Connor because they would greatly apprecaite technical 
+with Samantha and Connor because they would greatly appreciate technical 
 advice as they continue to grow their business.
 
