@@ -80,7 +80,10 @@ out these articles on
 `TechCrunch <http://techcrunch.com/2012/09/03/mistobox-wants-to-boost-your-morning-cup-of-joe-with-the-birchbox-of-coffee/>`_
 and 
 `Lifehacker <http://lifehacker.com/5940919/mistobox-delivers-freshly-roasted-artisan-coffee-samplers-to-you-every-month>`_ 
-about them. And if you're a software developer in Phoenix, 
+about them. MistoBox was also recently on 
+`Shark Tank <http://abc.go.com/shows/shark-tank/episode-guide/episode-423>`_ 
+and received a $75,000 investment from Mark Cuban. 
+Also if you're a software developer in Phoenix, 
 `get in touch <http://www.mistobox.com/Articles.asp?ID=265>`_ 
 with Samantha and Connor because they would greatly apprecaite technical 
 advice as they continue to grow their business.
