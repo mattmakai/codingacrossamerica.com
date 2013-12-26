@@ -382,10 +382,10 @@ function drawCitiesMap() {
         .bindPopup('<span class="city-name"><a href="/boulder-co.html">Boulder, CO</a><br/>June 12-19, 2013</span><br/><a href="/colorado-hiking-pictures.html">Colorado Hiking Pictures</a>');
     
     L.marker(new L.LatLng(41.58, -93.71)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/des-moines-ia.html">Des Moines, IA</a><br/>June 19-25, 27-July 8, 2013</span><br/><span class="future-stories">Silicon Prairie News<br/>Dwolla<br/>StartupCity Des Moines<br/>Pongr<br/>BitMethod<br/>Hatchlings<br/></span>');
+        .bindPopup('<span class="city-name"><a href="/des-moines-ia.html">Des Moines, IA</a><br/>June 19-25, 27-July 8, 2013</span><br/><span class="future-stories">Silicon Prairie News<br/>Dwolla<br/>StartupCity Des Moines<br/>Pongr<br/>BitMethod<br/>Hatchlings<br/></span><br/><span class="external-resources">External Resources</span><br/><a href="http://www.welchavenue.com/">Welch Avenue</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a>');
     
     L.marker(new L.LatLng(39.10, -94.58)).addTo(map)
-        .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>KCSourceLink<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span>');
+        .bindPopup('<span class="city-name"><a href="/kansas-city-mo.html">Kansas City, MO</a><br/>June 25-27, 2013</span><br/><span class="future-stories">Kaufmann Foundation<br/>KCSourceLink<br/>Entrepreneur KC Radio<br/>SightDeckKC<br/>Leap2<br/>Hacker Village<br/>EyeVerify<br/>One Million Cups KC<br/></span><br/><span class="external-resources">External Resources</span><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a>');
     
     L.marker(new L.LatLng(41.26, -95.94)).addTo(map)
         .bindPopup('<span class="city-name"><a href="/omaha-ne.html">Omaha, NE</a><br/>July 1-2, 2013</span><br/><span class="future-stories">Omaha Python<br/>Startup Genome</span><br/><br/><span class="external-resources">External Resources</span><br/><a href="http://techomaha.com/">Tech Omaha</a><br/><a href="http://www.siliconprairienews.com/">Silicon Prairie News</a><br/><a href="http://jamesharr.github.io/omg-code/">OMG!Code</a></span>');
