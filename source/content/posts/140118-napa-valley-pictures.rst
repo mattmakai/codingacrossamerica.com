@@ -34,7 +34,7 @@ Wine barrel stacks at Grgich Hills Winery.
   :alt: Castle architecture at Chateau Montelena
   :width: 100%
 
-Interesting architecture at Chateau Montelena
+Interesting architecture at Chateau Montelena winery.
 
 ----
 
