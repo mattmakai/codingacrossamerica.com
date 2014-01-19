@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2013-11-15T00:00:00-05:00</updated><entry><title>Max Richman, Statistician and Data Scientist at GeoPoll</title><link href="http://www.codingacrossamerica.com/max-richman-statistician-data-scientist-geopoll.html" rel="alternate"></link><updated>2013-11-15T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-15:max-richman-statistician-data-scientist-geopoll.html</id><summary type="html">&lt;p&gt;Max Richman (&lt;a class="reference external" href="https://twitter.com/richmanmax"&gt;&amp;#64;richmanmax&lt;/a&gt;) is a
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Across America</title><link href="http://www.codingacrossamerica.com/" rel="alternate"></link><link href="http://www.codingacrossamerica.com/feeds/all.atom.xml" rel="self"></link><id>http://www.codingacrossamerica.com/</id><updated>2014-01-18T00:00:00-05:00</updated><entry><title>Napa Valley January Pictures</title><link href="http://www.codingacrossamerica.com/napa-valley-january-pictures.html" rel="alternate"></link><updated>2014-01-18T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2014-01-18:napa-valley-january-pictures.html</id><summary type="html">&lt;p&gt;My travels took me to Napa Valley in the January weekend between my starting
+two weeks at Twilio on the West coast. Here are a few pictures I snapped while
+touring wineries and the surrounding areas north of San Francisco.&lt;/p&gt;
+&lt;img alt="Grgich Hills Winery off Route 29" src="../img/140118-napa-valley-pictures/grgich-hills.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Grgich Hills sign at the entrance to the winery, off Route 29.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Wine barrels at Grgich Hills Winery" src="../img/140118-napa-valley-pictures/barrels.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Wine barrel stacks at Grgich Hills Winery.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Castle architecture at Chateau Montelena" src="../img/140118-napa-valley-pictures/castle.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Interesting architecture at Chateau Montelena&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Pond at Chateau Montelena winery." src="../img/140118-napa-valley-pictures/pond.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;A pond outside Chateau Montelena winery.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="A different view of the pond from behind some berry bushes" src="../img/140118-napa-valley-pictures/berries.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;A different view of the pond from behind some berry bushes.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="An amazing view from the front porch of Rombauer winery" src="../img/140118-napa-valley-pictures/napa.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;An amazing view from the front porch of Rombauer winery.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="Interesting flying horse statue outside Rombauer" src="../img/140118-napa-valley-pictures/flying-horse.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;Interesting flying horse statue outside Rombauer.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;img alt="The entrance view of Chimney Rock winery." src="../img/140118-napa-valley-pictures/chimney-rock.jpg" style="width: 100%;" /&gt;
+&lt;p&gt;The entrance to Chimney Rock winery off St Helena highway.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you liked these pictures you should check out my other photos from
+&lt;a class="reference external" href="/san-francisco-november-pictures.html"&gt;San Francisco&lt;/a&gt; in November as well
+as pictures from
+&lt;a class="reference external" href="/portland-oregon-pictures.html"&gt;Portland&lt;/a&gt; during my road trip.&lt;/p&gt;
+</summary></entry><entry><title>Max Richman, Statistician and Data Scientist at GeoPoll</title><link href="http://www.codingacrossamerica.com/max-richman-statistician-data-scientist-geopoll.html" rel="alternate"></link><updated>2013-11-15T00:00:00-05:00</updated><author><name>Matt Makai</name></author><id>tag:www.codingacrossamerica.com,2013-11-15:max-richman-statistician-data-scientist-geopoll.html</id><summary type="html">&lt;p&gt;Max Richman (&lt;a class="reference external" href="https://twitter.com/richmanmax"&gt;&amp;#64;richmanmax&lt;/a&gt;) is a
 statistician and data scientist currently working with GeoPoll in
 Washington, D.C. and volunteering for DataKind.&lt;/p&gt;
 &lt;img alt="Max Richman, Python and R data scientist" src="../img/131115-interview-max-richman/max-richman.jpg" style="width: 100%;" /&gt;
