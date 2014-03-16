@@ -45,7 +45,7 @@
               {% set num_startup_posts = 0 %}
               {% for article in articles %}
                 {% if num_startup_posts < 6 %}
-              <p>{% if article.post_type == 'startup' %}{% set num_startup_posts = num_startup_posts + 1 %}<a href="{{ article.slug }}.html">{{ article.title }}{% endif %}</a></p>
+              {% if article.post_type == 'startup' %}{% set num_startup_posts = num_startup_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/startups.html" role="button">All startups &raquo;</a></p>
@@ -55,7 +55,7 @@
               {% set num_interview_posts = 0 %}
               {% for article in articles %}
                 {% if num_interview_posts < 5 %}
-              <p>{% if article.post_type == 'interview' %}{% set num_interview_posts = num_interview_posts + 1 %}<a href="{{ article.slug }}.html">{{ article.title }}{% endif %}</a></p>
+              {% if article.post_type == 'interview' %}{% set num_interview_posts = num_interview_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/interviews.html" role="button">All interviews &raquo;</a></p>
@@ -65,7 +65,7 @@
               {% set num_picture_posts = 0 %}
               {% for article in articles %}
                 {% if num_picture_posts < 6 %}
-              <p>{% if article.category == 'picture-post' %}{% set num_picture_posts = num_picture_posts + 1 %}<a href="{{ article.slug }}.html">{{ article.title }}{% endif %}</a></p>
+              {% if article.category == 'picture-post' %}{% set num_picture_posts = num_picture_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/pictures.html" role="button">All pictures &raquo;</a></p>
@@ -77,7 +77,7 @@
               {% set num_coding_spots_posts  = 0 %}
               {% for article in articles %}
                 {% if num_coding_spots_posts < 6 %}
-              <p>{% if article.post_type == 'coding_spot' %}{% set num_coding_spots_posts = num_coding_spots_posts + 1 %}<a href="{{ article.slug }}.html">{{ article.title }}{% endif %}</a></p>
+              {% if article.post_type == 'coding_spot' %}{% set num_coding_spots_posts = num_coding_spots_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/coding-spots.html" role="button">All coding spots &raquo;</a></p>
@@ -87,7 +87,7 @@
               {% set num_tech_event_posts  = 0 %}
               {% for article in articles %}
                 {% if num_tech_event_posts < 6 %}
-              <p>{% if article.post_type == 'tech_event' %}{% set num_tech_event_posts = num_tech_event_posts + 1 %}<a href="{{ article.slug }}.html">{{ article.title }}{% endif %}</a></p>
+              {% if article.post_type == 'tech_event' %}{% set num_tech_event_posts = num_tech_event_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/tech-events.html" role="button">All tech events &raquo;</a></p>
@@ -97,7 +97,7 @@
               {% set num_opinion_posts  = 0 %}
               {% for article in articles %}
                 {% if num_opinion_posts < 5 %}
-              <p>{% if article.post_type == 'opinion' %}{% set num_opinion_posts = num_opinion_posts + 1 %}<a href="{{ article.slug }}.html">{{ article.title }}{% endif %}</a></p>
+              {% if article.post_type == 'opinion' %}{% set num_opinion_posts = num_opinion_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/opinions.html" role="button">All opinions &raquo;</a></p>
