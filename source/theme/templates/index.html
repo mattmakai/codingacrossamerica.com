@@ -107,5 +107,10 @@
 {% endblock %}
 
 {% block js_ready %}
-    $.stellar();
+    var ua = navigator.userAgent,
+      isMobileWebkit = /WebKit/.test(ua) && /Mobile/.test(ua);
+    /* only do parallax on non-mobile */
+    if(!isMobileWebkit) {
+        $.stellar();
+    }
 {% endblock %}

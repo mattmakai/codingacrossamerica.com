@@ -601,12 +601,18 @@
     <script src="/js/us-states.js"></script>
     <script src="/js/caa.js"></script>
         <script src="/js/stellar.js" type="text/javascript"></script>
+    <script src="/js/backstretch.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             if ($('#map-container').length > 0) {
                 drawCitiesMap();
             }
-                $.stellar();
+                var ua = navigator.userAgent,
+      isMobileWebkit = /WebKit/.test(ua) && /Mobile/.test(ua);
+    /* only do parallax on non-mobile */
+    if(!isMobileWebkit) {
+        $.stellar();
+    }
         });
     </script>
 </body>
