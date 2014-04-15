@@ -32,7 +32,7 @@ generational forces but instead by the weakening demand for unskilled labor.
 
 The argument is that software development will not suffer such a fate because
 developers perform highly skilled work that cannot be automated. Also, any 
-automation gains are qucikly swallowed by a corresponding increase in the 
+automation gains are quickly swallowed by a corresponding increase in the 
 complexity of systems attempting to be built. Put another way, software 
 development automation does not go towards building the same systems for 
 less money, it generally goes towards making new and existing systems with 
