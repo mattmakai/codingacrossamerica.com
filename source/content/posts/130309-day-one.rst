@@ -2,7 +2,7 @@ Day One
 =======
 
 :slug: day-one-coding-across-america
-:post_type: picture_post
+:post_type: pictures
 :category: picture-post
 :date: 2013-03-09
 

@@ -3,6 +3,8 @@
 {% block content %}
   {% if article.category == 'cities' %}
     {% include 'cities_list.html' %}
+  {% elif article.post_type == 'pictures' %}
+    {% include 'picture-post.html' %}
   {% elif article.category == 'pictures' %}
     {% include 'pictures.html' %}
   {% elif article.category == 'contact' %}
@@ -27,8 +29,6 @@
     {% include 'blog.html' %}
   {% elif article.category == 'post' %}
     {% include 'blog-post.html' %}
-  {% elif article.category == 'picture-post' %}
-    {% include 'picture-post.html' %}
   {% elif article %}
     {% include 'other.html' %}
   {% endif %}

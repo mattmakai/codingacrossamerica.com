@@ -3,7 +3,7 @@ NOEW IDEAcorps Pitch Challenge
 
 :date: 2013-03-22 11:00
 :category: post
-:post_type: tech-event
+:post_type: tech_event
 :slug: noew-ideacorps-pitch-challenge
 
 Eight MBA teams worked with local entrepreneurs during New Orleans 
@@ -53,14 +53,6 @@ Tulane University pitching eTax Credit Exchange.
 
 The revenue model is based on taking a percentage of each transaction that 
 takes place on the platform.
-
-.. image:: ../img/130322-ideapitch/full-tulane-team.jpg
-  :alt: The Tulane University team.
-  :width: 100%
-
-The Tulane University team, from left to right: 
-Gustavo Baptista, Kumar Doraijav, Adran Mendez, Heath Gardenhire, 
-David Bode, Erynn Bell, Conor Aucoin.
 
 ----
 

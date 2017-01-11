@@ -3,7 +3,7 @@ Napa Valley January Pictures
 
 :date: 2014-01-18
 :slug: napa-valley-january-pictures
-:category: picture-post
+:category: picture_post
 :post_type: pictures
 :author: Matt Makai
 

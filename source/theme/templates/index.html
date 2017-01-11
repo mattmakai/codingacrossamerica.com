@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block forkme %}
-    <a href="https://github.com/makaimc/codingacrossamerica.github.com" class="github">
+    <a href="https://github.com/mattmakai/codingacrossamerica.com" class="github">
         <img style="position: absolute; top: 0; right: 0; border: 0; z-index: 1000;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
     </a>
 {% endblock %}
@@ -22,7 +22,7 @@
                             <br/>
                             <br/>
                             I am now a 
-                            <a href="http://www.devangel.io/" style="color: #E12127; text-decoration: underline;">Twilio Developer Evangelist</a>
+                            <a href="https://www.twilio.com/blog/2014/02/introducing-developer-evangelist-matt-makai.html" style="color: #E12127; text-decoration: underline;">Twilio Developer Evangelist</a>
                             based in San Francisco, CA.
                         </h2>
                     </div>
@@ -64,7 +64,7 @@
               {% set num_picture_posts = 0 %}
               {% for article in articles %}
                 {% if num_picture_posts < 6 %}
-              {% if article.category == 'picture-post' %}{% set num_picture_posts = num_picture_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
+              {% if article.post_type == 'pictures' %}{% set num_picture_posts = num_picture_posts + 1 %}<p><a href="{{ article.slug }}.html">{{ article.title }}</a></p>{% endif %}
                 {% endif %}
               {% endfor %}
               <p><a class="btn btn-primary" href="/pictures.html" role="button">All pictures &raquo;</a></p>

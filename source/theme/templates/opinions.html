@@ -1,9 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
 <div class="container">
-<h2>All Opinion Posts</h2>
+<h2>Opinions</h2>
 <div class="row">
     <div class="col-md-8">
       {% for article in dates %}
-        {% if article.category == 'post' and article.post_type == 'opinion' %}
+        {% if article.post_type == 'opinion' %}
           <div class="blog-post">
             <h2><a href="{{ article.slug }}.html">{{ article.title }}</a></h2>
             {{ article.content|truncate(400, False) }} 
@@ -19,10 +22,11 @@
       <h3>All Opinion Posts</h3> 
       <ul class="post-list">
         {% for article in dates %}
-          {% if article.category == 'post' and article.post_type == 'opinion' %}
+          {% if article.post_type == 'opinion' %}
             <li><a href="{{ article.slug }}.html">{{ article.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
     </div>
 </div>
+{% endblock %}
