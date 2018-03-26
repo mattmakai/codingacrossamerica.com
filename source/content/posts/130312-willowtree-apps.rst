@@ -46,9 +46,9 @@ details.
 WillowTree Apps
 ---------------
 
-.. image:: ../img/130312-willowtree-apps/willowtree-apps-logo.png
+.. image:: ../img/130312-willowtree-apps/willowtree-logo.png
   :alt: WillowTree Apps logo
-  :width: 100%
+  :width: 50%
 
 ----
 
@@ -115,7 +115,7 @@ WillowTree Apps also runs a local tech meetup for mobile app designers and
 developers called `ChoMobile <http://www.meetup.com/cho-mobile/>`_ to foster
 tech relationships in Charlottesville.
 
-.. image:: ../img/130312-willowtree-apps/willowtree-apps-office.jpg
+.. image:: ../img/130312-willowtree-apps/willowtree-office.jpg
   :alt: WillowTree Apps' office
   :width: 100%
 
